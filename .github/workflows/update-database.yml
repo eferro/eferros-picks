@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: 3.8
       - name: Install Dependencies
-        run: pip install airtable-exporter
+        run: pip install airtable-export
       - name: Export Airtable Database
         run: |
           mkdir -p database
