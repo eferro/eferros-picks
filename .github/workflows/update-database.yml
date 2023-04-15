@@ -26,9 +26,9 @@ jobs:
           git config --global user.name "Eduardo Ferro"
           git config --global user.email "eferro@eferro.net"
           git add database/picks.db
-          git commit -m "Exported Airtable Database $(date +"%Y%m%d_%H%M%S")"
+          git commit -m "Exported Airtable Database"
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@@v0.6.0
         with:
           github_token: ${{ secrets.GH_ACTIONS_PAT }}
           branch: ${{ github.ref }}
