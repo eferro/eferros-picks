@@ -10,7 +10,10 @@ jobs:
       AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       GH_ACTIONS_PAT: ${{ secrets.GH_ACTIONS_PAT }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: true
       - name: Install Python
         uses: actions/setup-python@v2
         with:
@@ -30,5 +33,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GH_ACTIONS_PAT }}
+          ssh: true
           branch: ${{ github.ref }}
