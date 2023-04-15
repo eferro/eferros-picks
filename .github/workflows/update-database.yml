@@ -22,8 +22,9 @@ jobs:
           airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics
       - name: Commit updated Database
         run: |
-          git config --global user.name "Eduardo Ferro Aldama"
-          git config --global user.email "eduardo.ferro.aldama@gmail.com"
+          git config --global user.name "Eduardo Ferro"
+          git config --global user.email "eferro@eferro.net"
           git add database/picks.db
           git commit -m "Exported Airtable Database $(date +"%Y%m%d_%H%M%S")"
+	  git remote set-url origin https://${{ secrets.GH_ACTIONS_PAT }}@github.com/eferro/eferros-picks.git
           git push
