@@ -27,5 +27,11 @@ jobs:
           git config --global user.email "eferro@eferro.net"
           git add database/picks.db
           git commit -m "Exported Airtable Database $(date +"%Y%m%d_%H%M%S")"
+	  git remote -v
+	  git remote set-url origin https://eferro:${{ secrets.GH_ACTIONS_PAT }}@github.com/eferro/eferros-picks.git
+	  echo "Remote after changing URL:"
+	  git remote -v
           git remote set-url origin https://eferro:$GH_ACTIONS_PAT@github.com/eferro/eferros-picks.git
+	  echo "Remote after changing URL:"
+	  git remote -v
           git push
