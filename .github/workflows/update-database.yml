@@ -7,7 +7,8 @@ jobs:
   export:
     runs-on: ubuntu-latest
     env:
-      AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}    
+      AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
+      GH_ACTIONS_PAT: ${{ secrets.GH_ACTIONS_PAT }}
     steps:
       - uses: actions/checkout@v2
       - name: Install Python
@@ -26,5 +27,5 @@ jobs:
           git config --global user.email "eferro@eferro.net"
           git add database/picks.db
           git commit -m "Exported Airtable Database $(date +"%Y%m%d_%H%M%S")"
-          git remote set-url origin https://${{ secrets.GH_ACTIONS_PAT }}@github.com/eferro/eferros-picks.git
+          git remote set-url origin https://$GH_ACTIONS_PAT@github.com/eferro/eferros-picks.git
           git push
