@@ -18,8 +18,7 @@ jobs:
       - name: Export Airtable Database
         run: |
           mkdir -p database
-          airtable-exporter export --config config.yaml --output-dir database
-	  airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics
+          airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics
       - name: Commit updated Database
         run: |
           git config --global user.name "Eduardo Ferro"
