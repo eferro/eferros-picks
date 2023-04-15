@@ -29,15 +29,15 @@ jobs:
           git config --global user.name "Eduardo Ferro"
           git config --global user.email "eferro@eferro.net"
           git add database/picks.db
-          git add Resources.json
-          git add Resources.ndjson
-          git add Resources.yml
-          git add Speakers.json
-          git add Speakers.ndjson
-          git add Speakers.yml
-          git add Topics.json
-          git add Topics.ndjson
-          git add Topics.yml          
+          git add database/Resources.json
+          git add database/Resources.ndjson
+          git add database/Resources.yml
+          git add database/Speakers.json
+          git add database/Speakers.ndjson
+          git add database/Speakers.yml
+          git add database/Topics.json
+          git add database/Topics.ndjson
+          git add database/Topics.yml          
           git commit -m "Exported Airtable Database"
       - name: Push changes
         uses: ad-m/github-push-action@master
