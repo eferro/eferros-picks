@@ -1,0 +1,29 @@
+name: Update Database
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    env:
+      AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}    
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install Dependencies
+        run: pip install airtable-exporter
+      - name: Export Airtable Database
+        run: |
+          mkdir -p database
+          airtable-exporter export --config config.yaml --output-dir database
+	  airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics
+      - name: Commit updated Database
+        run: |
+          git config --global user.name "Eduardo Ferro"
+          git config --global user.email "eferro@eferro.net"
+          git add database/picks.db
+          git commit -m "Exported Airtable Database $(date +"%Y%m%d_%H%M%S")"
+          git push
