@@ -23,12 +23,21 @@ jobs:
       - name: Export Airtable Database
         run: |
           mkdir -p database
-          airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics
+          airtable-export database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics --json --ndjson --yaml  
       - name: Commit updated Database
         run: |
           git config --global user.name "Eduardo Ferro"
           git config --global user.email "eferro@eferro.net"
           git add database/picks.db
+          git add Resources.json
+          git add Resources.ndjson
+          git add Resources.yml
+          git add Speakers.json
+          git add Speakers.ndjson
+          git add Speakers.yml
+          git add Topics.json
+          git add Topics.ndjson
+          git add Topics.yml          
           git commit -m "Exported Airtable Database"
       - name: Push changes
         uses: ad-m/github-push-action@master
