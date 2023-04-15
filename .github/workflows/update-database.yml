@@ -28,7 +28,7 @@ jobs:
           git add database/picks.db
           git commit -m "Exported Airtable Database"
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GH_ACTIONS_PAT }}
           branch: ${{ github.ref }}
