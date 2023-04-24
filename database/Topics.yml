@@ -67,7 +67,7 @@
   - Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
-- Last Modified: '2023-01-08T17:43:31.000Z'
+- Last Modified: '2023-04-23T18:22:39.000Z'
   Name: Platform as a product
   Resources:
   - recB1sUzKv0w60CcT
@@ -104,7 +104,8 @@
   - reclzgoa7vW7uVJgW
   - rechbEi0S7vX0LS7D
   - recyQDYTRQVvgVB3Z
-  Resources number: 34
+  - reckPa3VBTaIyyNNe
+  Resources number: 35
   Speakers:
   - How Stripe Invests in Technical Infrastructure - https://www.youtube.com/watch?v=rYzmXLhIaHQ
   - Minimum Viable Product for Platforms - https://www.youtube.com/watch?v=A9wx91rVTms
@@ -147,6 +148,7 @@
   - How to scale platforms in high-growth companies? - https://www.youtube.com/watch?v=5iLJ2MjK40o
   - Tips For Building Successful Platform Teams - https://www.youtube.com/watch?v=_zH7TIXcjEs
   - How much to invest in platform work - https://getdx.com/podcast/27
+  - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   airtable_createdTime: '2020-09-06T08:38:30.000Z'
   airtable_id: rec1Q788ERcApi2h5
 - Last Modified: '2022-12-08T20:12:17.000Z'
@@ -287,7 +289,7 @@
   - 'Backstage: Restoring Order To Your Chaos - https://www.youtube.com/watch?v=AlQYP88N3Og'
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-02-19T20:58:06.000Z'
+- Last Modified: '2023-04-23T18:27:58.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -389,7 +391,10 @@
   - recuhSHXcIgo9xJHc
   - recWUWqSES4nBFQE6
   - recWsPImFvQo51sT0
-  Resources number: 99
+  - recdLJvVSnFgDDGV9
+  - recKLS8QeOawn7JwY
+  - rec4DPUKuiDGOr4of
+  Resources number: 102
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -496,6 +501,10 @@
   - Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg
   - The Well-Balanced Programmer - https://www.youtube.com/watch?v=XhN6fJYG81A
   - Systems Thinking for Developers - https://www.youtube.com/watch?v=xcQVgYzlj8k
+  - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
+    Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -881,7 +890,7 @@
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2023-02-19T21:05:41.000Z'
+- Last Modified: '2023-04-23T18:19:27.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -985,7 +994,8 @@
   - recRjMDkb2xgyznOJ
   - recNoRdbv0UyVegAj
   - rechnBVbwP7XyJUqp
-  Resources number: 101
+  - rec6VZ5qk8zuAsbvk
+  Resources number: 102
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1093,8 +1103,18 @@
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
   - Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
+  - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
+- Last Modified: '2023-04-23T18:27:48.000Z'
+  Name: Craftmanship
+  Resources:
+  - rec4DPUKuiDGOr4of
+  Resources number: 1
+  Speakers:
+  - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
+  airtable_createdTime: '2023-04-23T18:27:48.000Z'
+  airtable_id: recG2ZvgldoblvB4l
 - Last Modified: '2023-01-08T17:43:28.000Z'
   Name: Platform teams
   Resources:
@@ -1153,7 +1173,7 @@
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   airtable_createdTime: '2021-06-30T06:31:17.000Z'
   airtable_id: recLS0zTJxflAcqBu
-- Last Modified: '2023-03-24T15:40:59.000Z'
+- Last Modified: '2023-04-23T18:18:05.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1188,7 +1208,8 @@
   - recdu8wYujkNqKSGb
   - rec5LT5PqgFMp2cTS
   - recp5VZGEHjnR5CHd
-  Resources number: 32
+  - recerQytV322uGb6q
+  Resources number: 33
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1224,6 +1245,7 @@
   - Agile at Tesla with Joe Justice Agile Munich - https://www.youtube.com/watch?v=EwtRJDRcXsY
   - Meals Per Hour - https://www.youtube.com/watch?v=EedMmMedj3M
   - The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0
+  - High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2023-01-28T19:03:07.000Z'
@@ -1253,7 +1275,7 @@
   - Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPDGLhpXxkxbDoU
-- Last Modified: '2023-01-28T19:19:49.000Z'
+- Last Modified: '2023-04-23T18:19:35.000Z'
   Name: testing
   Resources:
   - recIFakmXTw6GmZlH
@@ -1282,7 +1304,8 @@
   - recRjMDkb2xgyznOJ
   - recmxMzHk07eCaRVF
   - recNoRdbv0UyVegAj
-  Resources number: 26
+  - rec6VZ5qk8zuAsbvk
+  Resources number: 27
   Speakers:
   - How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU
   - 'Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/'
@@ -1311,9 +1334,10 @@
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
   - 'Oredev 2011: Sleeping with the enemy - https://www.youtube.com/watch?v=hIMwTzAAQ-w'
   - Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94
+  - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
-- Last Modified: '2023-02-19T21:01:01.000Z'
+- Last Modified: '2023-04-23T18:22:43.000Z'
   Name: Devops
   Resources:
   - recOeXIOfuU3plaew
@@ -1373,7 +1397,8 @@
   - rec3kcsAi7KgeUv5c
   - recfIsVSljeY16cC9
   - recRBbOu0Yb1BMpo9
-  Resources number: 57
+  - reckPa3VBTaIyyNNe
+  Resources number: 58
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -1441,6 +1466,7 @@
   - 'Agile Book Club: Continuous Deployment (with Kelsey Hightower) - https://www.youtube.com/watch?v=ZpB6BXQLPm8'
   - You Build It, YOU Run It!' For Continuous Delivery - https://www.youtube.com/watch?v=eBO-41vMg54
   - 'Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/'
+  - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
 - Last Modified: '2022-12-06T20:50:04.000Z'
@@ -1727,7 +1753,7 @@
   - "Day Two Cloud 111: Infrastructure As Software With Kris N\xF3va - https://packetpushers.net/podcast/day-two-cloud-111/"
   airtable_createdTime: '2020-05-17T13:51:26.000Z'
   airtable_id: recTPLZxKhIsbbwEW
-- Last Modified: '2022-08-15T15:26:23.000Z'
+- Last Modified: '2023-04-23T18:12:02.000Z'
   Name: leadership
   Resources:
   - rec9EZic34Ot174h3
@@ -1737,7 +1763,8 @@
   - recwznqIb6ycqXb6u
   - recRtAWnx4lTVvYUO
   - rec4grFdhA7wAX8Wy
-  Resources number: 7
+  - recKLS8QeOawn7JwY
+  Resources number: 8
   Speakers:
   - The Principles and Practices behind Team of Teams - https://itrevolution.com/the-idealcast-episode-11/
   - "GOTO 2020 \u2022 Talking With Tech Leads - https://www.youtube.com/watch?v=F81W-JcRgXM"
@@ -1746,6 +1773,7 @@
   - 'Industry Keynote: The DevOps Transformation - https://www.youtube.com/watch?v=Y4H8dW7Ium8'
   - Lunch & Learn How to Misuse DORA DevOps Metrics - https://www.youtube.com/watch?v=0vi7XW15UIg
   - Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   airtable_createdTime: '2021-01-30T20:34:05.000Z'
   airtable_id: recUP8TZ3O1cNiioY
 - Last Modified: '2022-12-06T21:12:28.000Z'
@@ -2088,17 +2116,19 @@
   - Typical JavaScript interview exercises (explained) - https://dev.to/maxpou/typical-javascript-interview-exercises-explained
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recXnoO9sU10TZfCj
-- Last Modified: '2021-03-21T09:08:29.000Z'
+- Last Modified: '2023-04-23T18:18:10.000Z'
   Name: WIP
   Resources:
   - recYRu7BJLsggK3xT
   - recROSkaWuMOkJEi3
   - recomFIM8h16kGME1
-  Resources number: 3
+  - recerQytV322uGb6q
+  Resources number: 4
   Speakers:
   - 'Henrik Kniberg : Multiple WIP vs One Piece Flow Example - https://www.youtube.com/watch?v=Yqi9Gwt-OEA'
   - The resource utilization trap - https://www.youtube.com/watch?v=CostXs2p6r0
   - 'Jason Yip : Stop starting and start finishing - https://www.youtube.com/watch?v=FOLDDe4ARRs'
+  - High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU
   airtable_createdTime: '2021-03-14T07:15:03.000Z'
   airtable_id: recY6zZikaaqsHrEX
 - Last Modified: '2022-10-09T22:01:24.000Z'
@@ -2150,7 +2180,7 @@
   - How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2023-03-06T10:51:22.000Z'
+- Last Modified: '2023-04-23T18:27:53.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2213,7 +2243,9 @@
   - recjRAqvFByDOS2Wk
   - recRjMDkb2xgyznOJ
   - recNoRdbv0UyVegAj
-  Resources number: 60
+  - recdLJvVSnFgDDGV9
+  - rec4DPUKuiDGOr4of
+  Resources number: 62
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2281,6 +2313,9 @@
   - '"Unembedding" embedded systems with TDD: benefits of going beyond the make-it-work
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
   - Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94
+  - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
+    Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
+  - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2022-11-20T09:31:14.000Z'
@@ -2303,7 +2338,7 @@
   - Consultoria Honesta - https://www.youtube.com/watch?v=cey1PowGQDM
   airtable_createdTime: '2021-08-12T13:09:11.000Z'
   airtable_id: recbOKFMKAE1vKVqj
-- Last Modified: '2023-01-08T17:43:26.000Z'
+- Last Modified: '2023-04-23T18:22:37.000Z'
   Name: Platform
   Resources:
   - rec01w77iA2Rv594l
@@ -2343,7 +2378,8 @@
   - reclzgoa7vW7uVJgW
   - rechbEi0S7vX0LS7D
   - recyQDYTRQVvgVB3Z
-  Resources number: 37
+  - reckPa3VBTaIyyNNe
+  Resources number: 38
   Speakers:
   - 'Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/'
   - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
@@ -2389,6 +2425,7 @@
   - How to scale platforms in high-growth companies? - https://www.youtube.com/watch?v=5iLJ2MjK40o
   - Tips For Building Successful Platform Teams - https://www.youtube.com/watch?v=_zH7TIXcjEs
   - How much to invest in platform work - https://getdx.com/podcast/27
+  - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   airtable_createdTime: '2020-05-17T13:51:15.000Z'
   airtable_id: recbWs6dTsdPwfWnm
 - Last Modified: '2021-08-12T13:50:39.000Z'
@@ -2427,7 +2464,7 @@
   - Why Everyone Builds Internal Kubernetes Platforms - https://itnext.io/why-everyone-builds-internal-kubernetes-platforms-284c2cf76226
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recfCstv3TFsotZ9q
-- Last Modified: '2023-01-28T19:43:30.000Z'
+- Last Modified: '2023-04-23T18:11:47.000Z'
   Name: Product
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2498,7 +2535,8 @@
   - recQGfbwsNl5WtAws
   - reca2iEa1F1UDJOX4
   - recuhSHXcIgo9xJHc
-  Resources number: 68
+  - recKLS8QeOawn7JwY
+  Resources number: 69
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc
@@ -2576,6 +2614,7 @@
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   - Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recg6F5ajOhEkbrdW
 - Last Modified: '2020-05-23T08:45:14.000Z'
@@ -2795,7 +2834,7 @@
   - Seven shipping principles - https://changelog.com/shipit/77
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2023-03-06T10:51:22.000Z'
+- Last Modified: '2023-04-23T18:10:05.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2898,7 +2937,8 @@
   - recZ2WTqH0gFTolwQ
   - recJQ6cyJaPhW0dGq
   - recRjMDkb2xgyznOJ
-  Resources number: 100
+  - recdLJvVSnFgDDGV9
+  Resources number: 101
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3010,6 +3050,8 @@
   - 'Agile Book Club: Evolutionary Design (with Kent Beck) - https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design'
   - '"Unembedding" embedded systems with TDD: benefits of going beyond the make-it-work
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
+  - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
+    Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2022-12-06T21:16:02.000Z'
@@ -3299,7 +3341,7 @@
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
-- Last Modified: '2023-01-28T19:36:23.000Z'
+- Last Modified: '2023-04-23T18:19:29.000Z'
   Name: Software Design
   Resources:
   - reczOXoBpcxfVfN2x
@@ -3349,7 +3391,8 @@
   - recV0aPgSdTeSObb0
   - recrvswiXD8sPCVkv
   - rec8kuyWkDjOJhQ9k
-  Resources number: 47
+  - rec6VZ5qk8zuAsbvk
+  Resources number: 48
   Speakers:
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
@@ -3405,6 +3448,7 @@
   - The Most Common Test Driven Development Mistakes - https://www.youtube.com/watch?v=SQUI9Ixb790
   - Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs
   - Critical Program Reading (1975) - 16mm Film - https://www.youtube.com/watch?v=7hdJQkn8rtA
+  - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm3GCPgEVSDmeVI
 - Last Modified: '2022-12-11T19:48:39.000Z'
@@ -3444,15 +3488,17 @@
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
   airtable_createdTime: '2021-07-25T17:08:12.000Z'
   airtable_id: recmPbBNpUB7Q5XyX
-- Last Modified: '2022-06-26T15:49:24.000Z'
+- Last Modified: '2023-04-23T18:34:37.000Z'
   Name: AI
   Resources:
   - recfwzidrRnl6Ut5j
   - rec1OjPEfpTWlaDDP
-  Resources number: 2
+  - rec6PC7Ml4HLNxjnJ
+  Resources number: 3
   Speakers:
   - The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw
   - Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4
+  - ' - https://www.youtube.com/watch?v=Sqa8Zo2XWc4'
   airtable_createdTime: '2021-08-14T07:25:39.000Z'
   airtable_id: recmuONwokRtPS6Tp
 - Last Modified: '2022-12-06T20:50:01.000Z'
@@ -3487,6 +3533,15 @@
     \ J.B. Rainsberger) - https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development"
   airtable_createdTime: '2020-06-14T11:21:28.000Z'
   airtable_id: recnvzS3XS3MGHk3e
+- Last Modified: '2023-04-23T18:12:16.000Z'
+  Name: Product Leadership
+  Resources:
+  - recKLS8QeOawn7JwY
+  Resources number: 1
+  Speakers:
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  airtable_createdTime: '2023-04-23T18:12:16.000Z'
+  airtable_id: recplrWe03uLQY5MN
 - Last Modified: '2023-02-19T20:44:29.000Z'
   Name: DDD
   Resources:
@@ -3534,7 +3589,7 @@
   - Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recqVF0vISal0hi8E
-- Last Modified: '2022-10-16T16:48:14.000Z'
+- Last Modified: '2023-04-23T18:11:57.000Z'
   Name: Product Team
   Resources:
   - recNuR7PNPTKDGUJb
@@ -3550,7 +3605,8 @@
   - recB2oyZ2tUNnyMrt
   - recafrPZUnygCGxiz
   - recBervSRt0ntmH2V
-  Resources number: 13
+  - recKLS8QeOawn7JwY
+  Resources number: 14
   Speakers:
   - Reboot Your Team - https://www.mindtheproduct.com/reboot-your-team-by-christina-wodtke/
   - How To Build Big Software With Small Agile Teams - https://www.youtube.com/watch?v=cpVLzcjCB-s
@@ -3566,9 +3622,10 @@
   - 50 Tips for Outcome-driven Teams - https://www.tability.io/outcome-driven
   - The Root Causes of Product Failure - https://www.youtube.com/watch?v=9dccd8lihpQ
   - The nature of product - https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   airtable_createdTime: '2020-11-09T09:07:28.000Z'
   airtable_id: recqe6nJcnKjqXdps
-- Last Modified: '2022-11-06T19:22:53.000Z'
+- Last Modified: '2023-04-23T18:11:52.000Z'
   Name: Product Discovery
   Resources:
   - recBfVsYe3o327PKD
@@ -3588,7 +3645,8 @@
   - recit6V6ikU8mDXXT
   - recoRY63Ih9eboaTI
   - recQGfbwsNl5WtAws
-  Resources number: 17
+  - recKLS8QeOawn7JwY
+  Resources number: 18
   Speakers:
   - 'The Marty Cagan special - ProductTank #27 Singapore - https://www.youtube.com/watch?v=idMN-YwiYOs'
   - "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data - https://www.youtube.com/watch?v=f8XDvtfKWQE"
@@ -3609,6 +3667,7 @@
   - Nordstrom Innovation Lab - https://www.youtube.com/watch?v=2NFH3VC6LNs
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
+  - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   airtable_createdTime: '2020-06-14T11:13:46.000Z'
   airtable_id: recrNBL2FKBzgsQTs
 - Last Modified: '2022-09-18T21:56:23.000Z'
@@ -3746,6 +3805,15 @@
   - Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recu0ogH2eAbuoS2q
+- Last Modified: '2023-04-23T18:22:56.000Z'
+  Name: Platform engineering
+  Resources:
+  - reckPa3VBTaIyyNNe
+  Resources number: 1
+  Speakers:
+  - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
+  airtable_createdTime: '2023-04-23T18:22:56.000Z'
+  airtable_id: recuR2w480ko3dSKR
 - Last Modified: '2021-10-24T22:30:16.000Z'
   Name: professionalism
   Resources:

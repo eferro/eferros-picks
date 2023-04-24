@@ -1555,6 +1555,35 @@
         "registered_at": "2021-08-12T13:07:59.000Z"
     },
     {
+        "Created": "2023-04-23T18:25:15.000Z",
+        "Description": "Interesting interview with Mashooq Badar, one of the founders of the craftmanship software movement in London.\n",
+        "Duration": 1860,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:28:03.000Z",
+        "Less 15": 0,
+        "Name": "Software Craftsmanship al descubierto con Mashooq Badar",
+        "Name (from Speakers)": [
+            "Mashooq Badar"
+        ],
+        "Resource": "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recbbWSoyGFukOcaY"
+        ],
+        "Tags": [
+            "recG2ZvgldoblvB4l",
+            "recYkFYw6BSRfA0Ce",
+            "rec6JMQpL2LSjoP2E"
+        ],
+        "Url": "https://www.youtube.com/watch?v=rkJNflZ9S5E",
+        "airtable_createdTime": "2023-04-23T18:25:15.000Z",
+        "airtable_id": "rec4DPUKuiDGOr4of",
+        "registered_at": "2023-04-23T18:25:15.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-ii.html",
         "Created": "2021-09-05T16:01:14.000Z",
         "Description": "Interesting documentary on the impact on supply chains of the pandemic and how in many cases trying to use (without following the principles) lean ideas has generated fragility and lack of adaptability.\n",
@@ -2484,6 +2513,32 @@
         "registered_at": "2022-10-09T09:29:08.000Z"
     },
     {
+        "Created": "2023-04-23T18:28:48.000Z",
+        "Description": "Funny report on the state of artificial intelligence. Presentation for all audiences. Not technical.\n",
+        "Duration": 1620,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:38:28.000Z",
+        "Less 15": 0,
+        "Name (from Speakers)": [
+            "John Oliver"
+        ],
+        "Resource": " - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
+        "Resource type": "video",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recaGmzme3vSKNThK"
+        ],
+        "Tags": [
+            "recmuONwokRtPS6Tp"
+        ],
+        "Url": "https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
+        "airtable_createdTime": "2023-04-23T18:28:48.000Z",
+        "airtable_id": "rec6PC7Ml4HLNxjnJ",
+        "registered_at": "2023-04-23T18:28:48.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:24.000Z",
         "Language": "English",
         "Last Modified": "2021-08-14T19:38:26.000Z",
@@ -2532,6 +2587,35 @@
         "airtable_createdTime": "2021-08-12T13:07:59.000Z",
         "airtable_id": "rec6UBiMcDqFQuJog",
         "registered_at": "2021-08-12T13:07:59.000Z"
+    },
+    {
+        "Created": "2023-04-23T18:17:31.000Z",
+        "Description": "In this episode Dave explains the dangers of mocking third party code, whose evolution and change we have no control over.\n",
+        "Duration": 71700,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:19:35.000Z",
+        "Less 15": 0,
+        "Name": "Don't Mock 3rd Party Code",
+        "Name (from Speakers)": [
+            "Dave Farley"
+        ],
+        "Resource": "Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Tags": [
+            "recFbzSbd07ttDIYJ",
+            "recm3GCPgEVSDmeVI",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Url": "https://www.youtube.com/watch?v=v6hP2MXoVrI",
+        "airtable_createdTime": "2023-04-23T18:17:31.000Z",
+        "airtable_id": "rec6VZ5qk8zuAsbvk",
+        "registered_at": "2023-04-23T18:17:31.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2021/01/good-talkspodcasts-jan-2021-i.html",
@@ -8203,6 +8287,39 @@
         "airtable_createdTime": "2020-01-19T20:40:51.000Z",
         "airtable_id": "recKAp6JHZZDlKe95",
         "registered_at": "2020-01-19T20:40:51.000Z"
+    },
+    {
+        "Created": "2023-04-23T18:10:49.000Z",
+        "Description": "A great presentation on skilled product teams and leading product organizations. The questions at the end are also very interesting.\n",
+        "Duration": 4860,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:13:32.000Z",
+        "Less 15": 0,
+        "Name": "Master Class with Marty Cagan",
+        "Name (from Speakers)": [
+            "Marty Cagan"
+        ],
+        "Rating": 5,
+        "Resource": "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "reczrumy9DkB51MFk"
+        ],
+        "Tags": [
+            "recg6F5ajOhEkbrdW",
+            "recrNBL2FKBzgsQTs",
+            "recqe6nJcnKjqXdps",
+            "rec6JMQpL2LSjoP2E",
+            "recUP8TZ3O1cNiioY",
+            "recplrWe03uLQY5MN"
+        ],
+        "Url": "https://www.youtube.com/watch?v=mcnxxdzC2fY",
+        "airtable_createdTime": "2023-04-23T18:10:49.000Z",
+        "airtable_id": "recKLS8QeOawn7JwY",
+        "registered_at": "2023-04-23T18:10:49.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2017/08/good-talkspodcasts-purging-queue-ii.html",
@@ -15593,6 +15710,39 @@
         "registered_at": "2020-01-19T20:32:20.000Z"
     },
     {
+        "Created": "2023-04-23T18:08:24.000Z",
+        "Description": "In this episode of the Engineering Room, Dave Farley and Kent Beck have a wide-ranging discussion about the return of waterfall development in software, TDD, Software Design and lots of other things along the way.\n",
+        "Duration": 4020,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:10:23.000Z",
+        "Less 15": 0,
+        "Name": "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16",
+        "Name (from Speakers)": [
+            "Kent Beck",
+            "Dave Farley"
+        ],
+        "Rating": 4,
+        "Resource": "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "rechBhL1vENLzvUi6",
+            "recTA39Jo1ozZG61R"
+        ],
+        "Tags": [
+            "rechj5WeSQRH211np",
+            "recYkFYw6BSRfA0Ce",
+            "rec6JMQpL2LSjoP2E"
+        ],
+        "Url": "https://www.youtube.com/watch?v=guycIP56YeY",
+        "airtable_createdTime": "2023-04-23T18:08:24.000Z",
+        "airtable_id": "recdLJvVSnFgDDGV9",
+        "registered_at": "2023-04-23T18:08:24.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-i.html",
         "Created": "2021-08-14T20:25:44.000Z",
         "Description": "In this episode, Dave Farley explores how we can move fast with high quality and how one reinforces the other. Speed and quality are both hallmarks of a Continuous Delivery approach and best practices for building great software.\n",
@@ -16345,6 +16495,35 @@
         "airtable_createdTime": "2020-01-19T20:40:03.000Z",
         "airtable_id": "recehxlAC5CHRMob5",
         "registered_at": "2020-01-19T20:40:03.000Z"
+    },
+    {
+        "Created": "2023-04-23T18:14:54.000Z",
+        "Description": "Great explanation about the harmful impact of having high work in progress.\n",
+        "Duration": 31020,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:18:10.000Z",
+        "Less 15": 0,
+        "Name": "High WIP, multi-tasking, etc.",
+        "Name (from Speakers)": [
+            "John Cutler"
+        ],
+        "Rating": 5,
+        "Resource": "High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recoW3L9pfK46XHBd"
+        ],
+        "Tags": [
+            "recO11XlolI72a1fV",
+            "recY6zZikaaqsHrEX"
+        ],
+        "Url": "https://www.youtube.com/watch?v=3MxAUurD9gU",
+        "airtable_createdTime": "2023-04-23T18:14:54.000Z",
+        "airtable_id": "recerQytV322uGb6q",
+        "registered_at": "2023-04-23T18:14:54.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2019/04/index.html",
@@ -18817,6 +18996,48 @@
         "airtable_createdTime": "2020-01-19T20:37:55.000Z",
         "airtable_id": "reckLawWsxbuzINB2",
         "registered_at": "2020-01-19T20:37:55.000Z"
+    },
+    {
+        "Created": "2023-04-23T18:20:38.000Z",
+        "Description": "Interesting discussion about Platform Engineering.\n\n",
+        "Duration": 2220,
+        "Language": "English",
+        "Last Modified": "2023-04-23T18:30:14.000Z",
+        "Less 15": 0,
+        "Name": "The Future of Platform Engineering",
+        "Name (from Speakers)": [
+            "Kaspar von Gr\u00fcnberg",
+            "Ben Ford",
+            "Nigel Kersten",
+            "Fatih Degirmenci",
+            "Ronan Keenan"
+        ],
+        "Resource": "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering",
+        "Resource type": "panel",
+        "Speaker WomenInTech": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "Speakers": [
+            "recP1OEcAcaXroCpa",
+            "recsWt6ItWfzd4gwk",
+            "reckA1aw3IQYf302m",
+            "recqyXCNr0v2Xrk4i",
+            "rec0RbICLfiZxwMbi"
+        ],
+        "Tags": [
+            "recbWs6dTsdPwfWnm",
+            "rec1Q788ERcApi2h5",
+            "recPoM7t8neA7gkZ5",
+            "recuR2w480ko3dSKR"
+        ],
+        "Url": "https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering",
+        "airtable_createdTime": "2023-04-23T18:20:38.000Z",
+        "airtable_id": "reckPa3VBTaIyyNNe",
+        "registered_at": "2023-04-23T18:20:38.000Z"
     },
     {
         "Created": "2021-08-12T13:07:59.000Z",

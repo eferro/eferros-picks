@@ -13,6 +13,19 @@
         "airtable_id": "rec0HoKTBPHimfzfu"
     },
     {
+        "Last Modified": "2023-04-23T18:22:07.000Z",
+        "Name": "Ronan Keenan",
+        "Resources": [
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "reckPa3VBTaIyyNNe"
+        ],
+        "airtable_createdTime": "2023-04-23T18:22:07.000Z",
+        "airtable_id": "rec0RbICLfiZxwMbi"
+    },
+    {
         "Last Modified": "2022-09-18T21:52:48.000Z",
         "Name": "Charity Majors",
         "Resources": [
@@ -2760,6 +2773,19 @@
         "airtable_id": "recOz2KW3DnrDv26L"
     },
     {
+        "Last Modified": "2023-04-23T18:21:33.000Z",
+        "Name": "Kaspar von Gr\u00fcnberg",
+        "Resources": [
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "reckPa3VBTaIyyNNe"
+        ],
+        "airtable_createdTime": "2023-04-23T18:21:33.000Z",
+        "airtable_id": "recP1OEcAcaXroCpa"
+    },
+    {
         "Last Modified": "2020-01-20T22:41:12.000Z",
         "Name": "Simon Sinek",
         "Resources": [
@@ -3191,7 +3217,7 @@
         "airtable_id": "recSzQRG8VGQNBqIQ"
     },
     {
-        "Last Modified": "2023-02-19T21:04:34.000Z",
+        "Last Modified": "2023-04-23T18:17:54.000Z",
         "Name": "Dave Farley",
         "Resources": [
             "What good looks like - https://www.youtube.com/watch?v=WVTxTo06Mwk",
@@ -3243,9 +3269,11 @@
             "Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM",
             "You Build It, YOU Run It!' For Continuous Delivery - https://www.youtube.com/watch?v=eBO-41vMg54",
             "You Don\u2019t Need CODE OWNERSHIP - https://youtu.be/UwC7nIuiqEw",
-            "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo"
+            "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
+            "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
+            "Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI"
         ],
-        "Resources number": 50,
+        "Resources number": 52,
         "Resources2": [
             "recdZt5nq1JImaUDu",
             "rec2q5G6S32fDMvSv",
@@ -3296,7 +3324,9 @@
             "reci6hmP68Wu5dCl2",
             "recfIsVSljeY16cC9",
             "recuCBrk3kcf3ZRh1",
-            "rechnBVbwP7XyJUqp"
+            "rechnBVbwP7XyJUqp",
+            "recdLJvVSnFgDDGV9",
+            "rec6VZ5qk8zuAsbvk"
         ],
         "Twitter": "https://twitter.com/davefarley77",
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
@@ -4348,6 +4378,19 @@
         "airtable_id": "reca0fvijfEmd8i8w"
     },
     {
+        "Last Modified": "2023-04-23T18:30:31.000Z",
+        "Name": "John Oliver",
+        "Resources": [
+            " - https://www.youtube.com/watch?v=Sqa8Zo2XWc4"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "rec6PC7Ml4HLNxjnJ"
+        ],
+        "airtable_createdTime": "2023-04-23T18:30:31.000Z",
+        "airtable_id": "recaGmzme3vSKNThK"
+    },
+    {
         "Last Modified": "2022-03-13T19:29:02.000Z",
         "Name": "Emily Nakashima",
         "Resources": [
@@ -4454,6 +4497,19 @@
         ],
         "airtable_createdTime": "2022-10-09T09:31:14.000Z",
         "airtable_id": "recbWb6wLPB5OUj0n"
+    },
+    {
+        "Last Modified": "2023-04-23T18:26:19.000Z",
+        "Name": "Mashooq Badar",
+        "Resources": [
+            "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "rec4DPUKuiDGOr4of"
+        ],
+        "airtable_createdTime": "2023-04-23T18:26:19.000Z",
+        "airtable_id": "recbbWSoyGFukOcaY"
     },
     {
         "Last Modified": "2020-05-17T14:09:41.000Z",
@@ -5306,7 +5362,7 @@
         "airtable_id": "rech2bt9qtqStowwC"
     },
     {
-        "Last Modified": "2022-11-05T13:03:14.000Z",
+        "Last Modified": "2023-04-23T18:08:52.000Z",
         "Name": "Kent Beck",
         "Resources": [
             "#23 Leaving Facebook \u2013 with Kent Beck - http://www.firsthuman.com/podcast/23-leaving-facebook-with-kent-beck/",
@@ -5330,9 +5386,10 @@
             "Kent Beck\u2019s Product Development Triathlon - https://andela.com/blog/kent-becks-product-development-triathlon/",
             "Keynote: Systems Thinking - https://www.youtube.com/watch?v=z8bL_V9in9o",
             "Code for Ukraine #2: Tidy First? Daily Empirical Software Design & Why It Works - https://www.youtube.com/watch?v=VrkRAVX1h4I",
-            "Agile Book Club: Evolutionary Design (with Kent Beck) - https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design"
+            "Agile Book Club: Evolutionary Design (with Kent Beck) - https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design",
+            "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY"
         ],
-        "Resources number": 22,
+        "Resources number": 23,
         "Resources2": [
             "recr8YgSEnZaZTYLJ",
             "rec7MZ8xz4AKYUSJ5",
@@ -5355,7 +5412,8 @@
             "recWNkDna2tRK9JNv",
             "reciO4dUwR51qT9qp",
             "recfMTIUpBbEYLUth",
-            "recJQ6cyJaPhW0dGq"
+            "recJQ6cyJaPhW0dGq",
+            "recdLJvVSnFgDDGV9"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "rechBhL1vENLzvUi6"
@@ -5809,14 +5867,16 @@
         "airtable_id": "reck2BUepvCebEEHp"
     },
     {
-        "Last Modified": "2020-01-20T22:41:12.000Z",
+        "Last Modified": "2023-04-23T18:21:48.000Z",
         "Name": "Nigel Kersten",
         "Resources": [
-            "DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE"
+            "DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE",
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Resources2": [
-            "recBR96pE4GvW4b8m"
+            "recBR96pE4GvW4b8m",
+            "reckPa3VBTaIyyNNe"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "reckA1aw3IQYf302m"
@@ -6311,7 +6371,7 @@
         "airtable_id": "recoD4KzfiT16SY23"
     },
     {
-        "Last Modified": "2021-12-07T12:25:01.000Z",
+        "Last Modified": "2023-04-23T18:15:17.000Z",
         "Name": "John Cutler",
         "Resources": [
             "The Beautiful Mess - https://www.mindtheproduct.com/the-beautiful-mess-by-john-cutler/",
@@ -6323,9 +6383,10 @@
             "The Product-Led Journey - https://www.youtube.com/watch?v=E2x9_v00qVc",
             "Some MVP and Experiment Tips - https://cutle.fish/blog/mvp-and-experiment-tips",
             "Faster. Faster.\u00a0Faster. - https://hackernoon.com/faster-faster-faster-231c7b3d088d",
-            "TBM 49/52: Your Calendar = Your Priorities - https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities"
+            "TBM 49/52: Your Calendar = Your Priorities - https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities",
+            "High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU"
         ],
-        "Resources number": 10,
+        "Resources number": 11,
         "Resources2": [
             "rec2OjotXEUQMg9Nc",
             "recEKkIZldl9R5iza",
@@ -6336,7 +6397,8 @@
             "recjRW6ndxYCQN5hY",
             "recxlJuXqATQeMLdH",
             "recnw0ZNLWevyiiD1",
-            "rec5dIq2rvF7Pw0pk"
+            "rec5dIq2rvF7Pw0pk",
+            "recerQytV322uGb6q"
         ],
         "airtable_createdTime": "2020-03-14T23:31:28.000Z",
         "airtable_id": "recoW3L9pfK46XHBd"
@@ -6612,6 +6674,19 @@
         "airtable_id": "recqxthtQUJ1tiGno"
     },
     {
+        "Last Modified": "2023-04-23T18:21:57.000Z",
+        "Name": "Fatih Degirmenci",
+        "Resources": [
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "reckPa3VBTaIyyNNe"
+        ],
+        "airtable_createdTime": "2023-04-23T18:21:57.000Z",
+        "airtable_id": "recqyXCNr0v2Xrk4i"
+    },
+    {
         "Last Modified": "2022-03-13T09:55:23.000Z",
         "Name": "Simon Brown",
         "Resources": [
@@ -6800,6 +6875,19 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recsC077sqmUrcBC6"
+    },
+    {
+        "Last Modified": "2023-04-23T18:21:39.000Z",
+        "Name": "Ben Ford",
+        "Resources": [
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+        ],
+        "Resources number": 1,
+        "Resources2": [
+            "reckPa3VBTaIyyNNe"
+        ],
+        "airtable_createdTime": "2023-04-23T18:21:39.000Z",
+        "airtable_id": "recsWt6ItWfzd4gwk"
     },
     {
         "Last Modified": "2020-01-20T22:41:12.000Z",
@@ -7502,7 +7590,7 @@
         "airtable_id": "reczijcDpu4sMjnlA"
     },
     {
-        "Last Modified": "2022-10-16T16:47:08.000Z",
+        "Last Modified": "2023-04-23T18:11:28.000Z",
         "Name": "Marty Cagan",
         "Resources": [
             "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc",
@@ -7518,9 +7606,10 @@
             "Skateboards vs. Cars Revisited - https://svpg.com/skateboards-vs-cars-revisited/",
             "Churn FM. EP131 How the best leaders empower their product teams and set them up for success - https://www.churn.fm/episode/how-the-best-leaders-empower-their-product-teams-and-set-them-up-for-success",
             "The Root Causes of Product Failure - https://www.youtube.com/watch?v=9dccd8lihpQ",
-            "The nature of product - https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan"
+            "The nature of product - https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan",
+            "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY"
         ],
-        "Resources number": 14,
+        "Resources number": 15,
         "Resources2": [
             "recLoYdYP5G0UM8GT",
             "rec0EB7A5GPNShEca",
@@ -7535,7 +7624,8 @@
             "rec5hr1MocLrgwCDk",
             "rec6miv38YvgtCONY",
             "recafrPZUnygCGxiz",
-            "recBervSRt0ntmH2V"
+            "recBervSRt0ntmH2V",
+            "recKLS8QeOawn7JwY"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "reczrumy9DkB51MFk"
