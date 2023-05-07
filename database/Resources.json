@@ -1555,16 +1555,18 @@
         "registered_at": "2021-08-12T13:07:59.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:25:15.000Z",
         "Description": "Interesting interview with Mashooq Badar, one of the founders of the craftmanship software movement in London.\n",
         "Duration": 1860,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:28:03.000Z",
+        "Last Modified": "2023-05-06T20:30:31.000Z",
         "Less 15": 0,
         "Name": "Software Craftsmanship al descubierto con Mashooq Badar",
         "Name (from Speakers)": [
             "Mashooq Badar"
         ],
+        "Published": true,
         "Resource": "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
         "Resource type": "videopodcast",
         "Speaker WomenInTech": [
@@ -2517,12 +2519,13 @@
         "Description": "Funny report on the state of artificial intelligence. Presentation for all audiences. Not technical.\n",
         "Duration": 1620,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:38:28.000Z",
+        "Last Modified": "2023-05-06T19:42:00.000Z",
         "Less 15": 0,
+        "Name": "Artificial Intelligence: Last Week Tonight with John Oliver",
         "Name (from Speakers)": [
             "John Oliver"
         ],
-        "Resource": " - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
+        "Resource": "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
         "Resource type": "video",
         "Speaker WomenInTech": [
             null
@@ -2589,16 +2592,18 @@
         "registered_at": "2021-08-12T13:07:59.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:17:31.000Z",
         "Description": "In this episode Dave explains the dangers of mocking third party code, whose evolution and change we have no control over.\n",
         "Duration": 71700,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:19:35.000Z",
+        "Last Modified": "2023-05-06T20:30:33.000Z",
         "Less 15": 0,
         "Name": "Don't Mock 3rd Party Code",
         "Name (from Speakers)": [
             "Dave Farley"
         ],
+        "Published": true,
         "Resource": "Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI",
         "Resource type": "videopodcast",
         "Speaker WomenInTech": [
@@ -8289,16 +8294,18 @@
         "registered_at": "2020-01-19T20:40:51.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:10:49.000Z",
         "Description": "A great presentation on skilled product teams and leading product organizations. The questions at the end are also very interesting.\n",
         "Duration": 4860,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:13:32.000Z",
+        "Last Modified": "2023-05-06T20:30:34.000Z",
         "Less 15": 0,
         "Name": "Master Class with Marty Cagan",
         "Name (from Speakers)": [
             "Marty Cagan"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
         "Resource type": "talk",
@@ -9127,6 +9134,35 @@
         "airtable_createdTime": "2020-01-19T20:33:30.000Z",
         "airtable_id": "recMLLKXSakluERMk",
         "registered_at": "2020-01-19T20:33:30.000Z"
+    },
+    {
+        "Created": "2023-05-06T19:52:08.000Z",
+        "Description": "In this episode Dave describes the differences between Continuous Delivery and Continuous Deployment: what each one gives you and when Continuous Deployment may not always be the correct answer.\n",
+        "Duration": 1080,
+        "Language": "English",
+        "Last Modified": "2023-05-06T19:54:53.000Z",
+        "Less 15": 0,
+        "Name": "The Difference Between Continuous Delivery & Continuous Deployment",
+        "Name (from Speakers)": [
+            "Dave Farley"
+        ],
+        "Resource": "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Tags": [
+            "recin3Ync8iZldW0q",
+            "recFbzSbd07ttDIYJ",
+            "rec94mSWZ4bx2wFpf"
+        ],
+        "Url": "https://www.youtube.com/watch?v=7SNbDWob6cI",
+        "airtable_createdTime": "2023-05-06T19:52:08.000Z",
+        "airtable_id": "recMP0fXsBeAYZEsH",
+        "registered_at": "2023-05-06T19:52:08.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/11/good-talkspodcasts-nov-2018-i.html",
@@ -10577,6 +10613,35 @@
         "airtable_createdTime": "2020-01-19T20:35:26.000Z",
         "airtable_id": "recQ2q4iNLhxnXxgw",
         "registered_at": "2020-01-19T20:35:26.000Z"
+    },
+    {
+        "Created": "2023-05-06T20:09:18.000Z",
+        "Description": "The interesting history of the NUMMI plant and the joint venture between GM & Toyota. \nA good story to understand some of the lean principles. There is a previous version of the podcast with other interviews at https://www.thisamericanlife.org/403/nummi-2010\n",
+        "Duration": 3840,
+        "Language": "English",
+        "Last Modified": "2023-05-06T20:22:52.000Z",
+        "Less 15": 0,
+        "Name": "NUMMI (2015)",
+        "Name (from Speakers)": [
+            "Frank Langfitt"
+        ],
+        "Rating": 5,
+        "Resource": "NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recDOHYCOOHlhoRYU"
+        ],
+        "Tags": [
+            "recO11XlolI72a1fV",
+            "recH4PbrLpkXZVGDh"
+        ],
+        "Url": "https://www.thisamericanlife.org/561/nummi-2015",
+        "airtable_createdTime": "2023-05-06T20:09:18.000Z",
+        "airtable_id": "recQAbrwc47ekm8I3",
+        "registered_at": "2023-05-06T20:09:18.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2022/11/good-talkspodcasts-nov-2022-i.html",
@@ -13432,6 +13497,34 @@
         "registered_at": "2021-08-12T07:26:20.000Z"
     },
     {
+        "Created": "2023-05-06T19:41:28.000Z",
+        "Description": "Adam presents an interesting approach for classifying and tackling technical debt based on analyzing code changes over time, by authors and files, in order to identify hotspots worth investing in.\n",
+        "Duration": 1680,
+        "Language": "English",
+        "Last Modified": "2023-05-06T19:50:59.000Z",
+        "Less 15": 0,
+        "Name": "Prioritizing Technical Debt as If Time & Money Matters. Goto 2022",
+        "Name (from Speakers)": [
+            "Adam Tornhill"
+        ],
+        "Resource": "Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recgwaBHNnCVi2HwS"
+        ],
+        "Tags": [
+            "rec69oGivla9zlivw",
+            "rec94mSWZ4bx2wFpf"
+        ],
+        "Url": "https://www.youtube.com/watch?v=w9YhmMPLQ4U",
+        "airtable_createdTime": "2023-05-06T19:41:28.000Z",
+        "airtable_id": "recYCVX1yuQJGpU40",
+        "registered_at": "2023-05-06T19:41:28.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:20.000Z",
         "Language": "English",
         "Last Modified": "2021-08-14T19:38:26.000Z",
@@ -15710,17 +15803,19 @@
         "registered_at": "2020-01-19T20:32:20.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:08:24.000Z",
         "Description": "In this episode of the Engineering Room, Dave Farley and Kent Beck have a wide-ranging discussion about the return of waterfall development in software, TDD, Software Design and lots of other things along the way.\n",
         "Duration": 4020,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:10:23.000Z",
+        "Last Modified": "2023-05-06T20:30:35.000Z",
         "Less 15": 0,
         "Name": "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16",
         "Name (from Speakers)": [
             "Kent Beck",
             "Dave Farley"
         ],
+        "Published": true,
         "Rating": 4,
         "Resource": "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
         "Resource type": "videopodcast",
@@ -16497,16 +16592,18 @@
         "registered_at": "2020-01-19T20:40:03.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:14:54.000Z",
         "Description": "Great explanation about the harmful impact of having high work in progress.\n",
         "Duration": 31020,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:18:10.000Z",
+        "Last Modified": "2023-05-06T20:30:33.000Z",
         "Less 15": 0,
         "Name": "High WIP, multi-tasking, etc.",
         "Name (from Speakers)": [
             "John Cutler"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU",
         "Resource type": "videopodcast",
@@ -17785,6 +17882,34 @@
         "registered_at": "2022-09-18T21:57:09.000Z"
     },
     {
+        "Created": "2023-05-06T20:00:23.000Z",
+        "Description": "Interesting talk about software design, design principles, and how it's worth understanding them in their context to apply them correctly. It reminded me of this post I wrote about the DRY principle https://www.eferro.net/2017/02/applying-dry-principle.html\n",
+        "Duration": 1500,
+        "Language": "English",
+        "Last Modified": "2023-05-06T20:05:59.000Z",
+        "Less 15": 0,
+        "Name": "The wet codebase",
+        "Name (from Speakers)": [
+            "Dan Abramov"
+        ],
+        "Resource": "The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rec0bJNzJorfoT4Bk"
+        ],
+        "Tags": [
+            "recFbzSbd07ttDIYJ",
+            "recm3GCPgEVSDmeVI"
+        ],
+        "Url": "https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
+        "airtable_createdTime": "2023-05-06T20:00:23.000Z",
+        "airtable_id": "rechcjxuU2Gdb0VKR",
+        "registered_at": "2023-05-06T20:00:23.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2017/10/good-talkspodcasts-september-2017.html",
         "Created": "2020-01-19T20:42:43.000Z",
         "Description": "In this talk Susanne will use Wardley Maps to visualise how the value chain can evolve when getting infrastructure components handled by different options: Going from open source software to Kubernetes' container orchestration, to Istio's service mesh and to Serverless technologies, such as AWS Lambda.\n",
@@ -18843,6 +18968,44 @@
         "registered_at": "2021-07-03T07:42:12.000Z"
     },
     {
+        "Created": "2023-05-06T20:21:25.000Z",
+        "Description": "Good conversation about GeePaw Hill's software development approach based on taking continuous small safe steps (Many More Much Smaller Steps).\n",
+        "Duration": 2340,
+        "Language": "English",
+        "Last Modified": "2023-05-06T20:29:17.000Z",
+        "Less 15": 0,
+        "Name": "Many More Much Smaller Steps with GeePaw Hill",
+        "Name (from Speakers)": [
+            "GeePaw Hill",
+            "Chris Lucian",
+            "Austin Chadwick"
+        ],
+        "Rating": 5,
+        "Resource": "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null,
+            null,
+            null
+        ],
+        "Speakers": [
+            "rechXGbKrcRExnLtX",
+            "rec0lgnFuFyfCpVVG",
+            "recVj5np1ZG3J5xpk"
+        ],
+        "Tags": [
+            "recm3GCPgEVSDmeVI",
+            "rech2MAtQRy0Lvc2Y",
+            "recYkFYw6BSRfA0Ce",
+            "recFbzSbd07ttDIYJ",
+            "recnvzS3XS3MGHk3e"
+        ],
+        "Url": "https://www.youtube.com/watch?v=lHoOUylvfxQ",
+        "airtable_createdTime": "2023-05-06T20:21:25.000Z",
+        "airtable_id": "reck60FOvatP5hPnd",
+        "registered_at": "2023-05-06T20:21:25.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2019/03/index.html",
         "Created": "2020-01-19T20:38:28.000Z",
         "Description": "Great talk to understand how to deliver and operate software at scale. It contains a lot of useful insights.\n",
@@ -18998,11 +19161,12 @@
         "registered_at": "2020-01-19T20:37:55.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html",
         "Created": "2023-04-23T18:20:38.000Z",
         "Description": "Interesting discussion about Platform Engineering.\n\n",
         "Duration": 2220,
         "Language": "English",
-        "Last Modified": "2023-04-23T18:30:14.000Z",
+        "Last Modified": "2023-05-06T20:30:32.000Z",
         "Less 15": 0,
         "Name": "The Future of Platform Engineering",
         "Name (from Speakers)": [
@@ -19012,6 +19176,7 @@
             "Fatih Degirmenci",
             "Ronan Keenan"
         ],
+        "Published": true,
         "Resource": "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering",
         "Resource type": "panel",
         "Speaker WomenInTech": [

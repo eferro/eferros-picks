@@ -17,6 +17,15 @@
   - reckPa3VBTaIyyNNe
   airtable_createdTime: '2023-04-23T18:22:07.000Z'
   airtable_id: rec0RbICLfiZxwMbi
+- Last Modified: '2023-05-06T20:01:24.000Z'
+  Name: Dan Abramov
+  Resources:
+  - The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase
+  Resources number: 1
+  Resources2:
+  - rechcjxuU2Gdb0VKR
+  airtable_createdTime: '2023-05-06T20:01:24.000Z'
+  airtable_id: rec0bJNzJorfoT4Bk
 - Last Modified: '2022-09-18T21:52:48.000Z'
   Name: Charity Majors
   Resources:
@@ -73,6 +82,15 @@
   - recdTgIfPYmk1DKyr
   airtable_createdTime: '2021-08-12T13:14:49.000Z'
   airtable_id: rec0kl5TrNdRYDyWn
+- Last Modified: '2023-05-06T20:22:33.000Z'
+  Name: Chris Lucian
+  Resources:
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  Resources number: 1
+  Resources2:
+  - reck60FOvatP5hPnd
+  airtable_createdTime: '2023-05-06T20:22:33.000Z'
+  airtable_id: rec0lgnFuFyfCpVVG
 - Last Modified: '2021-06-20T07:50:09.000Z'
   Name: Andrey Salomatin
   Resources:
@@ -1059,6 +1077,15 @@
   - recjRpWK2Po0pN0kB
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recDD7LPpBEhMq7El
+- Last Modified: '2023-05-06T20:13:09.000Z'
+  Name: Frank Langfitt
+  Resources:
+  - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
+  Resources number: 1
+  Resources2:
+  - recQAbrwc47ekm8I3
+  airtable_createdTime: '2023-05-06T20:13:09.000Z'
+  airtable_id: recDOHYCOOHlhoRYU
 - Last Modified: '2021-06-19T11:56:00.000Z'
   Name: Adrian Cockcroft
   Resources:
@@ -2393,7 +2420,7 @@
   - recQoliDLWpkzZGwz
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSzQRG8VGQNBqIQ
-- Last Modified: '2023-04-23T18:17:54.000Z'
+- Last Modified: '2023-05-06T19:52:43.000Z'
   Name: Dave Farley
   Resources:
   - What good looks like - https://www.youtube.com/watch?v=WVTxTo06Mwk
@@ -2453,7 +2480,8 @@
   - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
-  Resources number: 52
+  - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
+  Resources number: 53
   Resources2:
   - recdZt5nq1JImaUDu
   - rec2q5G6S32fDMvSv
@@ -2507,6 +2535,7 @@
   - rechnBVbwP7XyJUqp
   - recdLJvVSnFgDDGV9
   - rec6VZ5qk8zuAsbvk
+  - recMP0fXsBeAYZEsH
   Twitter: https://twitter.com/davefarley77
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recTA39Jo1ozZG61R
@@ -2776,6 +2805,15 @@
   - recsxgU1xPqwC6b5y
   airtable_createdTime: '2021-06-19T12:00:30.000Z'
   airtable_id: recVivqLFitzRKGJc
+- Last Modified: '2023-05-06T20:22:47.000Z'
+  Name: Austin Chadwick
+  Resources:
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  Resources number: 1
+  Resources2:
+  - reck60FOvatP5hPnd
+  airtable_createdTime: '2023-05-06T20:22:47.000Z'
+  airtable_id: recVj5np1ZG3J5xpk
 - Last Modified: '2020-01-20T22:41:12.000Z'
   Name: Jon Jandai
   Resources:
@@ -3275,7 +3313,7 @@
 - Last Modified: '2023-04-23T18:30:31.000Z'
   Name: John Oliver
   Resources:
-  - ' - https://www.youtube.com/watch?v=Sqa8Zo2XWc4'
+  - 'Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4'
   Resources number: 1
   Resources2:
   - rec6PC7Ml4HLNxjnJ
@@ -3935,13 +3973,15 @@
   - recWUWqSES4nBFQE6
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recgp589zeDvfKBI3
-- Last Modified: '2020-01-20T22:41:12.000Z'
+- Last Modified: '2023-05-06T19:42:58.000Z'
   Name: Adam Tornhill
   Resources:
   - 'Software (r)Evolution: A Crystal Ball to Prioritize Technical Debt - https://www.youtube.com/watch?v=SdUewLCHWvU'
-  Resources number: 1
+  - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
+  Resources number: 2
   Resources2:
   - rec3BK9Q6x9zXgwmL
+  - recYCVX1yuQJGpU40
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recgwaBHNnCVi2HwS
 - Last Modified: '2021-06-20T07:50:24.000Z'
@@ -4085,7 +4125,7 @@
   - recoRY63Ih9eboaTI
   airtable_createdTime: '2022-09-18T21:48:37.000Z'
   airtable_id: rechVZiBRzHtUtgVN
-- Last Modified: '2023-03-06T10:51:22.000Z'
+- Last Modified: '2023-05-06T20:21:53.000Z'
   Name: GeePaw Hill
   Resources:
   - Want More Value Faster? Take Many More Much Smaller Steps - https://www.youtube.com/watch?v=1mOs1_pvS9A
@@ -4098,7 +4138,8 @@
   - "Agile Book Club: Test-Driven Development (with Mike \u201CGeePaw\u201D Hill and\
     \ J.B. Rainsberger) - https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development"
   - 'Slash Load: More Change, More Productivity - https://www.geepawhill.org/2022/10/25/slash-the-load/'
-  Resources number: 9
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  Resources number: 10
   Resources2:
   - recWr0AUmugIvM9fn
   - recf8eVwiUYjHue5J
@@ -4109,6 +4150,7 @@
   - recwbEy0kcWhTiRzG
   - recUIDymP9vqzyyTI
   - recbY4IKrE12H95pg
+  - reck60FOvatP5hPnd
   airtable_createdTime: '2021-07-25T18:03:15.000Z'
   airtable_id: rechXGbKrcRExnLtX
 - Last Modified: '2020-01-20T22:41:12.000Z'

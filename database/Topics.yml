@@ -278,15 +278,17 @@
   - Critical Program Reading (1975) - 16mm Film - https://www.youtube.com/watch?v=7hdJQkn8rtA
   airtable_createdTime: '2022-02-12T21:37:35.000Z'
   airtable_id: rec5qcZLhWV3LGjsu
-- Last Modified: '2022-07-25T17:07:15.000Z'
+- Last Modified: '2023-05-06T19:50:46.000Z'
   Name: Engineering productivity
   Resources:
   - recJuCur5VOweVgPs
   - recukmjPdKVdA4zxg
-  Resources number: 2
+  - recYCVX1yuQJGpU40
+  Resources number: 3
   Speakers:
   - Engineering Productivity @Google - https://www.youtube.com/watch?v=ETtRxDEYeF4
   - 'Backstage: Restoring Order To Your Chaos - https://www.youtube.com/watch?v=AlQYP88N3Og'
+  - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
 - Last Modified: '2023-04-23T18:27:58.000Z'
@@ -578,7 +580,7 @@
   - Why we switched to serverless containers - https://changelog.com/shipit/87
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec945yNhVIzyZIuX
-- Last Modified: '2023-02-19T21:05:39.000Z'
+- Last Modified: '2023-05-06T19:53:11.000Z'
   Name: Technology Strategy
   Resources:
   - recEontBoZ5oY8Bc1
@@ -613,7 +615,9 @@
   - recolizJpNH2hh7U3
   - recIHgDgxmcGBHQJk
   - rechnBVbwP7XyJUqp
-  Resources number: 32
+  - recYCVX1yuQJGpU40
+  - recMP0fXsBeAYZEsH
+  Resources number: 34
   Speakers:
   - 'Keynote: Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=xlNYYy8pzB4'
   - Why the fuss about serverless - https://www.softwaretalks.io/v/4568/why-the-fuss-about-serverless-simon-wardley-at-ijs-london-2018
@@ -652,6 +656,8 @@
   - The Flywheel Effect Creates Space for Innovation (Europe 2022) - https://videos.itrevolution.com/watch/708278624/
   - Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
+  - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
+  - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec94mSWZ4bx2wFpf
 - Last Modified: '2023-02-19T20:35:49.000Z'
@@ -890,7 +896,7 @@
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2023-04-23T18:19:27.000Z'
+- Last Modified: '2023-05-06T20:23:02.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -995,7 +1001,10 @@
   - recNoRdbv0UyVegAj
   - rechnBVbwP7XyJUqp
   - rec6VZ5qk8zuAsbvk
-  Resources number: 102
+  - recMP0fXsBeAYZEsH
+  - rechcjxuU2Gdb0VKR
+  - reck60FOvatP5hPnd
+  Resources number: 105
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1104,6 +1113,9 @@
   - Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
   - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
+  - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
+  - The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
 - Last Modified: '2023-04-23T18:27:48.000Z'
@@ -1115,6 +1127,15 @@
   - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
   airtable_createdTime: '2023-04-23T18:27:48.000Z'
   airtable_id: recG2ZvgldoblvB4l
+- Last Modified: '2023-05-06T20:16:58.000Z'
+  Name: Lean Manufacturing
+  Resources:
+  - recQAbrwc47ekm8I3
+  Resources number: 1
+  Speakers:
+  - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
+  airtable_createdTime: '2023-05-06T20:11:05.000Z'
+  airtable_id: recH4PbrLpkXZVGDh
 - Last Modified: '2023-01-08T17:43:28.000Z'
   Name: Platform teams
   Resources:
@@ -1173,7 +1194,7 @@
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   airtable_createdTime: '2021-06-30T06:31:17.000Z'
   airtable_id: recLS0zTJxflAcqBu
-- Last Modified: '2023-04-23T18:18:05.000Z'
+- Last Modified: '2023-05-06T20:16:58.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1209,7 +1230,8 @@
   - rec5LT5PqgFMp2cTS
   - recp5VZGEHjnR5CHd
   - recerQytV322uGb6q
-  Resources number: 33
+  - recQAbrwc47ekm8I3
+  Resources number: 34
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1246,6 +1268,7 @@
   - Meals Per Hour - https://www.youtube.com/watch?v=EedMmMedj3M
   - The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0
   - High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU
+  - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2023-01-28T19:03:07.000Z'
@@ -2180,7 +2203,7 @@
   - How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2023-04-23T18:27:53.000Z'
+- Last Modified: '2023-05-06T20:23:01.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2245,7 +2268,8 @@
   - recNoRdbv0UyVegAj
   - recdLJvVSnFgDDGV9
   - rec4DPUKuiDGOr4of
-  Resources number: 62
+  - reck60FOvatP5hPnd
+  Resources number: 63
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2316,6 +2340,7 @@
   - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2022-11-20T09:31:14.000Z'
@@ -2691,7 +2716,7 @@
     - https://www.youtube.com/watch?v=0reMVgn6kRo
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2022-11-06T19:22:42.000Z'
+- Last Modified: '2023-05-06T20:22:59.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2725,7 +2750,8 @@
   - recT5zagJ5XLcNfo6
   - recsmPxMNicKXDScZ
   - recQGfbwsNl5WtAws
-  Resources number: 31
+  - reck60FOvatP5hPnd
+  Resources number: 32
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -2759,6 +2785,7 @@
   - Steve Jobs on programmer productivity - https://www.youtube.com/watch?v=vxi5rmOPdCg
   - From initial request to software in production in 3 weeks - https://www.youtube.com/watch?v=RjAXEOIfkq8
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2023-01-08T17:27:54.000Z'
@@ -3086,7 +3113,7 @@
   - Those pesky pull request reviews - https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2023-02-19T21:05:17.000Z'
+- Last Modified: '2023-05-06T19:53:02.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3151,7 +3178,8 @@
   - recjRAqvFByDOS2Wk
   - recuCBrk3kcf3ZRh1
   - rechnBVbwP7XyJUqp
-  Resources number: 62
+  - recMP0fXsBeAYZEsH
+  Resources number: 63
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3218,6 +3246,7 @@
   - Why Pull Requests Are A BAD IDEA - https://www.youtube.com/watch?v=ASOSEiJCyEM
   - "You Don\u2019t Need CODE OWNERSHIP - https://youtu.be/UwC7nIuiqEw"
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
+  - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2021-08-12T13:08:45.000Z'
@@ -3341,7 +3370,7 @@
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
-- Last Modified: '2023-04-23T18:19:29.000Z'
+- Last Modified: '2023-05-06T20:22:55.000Z'
   Name: Software Design
   Resources:
   - reczOXoBpcxfVfN2x
@@ -3392,7 +3421,9 @@
   - recrvswiXD8sPCVkv
   - rec8kuyWkDjOJhQ9k
   - rec6VZ5qk8zuAsbvk
-  Resources number: 48
+  - rechcjxuU2Gdb0VKR
+  - reck60FOvatP5hPnd
+  Resources number: 50
   Speakers:
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
@@ -3449,6 +3480,8 @@
   - Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs
   - Critical Program Reading (1975) - 16mm Film - https://www.youtube.com/watch?v=7hdJQkn8rtA
   - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
+  - The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm3GCPgEVSDmeVI
 - Last Modified: '2022-12-11T19:48:39.000Z'
@@ -3498,10 +3531,10 @@
   Speakers:
   - The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw
   - Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4
-  - ' - https://www.youtube.com/watch?v=Sqa8Zo2XWc4'
+  - 'Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4'
   airtable_createdTime: '2021-08-14T07:25:39.000Z'
   airtable_id: recmuONwokRtPS6Tp
-- Last Modified: '2022-12-06T20:50:01.000Z'
+- Last Modified: '2023-05-06T20:23:09.000Z'
   Name: Evolutionary Design
   Resources:
   - recHTVTL3hM9YyEuY
@@ -3516,7 +3549,8 @@
   - rec0QeqSAE9n3RAu6
   - recJQ6cyJaPhW0dGq
   - recUIDymP9vqzyyTI
-  Resources number: 12
+  - reck60FOvatP5hPnd
+  Resources number: 13
   Speakers:
   - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
   - Boundaries - https://www.youtube.com/watch?v=eOYal8elnZk
@@ -3531,6 +3565,7 @@
   - 'Agile Book Club: Evolutionary Design (with Kent Beck) - https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design'
   - "Agile Book Club: Test-Driven Development (with Mike \u201CGeePaw\u201D Hill and\
     \ J.B. Rainsberger) - https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development"
+  - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   airtable_createdTime: '2020-06-14T11:21:28.000Z'
   airtable_id: recnvzS3XS3MGHk3e
 - Last Modified: '2023-04-23T18:12:16.000Z'
