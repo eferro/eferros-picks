@@ -2515,16 +2515,18 @@
         "registered_at": "2022-10-09T09:29:08.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-04-23T18:28:48.000Z",
         "Description": "Funny report on the state of artificial intelligence. Presentation for all audiences. Not technical.\n",
         "Duration": 1620,
         "Language": "English",
-        "Last Modified": "2023-05-06T19:42:00.000Z",
+        "Last Modified": "2023-05-07T17:10:15.000Z",
         "Less 15": 0,
         "Name": "Artificial Intelligence: Last Week Tonight with John Oliver",
         "Name (from Speakers)": [
             "John Oliver"
         ],
+        "Published": true,
         "Resource": "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
         "Resource type": "video",
         "Speaker WomenInTech": [
@@ -9136,16 +9138,18 @@
         "registered_at": "2020-01-19T20:33:30.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-05-06T19:52:08.000Z",
         "Description": "In this episode Dave describes the differences between Continuous Delivery and Continuous Deployment: what each one gives you and when Continuous Deployment may not always be the correct answer.\n",
         "Duration": 1080,
         "Language": "English",
-        "Last Modified": "2023-05-06T19:54:53.000Z",
+        "Last Modified": "2023-05-07T17:10:13.000Z",
         "Less 15": 0,
         "Name": "The Difference Between Continuous Delivery & Continuous Deployment",
         "Name (from Speakers)": [
             "Dave Farley"
         ],
+        "Published": true,
         "Resource": "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI",
         "Resource type": "videopodcast",
         "Speaker WomenInTech": [
@@ -10615,16 +10619,18 @@
         "registered_at": "2020-01-19T20:35:26.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-05-06T20:09:18.000Z",
         "Description": "The interesting history of the NUMMI plant and the joint venture between GM & Toyota. \nA good story to understand some of the lean principles. There is a previous version of the podcast with other interviews at https://www.thisamericanlife.org/403/nummi-2010\n",
         "Duration": 3840,
         "Language": "English",
-        "Last Modified": "2023-05-06T20:22:52.000Z",
+        "Last Modified": "2023-05-07T17:10:11.000Z",
         "Less 15": 0,
         "Name": "NUMMI (2015)",
         "Name (from Speakers)": [
             "Frank Langfitt"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015",
         "Resource type": "podcast",
@@ -13497,16 +13503,18 @@
         "registered_at": "2021-08-12T07:26:20.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-05-06T19:41:28.000Z",
         "Description": "Adam presents an interesting approach for classifying and tackling technical debt based on analyzing code changes over time, by authors and files, in order to identify hotspots worth investing in.\n",
         "Duration": 1680,
         "Language": "English",
-        "Last Modified": "2023-05-06T19:50:59.000Z",
+        "Last Modified": "2023-05-07T17:10:14.000Z",
         "Less 15": 0,
         "Name": "Prioritizing Technical Debt as If Time & Money Matters. Goto 2022",
         "Name (from Speakers)": [
             "Adam Tornhill"
         ],
+        "Published": true,
         "Resource": "Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -17882,16 +17890,18 @@
         "registered_at": "2022-09-18T21:57:09.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-05-06T20:00:23.000Z",
         "Description": "Interesting talk about software design, design principles, and how it's worth understanding them in their context to apply them correctly. It reminded me of this post I wrote about the DRY principle https://www.eferro.net/2017/02/applying-dry-principle.html\n",
         "Duration": 1500,
         "Language": "English",
-        "Last Modified": "2023-05-06T20:05:59.000Z",
+        "Last Modified": "2023-05-07T17:10:12.000Z",
         "Less 15": 0,
         "Name": "The wet codebase",
         "Name (from Speakers)": [
             "Dan Abramov"
         ],
+        "Published": true,
         "Resource": "The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -18968,11 +18978,12 @@
         "registered_at": "2021-07-03T07:42:12.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/05/good-talkspodcasts-may-2023-i.html",
         "Created": "2023-05-06T20:21:25.000Z",
         "Description": "Good conversation about GeePaw Hill's software development approach based on taking continuous small safe steps (Many More Much Smaller Steps).\n",
         "Duration": 2340,
         "Language": "English",
-        "Last Modified": "2023-05-06T20:29:17.000Z",
+        "Last Modified": "2023-05-07T17:10:10.000Z",
         "Less 15": 0,
         "Name": "Many More Much Smaller Steps with GeePaw Hill",
         "Name (from Speakers)": [
@@ -18980,6 +18991,7 @@
             "Chris Lucian",
             "Austin Chadwick"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
         "Resource type": "talk",
