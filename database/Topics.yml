@@ -291,7 +291,7 @@
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-04-23T18:27:58.000Z'
+- Last Modified: '2023-06-18T06:44:49.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -396,7 +396,9 @@
   - recdLJvVSnFgDDGV9
   - recKLS8QeOawn7JwY
   - rec4DPUKuiDGOr4of
-  Resources number: 102
+  - recirlexFAzgG5gZt
+  - recgMNfjEQbF98kc0
+  Resources number: 104
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -507,6 +509,8 @@
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
+  - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -518,6 +522,15 @@
   - DOES14 On the Care and Feeding of Feedback Cycles - https://www.youtube.com/watch?v=fMucUohYWI4
   airtable_createdTime: '2022-02-12T21:43:01.000Z'
   airtable_id: rec7SonT1KaTGquvb
+- Last Modified: '2023-06-18T06:38:42.000Z'
+  Name: Transformation
+  Resources:
+  - recirlexFAzgG5gZt
+  Resources number: 1
+  Speakers:
+  - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
+  airtable_createdTime: '2023-06-18T06:38:42.000Z'
+  airtable_id: rec7iLwNVmaf6r16r
 - Last Modified: '2021-08-14T07:32:00.000Z'
   Name: TOC
   Resources:
@@ -580,7 +593,7 @@
   - Why we switched to serverless containers - https://changelog.com/shipit/87
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec945yNhVIzyZIuX
-- Last Modified: '2023-05-06T19:53:11.000Z'
+- Last Modified: '2023-06-18T06:56:06.000Z'
   Name: Technology Strategy
   Resources:
   - recEontBoZ5oY8Bc1
@@ -617,7 +630,8 @@
   - rechnBVbwP7XyJUqp
   - recYCVX1yuQJGpU40
   - recMP0fXsBeAYZEsH
-  Resources number: 34
+  - recH9YE2PIzCNA8Zv
+  Resources number: 35
   Speakers:
   - 'Keynote: Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=xlNYYy8pzB4'
   - Why the fuss about serverless - https://www.softwaretalks.io/v/4568/why-the-fuss-about-serverless-simon-wardley-at-ijs-london-2018
@@ -658,9 +672,10 @@
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
+  - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec94mSWZ4bx2wFpf
-- Last Modified: '2023-02-19T20:35:49.000Z'
+- Last Modified: '2023-06-18T06:56:08.000Z'
   Name: Serverless
   Resources:
   - recrqYZesvsKRzx1p
@@ -674,7 +689,8 @@
   - recGPM0UnhuHyjojs
   - recaonIzEHQuY9RmH
   - recEbeDrLiZUegSaB
-  Resources number: 11
+  - recH9YE2PIzCNA8Zv
+  Resources number: 12
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - Event Driven Serverless with Sebastien Goasgoen - https://softwareengineeringdaily.com/2017/06/13/event-driven-serverless-with-sebastian-goasgoen/
@@ -688,6 +704,7 @@
   - Shrinking Microservices to Functions - https://www.youtube.com/watch?v=ZgxZCXouBkY
   - "GOTO 2020 \u2022 Where We\u2019re Going, We Don\u2019t Need Servers! - https://www.youtube.com/watch?v=Mz-b-rQ9wL0"
   - Why we switched to serverless containers - https://changelog.com/shipit/87
+  - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recBX6CqydFySIyML
 - Last Modified: '2022-02-12T22:27:49.000Z'
@@ -845,7 +862,7 @@
   - Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM
   airtable_createdTime: '2020-08-09T19:43:06.000Z'
   airtable_id: recDqEOIt9vzNQfTZ
-- Last Modified: '2023-02-19T21:05:44.000Z'
+- Last Modified: '2023-06-18T06:44:58.000Z'
   Name: Technical leadership
   Resources:
   - recAgTJFXQFe3DRC1
@@ -869,7 +886,8 @@
   - recgwJfBEOYLO3VOq
   - recoN5BMtMjKGPz1b
   - rechnBVbwP7XyJUqp
-  Resources number: 21
+  - recgMNfjEQbF98kc0
+  Resources number: 22
   Speakers:
   - Technical Leadership for Empowered Teams - https://vimeo.com/339930423
   - Life as a Chief Architect - https://www.youtube.com/watch?v=kJRudbvW6qE
@@ -894,6 +912,7 @@
   - Agile Book Club - DevOps (with Jessica Kerr)-DAayRED0B7g - https://www.youtube.com/watch?v=DAayRED0B7g
   - Seven shipping principles - https://changelog.com/shipit/77
   - '#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo'
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
 - Last Modified: '2023-05-06T20:23:02.000Z'
@@ -1194,7 +1213,7 @@
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   airtable_createdTime: '2021-06-30T06:31:17.000Z'
   airtable_id: recLS0zTJxflAcqBu
-- Last Modified: '2023-05-06T20:16:58.000Z'
+- Last Modified: '2023-06-18T06:50:50.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1231,7 +1250,9 @@
   - recp5VZGEHjnR5CHd
   - recerQytV322uGb6q
   - recQAbrwc47ekm8I3
-  Resources number: 34
+  - recXmr49q5ciJGAMp
+  - recgMNfjEQbF98kc0
+  Resources number: 36
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1269,6 +1290,8 @@
   - The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0
   - High WIP, multi-tasking, etc. - https://www.youtube.com/watch?v=3MxAUurD9gU
   - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
+  - 'Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84'
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2023-01-28T19:03:07.000Z'
@@ -1360,7 +1383,7 @@
   - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
-- Last Modified: '2023-04-23T18:22:43.000Z'
+- Last Modified: '2023-06-18T06:44:53.000Z'
   Name: Devops
   Resources:
   - recOeXIOfuU3plaew
@@ -1421,7 +1444,9 @@
   - recfIsVSljeY16cC9
   - recRBbOu0Yb1BMpo9
   - reckPa3VBTaIyyNNe
-  Resources number: 58
+  - recXmr49q5ciJGAMp
+  - recgMNfjEQbF98kc0
+  Resources number: 60
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -1490,9 +1515,11 @@
   - You Build It, YOU Run It!' For Continuous Delivery - https://www.youtube.com/watch?v=eBO-41vMg54
   - 'Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/'
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
+  - 'Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84'
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2022-12-06T20:50:04.000Z'
+- Last Modified: '2023-06-18T06:56:20.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1574,7 +1601,8 @@
   - rec0QeqSAE9n3RAu6
   - recKdIjTXzEsrI7EO
   - recnkmoWOa4usiuSE
-  Resources number: 79
+  - recH9YE2PIzCNA8Zv
+  Resources number: 80
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1664,6 +1692,7 @@
   - 'Building Evolutionary Architectures: Principles and Practices - https://www.youtube.com/watch?v=PQBlyAxPje0'
   - How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
+  - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-01-28T19:03:01.000Z'
@@ -1776,7 +1805,7 @@
   - "Day Two Cloud 111: Infrastructure As Software With Kris N\xF3va - https://packetpushers.net/podcast/day-two-cloud-111/"
   airtable_createdTime: '2020-05-17T13:51:26.000Z'
   airtable_id: recTPLZxKhIsbbwEW
-- Last Modified: '2023-04-23T18:12:02.000Z'
+- Last Modified: '2023-06-18T06:45:00.000Z'
   Name: leadership
   Resources:
   - rec9EZic34Ot174h3
@@ -1787,7 +1816,8 @@
   - recRtAWnx4lTVvYUO
   - rec4grFdhA7wAX8Wy
   - recKLS8QeOawn7JwY
-  Resources number: 8
+  - recgMNfjEQbF98kc0
+  Resources number: 9
   Speakers:
   - The Principles and Practices behind Team of Teams - https://itrevolution.com/the-idealcast-episode-11/
   - "GOTO 2020 \u2022 Talking With Tech Leads - https://www.youtube.com/watch?v=F81W-JcRgXM"
@@ -1797,6 +1827,7 @@
   - Lunch & Learn How to Misuse DORA DevOps Metrics - https://www.youtube.com/watch?v=0vi7XW15UIg
   - Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2021-01-30T20:34:05.000Z'
   airtable_id: recUP8TZ3O1cNiioY
 - Last Modified: '2022-12-06T21:12:28.000Z'
@@ -2716,7 +2747,7 @@
     - https://www.youtube.com/watch?v=0reMVgn6kRo
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2023-05-06T20:22:59.000Z'
+- Last Modified: '2023-06-18T06:51:00.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2751,7 +2782,9 @@
   - recsmPxMNicKXDScZ
   - recQGfbwsNl5WtAws
   - reck60FOvatP5hPnd
-  Resources number: 32
+  - recXmr49q5ciJGAMp
+  - recgMNfjEQbF98kc0
+  Resources number: 34
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -2786,6 +2819,8 @@
   - From initial request to software in production in 3 weeks - https://www.youtube.com/watch?v=RjAXEOIfkq8
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
   - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  - 'Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84'
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2023-01-08T17:27:54.000Z'
@@ -2861,7 +2896,7 @@
   - Seven shipping principles - https://changelog.com/shipit/77
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2023-04-23T18:10:05.000Z'
+- Last Modified: '2023-06-18T06:29:23.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2965,7 +3000,8 @@
   - recJQ6cyJaPhW0dGq
   - recRjMDkb2xgyznOJ
   - recdLJvVSnFgDDGV9
-  Resources number: 101
+  - recirlexFAzgG5gZt
+  Resources number: 102
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3079,6 +3115,7 @@
     phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/'
   - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
+  - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2022-12-06T21:16:02.000Z'
@@ -3258,7 +3295,7 @@
   - "Clean Architecture: La mejor forma de escalar y mantener tu c\xF3digo - https://www.youtube.com/watch?v=y3MWfPDmVqo"
   airtable_createdTime: '2021-08-12T13:08:45.000Z'
   airtable_id: recivP78x0piISrFD
-- Last Modified: '2023-03-24T15:41:02.000Z'
+- Last Modified: '2023-06-18T06:44:47.000Z'
   Name: Flow
   Resources:
   - recROSkaWuMOkJEi3
@@ -3269,7 +3306,8 @@
   - recwbEy0kcWhTiRzG
   - reclwbJbacaku1O47
   - recp5VZGEHjnR5CHd
-  Resources number: 8
+  - recgMNfjEQbF98kc0
+  Resources number: 9
   Speakers:
   - The resource utilization trap - https://www.youtube.com/watch?v=CostXs2p6r0
   - 'Henrik Kniberg : Multiple WIP vs One Piece Flow Example - https://www.youtube.com/watch?v=Yqi9Gwt-OEA'
@@ -3279,6 +3317,7 @@
   - "MMMSS \u2013 The Intrinsic Benefit of Steps - https://www.geepawhill.org/2021/11/16/mmmss-the-intrinsic-benefit-of-steps/"
   - The Principles of Product Development Flow / Small batches podcast  - https://smallbatches.fm/60
   - The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0
+  - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2021-03-14T07:15:17.000Z'
   airtable_id: reck50u1RzhJj6MIy
 - Last Modified: '2022-02-06T21:19:47.000Z'
@@ -3316,7 +3355,7 @@
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   airtable_createdTime: '2022-09-18T21:48:46.000Z'
   airtable_id: reclZWPaBbTfn5pQo
-- Last Modified: '2022-12-06T20:50:06.000Z'
+- Last Modified: '2023-06-18T06:56:18.000Z'
   Name: Architecture patterns
   Resources:
   - recmUlW6oy0nh41vw
@@ -3341,7 +3380,8 @@
   - rec0QeqSAE9n3RAu6
   - recKdIjTXzEsrI7EO
   - recnkmoWOa4usiuSE
-  Resources number: 22
+  - recH9YE2PIzCNA8Zv
+  Resources number: 23
   Speakers:
   - 'Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/'
   - Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M
@@ -3368,6 +3408,7 @@
   - 'Building Evolutionary Architectures: Principles and Practices - https://www.youtube.com/watch?v=PQBlyAxPje0'
   - How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
+  - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
 - Last Modified: '2023-05-06T20:22:55.000Z'
@@ -3961,7 +4002,7 @@
   - 'Ship It! #31 Is Kubernetes a platform? - https://changelog.com/shipit/31'
   airtable_createdTime: '2022-01-22T19:42:30.000Z'
   airtable_id: recwiPJKumk9LSzL8
-- Last Modified: '2021-10-24T22:17:02.000Z'
+- Last Modified: '2023-06-18T06:29:27.000Z'
   Name: Culture
   Resources:
   - recitaMrj8QyQAvHD
@@ -3969,13 +4010,15 @@
   - recJ4GcimJEOAt9WO
   - recswvNhslMDrLOMK
   - rec2KdJElwgsP4Uaa
-  Resources number: 5
+  - recirlexFAzgG5gZt
+  Resources number: 6
   Speakers:
   - "E019 Qu\xE9 es y para qu\xE9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
   - 'Workshop: Emociones en equipos de trabajo - https://www.youtube.com/watch?v=c4WlCAEH9Ls'
   - Chapter Two with Christina Wodtke, Author of Radical Focus - https://www.youtube.com/watch?v=spPNrzWYpPQ
   - How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/
+  - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   airtable_createdTime: '2021-08-12T13:09:17.000Z'
   airtable_id: recwjZlYYZq3zj7TU
 - Last Modified: '2023-01-08T17:43:42.000Z'
