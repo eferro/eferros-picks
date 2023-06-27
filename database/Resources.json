@@ -16604,6 +16604,36 @@
         "registered_at": "2020-11-09T09:16:19.000Z"
     },
     {
+        "Created": "2023-06-26T12:40:13.000Z",
+        "Description": "Great description of the impact of trust on team members and leaders.\n",
+        "Duration": 8460,
+        "Language": "English",
+        "Last Modified": "2023-06-26T12:42:35.000Z",
+        "Less 15": 0,
+        "Name": "Simon Sinek Performance vs Trust",
+        "Name (from Speakers)": [
+            "Simon Sinek"
+        ],
+        "Rating": 5,
+        "Resource": "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recP22n8vdPeLgGG8"
+        ],
+        "Tags": [
+            "rec6JMQpL2LSjoP2E",
+            "recwjZlYYZq3zj7TU",
+            "rechSTvKX9sm9HHMA"
+        ],
+        "Url": "https://www.youtube.com/watch?v=kJdXjtSnZTI",
+        "airtable_createdTime": "2023-06-26T12:40:13.000Z",
+        "airtable_id": "receYn9iDUfTj3xBp",
+        "registered_at": "2023-06-26T12:40:13.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2019/07/index.html",
         "Created": "2020-01-19T20:40:12.000Z",
         "Description": "Friction Podcast Patty McCord. Interesting conversation about Netflix culture of freedom and responsibility.\n",

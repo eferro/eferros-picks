@@ -315,7 +315,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2023-06-18T06:44:49.000Z",
+        "Last Modified": "2023-06-26T12:42:31.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -421,9 +421,10 @@
             "recKLS8QeOawn7JwY",
             "rec4DPUKuiDGOr4of",
             "recirlexFAzgG5gZt",
-            "recgMNfjEQbF98kc0"
+            "recgMNfjEQbF98kc0",
+            "receYn9iDUfTj3xBp"
         ],
-        "Resources number": 104,
+        "Resources number": 105,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -528,7 +529,8 @@
             "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
             "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
-            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ"
+            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
+            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -2942,7 +2944,7 @@
         "airtable_id": "rech2MAtQRy0Lvc2Y"
     },
     {
-        "Last Modified": "2023-01-08T17:27:54.000Z",
+        "Last Modified": "2023-06-26T12:42:35.000Z",
         "Name": "Company Culture",
         "Resources": [
             "recFssGR3GcaytzUE",
@@ -2976,9 +2978,10 @@
             "recswvNhslMDrLOMK",
             "rec2KdJElwgsP4Uaa",
             "rec0FlFDAe8nf8BU5",
-            "recoN5BMtMjKGPz1b"
+            "recoN5BMtMjKGPz1b",
+            "receYn9iDUfTj3xBp"
         ],
-        "Resources number": 32,
+        "Resources number": 33,
         "Speakers": [
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
             "The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI",
@@ -3011,7 +3014,8 @@
             "Chapter Two with Christina Wodtke, Author of Radical Focus - https://www.youtube.com/watch?v=spPNrzWYpPQ",
             "How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
             "Engineering Your Organization: Services, Platforms, and Communities - https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/",
-            "Seven shipping principles - https://changelog.com/shipit/77"
+            "Seven shipping principles - https://changelog.com/shipit/77",
+            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechSTvKX9sm9HHMA"
@@ -4195,7 +4199,7 @@
         "airtable_id": "recwiPJKumk9LSzL8"
     },
     {
-        "Last Modified": "2023-06-18T06:29:27.000Z",
+        "Last Modified": "2023-06-26T12:42:32.000Z",
         "Name": "Culture",
         "Resources": [
             "recitaMrj8QyQAvHD",
@@ -4203,16 +4207,18 @@
             "recJ4GcimJEOAt9WO",
             "recswvNhslMDrLOMK",
             "rec2KdJElwgsP4Uaa",
-            "recirlexFAzgG5gZt"
+            "recirlexFAzgG5gZt",
+            "receYn9iDUfTj3xBp"
         ],
-        "Resources number": 6,
+        "Resources number": 7,
         "Speakers": [
             "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional",
             "WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998",
             "Workshop: Emociones en equipos de trabajo - https://www.youtube.com/watch?v=c4WlCAEH9Ls",
             "Chapter Two with Christina Wodtke, Author of Radical Focus - https://www.youtube.com/watch?v=spPNrzWYpPQ",
             "How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
-            "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44"
+            "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
+            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI"
         ],
         "airtable_createdTime": "2021-08-12T13:09:17.000Z",
         "airtable_id": "recwjZlYYZq3zj7TU"
