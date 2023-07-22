@@ -1,4 +1,4 @@
-- Last Modified: '2023-01-28T19:43:27.000Z'
+- Last Modified: '2023-07-21T16:09:07.000Z'
   Name: Lean Product Management
   Resources:
   - recnXWD90uga820WV
@@ -31,7 +31,8 @@
   - recm4jFcHXCYvjXOz
   - recQGfbwsNl5WtAws
   - recuhSHXcIgo9xJHc
-  Resources number: 30
+  - reclTVcNeM3EWyoMd
+  Resources number: 31
   Speakers:
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   - Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
@@ -65,6 +66,7 @@
   - Fast-track from Idea to Impact - https://www.youtube.com/watch?v=67ovutBfXPQ
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
   - Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg
+  - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
 - Last Modified: '2023-04-23T18:22:39.000Z'
@@ -2522,7 +2524,7 @@
   - Why Everyone Builds Internal Kubernetes Platforms - https://itnext.io/why-everyone-builds-internal-kubernetes-platforms-284c2cf76226
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recfCstv3TFsotZ9q
-- Last Modified: '2023-04-23T18:11:47.000Z'
+- Last Modified: '2023-07-21T16:08:54.000Z'
   Name: Product
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2594,7 +2596,8 @@
   - reca2iEa1F1UDJOX4
   - recuhSHXcIgo9xJHc
   - recKLS8QeOawn7JwY
-  Resources number: 69
+  - reclTVcNeM3EWyoMd
+  Resources number: 70
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc
@@ -2673,6 +2676,7 @@
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   - Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recg6F5ajOhEkbrdW
 - Last Modified: '2020-05-23T08:45:14.000Z'
@@ -3705,7 +3709,7 @@
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
   airtable_createdTime: '2020-11-09T09:07:28.000Z'
   airtable_id: recqe6nJcnKjqXdps
-- Last Modified: '2023-04-23T18:11:52.000Z'
+- Last Modified: '2023-07-21T16:08:59.000Z'
   Name: Product Discovery
   Resources:
   - recBfVsYe3o327PKD
@@ -3726,7 +3730,8 @@
   - recoRY63Ih9eboaTI
   - recQGfbwsNl5WtAws
   - recKLS8QeOawn7JwY
-  Resources number: 18
+  - reclTVcNeM3EWyoMd
+  Resources number: 19
   Speakers:
   - 'The Marty Cagan special - ProductTank #27 Singapore - https://www.youtube.com/watch?v=idMN-YwiYOs'
   - "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data - https://www.youtube.com/watch?v=f8XDvtfKWQE"
@@ -3748,6 +3753,7 @@
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   - Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   airtable_createdTime: '2020-06-14T11:13:46.000Z'
   airtable_id: recrNBL2FKBzgsQTs
 - Last Modified: '2022-09-18T21:56:23.000Z'
@@ -3823,6 +3829,15 @@
     https://www.se-radio.net/2021/08/episode-473-mike-del-balso-on-feature-stores/'
   airtable_createdTime: '2021-09-05T16:12:26.000Z'
   airtable_id: recsaIUpZIWKoWlQ0
+- Last Modified: '2023-07-21T16:09:24.000Z'
+  Name: Product Engineer
+  Resources:
+  - reclTVcNeM3EWyoMd
+  Resources number: 1
+  Speakers:
+  - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
+  airtable_createdTime: '2023-07-21T16:09:24.000Z'
+  airtable_id: recsle3aIFIsbZcRR
 - Last Modified: '2022-06-26T15:49:34.000Z'
   Name: General
   Resources:
