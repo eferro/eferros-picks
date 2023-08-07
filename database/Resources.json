@@ -13705,15 +13705,16 @@
         "Blog Url": "https://www.eferro.net/2019/04/good-talkspodcasts-april-2019-i.html",
         "Created": "2020-01-19T20:39:22.000Z",
         "Description": "Agile for Human Podcast. Any interview with Kent Beck is always interesting.\n",
+        "Duration": 3000,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
-        "Less 15": 1,
+        "Last Modified": "2023-08-06T21:29:38.000Z",
+        "Less 15": 0,
         "Name": "Ep. 107. Explore, Expand, Extract with Kent Beck",
         "Name (from Speakers)": [
             "Kent Beck"
         ],
         "Published": true,
-        "Resource": "Ep. 107. Explore, Expand, Extract with Kent Beck - https://ryanripley.com/afh-107-explore-expand-extract-with-kent-beck/",
+        "Resource": "Ep. 107. Explore, Expand, Extract with Kent Beck - https://www.youtube.com/watch?v=NaK2az4GNWE",
         "Resource type": "podcast",
         "Speaker WomenInTech": [
             null
@@ -13721,7 +13722,7 @@
         "Speakers": [
             "rechBhL1vENLzvUi6"
         ],
-        "Url": "https://ryanripley.com/afh-107-explore-expand-extract-with-kent-beck/",
+        "Url": "https://www.youtube.com/watch?v=NaK2az4GNWE",
         "airtable_createdTime": "2020-01-19T20:39:22.000Z",
         "airtable_id": "recYU4svEXED3rmx9",
         "registered_at": "2020-01-19T20:39:22.000Z"
