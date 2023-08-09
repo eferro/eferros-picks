@@ -1,6 +1,6 @@
 [
     {
-        "Last Modified": "2023-07-21T16:09:07.000Z",
+        "Last Modified": "2023-08-08T07:00:05.000Z",
         "Name": "Lean Product Management",
         "Resources": [
             "recnXWD90uga820WV",
@@ -33,9 +33,11 @@
             "recm4jFcHXCYvjXOz",
             "recQGfbwsNl5WtAws",
             "recuhSHXcIgo9xJHc",
-            "reclTVcNeM3EWyoMd"
+            "reclTVcNeM3EWyoMd",
+            "reciUkxVDCZbYLk2E",
+            "recSvICPiAU0cN86t"
         ],
-        "Resources number": 31,
+        "Resources number": 33,
         "Speakers": [
             "Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4",
             "Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c",
@@ -67,7 +69,9 @@
             "Fast-track from Idea to Impact - https://www.youtube.com/watch?v=67ovutBfXPQ",
             "Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE",
             "Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg",
-            "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
+            "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
+            "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
+            "Friction - https://vimeo.com/163573399"
         ],
         "airtable_createdTime": "2020-08-09T19:31:05.000Z",
         "airtable_id": "rec0PB37LN1Kz0Blh"
@@ -1611,7 +1615,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2023-06-18T06:56:20.000Z",
+        "Last Modified": "2023-08-08T07:01:06.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1693,9 +1697,10 @@
             "rec0QeqSAE9n3RAu6",
             "recKdIjTXzEsrI7EO",
             "recnkmoWOa4usiuSE",
-            "recH9YE2PIzCNA8Zv"
+            "recH9YE2PIzCNA8Zv",
+            "rec9iNXx9wkcIFbAF"
         ],
-        "Resources number": 80,
+        "Resources number": 81,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1776,7 +1781,8 @@
             "Building Evolutionary Architectures: Principles and Practices - https://www.youtube.com/watch?v=PQBlyAxPje0",
             "How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec",
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
-            "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0"
+            "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0",
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -1824,7 +1830,7 @@
         "airtable_id": "recRy2nXD9Dh7GMhI"
     },
     {
-        "Last Modified": "2023-02-19T21:01:14.000Z",
+        "Last Modified": "2023-08-08T06:54:21.000Z",
         "Name": "Operations",
         "Resources": [
             "recOeXIOfuU3plaew",
@@ -1851,9 +1857,10 @@
             "recDACew9N6gP5AhA",
             "rec3kcsAi7KgeUv5c",
             "recEbeDrLiZUegSaB",
-            "recRBbOu0Yb1BMpo9"
+            "recRBbOu0Yb1BMpo9",
+            "recmOMsXWPRJCtQwC"
         ],
-        "Resources number": 25,
+        "Resources number": 26,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
@@ -1879,7 +1886,8 @@
             "Operational simplicity is a gift to you - https://changelog.com/shipit/62",
             "Agile Book Club: Continuous Deployment (with Kelsey Hightower) - https://www.youtube.com/watch?v=ZpB6BXQLPm8",
             "Why we switched to serverless containers - https://changelog.com/shipit/87",
-            "Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/"
+            "Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/",
+            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recSPiTKbfuhfkshg"
@@ -1965,7 +1973,7 @@
         "airtable_id": "recVEAsHKAjBV6jId"
     },
     {
-        "Last Modified": "2023-02-19T21:05:22.000Z",
+        "Last Modified": "2023-08-08T06:53:54.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2107,9 +2115,11 @@
             "recoN5BMtMjKGPz1b",
             "recmxMzHk07eCaRVF",
             "recIHgDgxmcGBHQJk",
-            "rechnBVbwP7XyJUqp"
+            "rechnBVbwP7XyJUqp",
+            "reciUkxVDCZbYLk2E",
+            "recmOMsXWPRJCtQwC"
         ],
-        "Resources number": 140,
+        "Resources number": 142,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2250,7 +2260,9 @@
             "Seven shipping principles - https://changelog.com/shipit/77",
             "Oredev 2011: Sleeping with the enemy - https://www.youtube.com/watch?v=hIMwTzAAQ-w",
             "Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4",
-            "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo"
+            "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
+            "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
+            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2869,7 +2881,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2023-06-18T06:51:00.000Z",
+        "Last Modified": "2023-08-08T07:00:00.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -2905,9 +2917,11 @@
             "recQGfbwsNl5WtAws",
             "reck60FOvatP5hPnd",
             "recXmr49q5ciJGAMp",
-            "recgMNfjEQbF98kc0"
+            "recgMNfjEQbF98kc0",
+            "reciUkxVDCZbYLk2E",
+            "recSvICPiAU0cN86t"
         ],
-        "Resources number": 34,
+        "Resources number": 36,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -2942,7 +2956,9 @@
             "Adaptive Planning Beyond User Stories - https://www.youtube.com/watch?v=mCC10nTOgTE",
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
             "Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84",
-            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ"
+            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
+            "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
+            "Friction - https://vimeo.com/163573399"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
@@ -3280,7 +3296,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2023-05-06T19:53:02.000Z",
+        "Last Modified": "2023-08-08T07:01:03.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3345,9 +3361,11 @@
             "recjRAqvFByDOS2Wk",
             "recuCBrk3kcf3ZRh1",
             "rechnBVbwP7XyJUqp",
-            "recMP0fXsBeAYZEsH"
+            "recMP0fXsBeAYZEsH",
+            "recSvICPiAU0cN86t",
+            "rec9iNXx9wkcIFbAF"
         ],
-        "Resources number": 63,
+        "Resources number": 65,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3411,7 +3429,9 @@
             "Why Pull Requests Are A BAD IDEA - https://www.youtube.com/watch?v=ASOSEiJCyEM",
             "You Don\u2019t Need CODE OWNERSHIP - https://youtu.be/UwC7nIuiqEw",
             "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
-            "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI"
+            "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI",
+            "Friction - https://vimeo.com/163573399",
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
@@ -3506,7 +3526,7 @@
         "airtable_id": "reclZWPaBbTfn5pQo"
     },
     {
-        "Last Modified": "2023-06-18T06:56:18.000Z",
+        "Last Modified": "2023-08-08T07:01:13.000Z",
         "Name": "Architecture patterns",
         "Resources": [
             "recmUlW6oy0nh41vw",
@@ -3531,9 +3551,10 @@
             "rec0QeqSAE9n3RAu6",
             "recKdIjTXzEsrI7EO",
             "recnkmoWOa4usiuSE",
-            "recH9YE2PIzCNA8Zv"
+            "recH9YE2PIzCNA8Zv",
+            "rec9iNXx9wkcIFbAF"
         ],
-        "Resources number": 23,
+        "Resources number": 24,
         "Speakers": [
             "Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
@@ -3557,7 +3578,8 @@
             "Building Evolutionary Architectures: Principles and Practices - https://www.youtube.com/watch?v=PQBlyAxPje0",
             "How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec",
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
-            "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0"
+            "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0",
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm1G3xxDIQZ5dKc"

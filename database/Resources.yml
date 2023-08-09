@@ -3221,7 +3221,7 @@
   Created: '2020-01-19T20:42:26.000Z'
   Duration: 3420
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-08-08T07:01:13.000Z'
   Less 15: 0
   Name: GOTO 2016 The Future of Software Engineering
   Name (from Speakers):
@@ -3233,6 +3233,10 @@
   - true
   Speakers:
   - recN14NCADFZLDudw
+  Tags:
+  - recin3Ync8iZldW0q
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
   Url: https://www.youtube.com/watch?v=6K4ljFZWgW8
   airtable_createdTime: '2020-01-19T20:42:26.000Z'
   airtable_id: rec9iNXx9wkcIFbAF
@@ -10049,7 +10053,7 @@
     \ Via\_@sandromancuso\n"
   Duration: 3480
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-08-08T07:00:08.000Z'
   Less 15: 0
   Name: Friction
   Name (from Speakers):
@@ -10061,6 +10065,10 @@
   - true
   Speakers:
   - recN14NCADFZLDudw
+  Tags:
+  - rech2MAtQRy0Lvc2Y
+  - rec0PB37LN1Kz0Blh
+  - recin3Ync8iZldW0q
   Url: https://vimeo.com/163573399
   airtable_createdTime: '2020-01-19T20:39:56.000Z'
   airtable_id: recSvICPiAU0cN86t
@@ -15598,7 +15606,7 @@
     Optimizing for speed, flow, and waste reduction. Lean Software Development
   Duration: 3600
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-08-08T06:52:24.000Z'
   Less 15: 0
   Name: Competing On The Basis Of Speed
   Name (from Speakers):
@@ -15611,6 +15619,10 @@
   - true
   Speakers:
   - recN14NCADFZLDudw
+  Tags:
+  - rech2MAtQRy0Lvc2Y
+  - recWFKWrPEdeEYbzx
+  - rec0PB37LN1Kz0Blh
   Url: https://www.youtube.com/watch?v=ZSdsjpCcpFw
   airtable_createdTime: '2020-01-19T20:36:16.000Z'
   airtable_id: reciUkxVDCZbYLk2E
@@ -17277,7 +17289,7 @@
     Good introduction to reliability engineering and SRE.
   Duration: 2760
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-08-08T06:54:21.000Z'
   Less 15: 0
   Name: 'Reliability Engineering: One of the Best Jobs in Software Engineering'
   Name (from Speakers):
@@ -17290,6 +17302,9 @@
   - true
   Speakers:
   - recN14NCADFZLDudw
+  Tags:
+  - recWFKWrPEdeEYbzx
+  - recSPiTKbfuhfkshg
   Url: https://www.youtube.com/watch?v=zlfhJiNmin8
   airtable_createdTime: '2020-01-19T20:39:37.000Z'
   airtable_id: recmOMsXWPRJCtQwC
