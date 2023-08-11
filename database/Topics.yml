@@ -1,4 +1,4 @@
-- Last Modified: '2023-08-08T07:00:05.000Z'
+- Last Modified: '2023-08-10T22:35:27.000Z'
   Name: Lean Product Management
   Resources:
   - recnXWD90uga820WV
@@ -34,7 +34,8 @@
   - reclTVcNeM3EWyoMd
   - reciUkxVDCZbYLk2E
   - recSvICPiAU0cN86t
-  Resources number: 33
+  - recQSVPLU6svtsxEE
+  Resources number: 34
   Speakers:
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   - Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
@@ -71,6 +72,7 @@
   - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   - Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw
   - Friction - https://vimeo.com/163573399
+  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
 - Last Modified: '2023-04-23T18:22:39.000Z'
@@ -297,7 +299,7 @@
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-06-26T12:42:31.000Z'
+- Last Modified: '2023-08-10T22:35:14.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -405,7 +407,8 @@
   - recirlexFAzgG5gZt
   - recgMNfjEQbF98kc0
   - receYn9iDUfTj3xBp
-  Resources number: 105
+  - recQSVPLU6svtsxEE
+  Resources number: 106
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -519,6 +522,7 @@
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
+  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -2765,7 +2769,7 @@
     - https://www.youtube.com/watch?v=0reMVgn6kRo
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2023-08-08T07:00:00.000Z'
+- Last Modified: '2023-08-10T22:35:21.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2804,7 +2808,8 @@
   - recgMNfjEQbF98kc0
   - reciUkxVDCZbYLk2E
   - recSvICPiAU0cN86t
-  Resources number: 36
+  - recQSVPLU6svtsxEE
+  Resources number: 37
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -2843,6 +2848,7 @@
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   - Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw
   - Friction - https://vimeo.com/163573399
+  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2023-06-26T12:42:35.000Z'
@@ -2920,7 +2926,7 @@
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2023-06-18T06:29:23.000Z'
+- Last Modified: '2023-08-10T22:35:31.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3025,7 +3031,8 @@
   - recRjMDkb2xgyznOJ
   - recdLJvVSnFgDDGV9
   - recirlexFAzgG5gZt
-  Resources number: 102
+  - recQSVPLU6svtsxEE
+  Resources number: 103
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3140,6 +3147,7 @@
   - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
+  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2022-12-06T21:16:02.000Z'
@@ -3174,7 +3182,7 @@
   - Those pesky pull request reviews - https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2023-08-08T07:01:03.000Z'
+- Last Modified: '2023-08-10T22:35:18.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3242,7 +3250,8 @@
   - recMP0fXsBeAYZEsH
   - recSvICPiAU0cN86t
   - rec9iNXx9wkcIFbAF
-  Resources number: 65
+  - recQSVPLU6svtsxEE
+  Resources number: 66
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3312,6 +3321,7 @@
   - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   - Friction - https://vimeo.com/163573399
   - GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8
+  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2021-08-12T13:08:45.000Z'

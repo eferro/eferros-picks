@@ -1,6 +1,6 @@
 [
     {
-        "Last Modified": "2023-08-08T07:00:05.000Z",
+        "Last Modified": "2023-08-10T22:35:27.000Z",
         "Name": "Lean Product Management",
         "Resources": [
             "recnXWD90uga820WV",
@@ -35,9 +35,10 @@
             "recuhSHXcIgo9xJHc",
             "reclTVcNeM3EWyoMd",
             "reciUkxVDCZbYLk2E",
-            "recSvICPiAU0cN86t"
+            "recSvICPiAU0cN86t",
+            "recQSVPLU6svtsxEE"
         ],
-        "Resources number": 33,
+        "Resources number": 34,
         "Speakers": [
             "Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4",
             "Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c",
@@ -71,7 +72,8 @@
             "Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg",
             "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
-            "Friction - https://vimeo.com/163573399"
+            "Friction - https://vimeo.com/163573399",
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-08-09T19:31:05.000Z",
         "airtable_id": "rec0PB37LN1Kz0Blh"
@@ -321,7 +323,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2023-06-26T12:42:31.000Z",
+        "Last Modified": "2023-08-10T22:35:14.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -428,9 +430,10 @@
             "rec4DPUKuiDGOr4of",
             "recirlexFAzgG5gZt",
             "recgMNfjEQbF98kc0",
-            "receYn9iDUfTj3xBp"
+            "receYn9iDUfTj3xBp",
+            "recQSVPLU6svtsxEE"
         ],
-        "Resources number": 105,
+        "Resources number": 106,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -536,7 +539,8 @@
             "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
-            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI"
+            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -2881,7 +2885,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2023-08-08T07:00:00.000Z",
+        "Last Modified": "2023-08-10T22:35:21.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -2919,9 +2923,10 @@
             "recXmr49q5ciJGAMp",
             "recgMNfjEQbF98kc0",
             "reciUkxVDCZbYLk2E",
-            "recSvICPiAU0cN86t"
+            "recSvICPiAU0cN86t",
+            "recQSVPLU6svtsxEE"
         ],
-        "Resources number": 36,
+        "Resources number": 37,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -2958,7 +2963,8 @@
             "Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
-            "Friction - https://vimeo.com/163573399"
+            "Friction - https://vimeo.com/163573399",
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
@@ -3041,7 +3047,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2023-06-18T06:29:23.000Z",
+        "Last Modified": "2023-08-10T22:35:31.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3145,9 +3151,10 @@
             "recJQ6cyJaPhW0dGq",
             "recRjMDkb2xgyznOJ",
             "recdLJvVSnFgDDGV9",
-            "recirlexFAzgG5gZt"
+            "recirlexFAzgG5gZt",
+            "recQSVPLU6svtsxEE"
         ],
-        "Resources number": 102,
+        "Resources number": 103,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3250,7 +3257,8 @@
             "Agile Book Club: Evolutionary Design (with Kent Beck) - https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design",
             "\"Unembedding\" embedded systems with TDD: benefits of going beyond the make-it-work phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/",
             "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
-            "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44"
+            "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
@@ -3296,7 +3304,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2023-08-08T07:01:03.000Z",
+        "Last Modified": "2023-08-10T22:35:18.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3363,9 +3371,10 @@
             "rechnBVbwP7XyJUqp",
             "recMP0fXsBeAYZEsH",
             "recSvICPiAU0cN86t",
-            "rec9iNXx9wkcIFbAF"
+            "rec9iNXx9wkcIFbAF",
+            "recQSVPLU6svtsxEE"
         ],
-        "Resources number": 65,
+        "Resources number": 66,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3431,7 +3440,8 @@
             "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
             "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI",
             "Friction - https://vimeo.com/163573399",
-            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8",
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
