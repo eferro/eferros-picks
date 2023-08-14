@@ -14037,34 +14037,6 @@
   airtable_createdTime: '2021-02-06T22:37:35.000Z'
   airtable_id: rece8B11u0Arm1S6H
   registered_at: '2021-02-06T22:37:35.000Z'
-- Blog Url: https://www.eferro.net/2015/06/more-interesting-podcaststalks.html
-  Created: '2020-01-19T20:37:07.000Z'
-  Description: |2+
-
-  Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
-  Less 15: 1
-  Name: Radical Ideas from the Practice of Cloud Computing
-  Name (from Speakers):
-  - Tom Limoncelli
-  Published: true
-  Rating: 5
-  Resource: Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk
-  Resource type: talk
-  Speaker WomenInTech:
-  - null
-  Speakers:
-  - recCi1bkaGbaVP23p
-  Tags:
-  - rec945yNhVIzyZIuX
-  - recSPiTKbfuhfkshg
-  - recFbzSbd07ttDIYJ
-  - recQ4hio93eTgzFTS
-  - recPoM7t8neA7gkZ5
-  Url: https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk
-  airtable_createdTime: '2020-01-19T20:37:07.000Z'
-  airtable_id: rece9dbC0I23AAnkz
-  registered_at: '2020-01-19T20:37:07.000Z'
 - Blog Url: https://www.eferro.net/2022/09/good-talkspodcasts-sept-2022-i.html
   Created: '2022-09-18T21:39:58.000Z'
   Description: "In this episode, Dave Farley offers his advice on how to pick great\
@@ -16528,20 +16500,20 @@
     Some good points about the easy evolution of a system when the services are small enough to be understandables and to be rewritten without fear.
   Duration: 2520
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-08-13T08:49:27.000Z'
   Less 15: 0
   Name: The art of destroying software
   Name (from Speakers):
   - Greg Young
   Published: true
   Rating: 5
-  Resource: The art of destroying software - https://vimeo.com/108441214
+  Resource: The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA
   Resource type: talk
   Speaker WomenInTech:
   - null
   Speakers:
   - recIyHsIVkIEKn9TJ
-  Url: https://vimeo.com/108441214
+  Url: https://www.youtube.com/watch?v=Ed94CfxgsCA
   airtable_createdTime: '2020-01-19T20:37:55.000Z'
   airtable_id: reckjL9O859XqGTqO
   registered_at: '2020-01-19T20:37:55.000Z'

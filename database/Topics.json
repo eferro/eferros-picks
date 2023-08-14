@@ -595,13 +595,12 @@
         "airtable_id": "rec8Z4b4p6s6IhX2C"
     },
     {
-        "Last Modified": "2023-02-19T20:35:46.000Z",
+        "Last Modified": "2023-08-13T08:44:24.000Z",
         "Name": "Cloud",
         "Resources": [
             "recci0Pe28klxq9Ii",
             "recOeXIOfuU3plaew",
             "recQOMvCh9ARZzmvU",
-            "rece9dbC0I23AAnkz",
             "recZJhbP20TRkvptw",
             "recL38FlndxJ10fBa",
             "rec2DFjI7MRRpAkZH",
@@ -616,12 +615,11 @@
             "reccNlMl6JcDotm1s",
             "recEbeDrLiZUegSaB"
         ],
-        "Resources number": 17,
+        "Resources number": 16,
         "Speakers": [
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "AWS re:Invent 2019: Innovation at speed (ARC203) - https://www.youtube.com/watch?v=8ona5ZTu4_E",
-            "Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk",
             "Cloud-Native Data Pipelines with Apache Kafka - https://www.infoq.com/presentations/cloud-native-data-pipeline-kafka/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
             "Snow White and the 777.777.777 Dwarfs - https://www.youtube.com/watch?v=UBVHQaI02PQ",
@@ -985,7 +983,7 @@
         "airtable_id": "recF9sEGaOJ0hiQgV"
     },
     {
-        "Last Modified": "2023-05-06T20:23:02.000Z",
+        "Last Modified": "2023-08-13T08:44:24.000Z",
         "Name": "Technical Practices",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -1002,7 +1000,6 @@
             "rec196igISYsL88OY",
             "rec8gCVVFybtc21ia",
             "recnHl5pGRH2db0xL",
-            "rece9dbC0I23AAnkz",
             "rec0szxoxg4meCztF",
             "recrhg1nNQV8vFGzo",
             "recqBPwWhGCxXDOK1",
@@ -1094,7 +1091,7 @@
             "rechcjxuU2Gdb0VKR",
             "reck60FOvatP5hPnd"
         ],
-        "Resources number": 105,
+        "Resources number": 104,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
@@ -1110,7 +1107,6 @@
             "Testing and Refactoring Legacy Code - https://www.youtube.com/watch?v=JTHMd1nQlSg",
             "RailsConf 2014 - All the Little Things - https://www.youtube.com/watch?v=8bZh5LMaSmE",
             "Succeeding with TDD: Pragmatic Techniques for effective mocking - https://vimeo.com/68383352",
-            "Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk",
             "Towards an Evolutionary Architecture - https://vimeo.com/97537675",
             "The Next Decade of Agile Software Development - https://vimeo.com/107963073",
             "Are We There Yet? - http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey",
@@ -1488,14 +1484,13 @@
         "airtable_id": "recPcLVyg0S4ORUkX"
     },
     {
-        "Last Modified": "2023-06-18T06:44:53.000Z",
+        "Last Modified": "2023-08-13T08:44:24.000Z",
         "Name": "Devops",
         "Resources": [
             "recOeXIOfuU3plaew",
             "recQnJkBL0Lz9gF1e",
             "recBws9o3EbHuGOSm",
             "reccPJ6664PBbQ5jf",
-            "rece9dbC0I23AAnkz",
             "recjU9kG9ieUj24TR",
             "recB5UInSJczycoU6",
             "recNo2j15GSF4Bjuo",
@@ -1552,13 +1547,12 @@
             "recXmr49q5ciJGAMp",
             "recgMNfjEQbF98kc0"
         ],
-        "Resources number": 60,
+        "Resources number": 59,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
             "From startups to big-business: Using functional programming techniques to transform line-of-business applications - https://www.youtube.com/watch?v=dSCzCaiWgLM",
             "Why Everyone Needs DevOps Now: A Fourteen Year Study Of High Performing IT Organizations - https://www.agilealliance.org/resources/videos/why-everyone-needs-devops-now/",
-            "Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk",
             "Everything about distributed systems is terrible - https://www.youtube.com/watch?v=tfnldxWlOhM",
             "Advanced Continuous Delivery Best Practices (DEV317-R1) - https://www.youtube.com/watch?v=Jnl29J3RJQ4",
             "Forging a Functional Enterprise: How thinking Functionally Transforms Line-of-Business Applications - https://www.youtube.com/watch?v=n5S3hScE6dU",
@@ -1619,7 +1613,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2023-08-08T07:01:06.000Z",
+        "Last Modified": "2023-08-13T08:44:24.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1631,7 +1625,6 @@
             "recnyzknPWJh5BuFV",
             "recBws9o3EbHuGOSm",
             "rec9IEqcwYho7He9k",
-            "rece9dbC0I23AAnkz",
             "rec0szxoxg4meCztF",
             "rec8c57pCxRCLZnPK",
             "recIOfjqnhxyzz2w5",
@@ -1704,7 +1697,7 @@
             "recH9YE2PIzCNA8Zv",
             "rec9iNXx9wkcIFbAF"
         ],
-        "Resources number": 81,
+        "Resources number": 80,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1715,7 +1708,6 @@
             "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore",
             "From startups to big-business: Using functional programming techniques to transform line-of-business applications - https://www.youtube.com/watch?v=dSCzCaiWgLM",
             "Architects live in the first derivative - https://www.youtube.com/watch?v=sRNyqJJk6Jg",
-            "Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk",
             "Towards an Evolutionary Architecture - https://vimeo.com/97537675",
             "Crafted Design - https://vimeo.com/107963074",
             "Baruco 2012: Micro-Service Architecture - https://www.youtube.com/watch?v=2rKEveL55TY",
@@ -1834,14 +1826,13 @@
         "airtable_id": "recRy2nXD9Dh7GMhI"
     },
     {
-        "Last Modified": "2023-08-08T06:54:21.000Z",
+        "Last Modified": "2023-08-13T08:44:24.000Z",
         "Name": "Operations",
         "Resources": [
             "recOeXIOfuU3plaew",
             "recQnJkBL0Lz9gF1e",
             "recQOMvCh9ARZzmvU",
             "rec9IEqcwYho7He9k",
-            "rece9dbC0I23AAnkz",
             "recmn7ikJ53QUJ7dY",
             "recSyiauIiX7OQ8pp",
             "recP6JVPIkZphh1PN",
@@ -1864,13 +1855,12 @@
             "recRBbOu0Yb1BMpo9",
             "recmOMsXWPRJCtQwC"
         ],
-        "Resources number": 26,
+        "Resources number": 25,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
             "AWS re:Invent 2019: Innovation at speed (ARC203) - https://www.youtube.com/watch?v=8ona5ZTu4_E",
             "Architects live in the first derivative - https://www.youtube.com/watch?v=sRNyqJJk6Jg",
-            "Radical Ideas from the Practice of Cloud Computing - https://www.usenix.org/conference/lisa14/conference-program/presentation/limoncelli-talk",
             "Applying the Serverless Mindset to Any Tech Stack - https://www.youtube.com/watch?v=8Rzv68K8ZOY",
             "Observability: What Got You Here Won\u2019t Get You There - https://www.youtube.com/watch?v=_Us87QztuLw",
             "Full Cycle Developers @Netflix - https://www.infoq.com/presentations/netflix-devops/",
