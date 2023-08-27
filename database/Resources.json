@@ -5342,6 +5342,38 @@
         "registered_at": "2020-01-19T20:31:54.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T18:52:51.000Z",
+        "Description": "Interesting talk about the ShapeUp product development methodology and how it can be used in different contexts. Very interesting ideas even if you don't use ShapeUp.\n",
+        "Duration": 2820,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:43.000Z",
+        "Less 15": 0,
+        "Name": "Scaling Shape Up Beyond Bootstrapped Companies",
+        "Name (from Speakers)": [
+            "Ryan Singer"
+        ],
+        "Published": true,
+        "Rating": 4,
+        "Resource": "Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recAGFHm6ab38inA1"
+        ],
+        "Tags": [
+            "recg6F5ajOhEkbrdW",
+            "rec51AOvJVPEWfUVK",
+            "recplrWe03uLQY5MN"
+        ],
+        "Url": "https://www.youtube.com/watch?v=XG4HxI1hZOA",
+        "airtable_createdTime": "2023-08-26T18:52:51.000Z",
+        "airtable_id": "recCtlo35BNB4e9Cv",
+        "registered_at": "2023-08-26T18:52:51.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/11/good-talkspodcasts-november-2021-i.html",
         "Created": "2020-01-19T20:41:29.000Z",
         "Description": "Ward Cunningham reflects on the history, motivation and common misunderstanding of the \"debt metaphor\" as motivation for refactoring.\n",
@@ -5672,6 +5704,37 @@
         "airtable_createdTime": "2020-01-19T20:40:56.000Z",
         "airtable_id": "recDq5akib8GuYJ8w",
         "registered_at": "2020-01-19T20:40:56.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T21:25:52.000Z",
+        "Description": "Presentation on 'Minimal Viable Architecture', discussing its evolution alongside a product's lifecycle phases: idea, start, scale, and optimize. Each phase examines business goals, constraints, and suggests corresponding software architecture.\n",
+        "Duration": 2820,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:54.000Z",
+        "Less 15": 0,
+        "Name": "Minimum Viable Architecture",
+        "Name (from Speakers)": [
+            "Randy Shoup"
+        ],
+        "Published": true,
+        "Resource": "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recA5JlOnMovEEbtt"
+        ],
+        "Tags": [
+            "recQ4hio93eTgzFTS",
+            "recs8FWnaRcAcdOoW",
+            "recm1G3xxDIQZ5dKc"
+        ],
+        "Url": "https://www.youtube.com/watch?v=9Q7GANXn02k",
+        "airtable_createdTime": "2023-08-26T21:25:52.000Z",
+        "airtable_id": "recDuMsSeSzfLLbsV",
+        "registered_at": "2023-08-26T21:25:52.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/07/good-talkspodcasts-junjul-2018-i.html",
@@ -7488,6 +7551,36 @@
         "airtable_createdTime": "2021-08-14T07:27:31.000Z",
         "airtable_id": "recI0tRR0AaRwBuXj",
         "registered_at": "2021-08-14T07:27:31.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T21:20:34.000Z",
+        "Description": "Interesting reflections on how the profession of software developer might evolve with the introduction of AI (LLMs, GenAI). Among other topics, Michael talks about the importance of quality in this environment, the adaptation of practices like TDD, and the need to specify precise requirements, etc.\n",
+        "Duration": 1980,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:48.000Z",
+        "Less 15": 0,
+        "Name": "AI Impacts in Development Practice",
+        "Name (from Speakers)": [
+            "Michael Feathers"
+        ],
+        "Published": true,
+        "Resource": "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recxIEBH98KfI6Cxf"
+        ],
+        "Tags": [
+            "recxJkIWVynhDpBOI",
+            "recmuONwokRtPS6Tp"
+        ],
+        "Url": "https://www.youtube.com/watch?v=_oHiyunEMF0",
+        "airtable_createdTime": "2023-08-26T21:20:34.000Z",
+        "airtable_id": "recI7pOxCd4Pe84x8",
+        "registered_at": "2023-08-26T21:20:34.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2017/08/good-talkspodcasts-episodes-purging.html",
@@ -10190,6 +10283,37 @@
         "registered_at": "2022-12-06T20:52:52.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T21:28:04.000Z",
+        "Description": "Great introduction to the differences between traditional software development and the development cycle with AI models. Nerea introduces concepts such as Continuous training, model deployment, MLOps, and collaboration between data scientists and software engineers. Highly recommended for software engineers looking to delve into these topics and collaborate more closely on AI-based feature development.\n",
+        "Duration": 3240,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:58.000Z",
+        "Less 15": 0,
+        "Name": "Artificial Intelligence seen from the software development lifecycle perspective",
+        "Name (from Speakers)": [
+            "Nerea Luis"
+        ],
+        "Published": true,
+        "Rating": 5,
+        "Resource": "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recP2A3mHqqu0ARQT"
+        ],
+        "Tags": [
+            "rec7W7Us70Af2REIy",
+            "recmuONwokRtPS6Tp"
+        ],
+        "Url": "https://www.youtube.com/watch?v=a_T21Lf26pc",
+        "airtable_createdTime": "2023-08-26T21:28:04.000Z",
+        "airtable_id": "recOuZnBtAOlBoiwo",
+        "registered_at": "2023-08-26T21:28:04.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/03/good-talkspodcasts-march-2021-i.html",
         "Created": "2021-02-06T22:57:45.000Z",
         "Description": "An interesting discussion about testing in production and rethinking socio-technical systems from the ground up.\n",
@@ -10803,16 +10927,18 @@
         "registered_at": "2020-01-19T20:37:54.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
         "Created": "2023-08-10T22:32:14.000Z",
         "Description": "This presentation by Dave Farley shows that software development is not just about translating perfect requirements into code, but rather a process of discovery and exploration. It acknowledges that the nature of the problems being solved has changed and that it is impossible to have all the answers. It emphasizes that successful software products must be able to adapt and evolve over time, and that the key to success is embracing change and making it easy, safe, and low-cost.\n\n",
         "Duration": 780,
         "Language": "English",
-        "Last Modified": "2023-08-10T22:35:31.000Z",
+        "Last Modified": "2023-08-26T22:03:35.000Z",
         "Less 15": 1,
         "Name": "CONSTANT Changes To User Requirements Drive Me CRAZY",
         "Name (from Speakers)": [
             "Dave Farley"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
         "Resource type": "talk",
@@ -16614,16 +16740,18 @@
         "registered_at": "2020-11-09T09:16:19.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
         "Created": "2023-06-26T12:40:13.000Z",
         "Description": "Great description of the impact of trust on team members and leaders.\n",
-        "Duration": 8460,
+        "Duration": 120,
         "Language": "English",
-        "Last Modified": "2023-06-26T12:42:35.000Z",
-        "Less 15": 0,
+        "Last Modified": "2023-08-26T22:03:29.000Z",
+        "Less 15": 1,
         "Name": "Simon Sinek Performance vs Trust",
         "Name (from Speakers)": [
             "Simon Sinek"
         ],
+        "Published": true,
         "Rating": 5,
         "Resource": "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
         "Resource type": "talk",
@@ -20030,6 +20158,39 @@
         "registered_at": "2020-01-19T20:39:05.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T18:46:07.000Z",
+        "Description": "Diana Hu shares her advice for being a technical founder at the earliest stages - including topics like how to ship an MVP fast, how to deal with technology choices and technical debt, and how and when to hire an engineering team.\n",
+        "Duration": 1680,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:37.000Z",
+        "Less 15": 0,
+        "Name": "Tips For Technical Startup Founders | Startup School",
+        "Name (from Speakers)": [
+            "Diana Hu"
+        ],
+        "Published": true,
+        "Rating": 5,
+        "Resource": "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            true
+        ],
+        "Speakers": [
+            "recjxfW7KFrjn8dCr"
+        ],
+        "Tags": [
+            "rec6JMQpL2LSjoP2E",
+            "recLS0zTJxflAcqBu",
+            "rech2MAtQRy0Lvc2Y",
+            "recDLQajzALuoHW40"
+        ],
+        "Url": "https://www.youtube.com/watch?v=rP7bpYsfa6Q",
+        "airtable_createdTime": "2023-08-26T18:46:07.000Z",
+        "airtable_id": "reclsxslEsaXTMpfo",
+        "registered_at": "2023-08-26T18:46:07.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2019/04/good-talkspodcasts-april-2019-i.html",
         "Created": "2020-01-19T20:39:23.000Z",
         "Description": "This talk is a little bit dense but it provided a good mental model to think about product development.\n",
@@ -22279,6 +22440,37 @@
         "airtable_createdTime": "2020-01-19T20:35:37.000Z",
         "airtable_id": "recqPhgzuRBZZM2f9",
         "registered_at": "2020-01-19T20:35:37.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
+        "Created": "2023-08-26T21:24:17.000Z",
+        "Description": "he perspective of evolution, design, and team organization in the context of rapid growth and at a scale hard to imagine.\n",
+        "Duration": 3180,
+        "Language": "English",
+        "Last Modified": "2023-08-26T22:03:51.000Z",
+        "Less 15": 0,
+        "Name": "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3)",
+        "Name (from Speakers)": [
+            "Andy Warfield"
+        ],
+        "Published": true,
+        "Resource": "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recBhT9yAJtOfwGDr"
+        ],
+        "Tags": [
+            "recWFKWrPEdeEYbzx",
+            "recgcJy2O48j2V5SW",
+            "recl7w0SkqE9A3GAI"
+        ],
+        "Url": "https://www.youtube.com/watch?v=sc3J4McebHE",
+        "airtable_createdTime": "2023-08-26T21:24:17.000Z",
+        "airtable_id": "recqZwmfIMth4GnWj",
+        "registered_at": "2023-08-26T21:24:17.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2022/01/good-talkspodcasts-january-2022-ii.html",

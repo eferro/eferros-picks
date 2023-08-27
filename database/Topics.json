@@ -242,7 +242,7 @@
         "airtable_id": "rec4gRjrYk5XVT03n"
     },
     {
-        "Last Modified": "2023-01-28T19:43:35.000Z",
+        "Last Modified": "2023-08-26T18:54:38.000Z",
         "Name": "Product Strategy",
         "Resources": [
             "rec9OjoMhRCiQQxH4",
@@ -262,9 +262,10 @@
             "rec0L5sGoMCbQvVWQ",
             "recafrPZUnygCGxiz",
             "recCZBg2e64L4QsLL",
-            "recuhSHXcIgo9xJHc"
+            "recuhSHXcIgo9xJHc",
+            "recCtlo35BNB4e9Cv"
         ],
-        "Resources number": 18,
+        "Resources number": 19,
         "Speakers": [
             "Habits, Practices & Strategy For Building Viral Products - https://www.youtube.com/watch?v=5Qt5gjzKtZc",
             "Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4",
@@ -283,7 +284,8 @@
             "CTO Craft 2021: Cross the River by Feeling the Stones - https://www.youtube.com/watch?v=8ofVYgKYTsk",
             "The Root Causes of Product Failure - https://www.youtube.com/watch?v=9dccd8lihpQ",
             "Make Impacts Not Software - https://www.youtube.com/watch?v=GnK_n9Udhhs",
-            "Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg"
+            "Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg",
+            "Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA"
         ],
         "airtable_createdTime": "2020-07-08T07:01:11.000Z",
         "airtable_id": "rec51AOvJVPEWfUVK"
@@ -323,7 +325,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2023-08-10T22:35:14.000Z",
+        "Last Modified": "2023-08-26T18:48:37.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -431,9 +433,10 @@
             "recirlexFAzgG5gZt",
             "recgMNfjEQbF98kc0",
             "receYn9iDUfTj3xBp",
-            "recQSVPLU6svtsxEE"
+            "recQSVPLU6svtsxEE",
+            "reclsxslEsaXTMpfo"
         ],
-        "Resources number": 106,
+        "Resources number": 107,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -540,7 +543,8 @@
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
             "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
-            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -557,6 +561,19 @@
         ],
         "airtable_createdTime": "2022-02-12T21:43:01.000Z",
         "airtable_id": "rec7SonT1KaTGquvb"
+    },
+    {
+        "Last Modified": "2023-08-26T21:42:16.000Z",
+        "Name": "MLOps",
+        "Resources": [
+            "recOuZnBtAOlBoiwo"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc"
+        ],
+        "airtable_createdTime": "2023-08-26T21:42:16.000Z",
+        "airtable_id": "rec7W7Us70Af2REIy"
     },
     {
         "Last Modified": "2023-06-18T06:38:42.000Z",
@@ -831,6 +848,19 @@
         ],
         "airtable_createdTime": "2022-10-09T09:31:53.000Z",
         "airtable_id": "recDFzWENoFZ1WRp9"
+    },
+    {
+        "Last Modified": "2023-08-26T18:48:53.000Z",
+        "Name": "Lean Startup",
+        "Resources": [
+            "reclsxslEsaXTMpfo"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
+        ],
+        "airtable_createdTime": "2023-08-26T18:48:53.000Z",
+        "airtable_id": "recDLQajzALuoHW40"
     },
     {
         "Last Modified": "2022-09-18T22:38:32.000Z",
@@ -1288,18 +1318,20 @@
         "airtable_id": "recL3VscFTVNbqlMM"
     },
     {
-        "Last Modified": "2022-12-06T21:12:43.000Z",
+        "Last Modified": "2023-08-26T18:48:39.000Z",
         "Name": "startup",
         "Resources": [
             "recf1NHsyuYoudLfC",
             "rec6HhQDUdgqV7sAF",
-            "reca2iEa1F1UDJOX4"
+            "reca2iEa1F1UDJOX4",
+            "reclsxslEsaXTMpfo"
         ],
-        "Resources number": 3,
+        "Resources number": 4,
         "Speakers": [
             "How to Build Products Users Love with Kevin Hale (How to Start a Startup 2014: Lecture 7) - https://www.youtube.com/watch?v=12D8zEdOPYo",
             "Wired for Success - Business Modelling for Startups - https://www.youtube.com/watch?v=-ANI2UXqzy8",
-            "SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/"
+            "SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/",
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
         ],
         "airtable_createdTime": "2021-06-30T06:31:17.000Z",
         "airtable_id": "recLS0zTJxflAcqBu"
@@ -1613,7 +1645,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2023-08-13T08:44:24.000Z",
+        "Last Modified": "2023-08-26T21:36:03.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1695,9 +1727,10 @@
             "recKdIjTXzEsrI7EO",
             "recnkmoWOa4usiuSE",
             "recH9YE2PIzCNA8Zv",
-            "rec9iNXx9wkcIFbAF"
+            "rec9iNXx9wkcIFbAF",
+            "recDuMsSeSzfLLbsV"
         ],
-        "Resources number": 80,
+        "Resources number": 81,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1778,7 +1811,8 @@
             "How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec",
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
             "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0",
-            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8",
+            "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -1967,7 +2001,7 @@
         "airtable_id": "recVEAsHKAjBV6jId"
     },
     {
-        "Last Modified": "2023-08-08T06:53:54.000Z",
+        "Last Modified": "2023-08-26T21:33:35.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2111,9 +2145,10 @@
             "recIHgDgxmcGBHQJk",
             "rechnBVbwP7XyJUqp",
             "reciUkxVDCZbYLk2E",
-            "recmOMsXWPRJCtQwC"
+            "recmOMsXWPRJCtQwC",
+            "recqZwmfIMth4GnWj"
         ],
-        "Resources number": 142,
+        "Resources number": 143,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2256,7 +2291,8 @@
             "Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4",
             "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
-            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8"
+            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8",
+            "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2648,7 +2684,7 @@
         "airtable_id": "recfCstv3TFsotZ9q"
     },
     {
-        "Last Modified": "2023-07-21T16:08:54.000Z",
+        "Last Modified": "2023-08-26T18:54:33.000Z",
         "Name": "Product",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2720,9 +2756,10 @@
             "reca2iEa1F1UDJOX4",
             "recuhSHXcIgo9xJHc",
             "recKLS8QeOawn7JwY",
-            "reclTVcNeM3EWyoMd"
+            "reclTVcNeM3EWyoMd",
+            "recCtlo35BNB4e9Cv"
         ],
-        "Resources number": 70,
+        "Resources number": 71,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc",
@@ -2793,7 +2830,8 @@
             "SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/",
             "Facilitating Impact Mapping - https://www.youtube.com/watch?v=vDIyU4k9hWg",
             "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
-            "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
+            "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
+            "Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recg6F5ajOhEkbrdW"
@@ -2814,7 +2852,7 @@
         "airtable_id": "recgEKQV2Gwxxtdf2"
     },
     {
-        "Last Modified": "2022-08-15T16:02:50.000Z",
+        "Last Modified": "2023-08-26T21:33:40.000Z",
         "Name": "Scalability",
         "Resources": [
             "recSuNxI6AZPoqJYa",
@@ -2841,9 +2879,10 @@
             "recGXOnOo7jejkQV7",
             "recDy9NVQflmwSa4B",
             "recMCjk51zSF8I6Jm",
-            "reca5eujcc1ryM5Br"
+            "reca5eujcc1ryM5Br",
+            "recqZwmfIMth4GnWj"
         ],
-        "Resources number": 25,
+        "Resources number": 26,
         "Speakers": [
             "Architecting a Modern Financial Institution with Vitor Olivier, Thoughts on Immutability, CI/CD, FP - https://www.infoq.com/podcasts/Vitor-Olivier",
             "Command-Query Responsibility Segregation - https://www.infoq.com/presentations/Command-Query-Responsibility-Segregation",
@@ -2869,13 +2908,14 @@
             "Velocity and Volume or Speed Wins - https://www.youtube.com/watch?v=wyWI3gLpB8o",
             "Digital Transformation - https://www.youtube.com/watch?v=7lDWXtNjVyQ",
             "If (domain logic) then CQRS, or Saga? - https://www.youtube.com/watch?v=fWU8ZK0Dmxs",
-            "How Fast is Your Computer? | DESIGNING FOR HIGH PERFORMANCE (Mechanical Sympathy) - https://www.youtube.com/watch?v=0reMVgn6kRo"
+            "How Fast is Your Computer? | DESIGNING FOR HIGH PERFORMANCE (Mechanical Sympathy) - https://www.youtube.com/watch?v=0reMVgn6kRo",
+            "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2023-08-10T22:35:21.000Z",
+        "Last Modified": "2023-08-26T18:48:43.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -2914,9 +2954,10 @@
             "recgMNfjEQbF98kc0",
             "reciUkxVDCZbYLk2E",
             "recSvICPiAU0cN86t",
-            "recQSVPLU6svtsxEE"
+            "recQSVPLU6svtsxEE",
+            "reclsxslEsaXTMpfo"
         ],
-        "Resources number": 37,
+        "Resources number": 38,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -2954,7 +2995,8 @@
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
             "Friction - https://vimeo.com/163573399",
-            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
@@ -3498,16 +3540,18 @@
         "airtable_id": "reck5fBLLF9Drj8rk"
     },
     {
-        "Last Modified": "2022-08-15T16:03:11.000Z",
+        "Last Modified": "2023-08-26T21:33:51.000Z",
         "Name": "Engineering Scalability",
         "Resources": [
             "rec4SJpVcSeIFUOfq",
-            "rec4grFdhA7wAX8Wy"
+            "rec4grFdhA7wAX8Wy",
+            "recqZwmfIMth4GnWj"
         ],
-        "Resources number": 2,
+        "Resources number": 3,
         "Speakers": [
             "Scaling from 5 to 250 engineers - https://www.youtube.com/watch?v=qau1aGYc3lA",
-            "Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY"
+            "Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY",
+            "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE"
         ],
         "airtable_createdTime": "2022-08-15T16:02:46.000Z",
         "airtable_id": "recl7w0SkqE9A3GAI"
@@ -3526,7 +3570,7 @@
         "airtable_id": "reclZWPaBbTfn5pQo"
     },
     {
-        "Last Modified": "2023-08-08T07:01:13.000Z",
+        "Last Modified": "2023-08-26T21:36:10.000Z",
         "Name": "Architecture patterns",
         "Resources": [
             "recmUlW6oy0nh41vw",
@@ -3552,9 +3596,10 @@
             "recKdIjTXzEsrI7EO",
             "recnkmoWOa4usiuSE",
             "recH9YE2PIzCNA8Zv",
-            "rec9iNXx9wkcIFbAF"
+            "rec9iNXx9wkcIFbAF",
+            "recDuMsSeSzfLLbsV"
         ],
-        "Resources number": 24,
+        "Resources number": 25,
         "Speakers": [
             "Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
@@ -3579,7 +3624,8 @@
             "How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec",
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
             "AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0",
-            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8"
+            "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8",
+            "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm1G3xxDIQZ5dKc"
@@ -3735,24 +3781,28 @@
         "airtable_id": "recmPbBNpUB7Q5XyX"
     },
     {
-        "Last Modified": "2023-04-23T18:34:37.000Z",
+        "Last Modified": "2023-08-26T21:42:20.000Z",
         "Name": "AI",
         "Resources": [
             "recfwzidrRnl6Ut5j",
             "rec1OjPEfpTWlaDDP",
-            "rec6PC7Ml4HLNxjnJ"
+            "rec6PC7Ml4HLNxjnJ",
+            "recI7pOxCd4Pe84x8",
+            "recOuZnBtAOlBoiwo"
         ],
-        "Resources number": 3,
+        "Resources number": 5,
         "Speakers": [
             "The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw",
             "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
-            "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4"
+            "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
+            "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
+            "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc"
         ],
         "airtable_createdTime": "2021-08-14T07:25:39.000Z",
         "airtable_id": "recmuONwokRtPS6Tp"
     },
     {
-        "Last Modified": "2023-05-06T20:23:09.000Z",
+        "Last Modified": "2023-08-26T21:36:01.000Z",
         "Name": "Evolutionary Design",
         "Resources": [
             "recHTVTL3hM9YyEuY",
@@ -3789,14 +3839,16 @@
         "airtable_id": "recnvzS3XS3MGHk3e"
     },
     {
-        "Last Modified": "2023-04-23T18:12:16.000Z",
+        "Last Modified": "2023-08-26T18:54:42.000Z",
         "Name": "Product Leadership",
         "Resources": [
-            "recKLS8QeOawn7JwY"
+            "recKLS8QeOawn7JwY",
+            "recCtlo35BNB4e9Cv"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY"
+            "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
+            "Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA"
         ],
         "airtable_createdTime": "2023-04-23T18:12:16.000Z",
         "airtable_id": "recplrWe03uLQY5MN"
@@ -3996,14 +4048,16 @@
         "airtable_id": "recs3XV2rYhyC6qe8"
     },
     {
-        "Last Modified": "2022-12-06T20:50:16.000Z",
+        "Last Modified": "2023-08-26T21:36:06.000Z",
         "Name": "Evolutionary Architecture",
         "Resources": [
-            "recnkmoWOa4usiuSE"
+            "recnkmoWOa4usiuSE",
+            "recDuMsSeSzfLLbsV"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU"
+            "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
+            "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k"
         ],
         "airtable_createdTime": "2022-12-06T20:50:16.000Z",
         "airtable_id": "recs8FWnaRcAcdOoW"
@@ -4265,7 +4319,7 @@
         "airtable_id": "recwjZlYYZq3zj7TU"
     },
     {
-        "Last Modified": "2023-01-08T17:43:42.000Z",
+        "Last Modified": "2023-08-26T21:22:25.000Z",
         "Name": "Devex",
         "Resources": [
             "rechYABcryStzbIMe",
@@ -4295,9 +4349,10 @@
             "recNZsQIennGhyS5c",
             "reccNlMl6JcDotm1s",
             "recukmjPdKVdA4zxg",
-            "recyQDYTRQVvgVB3Z"
+            "recyQDYTRQVvgVB3Z",
+            "recI7pOxCd4Pe84x8"
         ],
-        "Resources number": 28,
+        "Resources number": 29,
         "Speakers": [
             "Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - https://www.youtube.com/watch?v=xqT8e6_yzLg",
             "Making developer experience a reality - https://www.thoughtworks.com/podcasts/developer-effectiveness",
@@ -4326,7 +4381,8 @@
             "From Kubernetes to PaaS to ... Err, What's Next? - https://www.youtube.com/watch?v=btUYeOa7JPI",
             "LOTE #7: Kelsey Hightower on Developer Experience, PaaS, and Testing in Production - https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/",
             "Backstage: Restoring Order To Your Chaos - https://www.youtube.com/watch?v=AlQYP88N3Og",
-            "How much to invest in platform work - https://getdx.com/podcast/27"
+            "How much to invest in platform work - https://getdx.com/podcast/27",
+            "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0"
         ],
         "airtable_createdTime": "2021-06-13T22:14:58.000Z",
         "airtable_id": "recxJkIWVynhDpBOI"

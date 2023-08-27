@@ -547,7 +547,7 @@
   - recifV0MU7kTj0hsl
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rec9iPYCBiPVbgvxT
-- Last Modified: '2023-06-18T06:44:40.000Z'
+- Last Modified: '2023-08-26T21:26:19.000Z'
   Name: Randy Shoup
   Resources:
   - reckGLUtBVVPUSvzh
@@ -568,6 +568,7 @@
   - reclOYdhJa384pJOo
   - recZsVeNr2HHHpRLG
   - recgMNfjEQbF98kc0
+  - recDuMsSeSzfLLbsV
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recA5JlOnMovEEbtt
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -576,6 +577,12 @@
   - recqIlgDrOcgrcRt5
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recADE9usCTU2Hrte
+- Last Modified: '2023-08-26T18:54:14.000Z'
+  Name: Ryan Singer
+  Resources:
+  - recCtlo35BNB4e9Cv
+  airtable_createdTime: '2023-08-26T18:54:14.000Z'
+  airtable_id: recAGFHm6ab38inA1
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Jocelyn Goldfein
   Resources:
@@ -605,6 +612,12 @@
   - recitaMrj8QyQAvHD
   airtable_createdTime: '2021-08-12T13:15:04.000Z'
   airtable_id: recBOQcmX8FTz7DTv
+- Last Modified: '2023-08-26T21:25:19.000Z'
+  Name: Andy Warfield
+  Resources:
+  - recqZwmfIMth4GnWj
+  airtable_createdTime: '2023-08-26T21:25:19.000Z'
+  airtable_id: recBhT9yAJtOfwGDr
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Rachel Myers
   Resources:
@@ -1348,6 +1361,12 @@
   - receYn9iDUfTj3xBp
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recP22n8vdPeLgGG8
+- Last Modified: '2023-08-26T21:28:58.000Z'
+  Name: Nerea Luis
+  Resources:
+  - recOuZnBtAOlBoiwo
+  airtable_createdTime: '2023-08-26T21:28:58.000Z'
+  airtable_id: recP2A3mHqqu0ARQT
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Matt Aimonetti
   Resources:
@@ -2804,6 +2823,13 @@
   - recnxIHCyhvx74jhP
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recjvIylujhdFx4vh
+- Last Modified: '2023-08-26T18:48:06.000Z'
+  Name: Diana Hu
+  Resources:
+  - reclsxslEsaXTMpfo
+  WomenInTech: true
+  airtable_createdTime: '2023-08-26T18:48:01.000Z'
+  airtable_id: recjxfW7KFrjn8dCr
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Hillel Wayne
   Resources:
@@ -3491,13 +3517,14 @@
   - rectoiZIRm9UTVPUO
   airtable_createdTime: '2022-02-06T20:58:44.000Z'
   airtable_id: recxAsD7nC5HrIi9c
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2023-08-26T21:20:55.000Z'
   Name: Michael Feathers
   Resources:
   - recrYqt5GZlrRAe1P
   - recdtuuFrAhIbab9g
   - rec9WnqzZlw7RK32c
   - recgCeFdi993pAe7V
+  - recI7pOxCd4Pe84x8
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recxIEBH98KfI6Cxf
 - Last Modified: '2023-06-18T06:28:48.000Z'
