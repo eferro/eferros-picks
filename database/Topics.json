@@ -2385,7 +2385,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2023-05-06T20:23:01.000Z",
+        "Last Modified": "2023-09-01T14:39:54.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2450,9 +2450,10 @@
             "recNoRdbv0UyVegAj",
             "recdLJvVSnFgDDGV9",
             "rec4DPUKuiDGOr4of",
-            "reck60FOvatP5hPnd"
+            "reck60FOvatP5hPnd",
+            "recbKqpQDuwM9LVDW"
         ],
-        "Resources number": 63,
+        "Resources number": 64,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2516,7 +2517,8 @@
             "Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94",
             "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
             "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
-            "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ"
+            "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
+            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -2915,7 +2917,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2023-08-26T18:48:43.000Z",
+        "Last Modified": "2023-09-01T14:39:40.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -2955,9 +2957,10 @@
             "reciUkxVDCZbYLk2E",
             "recSvICPiAU0cN86t",
             "recQSVPLU6svtsxEE",
-            "reclsxslEsaXTMpfo"
+            "reclsxslEsaXTMpfo",
+            "recbKqpQDuwM9LVDW"
         ],
-        "Resources number": 38,
+        "Resources number": 39,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -2996,7 +2999,8 @@
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
             "Friction - https://vimeo.com/163573399",
             "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
-            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q",
+            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
@@ -3079,7 +3083,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2023-08-10T22:35:31.000Z",
+        "Last Modified": "2023-09-01T14:39:50.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3184,9 +3188,10 @@
             "recRjMDkb2xgyznOJ",
             "recdLJvVSnFgDDGV9",
             "recirlexFAzgG5gZt",
-            "recQSVPLU6svtsxEE"
+            "recQSVPLU6svtsxEE",
+            "recbKqpQDuwM9LVDW"
         ],
-        "Resources number": 103,
+        "Resources number": 104,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3290,7 +3295,8 @@
             "\"Unembedding\" embedded systems with TDD: benefits of going beyond the make-it-work phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/",
             "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
-            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
