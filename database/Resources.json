@@ -13247,13 +13247,14 @@
         "Created": "2020-01-19T20:39:26.000Z",
         "Description": "A great talk about the need for testing in production and the approach we can use.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-09-11T08:50:15.000Z",
         "Less 15": 1,
         "Name": "Yes, I Test in Production (And So Do You)",
         "Name (from Speakers)": [
             "Charity Majors"
         ],
         "Published": true,
+        "Rating": 5,
         "Resource": "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018",
         "Resource type": "talk",
         "Speaker WomenInTech": [
