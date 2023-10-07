@@ -18580,7 +18580,7 @@
         "Created": "2020-01-19T20:35:00.000Z",
         "Description": "Dan North and Jessica Kerr make a journey through complexity. At the other side we may find simplicity, or we may find the light at the end of the tunnel is just another oncoming ESB.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-05T15:23:09.000Z",
         "Less 15": 1,
         "Name": "Complexity is Outside the Code",
         "Name (from Speakers)": [
@@ -18588,6 +18588,7 @@
             "Jessica Kerr"
         ],
         "Published": true,
+        "Rating": 5,
         "Resource": "Complexity is Outside the Code - https://www.infoq.com/presentations/complexity-simplicity-esb/",
         "Resource type": "talk",
         "Speaker WomenInTech": [
