@@ -301,7 +301,7 @@
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-08-26T18:48:37.000Z'
+- Last Modified: '2023-10-15T20:35:28.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -411,7 +411,10 @@
   - receYn9iDUfTj3xBp
   - recQSVPLU6svtsxEE
   - reclsxslEsaXTMpfo
-  Resources number: 107
+  - rec0Zn0xNpLa4HaZn
+  - recDPS7fNMOi7VkSD
+  - recVlzEmpFmIEigTw
+  Resources number: 110
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -527,6 +530,9 @@
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
   - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
+  - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
+  - 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -699,7 +705,7 @@
   - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec94mSWZ4bx2wFpf
-- Last Modified: '2023-06-18T06:56:08.000Z'
+- Last Modified: '2023-10-15T18:50:59.000Z'
   Name: Serverless
   Resources:
   - recrqYZesvsKRzx1p
@@ -714,7 +720,8 @@
   - recaonIzEHQuY9RmH
   - recEbeDrLiZUegSaB
   - recH9YE2PIzCNA8Zv
-  Resources number: 12
+  - rec3GO9MC5qIQ3aBs
+  Resources number: 13
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - Event Driven Serverless with Sebastien Goasgoen - https://softwareengineeringdaily.com/2017/06/13/event-driven-serverless-with-sebastian-goasgoen/
@@ -729,6 +736,7 @@
   - "GOTO 2020 \u2022 Where We\u2019re Going, We Don\u2019t Need Servers! - https://www.youtube.com/watch?v=Mz-b-rQ9wL0"
   - Why we switched to serverless containers - https://changelog.com/shipit/87
   - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
+  - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recBX6CqydFySIyML
 - Last Modified: '2022-02-12T22:27:49.000Z'
@@ -948,7 +956,7 @@
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2023-08-13T08:44:24.000Z'
+- Last Modified: '2023-10-15T20:29:33.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -1055,7 +1063,8 @@
   - recMP0fXsBeAYZEsH
   - rechcjxuU2Gdb0VKR
   - reck60FOvatP5hPnd
-  Resources number: 104
+  - recsbFogKbTtBFQ5o
+  Resources number: 105
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1166,6 +1175,7 @@
   - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   - The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase
   - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  - Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
 - Last Modified: '2023-04-23T18:27:48.000Z'
@@ -1177,13 +1187,15 @@
   - Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E
   airtable_createdTime: '2023-04-23T18:27:48.000Z'
   airtable_id: recG2ZvgldoblvB4l
-- Last Modified: '2023-05-06T20:16:58.000Z'
+- Last Modified: '2023-10-15T18:42:33.000Z'
   Name: Lean Manufacturing
   Resources:
   - recQAbrwc47ekm8I3
-  Resources number: 1
+  - recnhIPaWkZpDSgib
+  Resources number: 2
   Speakers:
   - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
+  - 'The Elegant Solution: Toyota''s Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs'
   airtable_createdTime: '2023-05-06T20:11:05.000Z'
   airtable_id: recH4PbrLpkXZVGDh
 - Last Modified: '2023-01-08T17:43:28.000Z'
@@ -1246,7 +1258,7 @@
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
   airtable_createdTime: '2021-06-30T06:31:17.000Z'
   airtable_id: recLS0zTJxflAcqBu
-- Last Modified: '2023-06-18T06:50:50.000Z'
+- Last Modified: '2023-10-15T18:42:28.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1285,7 +1297,8 @@
   - recQAbrwc47ekm8I3
   - recXmr49q5ciJGAMp
   - recgMNfjEQbF98kc0
-  Resources number: 36
+  - recnhIPaWkZpDSgib
+  Resources number: 37
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1325,6 +1338,7 @@
   - NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015
   - 'Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84'
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
+  - 'The Elegant Solution: Toyota''s Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2023-01-28T19:03:07.000Z'
@@ -1550,7 +1564,7 @@
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2023-08-26T21:36:03.000Z'
+- Last Modified: '2023-10-15T18:51:05.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1634,7 +1648,10 @@
   - recH9YE2PIzCNA8Zv
   - rec9iNXx9wkcIFbAF
   - recDuMsSeSzfLLbsV
-  Resources number: 81
+  - recDPS7fNMOi7VkSD
+  - rec0Zn0xNpLa4HaZn
+  - rec3GO9MC5qIQ3aBs
+  Resources number: 84
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1726,9 +1743,12 @@
   - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   - GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8
   - Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
+  - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
+  - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
-- Last Modified: '2023-01-28T19:03:01.000Z'
+- Last Modified: '2023-10-15T18:45:08.000Z'
   Name: Functional
   Resources:
   - recbpR9aV8qEoImRW
@@ -1739,7 +1759,8 @@
   - reccPDM3Y1VeeTWlq
   - recXooBJg7DRlLquE
   - recrvswiXD8sPCVkv
-  Resources number: 8
+  - recDPS7fNMOi7VkSD
+  Resources number: 9
   Speakers:
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
   - 'From startups to big-business: Using functional programming techniques to transform
@@ -1752,6 +1773,7 @@
   - "Simplifying The Inventory Management Systems at the World\u2019s Largest Retailer\
     \ Using Functional Programming Principles - https://itrevolution.com/the-idealcast-episode-23/"
   - Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQK48F4h9OLCkYG
 - Last Modified: '2020-04-13T08:32:12.000Z'
@@ -1825,17 +1847,19 @@
   - 'Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recSPiTKbfuhfkshg
-- Last Modified: '2021-09-05T15:39:31.000Z'
+- Last Modified: '2023-10-15T18:50:56.000Z'
   Name: Infrastructure
   Resources:
   - rec01w77iA2Rv594l
   - recB1sUzKv0w60CcT
   - recbH5Ps1JZF9UVbS
-  Resources number: 3
+  - rec3GO9MC5qIQ3aBs
+  Resources number: 4
   Speakers:
   - 'Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/'
   - How Stripe Invests in Technical Infrastructure - https://www.youtube.com/watch?v=rYzmXLhIaHQ
   - "Day Two Cloud 111: Infrastructure As Software With Kris N\xF3va - https://packetpushers.net/podcast/day-two-cloud-111/"
+  - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-05-17T13:51:26.000Z'
   airtable_id: recTPLZxKhIsbbwEW
 - Last Modified: '2023-06-18T06:45:00.000Z'
@@ -1890,7 +1914,7 @@
   - How Honeycomb Manages Incident Response - https://vimeo.com/568639911
   airtable_createdTime: '2022-01-22T19:23:37.000Z'
   airtable_id: recVEAsHKAjBV6jId
-- Last Modified: '2023-08-26T21:33:35.000Z'
+- Last Modified: '2023-10-15T20:35:31.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2036,7 +2060,8 @@
   - reciUkxVDCZbYLk2E
   - recmOMsXWPRJCtQwC
   - recqZwmfIMth4GnWj
-  Resources number: 143
+  - recVlzEmpFmIEigTw
+  Resources number: 144
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2197,6 +2222,7 @@
   - 'Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8'
   - FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in
     Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE
+  - 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2021-08-15T18:02:35.000Z'
@@ -2732,7 +2758,7 @@
   - Keynote PyCon 2017 - https://www.youtube.com/watch?v=66XoCk79kjM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgEKQV2Gwxxtdf2
-- Last Modified: '2023-08-26T21:33:40.000Z'
+- Last Modified: '2023-10-15T18:48:54.000Z'
   Name: Scalability
   Resources:
   - recSuNxI6AZPoqJYa
@@ -2761,7 +2787,9 @@
   - recMCjk51zSF8I6Jm
   - reca5eujcc1ryM5Br
   - recqZwmfIMth4GnWj
-  Resources number: 26
+  - rec0Zn0xNpLa4HaZn
+  - recDPS7fNMOi7VkSD
+  Resources number: 28
   Speakers:
   - Architecting a Modern Financial Institution with Vitor Olivier, Thoughts on Immutability,
     CI/CD, FP - https://www.infoq.com/podcasts/Vitor-Olivier
@@ -2795,9 +2823,11 @@
     - https://www.youtube.com/watch?v=0reMVgn6kRo
   - FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in
     Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE
+  - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2023-09-01T14:39:40.000Z'
+- Last Modified: '2023-10-15T20:29:35.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -2839,7 +2869,8 @@
   - recQSVPLU6svtsxEE
   - reclsxslEsaXTMpfo
   - recbKqpQDuwM9LVDW
-  Resources number: 39
+  - recsbFogKbTtBFQ5o
+  Resources number: 40
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -2882,6 +2913,7 @@
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
   - "Muda, Mura, Muri: mitos y pr\xE1cticas aplicando Lean Software Development -\
     \ https://youtu.be/N6OJg1rxZGE"
+  - Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2023-06-26T12:42:35.000Z'
@@ -3205,17 +3237,19 @@
   - Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM
   airtable_createdTime: '2021-03-07T07:57:14.000Z'
   airtable_id: rechwDm7Pn0ivpq7C
-- Last Modified: '2021-08-30T09:24:49.000Z'
+- Last Modified: '2023-10-15T20:29:30.000Z'
   Name: MobProgramming
   Resources:
   - rech6rbUIFVGN72gw
   - recuJ3mMaYCeeBFEl
   - recubjVFAJfXyqblr
-  Resources number: 3
+  - recsbFogKbTtBFQ5o
+  Resources number: 4
   Speakers:
   - Mob Programming and the Power of Flow - https://www.infoq.com/presentations/mob-programming-flow/
   - 'Mob Programming: A Whole Team Approach - https://www.youtube.com/watch?v=SHOVVnRB4h0'
   - Those pesky pull request reviews - https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/
+  - Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
 - Last Modified: '2023-08-10T22:35:18.000Z'
@@ -3432,7 +3466,7 @@
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   airtable_createdTime: '2022-09-18T21:48:46.000Z'
   airtable_id: reclZWPaBbTfn5pQo
-- Last Modified: '2023-08-26T21:36:10.000Z'
+- Last Modified: '2023-10-15T18:51:02.000Z'
   Name: Architecture patterns
   Resources:
   - recmUlW6oy0nh41vw
@@ -3460,7 +3494,9 @@
   - recH9YE2PIzCNA8Zv
   - rec9iNXx9wkcIFbAF
   - recDuMsSeSzfLLbsV
-  Resources number: 25
+  - recDPS7fNMOi7VkSD
+  - rec3GO9MC5qIQ3aBs
+  Resources number: 27
   Speakers:
   - 'Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/'
   - Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M
@@ -3490,9 +3526,11 @@
   - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
   - GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8
   - Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
+  - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
-- Last Modified: '2023-05-06T20:22:55.000Z'
+- Last Modified: '2023-10-15T18:46:51.000Z'
   Name: Software Design
   Resources:
   - reczOXoBpcxfVfN2x
@@ -3545,7 +3583,9 @@
   - rec6VZ5qk8zuAsbvk
   - rechcjxuU2Gdb0VKR
   - reck60FOvatP5hPnd
-  Resources number: 50
+  - recDPS7fNMOi7VkSD
+  - rec0Zn0xNpLa4HaZn
+  Resources number: 52
   Speakers:
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
@@ -3604,6 +3644,8 @@
   - Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI
   - The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase
   - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
+  - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
+  - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm3GCPgEVSDmeVI
 - Last Modified: '2022-12-11T19:48:39.000Z'
@@ -4103,7 +4145,7 @@
   - 'Ship It! #31 Is Kubernetes a platform? - https://changelog.com/shipit/31'
   airtable_createdTime: '2022-01-22T19:42:30.000Z'
   airtable_id: recwiPJKumk9LSzL8
-- Last Modified: '2023-06-26T12:42:32.000Z'
+- Last Modified: '2023-10-15T20:35:39.000Z'
   Name: Culture
   Resources:
   - recitaMrj8QyQAvHD
@@ -4113,7 +4155,8 @@
   - rec2KdJElwgsP4Uaa
   - recirlexFAzgG5gZt
   - receYn9iDUfTj3xBp
-  Resources number: 7
+  - recVlzEmpFmIEigTw
+  Resources number: 8
   Speakers:
   - "E019 Qu\xE9 es y para qu\xE9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
@@ -4122,6 +4165,7 @@
   - How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
+  - 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
   airtable_createdTime: '2021-08-12T13:09:17.000Z'
   airtable_id: recwjZlYYZq3zj7TU
 - Last Modified: '2023-08-26T21:22:25.000Z'

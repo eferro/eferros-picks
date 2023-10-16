@@ -63,10 +63,11 @@
         "airtable_id": "rec0kl5TrNdRYDyWn"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-15T18:53:00.000Z",
         "Name": "Chris Lucian",
         "Resources": [
-            "reck60FOvatP5hPnd"
+            "reck60FOvatP5hPnd",
+            "recsbFogKbTtBFQ5o"
         ],
         "airtable_createdTime": "2023-05-06T20:22:33.000Z",
         "airtable_id": "rec0lgnFuFyfCpVVG"
@@ -433,13 +434,14 @@
         "airtable_id": "rec4nXHpOYL3RZ7Pm"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-15T18:46:42.000Z",
         "Name": "Rich Hickey",
         "Resources": [
             "recOYUG7Jri6tIt4O",
             "recHifFCHL0xIbB2J",
             "recDPS7fNMOi7VkSD",
-            "recqBPwWhGCxXDOK1"
+            "recqBPwWhGCxXDOK1",
+            "rec0Zn0xNpLa4HaZn"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "rec4qkTbXMg9Pt2HC"
@@ -1887,12 +1889,13 @@
         "airtable_id": "recOeAzgNB0jOZxIJ"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-15T18:50:04.000Z",
         "Name": "Gregor Hohpe",
         "Resources": [
             "rec9IEqcwYho7He9k",
             "recLePdxvMWRICKbd",
-            "recTLLUeNHzpm3ciV"
+            "recTLLUeNHzpm3ciV",
+            "rec3GO9MC5qIQ3aBs"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recOoWd7VBKTxyNNg"
@@ -2562,10 +2565,11 @@
         "airtable_id": "recVivqLFitzRKGJc"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-15T18:53:09.000Z",
         "Name": "Austin Chadwick",
         "Resources": [
-            "reck60FOvatP5hPnd"
+            "reck60FOvatP5hPnd",
+            "recsbFogKbTtBFQ5o"
         ],
         "airtable_createdTime": "2023-05-06T20:22:47.000Z",
         "airtable_id": "recVj5np1ZG3J5xpk"
@@ -2674,6 +2678,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recWgOlg5KoDjhtIM"
+    },
+    {
+        "Last Modified": "2023-10-15T18:42:15.000Z",
+        "Name": "Matthew May",
+        "Resources": [
+            "recnhIPaWkZpDSgib"
+        ],
+        "airtable_createdTime": "2023-10-15T18:42:15.000Z",
+        "airtable_id": "recWuveBvjQaha5ih"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -4957,11 +4970,12 @@
         "airtable_id": "recvF3bYOsmnuq3ne"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-10-15T20:33:15.000Z",
         "Name": "Liz Keogh",
         "Resources": [
             "rec9ddspvh1NSehZF",
-            "recgkzUeXMcPB4iu3"
+            "recgkzUeXMcPB4iu3",
+            "recVlzEmpFmIEigTw"
         ],
         "WomenInTech": true,
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
