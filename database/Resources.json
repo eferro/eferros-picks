@@ -17174,11 +17174,11 @@
         "Description": "In this episode of Software Engineering Daily podcast, Utsav Shah talk about developer productivity in the context of the monolith, CI/CD, and best practices for growing teams.\n",
         "Duration": 2460,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-12T18:37:58.000Z",
         "Less 15": 0,
         "Name": "Developer Productivity with Utsav Shah",
         "Published": true,
-        "Resource": "Developer Productivity with Utsav Shah - Developer Productivity with Utsav Shah",
+        "Resource": "Developer Productivity with Utsav Shah - https://softwareengineeringdaily.com/2021/10/06/developer-productivity-with-utsav-shah/",
         "Resource type": "podcast",
         "Speaker WomenInTech": [
             null
@@ -17201,7 +17201,7 @@
             "Devops",
             "Platform as a product"
         ],
-        "Url": "Developer Productivity with Utsav Shah",
+        "Url": "https://softwareengineeringdaily.com/2021/10/06/developer-productivity-with-utsav-shah/",
         "airtable_createdTime": "2021-10-17T14:18:42.000Z",
         "airtable_id": "reccALSETsnEpWMVr",
         "registered_at": "2021-10-17T14:18:42.000Z"
