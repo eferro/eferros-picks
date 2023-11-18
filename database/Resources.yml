@@ -306,14 +306,16 @@
   airtable_createdTime: '2020-01-19T20:38:36.000Z'
   airtable_id: rec0RzE9QG9d7V1fG
   registered_at: '2020-01-19T20:38:36.000Z'
-- Created: '2023-10-15T18:46:04.000Z'
+- Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
+  Created: '2023-10-15T18:46:04.000Z'
   Description: |
     This is a 12-minute redux of the 1-hour talk by Rich Hickey, for really impatient people. Original: https://www.youtube.com/watch?v=SxdOUGdseq4
   Duration: 720
   Language: English
-  Last Modified: '2023-10-15T18:48:07.000Z'
+  Last Modified: '2023-11-17T09:16:50.000Z'
   Less 15: 1
   Name: '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011)'
+  Published: true
   Rating: 5
   Resource: '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
   Resource type: talk
@@ -1229,15 +1231,17 @@
   airtable_createdTime: '2020-03-14T09:01:20.000Z'
   airtable_id: rec3E0KiheJHZzqvy
   registered_at: '2020-03-14T09:01:20.000Z'
-- Created: '2023-10-15T18:49:50.000Z'
+- Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
+  Created: '2023-10-15T18:49:50.000Z'
   Description: "This talk shares recent trends in infrastructure automation, debunks\
     \ some common misconceptions, and shows you how you can combine AWS\u2019 serverless\
     \ ecosystem and AWS CDK to rethink application development, deployment, and integration.\n"
   Duration: 3540
   Language: English
-  Last Modified: '2023-10-15T18:51:38.000Z'
+  Last Modified: '2023-11-17T09:16:50.000Z'
   Less 15: 0
   Name: "Infrastructure as actual Code \u2022 YOW! 2022"
+  Published: true
   Resource: "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   Resource type: talk
   Speaker WomenInTech:
@@ -10026,6 +10030,39 @@
   airtable_createdTime: '2022-07-25T10:51:55.000Z'
   airtable_id: recPimGXOeaAHSQ3S
   registered_at: '2022-07-25T10:51:55.000Z'
+- Created: '2023-11-17T09:12:34.000Z'
+  Description: |
+    An overview of Frederic Laloux's Reinventing Organizations and how it applies to Lean and Agile Adoption.
+  Duration: 540
+  Language: English
+  Last Modified: '2023-11-17T09:14:41.000Z'
+  Less 15: 1
+  Name: Laloux Culture Model and Agile
+  Rating: 5
+  Resource: Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
+  Resource type: video
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recw5OaGE2lhvK9ZN
+  Speakers_Names:
+  - AgileForAll
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recwjZlYYZq3zj7TU
+  - rechSTvKX9sm9HHMA
+  - recO11XlolI72a1fV
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Inspirational
+  - Culture
+  - Company Culture
+  - Lean
+  - Agile
+  Url: https://www.youtube.com/watch?v=2rUbNSDLfxY
+  airtable_createdTime: '2023-11-17T09:12:34.000Z'
+  airtable_id: recPjJcgKz9yZq4Uc
+  registered_at: '2023-11-17T09:12:34.000Z'
 - Blog Url: https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-ii.html
   Created: '2021-09-03T15:32:12.000Z'
   Description: |
@@ -12235,14 +12272,16 @@
   airtable_createdTime: '2022-03-30T06:24:51.000Z'
   airtable_id: recVds4erYyaknLBa
   registered_at: '2022-03-30T06:24:51.000Z'
-- Created: '2023-10-15T20:33:05.000Z'
+- Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
+  Created: '2023-10-15T20:33:05.000Z'
   Description: |
     In this talk Liz explains the Cynefin framework and other concepts as Real Options, Deliberate Discovery, Feature Injection, etc.
   Duration: 3060
   Language: English
-  Last Modified: '2023-10-15T20:35:39.000Z'
+  Last Modified: '2023-11-17T09:16:48.000Z'
   Less 15: 0
   Name: 'LKUK13: Cynefin in Action - Liz Keogh'
+  Published: true
   Resource: 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
   Resource type: talk
   Speaker WomenInTech:
@@ -20020,14 +20059,16 @@
   airtable_createdTime: '2020-01-19T20:39:02.000Z'
   airtable_id: recnbTQIGP1jjtFaZ
   registered_at: '2020-01-19T20:39:02.000Z'
-- Created: '2023-10-15T18:39:43.000Z'
+- Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
+  Created: '2023-10-15T18:39:43.000Z'
   Description: |
     Interesting presentation on how Toyota incorporates continuous learning and innovation into the company's daily operations.
   Duration: 4500
   Language: English
-  Last Modified: '2023-10-15T18:44:29.000Z'
+  Last Modified: '2023-11-17T09:16:51.000Z'
   Less 15: 0
   Name: 'The Elegant Solution: Toyota''s Formula for Mastering Innovation'
+  Published: true
   Rating: 4
   Resource: 'The Elegant Solution: Toyota''s Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs'
   Resource type: talk
@@ -21866,14 +21907,16 @@
   airtable_createdTime: '2020-01-19T20:32:55.000Z'
   airtable_id: recsO8sRpVmxeUmNM
   registered_at: '2020-01-19T20:32:55.000Z'
-- Created: '2023-10-15T18:52:33.000Z'
+- Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
+  Created: '2023-10-15T18:52:33.000Z'
   Description: |
     Chris and Austin explain why mob programming could be a way to implement lean software development in current teams. Very interesting.
   Duration: 3480
   Language: English
-  Last Modified: '2023-10-15T20:32:59.000Z'
+  Last Modified: '2023-11-17T09:16:49.000Z'
   Less 15: 0
   Name: Lean Turned Up to 10
+  Published: true
   Rating: 5
   Resource: Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   Resource type: videopodcast

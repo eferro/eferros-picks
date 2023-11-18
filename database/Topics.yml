@@ -301,7 +301,7 @@
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-10-15T20:35:28.000Z'
+- Last Modified: '2023-11-17T09:13:27.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -414,7 +414,8 @@
   - rec0Zn0xNpLa4HaZn
   - recDPS7fNMOi7VkSD
   - recVlzEmpFmIEigTw
-  Resources number: 110
+  - recPjJcgKz9yZq4Uc
+  Resources number: 111
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -533,6 +534,7 @@
   - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   - 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
+  - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -1258,7 +1260,7 @@
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
   airtable_createdTime: '2021-06-30T06:31:17.000Z'
   airtable_id: recLS0zTJxflAcqBu
-- Last Modified: '2023-10-15T18:42:28.000Z'
+- Last Modified: '2023-11-17T09:13:45.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1298,7 +1300,8 @@
   - recXmr49q5ciJGAMp
   - recgMNfjEQbF98kc0
   - recnhIPaWkZpDSgib
-  Resources number: 37
+  - recPjJcgKz9yZq4Uc
+  Resources number: 38
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1339,6 +1342,7 @@
   - 'Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84'
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   - 'The Elegant Solution: Toyota''s Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs'
+  - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2023-01-28T19:03:07.000Z'
@@ -2916,7 +2920,7 @@
   - Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
-- Last Modified: '2023-06-26T12:42:35.000Z'
+- Last Modified: '2023-11-17T09:13:36.000Z'
   Name: Company Culture
   Resources:
   - recFssGR3GcaytzUE
@@ -2952,7 +2956,8 @@
   - rec0FlFDAe8nf8BU5
   - recoN5BMtMjKGPz1b
   - receYn9iDUfTj3xBp
-  Resources number: 33
+  - recPjJcgKz9yZq4Uc
+  Resources number: 34
   Speakers:
   - The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo
   - The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI
@@ -2989,9 +2994,10 @@
   - 'Engineering Your Organization: Services, Platforms, and Communities - https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/'
   - Seven shipping principles - https://changelog.com/shipit/77
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
+  - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2023-09-01T14:39:50.000Z'
+- Last Modified: '2023-11-17T09:13:49.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3098,7 +3104,8 @@
   - recirlexFAzgG5gZt
   - recQSVPLU6svtsxEE
   - recbKqpQDuwM9LVDW
-  Resources number: 104
+  - recPjJcgKz9yZq4Uc
+  Resources number: 105
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3216,6 +3223,7 @@
   - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - "Muda, Mura, Muri: mitos y pr\xE1cticas aplicando Lean Software Development -\
     \ https://youtu.be/N6OJg1rxZGE"
+  - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2022-12-06T21:16:02.000Z'
@@ -4145,7 +4153,7 @@
   - 'Ship It! #31 Is Kubernetes a platform? - https://changelog.com/shipit/31'
   airtable_createdTime: '2022-01-22T19:42:30.000Z'
   airtable_id: recwiPJKumk9LSzL8
-- Last Modified: '2023-10-15T20:35:39.000Z'
+- Last Modified: '2023-11-17T09:13:33.000Z'
   Name: Culture
   Resources:
   - recitaMrj8QyQAvHD
@@ -4156,7 +4164,8 @@
   - recirlexFAzgG5gZt
   - receYn9iDUfTj3xBp
   - recVlzEmpFmIEigTw
-  Resources number: 8
+  - recPjJcgKz9yZq4Uc
+  Resources number: 9
   Speakers:
   - "E019 Qu\xE9 es y para qu\xE9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
@@ -4166,6 +4175,7 @@
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
   - 'LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU'
+  - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
   airtable_createdTime: '2021-08-12T13:09:17.000Z'
   airtable_id: recwjZlYYZq3zj7TU
 - Last Modified: '2023-08-26T21:22:25.000Z'

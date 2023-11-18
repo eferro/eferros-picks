@@ -325,7 +325,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2023-10-15T20:35:28.000Z",
+        "Last Modified": "2023-11-17T09:13:27.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -437,9 +437,10 @@
             "reclsxslEsaXTMpfo",
             "rec0Zn0xNpLa4HaZn",
             "recDPS7fNMOi7VkSD",
-            "recVlzEmpFmIEigTw"
+            "recVlzEmpFmIEigTw",
+            "recPjJcgKz9yZq4Uc"
         ],
-        "Resources number": 110,
+        "Resources number": 111,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -550,7 +551,8 @@
             "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q",
             "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg",
             "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy",
-            "LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU"
+            "LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU",
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -1349,7 +1351,7 @@
         "airtable_id": "recLS0zTJxflAcqBu"
     },
     {
-        "Last Modified": "2023-10-15T18:42:28.000Z",
+        "Last Modified": "2023-11-17T09:13:45.000Z",
         "Name": "Lean",
         "Resources": [
             "recGNYr6fwcuQrY7O",
@@ -1388,9 +1390,10 @@
             "recQAbrwc47ekm8I3",
             "recXmr49q5ciJGAMp",
             "recgMNfjEQbF98kc0",
-            "recnhIPaWkZpDSgib"
+            "recnhIPaWkZpDSgib",
+            "recPjJcgKz9yZq4Uc"
         ],
-        "Resources number": 37,
+        "Resources number": 38,
         "Speakers": [
             "Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html",
             "If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk",
@@ -1428,7 +1431,8 @@
             "NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015",
             "Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
-            "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs"
+            "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs",
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recO11XlolI72a1fV"
@@ -3038,7 +3042,7 @@
         "airtable_id": "rech2MAtQRy0Lvc2Y"
     },
     {
-        "Last Modified": "2023-06-26T12:42:35.000Z",
+        "Last Modified": "2023-11-17T09:13:36.000Z",
         "Name": "Company Culture",
         "Resources": [
             "recFssGR3GcaytzUE",
@@ -3073,9 +3077,10 @@
             "rec2KdJElwgsP4Uaa",
             "rec0FlFDAe8nf8BU5",
             "recoN5BMtMjKGPz1b",
-            "receYn9iDUfTj3xBp"
+            "receYn9iDUfTj3xBp",
+            "recPjJcgKz9yZq4Uc"
         ],
-        "Resources number": 33,
+        "Resources number": 34,
         "Speakers": [
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
             "The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI",
@@ -3109,13 +3114,14 @@
             "How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
             "Engineering Your Organization: Services, Platforms, and Communities - https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/",
             "Seven shipping principles - https://changelog.com/shipit/77",
-            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI"
+            "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2023-09-01T14:39:50.000Z",
+        "Last Modified": "2023-11-17T09:13:49.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3221,9 +3227,10 @@
             "recdLJvVSnFgDDGV9",
             "recirlexFAzgG5gZt",
             "recQSVPLU6svtsxEE",
-            "recbKqpQDuwM9LVDW"
+            "recbKqpQDuwM9LVDW",
+            "recPjJcgKz9yZq4Uc"
         ],
-        "Resources number": 104,
+        "Resources number": 105,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3328,7 +3335,8 @@
             "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
             "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
-            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE"
+            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
@@ -4342,7 +4350,7 @@
         "airtable_id": "recwiPJKumk9LSzL8"
     },
     {
-        "Last Modified": "2023-10-15T20:35:39.000Z",
+        "Last Modified": "2023-11-17T09:13:33.000Z",
         "Name": "Culture",
         "Resources": [
             "recitaMrj8QyQAvHD",
@@ -4352,9 +4360,10 @@
             "rec2KdJElwgsP4Uaa",
             "recirlexFAzgG5gZt",
             "receYn9iDUfTj3xBp",
-            "recVlzEmpFmIEigTw"
+            "recVlzEmpFmIEigTw",
+            "recPjJcgKz9yZq4Uc"
         ],
-        "Resources number": 8,
+        "Resources number": 9,
         "Speakers": [
             "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional",
             "WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998",
@@ -4363,7 +4372,8 @@
             "How to build silos and decrease collaboration (on purpose) - https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
             "Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44",
             "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
-            "LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU"
+            "LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU",
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
         ],
         "airtable_createdTime": "2021-08-12T13:09:17.000Z",
         "airtable_id": "recwjZlYYZq3zj7TU"
