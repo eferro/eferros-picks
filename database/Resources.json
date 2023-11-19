@@ -1763,7 +1763,7 @@
         "Description": "\n",
         "Duration": 240,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:16:15.000Z",
         "Less 15": 1,
         "Name": "WIP: why limiting work in progress makes sense (Kanban)",
         "Published": true,
@@ -1777,6 +1777,14 @@
         ],
         "Speakers_Names": [
             "David Lowe"
+        ],
+        "Topics": [
+            "recY6zZikaaqsHrEX",
+            "rec8Z4b4p6s6IhX2C"
+        ],
+        "Topics_Names": [
+            "WIP",
+            "TOC"
         ],
         "Url": "https://www.youtube.com/watch?v=W92wG-HW8gg",
         "airtable_createdTime": "2020-01-19T20:31:52.000Z",
@@ -1949,7 +1957,7 @@
         "Description": "Very interesting talk to be aware of our aversion to uncertainty. We usualy make bad decisions in order to avoid the feeling of uncertainty.\n",
         "Duration": 3300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:36:38.000Z",
         "Less 15": 0,
         "Name": "Embracing Uncertainty",
         "Published": true,
@@ -1964,6 +1972,14 @@
         ],
         "Speakers_Names": [
             "Dan North"
+        ],
+        "Topics": [
+            "rec6JMQpL2LSjoP2E",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Inspirational",
+            "Engineering Culture"
         ],
         "Url": "http://vimeo.com/43603453",
         "airtable_createdTime": "2020-01-19T20:37:09.000Z",
@@ -2631,7 +2647,7 @@
         "Created": "2020-01-19T20:40:09.000Z",
         "Description": "A great talk about culture for high-performance tech organizations.\u00a0Good complement for\u00a0Accelerate and based in his experience at ebay and google.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:37:47.000Z",
         "Less 15": 1,
         "Name": "Building and Scaling a High-Performance Culture",
         "Published": true,
@@ -2646,6 +2662,18 @@
         ],
         "Speakers_Names": [
             "Randy Shoup"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "rec6JMQpL2LSjoP2E",
+            "recPoM7t8neA7gkZ5",
+            "recin3Ync8iZldW0q"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Inspirational",
+            "Devops",
+            "Continuous Delivery"
         ],
         "Url": "https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
         "airtable_createdTime": "2020-01-19T20:40:09.000Z",
@@ -2807,10 +2835,10 @@
     {
         "Blog Url": "https://www.eferro.net/2016/04/index.html",
         "Created": "2020-01-19T20:34:30.000Z",
-        "Description": "\n",
+        "Description": "In this talk, Richard Sheridan will explore what an intentionally joyful culture must choose as its focus; what joy looks like, feels like, and how it is organized.\n",
         "Duration": 2700,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:33:32.000Z",
         "Less 15": 0,
         "Name": "Build a Workplace People Love: Just Add Joy (ALDC 2014)",
         "Published": true,
@@ -4572,9 +4600,10 @@
     {
         "Blog Url": "https://www.eferro.net/2016/04/index.html",
         "Created": "2020-01-19T20:34:31.000Z",
+        "Description": "This is not a theoretical talk, but rather built from well over a decade of experience of leading a team focused on \u201cthe business value of joy\u201d with plenty of room for discussion with the audience.\n",
         "Duration": 4140,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:33:32.000Z",
         "Less 15": 0,
         "Name": "Business Mapping: Turning the lights on",
         "Published": true,
@@ -5023,7 +5052,7 @@
         "Description": "\n",
         "Duration": 1860,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:30:51.000Z",
         "Less 15": 0,
         "Name": "DOES17 London - The Key to High Performance What the Data Says",
         "Published": true,
@@ -5044,6 +5073,18 @@
             "Nicole Forsgren",
             "Jez Humble",
             "Nigel Kersten"
+        ],
+        "Topics": [
+            "recPoM7t8neA7gkZ5",
+            "rec6JMQpL2LSjoP2E",
+            "recWFKWrPEdeEYbzx",
+            "rec69oGivla9zlivw"
+        ],
+        "Topics_Names": [
+            "Devops",
+            "Inspirational",
+            "Engineering Culture",
+            "Engineering productivity"
         ],
         "Url": "https://www.youtube.com/watch?v=cabzxfM_vWE",
         "airtable_createdTime": "2020-01-19T20:32:54.000Z",
@@ -5976,7 +6017,7 @@
         "Created": "2020-01-19T20:31:54.000Z",
         "Description": "\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:39:54.000Z",
         "Less 15": 1,
         "Name": "SE Radio Ep 287 Success skills for architects with Neil Ford",
         "Published": true,
@@ -5990,6 +6031,14 @@
         ],
         "Speakers_Names": [
             "Neil Ford"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Engineering Culture"
         ],
         "Url": "http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/",
         "airtable_createdTime": "2020-01-19T20:31:54.000Z",
@@ -9958,7 +10007,7 @@
         "Description": "\n",
         "Duration": 480,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:45:13.000Z",
         "Less 15": 1,
         "Name": "Exponential Return - The Principles of Agile Organization - 1 of 6",
         "Published": true,
@@ -9972,6 +10021,12 @@
         ],
         "Speakers_Names": [
             "Peter Merel"
+        ],
+        "Topics": [
+            "rechj5WeSQRH211np"
+        ],
+        "Topics_Names": [
+            "Agile"
         ],
         "Url": "https://www.youtube.com/watch?v=7dzVvqfFLhA",
         "airtable_createdTime": "2020-01-19T20:32:07.000Z",
@@ -10128,7 +10183,7 @@
         "Description": "Lean Product Meetup\n",
         "Duration": 5040,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:45:58.000Z",
         "Less 15": 0,
         "Name": "Beyond Lean and Agile",
         "Published": true,
@@ -10142,6 +10197,18 @@
         ],
         "Speakers_Names": [
             "Marty Cagan"
+        ],
+        "Topics": [
+            "recg6F5ajOhEkbrdW",
+            "recrNBL2FKBzgsQTs",
+            "recplrWe03uLQY5MN",
+            "rec51AOvJVPEWfUVK"
+        ],
+        "Topics_Names": [
+            "Product",
+            "Product Discovery",
+            "Product Leadership",
+            "Product Strategy"
         ],
         "Url": "https://www.youtube.com/watch?v=7LYLhxb8Vwc",
         "airtable_createdTime": "2020-01-19T20:32:16.000Z",
@@ -10724,7 +10791,7 @@
         "Description": "Mind the Product San Francisco 2017. A classic one to escape from the feature factory mindset.\n",
         "Duration": 1560,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:34:27.000Z",
         "Less 15": 0,
         "Name": "Escaping the Build Trap",
         "Published": true,
@@ -10739,6 +10806,16 @@
         ],
         "Speakers_Names": [
             "Melissa Perri"
+        ],
+        "Topics": [
+            "recg6F5ajOhEkbrdW",
+            "recrNBL2FKBzgsQTs",
+            "rec51AOvJVPEWfUVK"
+        ],
+        "Topics_Names": [
+            "Product",
+            "Product Discovery",
+            "Product Strategy"
         ],
         "Url": "https://vimeo.com/224453335",
         "airtable_createdTime": "2020-01-19T20:33:26.000Z",
@@ -10851,7 +10928,7 @@
         "Description": "Interview with\u00a0Nicole Forsgren\n",
         "Duration": 3060,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:39:11.000Z",
         "Less 15": 0,
         "Name": "Webminar 2019 Accelerate State of DevOps",
         "Published": true,
@@ -10865,6 +10942,14 @@
         ],
         "Speakers_Names": [
             "Nicole Forsgren"
+        ],
+        "Topics": [
+            "recPoM7t8neA7gkZ5",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Devops",
+            "Engineering Culture"
         ],
         "Url": "https://newrelic.com/resources/webinar/2019-acceleratestateofdevops",
         "airtable_createdTime": "2020-01-19T20:29:01.000Z",
@@ -11540,7 +11625,7 @@
         "Description": "Great explanation for flow efficiency for soft delivery\n",
         "Duration": 1620,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:38:28.000Z",
         "Less 15": 0,
         "Name": "The Value of Flow 14 09 17",
         "Published": true,
@@ -11555,6 +11640,18 @@
         ],
         "Speakers_Names": [
             "Dan North"
+        ],
+        "Topics": [
+            "rechj5WeSQRH211np",
+            "reck50u1RzhJj6MIy",
+            "recin3Ync8iZldW0q",
+            "rech2MAtQRy0Lvc2Y"
+        ],
+        "Topics_Names": [
+            "Agile",
+            "Flow",
+            "Continuous Delivery",
+            "Lean Software Development"
         ],
         "Url": "https://www.youtube.com/watch?v=1aOItUyZ2wQ",
         "airtable_createdTime": "2020-01-19T20:43:04.000Z",
@@ -13758,7 +13855,7 @@
         "Created": "2020-01-19T20:40:44.000Z",
         "Description": "Essential talk especially to open our eyes to privileged people like me (white male in tech).\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:38:57.000Z",
         "Less 15": 1,
         "Name": "JavaZone 2019, Room 5 - Survival Tips For Women in Tech",
         "Published": true,
@@ -13773,6 +13870,14 @@
         ],
         "Speakers_Names": [
             "Patricia Aas"
+        ],
+        "Topics": [
+            "recwjZlYYZq3zj7TU",
+            "rec6JMQpL2LSjoP2E"
+        ],
+        "Topics_Names": [
+            "Culture",
+            "Inspirational"
         ],
         "Url": "https://www.pscp.tv/w/1BdGYepvvLQGX",
         "airtable_createdTime": "2020-01-19T20:40:44.000Z",
@@ -13908,7 +14013,7 @@
         "Description": "A good index of other talks and computer science resources.\n",
         "Duration": 2940,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:43:39.000Z",
         "Less 15": 0,
         "Name": "The Forgotten Ideas in Computer Science - Code BEAM SF 2018",
         "Published": true,
@@ -13922,6 +14027,16 @@
         ],
         "Speakers_Names": [
             "Joe Armstrong"
+        ],
+        "Topics": [
+            "rec6JMQpL2LSjoP2E",
+            "recDU4jNixNIKY3r8",
+            "recm3GCPgEVSDmeVI"
+        ],
+        "Topics_Names": [
+            "Inspirational",
+            "Design",
+            "Software Design"
         ],
         "Url": "https://www.youtube.com/watch?v=-I_jE0l7sYQ",
         "airtable_createdTime": "2020-01-19T20:31:55.000Z",
@@ -14796,7 +14911,7 @@
         "Created": "2020-01-19T20:39:26.000Z",
         "Description": "A great talk about the need for testing in production and the approach we can use.\n",
         "Language": "English",
-        "Last Modified": "2023-09-11T08:50:15.000Z",
+        "Last Modified": "2023-11-18T15:37:10.000Z",
         "Less 15": 1,
         "Name": "Yes, I Test in Production (And So Do You)",
         "Published": true,
@@ -14811,6 +14926,14 @@
         ],
         "Speakers_Names": [
             "Charity Majors"
+        ],
+        "Topics": [
+            "rechwDm7Pn0ivpq7C",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Topics_Names": [
+            "Testing in production",
+            "testing"
         ],
         "Url": "https://www.infoq.com/presentations/testing-production-2018",
         "airtable_createdTime": "2020-01-19T20:39:26.000Z",
@@ -16280,31 +16403,6 @@
         "registered_at": "2021-03-07T08:33:57.000Z"
     },
     {
-        "Blog Url": "https://www.eferro.net/2018/03/interesting-talkspodcasts-2018-march-i.html",
-        "Created": "2020-01-19T20:31:53.000Z",
-        "Duration": 1020,
-        "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
-        "Less 15": 0,
-        "Name": "How a handful of tech companies control billions of minds every day",
-        "Published": true,
-        "Resource": "How a handful of tech companies control billions of minds every day - https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention",
-        "Resource type": "talk",
-        "Speaker WomenInTech": [
-            null
-        ],
-        "Speakers": [
-            "rec4zSrzeLV9FUgIc"
-        ],
-        "Speakers_Names": [
-            "Tristan Harris"
-        ],
-        "Url": "https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention",
-        "airtable_createdTime": "2020-01-19T20:31:53.000Z",
-        "airtable_id": "recaKfvh23ctww5uk",
-        "registered_at": "2020-01-19T20:31:53.000Z"
-    },
-    {
         "Created": "2021-05-25T18:15:25.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -17717,7 +17815,7 @@
         "Created": "2020-01-19T20:34:08.000Z",
         "Description": "Interesting talk to understand some concepts about simplicity and hiden accidental complexity.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:34:58.000Z",
         "Less 15": 1,
         "Name": "Keynote: 8 Lines of Code",
         "Published": true,
@@ -17732,6 +17830,14 @@
         ],
         "Speakers_Names": [
             "Greg Young"
+        ],
+        "Topics": [
+            "rec6JMQpL2LSjoP2E",
+            "recDU4jNixNIKY3r8"
+        ],
+        "Topics_Names": [
+            "Inspirational",
+            "Design"
         ],
         "Url": "https://www.infoq.com/presentations/8-lines-code-refactoring",
         "airtable_createdTime": "2020-01-19T20:34:08.000Z",
@@ -21682,7 +21788,7 @@
         "Created": "2020-01-19T20:32:05.000Z",
         "Duration": 2460,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:43:57.000Z",
         "Less 15": 0,
         "Name": "Monoliths, Migrations, and Microservices",
         "Published": true,
@@ -21696,6 +21802,16 @@
         ],
         "Speakers_Names": [
             "Randy Shoup"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recm1G3xxDIQZ5dKc",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Architecture patterns",
+            "Microservices"
         ],
         "Url": "https://slideslive.com/38911397/monoliths-migrations-and-microservices",
         "airtable_createdTime": "2020-01-19T20:32:05.000Z",
@@ -21862,7 +21978,7 @@
         "Description": "Some good points about the easy evolution of a system when the services are small enough to be understandables and to be rewritten without fear.\n",
         "Duration": 2520,
         "Language": "English",
-        "Last Modified": "2023-08-13T08:49:27.000Z",
+        "Last Modified": "2023-11-18T15:36:56.000Z",
         "Less 15": 0,
         "Name": "The art of destroying software",
         "Published": true,
@@ -21877,6 +21993,16 @@
         ],
         "Speakers_Names": [
             "Greg Young"
+        ],
+        "Topics": [
+            "rec6JMQpL2LSjoP2E",
+            "recs8FWnaRcAcdOoW",
+            "recnvzS3XS3MGHk3e"
+        ],
+        "Topics_Names": [
+            "Inspirational",
+            "Evolutionary Architecture",
+            "Evolutionary Design"
         ],
         "Url": "https://www.youtube.com/watch?v=Ed94CfxgsCA",
         "airtable_createdTime": "2020-01-19T20:37:55.000Z",
@@ -27509,7 +27635,7 @@
         "Created": "2020-01-19T20:35:36.000Z",
         "Duration": 2760,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:32:16.000Z",
         "Less 15": 0,
         "Name": "Moving Fast at Scale",
         "Published": true,
@@ -27524,6 +27650,16 @@
         ],
         "Speakers_Names": [
             "Randy Shoup"
+        ],
+        "Topics": [
+            "recPoM7t8neA7gkZ5",
+            "recWFKWrPEdeEYbzx",
+            "recl7w0SkqE9A3GAI"
+        ],
+        "Topics_Names": [
+            "Devops",
+            "Engineering Culture",
+            "Engineering Scalability"
         ],
         "Url": "https://www.youtube.com/watch?v=t-sIaw4kHqI",
         "airtable_createdTime": "2020-01-19T20:35:36.000Z",
@@ -29375,7 +29511,7 @@
         "Created": "2020-01-19T20:34:45.000Z",
         "Description": "IMHO this is the more interesting talk I show this year. No spoilers :) \u00a0 I agree one hundred per cent with the talk.\u00a0Just show it.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2023-11-18T15:36:12.000Z",
         "Less 15": 1,
         "Name": "Microservices: Software that Fits in Your Head",
         "Published": true,
@@ -29390,6 +29526,14 @@
         ],
         "Speakers_Names": [
             "Dan North"
+        ],
+        "Topics": [
+            "recm1G3xxDIQZ5dKc",
+            "recs8FWnaRcAcdOoW"
+        ],
+        "Topics_Names": [
+            "Architecture patterns",
+            "Evolutionary Architecture"
         ],
         "Url": "http://www.infoq.com/presentations/microservices-replaceability-consistency",
         "airtable_createdTime": "2020-01-19T20:34:45.000Z",
