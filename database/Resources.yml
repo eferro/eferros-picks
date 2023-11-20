@@ -1330,7 +1330,7 @@
     \ about the learning process.\n"
   Duration: 1320
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:43:29.000Z'
   Less 15: 0
   Name: 'Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013'
   Published: true
@@ -1342,6 +1342,10 @@
   - recMFEQsBpUuhIv23
   Speakers_Names:
   - Angelina Fabbro
+  Topics:
+  - recXnoO9sU10TZfCj
+  Topics_Names:
+  - JS
   Url: https://www.youtube.com/watch?v=v0TFmdO4ZP0
   airtable_createdTime: '2020-01-19T20:41:56.000Z'
   airtable_id: rec3hHVVbf5BUn1u9
@@ -1352,7 +1356,7 @@
     "Accountants Don't Use Erasers"
   Duration: 2700
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:41:12.000Z'
   Less 15: 0
   Name: Immutability Changes Everything
   Published: true
@@ -1364,6 +1368,16 @@
   - recL3E18qHfnn4Tar
   Speakers_Names:
   - Pat Helland
+  Topics:
+  - recqVF0vISal0hi8E
+  - recru8bU8Y6KzIF2C
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  Topics_Names:
+  - DDD
+  - cqrs
+  - Architecture
+  - Architecture patterns
   Url: https://vimeo.com/52831373
   airtable_createdTime: '2020-01-19T20:42:13.000Z'
   airtable_id: rec3jBh4YZ9cRjwtp
@@ -1865,7 +1879,7 @@
     A very interesting presentation that invites us to reflect.
   Duration: 2040
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:19:06.000Z'
   Less 15: 0
   Name: The Power of Agile
   Published: true
@@ -1877,6 +1891,10 @@
   - recWPHHRj9blCm58i
   Speakers_Names:
   - Sarah Mei
+  Topics:
+  - recYkFYw6BSRfA0Ce
+  Topics_Names:
+  - XP
   Url: https://www.youtube.com/watch?v=YL-6RCTywbc
   airtable_createdTime: '2020-01-19T20:32:28.000Z'
   airtable_id: rec5D27OxBlCJquml
@@ -2256,7 +2274,7 @@
     \ with Hexagonal architecture \_(great 5mins)\n"
   Duration: 300
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:39:31.000Z'
   Less 15: 1
   Name: Hexagonal Architecture meets CQRS
   Published: true
@@ -2268,6 +2286,14 @@
   - recQr2YMkqvcHtF6e
   Speakers_Names:
   - Alistair Cockburn
+  Topics:
+  - recqVF0vISal0hi8E
+  - recm3GCPgEVSDmeVI
+  - recivP78x0piISrFD
+  Topics_Names:
+  - DDD
+  - Software Design
+  - hexagonal
   Url: https://www.youtube.com/watch?v=9kQ2veoeWZM
   airtable_createdTime: '2020-01-19T20:42:16.000Z'
   airtable_id: rec63r3FZtJBpSY9F
@@ -2576,7 +2602,7 @@
   Description: "Interesting conversation\_about the different approaches to create\
     \ multitenant systems.\n"
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:08:43.000Z'
   Less 15: 1
   Name: 'Full Stack Radio Ep 80: Tom Schlick - Building Multitenant Applications'
   Published: true
@@ -2589,6 +2615,12 @@
   - recJHjVWZHX34FBpk
   Speakers_Names:
   - Tom Schlick
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  Topics_Names:
+  - Architecture
+  - Architecture patterns
   Url: http://www.fullstackradio.com/80
   airtable_createdTime: '2020-01-19T20:32:21.000Z'
   airtable_id: rec6hyOkL4BSjtT4P
@@ -2685,10 +2717,11 @@
   Description: |
     A new version of a classic one. A great talk.
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T13:51:34.000Z'
   Less 15: 1
   Name: "Continuous Delivery Sounds Great But It Won\u2019t Work Here"
   Published: true
+  Rating: 5
   Resource: "Continuous Delivery Sounds Great But It Won\u2019t Work Here - https://www.infoq.com/presentations/continuous-delivery-highlights"
   Resource type: talk
   Speaker WomenInTech:
@@ -2697,6 +2730,10 @@
   - recf1C8fNSMXaLZ0q
   Speakers_Names:
   - Jez Humble
+  Topics:
+  - recin3Ync8iZldW0q
+  Topics_Names:
+  - Continuous Delivery
   Url: https://www.infoq.com/presentations/continuous-delivery-highlights
   airtable_createdTime: '2020-01-19T20:32:20.000Z'
   airtable_id: rec6vxNvl606hoeCB
@@ -2783,7 +2820,7 @@
     Don explains the impacts of reducing the batch size in the product development world (not only software). Dense but very interesting.
   Duration: 3480
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:32:30.000Z'
   Less 15: 0
   Name: The science of batch size
   Published: true
@@ -2795,6 +2832,16 @@
   - recUdsmvh0to5eUgH
   Speakers_Names:
   - Donald Reinertsen
+  Topics:
+  - recO11XlolI72a1fV
+  - rec8Z4b4p6s6IhX2C
+  - reck50u1RzhJj6MIy
+  - rec0PB37LN1Kz0Blh
+  Topics_Names:
+  - Lean
+  - TOC
+  - Flow
+  - Lean Product Management
   Url: https://www.youtube.com/watch?v=QsGL1RkmnyU
   airtable_createdTime: '2020-08-31T21:21:11.000Z'
   airtable_id: rec7NPbH4POd8KrJS
@@ -3794,7 +3841,7 @@
   Description: |
     Very interesting interview (darkscrum, agile adoption failures, number agile coaches vs the number of agile developers).
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:23:19.000Z'
   Less 15: 1
   Name: Podcast. Interview Ron Jeffries (Agile.FM)
   Published: true
@@ -3806,6 +3853,12 @@
   - recKk1MUoYp2tjLW0
   Speakers_Names:
   - Ron Jeffries
+  Topics:
+  - recYkFYw6BSRfA0Ce
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - XP
+  - Agile
   Url: https://agile.fm/agilefm/2018/4/12/ron-jeffries
   airtable_createdTime: '2020-01-19T20:32:58.000Z'
   airtable_id: recABM6yOE21zVLfd
@@ -5375,7 +5428,7 @@
   Description: "This talk help us to understand the new challenges\_to test our systems\
     \ in this new and changing world (ML, AI, cloud services, etc).\n"
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:28:01.000Z'
   Less 15: 1
   Name: Five key challenges for software quality tomorrow
   Published: true
@@ -5387,6 +5440,14 @@
   - recXocGAFyWC8rgfL
   Speakers_Names:
   - Gojko Adzic
+  Topics:
+  - recPcLVyg0S4ORUkX
+  - rechwDm7Pn0ivpq7C
+  - rec945yNhVIzyZIuX
+  Topics_Names:
+  - testing
+  - Testing in production
+  - Cloud
   Url: http://www.ustream.tv/recorded/114861540
   airtable_createdTime: '2020-01-19T20:33:02.000Z'
   airtable_id: recDh53A78GLSgFoT
@@ -5654,7 +5715,7 @@
     Good workshop to understand how to instrument our applications for good telemetry, logging, and tracing.
   Duration: 4800
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:31:16.000Z'
   Less 15: 0
   Name: 'Altitude NYC 2018: Observability workshop'
   Published: true
@@ -5666,6 +5727,10 @@
   - recjk2UtOeZplMpPS
   Speakers_Names:
   - Peter Bourgon
+  Topics:
+  - recDqEOIt9vzNQfTZ
+  Topics_Names:
+  - Observability
   Url: https://vimeo.com/267641392
   airtable_createdTime: '2020-01-19T20:32:59.000Z'
   airtable_id: recELoGuryNrKrASv
@@ -5881,7 +5946,7 @@
     GOTO 2017
   Duration: 2940
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:47:48.000Z'
   Less 15: 0
   Name: How to Break the Rules
   Published: true
@@ -5893,6 +5958,12 @@
   - recFwCH6SfELfIX3t
   Speakers_Names:
   - Dan North
+  Topics:
+  - reck50u1RzhJj6MIy
+  - rec8Z4b4p6s6IhX2C
+  Topics_Names:
+  - Flow
+  - TOC
   Url: https://www.youtube.com/watch?v=hZFShSjAhlQ
   airtable_createdTime: '2020-01-19T20:41:30.000Z'
   airtable_id: recF4RCRwyrmzfxXL
@@ -7023,7 +7094,7 @@
   Description: "Raw Voices Podcast\_ Ep 56. with Niels Pflaeging\n"
   Duration: 3960
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T14:06:06.000Z'
   Less 15: 0
   Name: Management Is Dead!
   Published: true
@@ -7035,6 +7106,10 @@
   - recxVbnJ2Ij0TGGPh
   Speakers_Names:
   - Niels Pflaeging
+  Topics:
+  - recwjZlYYZq3zj7TU
+  Topics_Names:
+  - Culture
   Url: https://www.youtube.com/watch?v=Q0i3hb0HBPU
   airtable_createdTime: '2020-01-19T20:32:18.000Z'
   airtable_id: recHpTejTGn0G3Gdl
@@ -7277,7 +7352,7 @@
     Interesting talk about some OO concepts using elixir.
   Duration: 3300
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:35:46.000Z'
   Less 15: 0
   Name: The Best OO Language is a Functional One
   Published: true
@@ -7289,6 +7364,10 @@
   - receknFyNscOpEyGa
   Speakers_Names:
   - Dave Thomas
+  Topics:
+  - recm3GCPgEVSDmeVI
+  Topics_Names:
+  - Software Design
   Url: https://www.youtube.com/watch?v=lSBGX7twkB0
   airtable_createdTime: '2020-01-19T20:43:06.000Z'
   airtable_id: recIFRbe3bPKWaQum
@@ -8667,7 +8746,7 @@
   Description: "Podcast describing \_Grows Method\_for agile adoption with one of\
     \ his authors, Andy Hunt (@PragmaticAndy).\n"
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:42:06.000Z'
   Less 15: 1
   Name: http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/
   Published: true
@@ -8680,6 +8759,10 @@
   - reclyzEov5nAUGrBL
   Speakers_Names:
   - Andy Hunt
+  Topics:
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Agile
   Url: http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/
   airtable_createdTime: '2020-01-19T20:42:01.000Z'
   airtable_id: recMAXS80wmvMBHRc
@@ -9589,7 +9672,7 @@
   Description: |
     software engineering daily
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:38:30.000Z'
   Less 15: 1
   Name: Evolutionary Architecture with Neal Ford
   Published: true
@@ -9601,6 +9684,12 @@
   - reckgZt0bXAoEIt2J
   Speakers_Names:
   - Neal Ford
+  Topics:
+  - recs8FWnaRcAcdOoW
+  - recQ4hio93eTgzFTS
+  Topics_Names:
+  - Evolutionary Architecture
+  - Architecture
   Url: https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/
   airtable_createdTime: '2020-01-19T20:42:19.000Z'
   airtable_id: recORpJNyUmhoEN7w
@@ -10221,27 +10310,6 @@
   airtable_createdTime: '2020-01-19T20:39:04.000Z'
   airtable_id: recPzBHdMTTy2zr9j
   registered_at: '2020-01-19T20:39:04.000Z'
-- Blog Url: https://www.eferro.net/2018/08/index.html
-  Created: '2020-01-19T20:32:25.000Z'
-  Description: |
-    Another interesting conversation.
-  Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
-  Less 15: 1
-  Name: The Foundations of Continuous Delivery
-  Published: true
-  Resource: The Foundations of Continuous Delivery - https://www.heavybit.com/library/podcasts/o11ycast/ep-4-systems-administration-with-adam-jacob-of-chef/
-  Resource type: podcast
-  Speaker WomenInTech:
-  - true
-  Speakers:
-  - recfvF6x6rIQCDBrO
-  Speakers_Names:
-  - Susanne Kaiser
-  Url: https://www.heavybit.com/library/podcasts/o11ycast/ep-4-systems-administration-with-adam-jacob-of-chef/
-  airtable_createdTime: '2020-01-19T20:32:25.000Z'
-  airtable_id: recQ0ZwU8ZZDmm5BO
-  registered_at: '2020-01-19T20:32:25.000Z'
 - Blog Url: https://www.eferro.net/2016/10/great-technical-talks-ive-seen-this.html
   Created: '2020-01-19T20:35:26.000Z'
   Description: |
@@ -10444,10 +10512,11 @@
   Description: |
     Modern agile and how to introduce it. (good ideas about, flow, value, and teams).
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:20:52.000Z'
   Less 15: 1
   Name: The Journey to Continuous Delivery
   Published: true
+  Rating: 5
   Resource: The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility
   Resource type: talk
   Speaker WomenInTech:
@@ -10456,6 +10525,16 @@
   - recFwCH6SfELfIX3t
   Speakers_Names:
   - Dan North
+  Topics:
+  - recO11XlolI72a1fV
+  - recin3Ync8iZldW0q
+  - rechj5WeSQRH211np
+  - reck50u1RzhJj6MIy
+  Topics_Names:
+  - Lean
+  - Continuous Delivery
+  - Agile
+  - Flow
   Url: https://www.infoq.com/presentations/cd-business-agility
   airtable_createdTime: '2020-01-19T20:32:31.000Z'
   airtable_id: recQXhKafE7CbtPIw
@@ -10547,7 +10626,7 @@
     \ that we have in our industry. A must see.\n"
   Duration: 4200
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:43:35.000Z'
   Less 15: 0
   Name: Continuous Delivery In Agile
   Published: true
@@ -10559,6 +10638,10 @@
   - recf1C8fNSMXaLZ0q
   Speakers_Names:
   - Jez Humble
+  Topics:
+  - recin3Ync8iZldW0q
+  Topics_Names:
+  - Continuous Delivery
   Url: https://vimeo.com/229954108
   airtable_createdTime: '2020-01-19T20:41:56.000Z'
   airtable_id: recQoqG1njAO55EIh
@@ -11229,7 +11312,7 @@
   Description: |
     Very good insights on how to design and evolve a microservice architecture (assuming that you need it).
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:28:45.000Z'
   Less 15: 1
   Name: Scaling Your Architecture with Events and Services
   Published: true
@@ -11241,6 +11324,14 @@
   - recA5JlOnMovEEbtt
   Speakers_Names:
   - Randy Shoup
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recl7w0SkqE9A3GAI
+  - recPoM7t8neA7gkZ5
+  Topics_Names:
+  - Architecture
+  - Engineering Scalability
+  - Devops
   Url: https://www.youtube.com/watch?v=CNLNwOFUlqg
   airtable_createdTime: '2020-01-19T20:33:02.000Z'
   airtable_id: recSi9cTXikmWOquX
@@ -11763,7 +11854,7 @@
     John Willis' Ignite talk (Velocity NY 2014)
   Duration: 300
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:37:01.000Z'
   Less 15: 1
   Name: "Devops and Dr Deming\u2019s 14 Points"
   Published: true
@@ -11775,6 +11866,10 @@
   - recXGTcMReVScoleD
   Speakers_Names:
   - John Willis
+  Topics:
+  - recPoM7t8neA7gkZ5
+  Topics_Names:
+  - Devops
   Url: https://www.youtube.com/watch?v=7g3uqSzWVZs
   airtable_createdTime: '2020-01-19T20:42:37.000Z'
   airtable_id: recU3ahWWaBZfihRf
@@ -12171,7 +12266,7 @@
     Good description about this tool.
   Duration: 600
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:43:09.000Z'
   Less 15: 1
   Name: The Improvement Kata in 10 Minutes
   Published: true
@@ -12183,6 +12278,12 @@
   - recWFHRTx2ncFofKX
   Speakers_Names:
   - Mike Rother
+  Topics:
+  - recO11XlolI72a1fV
+  - recH4PbrLpkXZVGDh
+  Topics_Names:
+  - Lean
+  - Lean Manufacturing
   Url: https://www.youtube.com/watch?v=uqZOu1D639Q
   airtable_createdTime: '2020-01-19T20:42:00.000Z'
   airtable_id: recVNlmZ3pxKg3CQs
@@ -14499,7 +14600,7 @@
     The Lead Developer UK 2017
   Duration: 720
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:45:15.000Z'
   Less 15: 1
   Name: Time to Focus on Your Goals
   Published: true
@@ -14511,6 +14612,12 @@
   - recSfG90JkQhcqkrE
   Speakers_Names:
   - Maria Gutierrez
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recUP8TZ3O1cNiioY
+  Topics_Names:
+  - Inspirational
+  - leadership
   Url: https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0
   airtable_createdTime: '2020-01-19T20:41:54.000Z'
   airtable_id: recbZzYh8iwAqHBJ3
@@ -15247,7 +15354,7 @@
     \ application that uses external services and fuzzy info (like IA, Machine learning\
     \ stuff). More info about this testing problem in the following talk\_<https://gojko.net/2017/10/17/cloud-testing.html>.\n"
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T13:51:59.000Z'
   Less 15: 1
   Name: Testing in Production - Quality Software Faster
   Published: true
@@ -15259,6 +15366,12 @@
   - recE2dEyKJ6isaKrN
   Speakers_Names:
   - Michael Bryzek
+  Topics:
+  - rechwDm7Pn0ivpq7C
+  - rec945yNhVIzyZIuX
+  Topics_Names:
+  - Testing in production
+  - Cloud
   Url: https://www.infoq.com/presentations/testing-software-production
   airtable_createdTime: '2020-01-19T20:32:20.000Z'
   airtable_id: recdHOiGfQoVZDKB3
@@ -16655,10 +16768,11 @@
     \ desarrolladores\_(Spanish)\n"
   Duration: 3240
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:34:48.000Z'
   Less 15: 0
   Name: The Art of Simplicity by Venkat Subramaniam
   Published: true
+  Rating: 5
   Resource: The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8
   Resource type: talk
   Speaker WomenInTech:
@@ -16667,6 +16781,12 @@
   - rec7hZamshM3kjfAE
   Speakers_Names:
   - Venkat Subramaniam
+  Topics:
+  - recm3GCPgEVSDmeVI
+  - recDJCrzfZkg89BP0
+  Topics_Names:
+  - Software Design
+  - simplicity
   Url: https://www.youtube.com/watch?v=NMTrlv4nQR8
   airtable_createdTime: '2020-01-19T20:43:06.000Z'
   airtable_id: recgNHgQpgbXMk5nD
@@ -17265,7 +17385,7 @@
   Description: |
     In this talk Susanne will use Wardley Maps to visualise how the value chain can evolve when getting infrastructure components handled by different options: Going from open source software to Kubernetes' container orchestration, to Istio's service mesh and to Serverless technologies, such as AWS Lambda.
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:36:54.000Z'
   Less 15: 1
   Name: Production - Designing for Testability
   Published: true
@@ -17277,6 +17397,12 @@
   - recE2dEyKJ6isaKrN
   Speakers_Names:
   - Michael Bryzek
+  Topics:
+  - recPcLVyg0S4ORUkX
+  - rechwDm7Pn0ivpq7C
+  Topics_Names:
+  - testing
+  - Testing in production
   Url: https://www.infoq.com/presentations/quality-production
   airtable_createdTime: '2020-01-19T20:42:43.000Z'
   airtable_id: rechenJ6kgA7BxHI9
@@ -17538,7 +17664,7 @@
     Julien Lepine
   Duration: 2820
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:38:36.000Z'
   Less 15: 0
   Name: Cloud for startup sucess
   Published: true
@@ -17550,6 +17676,10 @@
   - recmQaCA8vd1aW7Ft
   Speakers_Names:
   - Julien Lepine
+  Topics:
+  - rec945yNhVIzyZIuX
+  Topics_Names:
+  - Cloud
   Url: https://vimeo.com/131660205
   airtable_createdTime: '2020-01-19T20:42:19.000Z'
   airtable_id: reciQUByvgPPQfZKh
@@ -18079,7 +18209,7 @@
     Modern Agile by Joshua Kerievsky
   Duration: 4080
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:43:24.000Z'
   Less 15: 0
   Name: https://www.agilealliance.org/resources/videos/modern-agile/
   Published: true
@@ -18091,6 +18221,10 @@
   - recgxkWdZQMXrLcyo
   Speakers_Names:
   - Joshua Kerievsky
+  Topics:
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Agile
   Url: https://www.agilealliance.org/resources/videos/modern-agile/
   airtable_createdTime: '2020-01-19T20:42:00.000Z'
   airtable_id: recjSKdz5ZcQahIt4
@@ -19886,7 +20020,7 @@
   Description: |
     Great description of Evolutionary Architecture
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:36:36.000Z'
   Less 15: 1
   Name: 'InfoQ podcast: Courageous Leadership and Evolutionary Architecture'
   Published: true
@@ -19899,6 +20033,12 @@
   - recrhdgpUA9JQh5Es
   Speakers_Names:
   - Rebecca Parsons
+  Topics:
+  - recs8FWnaRcAcdOoW
+  - recQ4hio93eTgzFTS
+  Topics_Names:
+  - Evolutionary Architecture
+  - Architecture
   Url: https://www.infoq.com/podcasts/parsons-leadership-evolutionary-architecture
   airtable_createdTime: '2020-01-19T20:42:44.000Z'
   airtable_id: recnCgMcszzwpmJh8
@@ -20026,28 +20166,6 @@
   airtable_createdTime: '2020-01-19T20:34:34.000Z'
   airtable_id: recnOvllU0VNmNHa6
   registered_at: '2020-01-19T20:34:34.000Z'
-- Blog Url: https://www.eferro.net/2018/08/good-talkspodcasts-aug-2018-i.html
-  Created: '2020-01-19T20:32:32.000Z'
-  Description: |
-    David Foster Wallace Full Speech
-  Duration: 1320
-  Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
-  Less 15: 0
-  Name: This Is Water
-  Published: true
-  Resource: This Is Water - https://www.youtube.com/watch?v=PhhC_N6Bm_s
-  Resource type: talk
-  Speaker WomenInTech:
-  - null
-  Speakers:
-  - rec7wpfKSNjSmEtyA
-  Speakers_Names:
-  - David Foster Wallace
-  Url: https://www.youtube.com/watch?v=PhhC_N6Bm_s
-  airtable_createdTime: '2020-01-19T20:32:32.000Z'
-  airtable_id: recnWc2OGQjOxtw4D
-  registered_at: '2020-01-19T20:32:32.000Z'
 - Created: '2020-07-08T06:39:29.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -20436,7 +20554,7 @@
     Kindly introduction about what is deep learning.
   Duration: 4740
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:41:53.000Z'
   Less 15: 0
   Name: Large-Scale Deep Learning for Intelligent Computer Systems
   Published: true
@@ -20448,6 +20566,12 @@
   - recavBsmgkZI0ZsCt
   Speakers_Names:
   - Jeff Dean
+  Topics:
+  - recmuONwokRtPS6Tp
+  - recBgdseJ65OQw8Oy
+  Topics_Names:
+  - AI
+  - Deep Learning
   Url: https://www.youtube.com/watch?v=QSaZGT4-6EY
   airtable_createdTime: '2020-01-19T20:42:02.000Z'
   airtable_id: recoAe21A3GrWf6uH
@@ -20659,7 +20783,7 @@
   Description: |
     Ep: 512. hanselminutes podcast
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:41:38.000Z'
   Less 15: 1
   Name: lean customer development with Cindy Alvarez
   Published: true
@@ -20671,6 +20795,12 @@
   - recEoFA9mEHIA11NW
   Speakers_Names:
   - Cindy Alvarez
+  Topics:
+  - recO11XlolI72a1fV
+  - recrNBL2FKBzgsQTs
+  Topics_Names:
+  - Lean
+  - Product Discovery
   Url: https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez
   airtable_createdTime: '2020-01-19T20:42:12.000Z'
   airtable_id: recohp2EMx3gJ4R14
@@ -20986,7 +21116,7 @@
 
   Duration: 3000
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T13:51:22.000Z'
   Less 15: 0
   Name: Principles of Lean Product Managment
   Published: true
@@ -20998,6 +21128,12 @@
   - recf1C8fNSMXaLZ0q
   Speakers_Names:
   - Jez Humble
+  Topics:
+  - rec0PB37LN1Kz0Blh
+  - rech2MAtQRy0Lvc2Y
+  Topics_Names:
+  - Lean Product Management
+  - Lean Software Development
   Url: https://www.youtube.com/watch?v=cH6bnQzJojo
   airtable_createdTime: '2020-01-19T20:32:17.000Z'
   airtable_id: recpSMgAZacKjfZmm
@@ -21550,7 +21686,7 @@
   Description: |
     Software Engineering Radio Podcast
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:43:52.000Z'
   Less 15: 1
   Name: 'SE-Radio Episode 295: Michael Feathers on Legacy Code'
   Published: true
@@ -21562,6 +21698,12 @@
   - recxIEBH98KfI6Cxf
   Speakers_Names:
   - Michael Feathers
+  Topics:
+  - recL3VscFTVNbqlMM
+  - recm3GCPgEVSDmeVI
+  Topics_Names:
+  - Legacy code
+  - Software Design
   Url: http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/
   airtable_createdTime: '2020-01-19T20:41:55.000Z'
   airtable_id: recrYqt5GZlrRAe1P
@@ -21985,7 +22127,7 @@
   Description: |
     Company Culture, Change, and DevOps with Nicole Forsgren, Jez Humble, and Sonal Chokshi
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:25:58.000Z'
   Less 15: 1
   Name: 'a16z Podcast: Feedback Loops'
   Published: true
@@ -22003,6 +22145,16 @@
   - Sonal Chokshi
   - Nicole Forsgren
   - Jez Humble
+  Topics:
+  - recPoM7t8neA7gkZ5
+  - recO11XlolI72a1fV
+  - recWFKWrPEdeEYbzx
+  - recl7w0SkqE9A3GAI
+  Topics_Names:
+  - Devops
+  - Lean
+  - Engineering Culture
+  - Engineering Scalability
   Url: https://a16z.com/2018/03/28/devops-org-change-software-performance/
   airtable_createdTime: '2020-01-19T20:32:55.000Z'
   airtable_id: recsO8sRpVmxeUmNM
@@ -22340,7 +22492,7 @@
   Description: |
     InfoQ Engineering Culture Podcast
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:45:37.000Z'
   Less 15: 1
   Name: Patrick Kua on Growing Technical Leadership and Evolutionary Architecture
   Published: true
@@ -22353,6 +22505,14 @@
   - rectnnCmH6vpZcBFh
   Speakers_Names:
   - Patrick Kua
+  Topics:
+  - recs8FWnaRcAcdOoW
+  - recUP8TZ3O1cNiioY
+  - recF9sEGaOJ0hiQgV
+  Topics_Names:
+  - Evolutionary Architecture
+  - leadership
+  - Technical leadership
   Url: https://www.infoq.com/podcasts/patrick-kua-technical-leadership
   airtable_createdTime: '2020-01-19T20:41:53.000Z'
   airtable_id: rectARJKbtqXtcmOQ
@@ -22362,7 +22522,7 @@
   Description: |2+
 
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T13:52:18.000Z'
   Less 15: 1
   Name: o11ycast podcast Ep7 Observability at Asana and honeycomb
   Published: true
@@ -22380,6 +22540,10 @@
   - Michael Wilde
   - Cliff Chang
   - Phips Peter
+  Topics:
+  - recDqEOIt9vzNQfTZ
+  Topics_Names:
+  - Observability
   Url: https://www.heavybit.com/library/podcasts/o11ycast/ep-7-observability-at-asana-and-honeycomb/
   airtable_createdTime: '2020-01-19T20:32:07.000Z'
   airtable_id: rectAVSdivwGCjDqC
@@ -22816,7 +22980,7 @@
   Description: |
     Good introduction for anyone.
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:18:24.000Z'
   Less 15: 1
   Name: 'SE-Radio Episode 315: Jeroen Janssens on Tools for Data Science'
   Published: true
@@ -22828,6 +22992,10 @@
   - recdMMEMNXOA0gA0L
   Speakers_Names:
   - Jeroen Janssens
+  Topics:
+  - recu0ogH2eAbuoS2q
+  Topics_Names:
+  - Data Science
   Url: http://www.se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/
   airtable_createdTime: '2020-01-19T20:32:23.000Z'
   airtable_id: recuEim2tG3QCBz1d
@@ -24093,7 +24261,7 @@
     Interesting talks with good insights.
   Duration: 2820
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:17:06.000Z'
   Less 15: 0
   Name: 'AWS re:Invent 2017: Dating and Data Science: How Coffee Meets Bagel Uses
     Amazon Elas (DAT323)'
@@ -24110,6 +24278,12 @@
   Speakers_Names:
   - Daniel Pyrathon
   - David O'Steen
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  Topics_Names:
+  - Architecture
+  - Architecture patterns
   Url: https://www.youtube.com/watch?v=_Aniee-XpSQ
   airtable_createdTime: '2020-01-19T20:32:26.000Z'
   airtable_id: recxfgbGw6m2IlOnN
@@ -24370,7 +24544,7 @@
     Related with the interesting blog post "Developers Should Abandon Agile".
   Duration: 2160
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:30:19.000Z'
   Less 15: 0
   Name: The death of Agile
   Published: true
@@ -24382,6 +24556,10 @@
   - recJIvk6AP9h7zMFE
   Speakers_Names:
   - Allen Holub
+  Topics:
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Agile
   Url: https://www.youtube.com/watch?v=vSnCeJEka_s
   airtable_createdTime: '2020-01-19T20:33:03.000Z'
   airtable_id: recyCkKA0x3HPvZnc
@@ -24580,7 +24758,7 @@
   Description: "A good talk about the need for\_observability for our systems.\n"
   Duration: 2280
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:31:05.000Z'
   Less 15: 0
   Name: 'What is Happening: Attempting to Understand Our Systems'
   Published: true
@@ -24592,6 +24770,10 @@
   - recIKJpINt55hki8v
   Speakers_Names:
   - Beau Lyddon
+  Topics:
+  - recDqEOIt9vzNQfTZ
+  Topics_Names:
+  - Observability
   Url: https://www.youtube.com/watch?v=xy3w2hGijhE
   airtable_createdTime: '2020-01-19T20:32:29.000Z'
   airtable_id: recygOU0wpBFb14gZ
@@ -24766,7 +24948,7 @@
   Description: |
     A must... the base for good teams.
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:37:52.000Z'
   Less 15: 1
   Name: What Google Learned about Creating Effective Teams
   Published: true
@@ -24778,6 +24960,16 @@
   - recwCqfuyjU4dyeF9
   Speakers_Names:
   - Matt Sakaguchi
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recwjZlYYZq3zj7TU
+  - rechSTvKX9sm9HHMA
+  - recWFKWrPEdeEYbzx
+  Topics_Names:
+  - Inspirational
+  - Culture
+  - Company Culture
+  - Engineering Culture
   Url: https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-01-19T20:42:27.000Z'
   airtable_id: reczLoRy2b7S8EQio
@@ -25019,7 +25211,7 @@
   Description: |
     Several interesting examples of how to use services to create solutions very fast.
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2023-11-19T19:18:36.000Z'
   Less 15: 1
   Name: Serverless Patterns and Anti-patterns
   Published: true
@@ -25031,6 +25223,12 @@
   - rec1OxriDP0vwYBVh
   Speakers_Names:
   - Joe Emison
+  Topics:
+  - recm1G3xxDIQZ5dKc
+  - recQ4hio93eTgzFTS
+  Topics_Names:
+  - Architecture patterns
+  - Architecture
   Url: https://www.infoq.com/presentations/serverless-patterns-antipatterns
   airtable_createdTime: '2020-01-19T20:32:26.000Z'
   airtable_id: reczsTUBZ7dNrEzbG

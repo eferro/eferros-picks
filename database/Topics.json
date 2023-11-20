@@ -1,6 +1,6 @@
 [
     {
-        "Last Modified": "2023-08-10T22:35:27.000Z",
+        "Last Modified": "2023-11-19T19:32:30.000Z",
         "Name": "Lean Product Management",
         "Resources": [
             "recnXWD90uga820WV",
@@ -36,9 +36,11 @@
             "reclTVcNeM3EWyoMd",
             "reciUkxVDCZbYLk2E",
             "recSvICPiAU0cN86t",
-            "recQSVPLU6svtsxEE"
+            "recQSVPLU6svtsxEE",
+            "recpSMgAZacKjfZmm",
+            "rec7NPbH4POd8KrJS"
         ],
-        "Resources number": 34,
+        "Resources number": 36,
         "Speakers": [
             "Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4",
             "Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c",
@@ -73,7 +75,9 @@
             "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
             "Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw",
             "Friction - https://vimeo.com/163573399",
-            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo",
+            "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU"
         ],
         "airtable_createdTime": "2020-08-09T19:31:05.000Z",
         "airtable_id": "rec0PB37LN1Kz0Blh"
@@ -331,7 +335,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2023-11-18T15:43:29.000Z",
+        "Last Modified": "2023-11-19T19:44:56.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -451,9 +455,11 @@
             "reckjL9O859XqGTqO",
             "rec60loGe7MPQViCd",
             "recTZlj6ecEgPAWIC",
-            "recUJOAZZjUhx4qJy"
+            "recUJOAZZjUhx4qJy",
+            "reczLoRy2b7S8EQio",
+            "recbZzYh8iwAqHBJ3"
         ],
-        "Resources number": 118,
+        "Resources number": 120,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -572,7 +578,9 @@
             "The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA",
             "Building and Scaling a High-Performance Culture - https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
             "JavaZone 2019, Room 5 - Survival Tips For Women in Tech - https://www.pscp.tv/w/1BdGYepvvLQGX",
-            "The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ"
+            "The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ",
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams",
+            "Time to Focus on Your Goals - https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -617,7 +625,7 @@
         "airtable_id": "rec7iLwNVmaf6r16r"
     },
     {
-        "Last Modified": "2023-11-18T15:16:15.000Z",
+        "Last Modified": "2023-11-19T19:47:48.000Z",
         "Name": "TOC",
         "Resources": [
             "rec8hMrMETVFXK6k5",
@@ -626,9 +634,11 @@
             "recLM4cBLNF91IGbq",
             "recomFIM8h16kGME1",
             "recI0tRR0AaRwBuXj",
-            "rec4BtlnPEhus1Zdg"
+            "rec4BtlnPEhus1Zdg",
+            "rec7NPbH4POd8KrJS",
+            "recF4RCRwyrmzfxXL"
         ],
-        "Resources number": 7,
+        "Resources number": 9,
         "Speakers": [
             "Breaking Business Bottlenecks - Theory of Constraints - https://www.youtube.com/watch?v=1UqWejurWwU",
             "Making Work Visible: How to Unmask Capacity Killing WIP - https://www.youtube.com/watch?v=KR7Y8IUgyyA",
@@ -636,13 +646,15 @@
             "15 teams and 4 months to achieve Continuous Delivery - https://www.youtube.com/watch?v=KQSLXgp-aP0",
             "Stop starting and start finishing - https://www.youtube.com/watch?v=FOLDDe4ARRs",
             "Theory of Constraints 3 Bottle Demo to improve Flow - https://www.youtube.com/watch?v=PMiTVUDiNQ4",
-            "WIP: why limiting work in progress makes sense (Kanban) - https://www.youtube.com/watch?v=W92wG-HW8gg"
+            "WIP: why limiting work in progress makes sense (Kanban) - https://www.youtube.com/watch?v=W92wG-HW8gg",
+            "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU",
+            "How to Break the Rules - https://www.youtube.com/watch?v=hZFShSjAhlQ"
         ],
         "airtable_createdTime": "2020-05-17T13:54:13.000Z",
         "airtable_id": "rec8Z4b4p6s6IhX2C"
     },
     {
-        "Last Modified": "2023-08-13T08:44:24.000Z",
+        "Last Modified": "2023-11-19T19:38:36.000Z",
         "Name": "Cloud",
         "Resources": [
             "recci0Pe28klxq9Ii",
@@ -660,9 +672,12 @@
             "recMiWcddhzWezOrf",
             "recbH5Ps1JZF9UVbS",
             "reccNlMl6JcDotm1s",
-            "recEbeDrLiZUegSaB"
+            "recEbeDrLiZUegSaB",
+            "recdHOiGfQoVZDKB3",
+            "recDh53A78GLSgFoT",
+            "reciQUByvgPPQfZKh"
         ],
-        "Resources number": 16,
+        "Resources number": 19,
         "Speakers": [
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
@@ -679,7 +694,10 @@
             "In Search of the Perfect Cloud Native Developer Experience - https://www.youtube.com/watch?v=V-oc2GH7iZs",
             "Day Two Cloud 111: Infrastructure As Software With Kris N\u00f3va - https://packetpushers.net/podcast/day-two-cloud-111/",
             "LOTE #7: Kelsey Hightower on Developer Experience, PaaS, and Testing in Production - https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/",
-            "Why we switched to serverless containers - https://changelog.com/shipit/87"
+            "Why we switched to serverless containers - https://changelog.com/shipit/87",
+            "Testing in Production - Quality Software Faster - https://www.infoq.com/presentations/testing-software-production",
+            "Five key challenges for software quality tomorrow - http://www.ustream.tv/recorded/114861540",
+            "Cloud for startup sucess - https://vimeo.com/131660205"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec945yNhVIzyZIuX"
@@ -803,6 +821,19 @@
         "airtable_id": "recBX6CqydFySIyML"
     },
     {
+        "Last Modified": "2023-11-19T19:41:53.000Z",
+        "Name": "Deep Learning",
+        "Resources": [
+            "recoAe21A3GrWf6uH"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY"
+        ],
+        "airtable_createdTime": "2023-11-19T19:41:53.000Z",
+        "airtable_id": "recBgdseJ65OQw8Oy"
+    },
+    {
         "Last Modified": "2022-02-12T22:27:49.000Z",
         "Name": "Monitoring",
         "Resources": [
@@ -880,6 +911,19 @@
         ],
         "airtable_createdTime": "2022-10-09T09:31:53.000Z",
         "airtable_id": "recDFzWENoFZ1WRp9"
+    },
+    {
+        "Last Modified": "2023-11-19T19:34:48.000Z",
+        "Name": "simplicity",
+        "Resources": [
+            "recgNHgQpgbXMk5nD"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8"
+        ],
+        "airtable_createdTime": "2023-11-19T19:34:48.000Z",
+        "airtable_id": "recDJCrzfZkg89BP0"
     },
     {
         "Last Modified": "2023-08-26T18:48:53.000Z",
@@ -967,7 +1011,7 @@
         "airtable_id": "recDnzAEazkBJFFZh"
     },
     {
-        "Last Modified": "2022-12-06T21:16:04.000Z",
+        "Last Modified": "2023-11-19T19:31:16.000Z",
         "Name": "Observability",
         "Resources": [
             "recazeVUxHdijBZU2",
@@ -977,9 +1021,12 @@
             "recy1ap1dYgcQG19U",
             "recuxR7UJZpTSgD0l",
             "recgwJfBEOYLO3VOq",
-            "reci6hmP68Wu5dCl2"
+            "reci6hmP68Wu5dCl2",
+            "rectAVSdivwGCjDqC",
+            "recygOU0wpBFb14gZ",
+            "recELoGuryNrKrASv"
         ],
-        "Resources number": 8,
+        "Resources number": 11,
         "Speakers": [
             "What got you here won't get you there: How your team can become a high-performing team by embracing observability - https://www.youtube.com/watch?v=QK6zEFdvXYw",
             "SLO TheoryWhy the Business needs SLOs - https://www.honeycomb.io/why-the-business-needs-slos-on-demand/",
@@ -988,13 +1035,16 @@
             "Reduce Alerting Noise with One Weird Trick - https://www.youtube.com/watch?v=DOXk2xoAUkw",
             "Ten Platform Commandments - https://charity.wtf/2018/10/24/ten-platform-commandments/",
             "Agile Book Club - DevOps (with Jessica Kerr)-DAayRED0B7g - https://www.youtube.com/watch?v=DAayRED0B7g",
-            "Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM"
+            "Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM",
+            "o11ycast podcast Ep7 Observability at Asana and honeycomb - https://www.heavybit.com/library/podcasts/o11ycast/ep-7-observability-at-asana-and-honeycomb/",
+            "What is Happening: Attempting to Understand Our Systems - https://www.youtube.com/watch?v=xy3w2hGijhE",
+            "Altitude NYC 2018: Observability workshop - https://vimeo.com/267641392"
         ],
         "airtable_createdTime": "2020-08-09T19:43:06.000Z",
         "airtable_id": "recDqEOIt9vzNQfTZ"
     },
     {
-        "Last Modified": "2023-06-18T06:44:58.000Z",
+        "Last Modified": "2023-11-19T19:45:37.000Z",
         "Name": "Technical leadership",
         "Resources": [
             "recAgTJFXQFe3DRC1",
@@ -1018,9 +1068,10 @@
             "recgwJfBEOYLO3VOq",
             "recoN5BMtMjKGPz1b",
             "rechnBVbwP7XyJUqp",
-            "recgMNfjEQbF98kc0"
+            "recgMNfjEQbF98kc0",
+            "rectARJKbtqXtcmOQ"
         ],
-        "Resources number": 22,
+        "Resources number": 23,
         "Speakers": [
             "Technical Leadership for Empowered Teams - https://vimeo.com/339930423",
             "Life as a Chief Architect - https://www.youtube.com/watch?v=kJRudbvW6qE",
@@ -1043,7 +1094,8 @@
             "Agile Book Club - DevOps (with Jessica Kerr)-DAayRED0B7g - https://www.youtube.com/watch?v=DAayRED0B7g",
             "Seven shipping principles - https://changelog.com/shipit/77",
             "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
-            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ"
+            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
+            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership"
         ],
         "airtable_createdTime": "2020-05-17T19:55:46.000Z",
         "airtable_id": "recF9sEGaOJ0hiQgV"
@@ -1283,16 +1335,18 @@
         "airtable_id": "recG2ZvgldoblvB4l"
     },
     {
-        "Last Modified": "2023-10-15T18:42:33.000Z",
+        "Last Modified": "2023-11-19T19:43:09.000Z",
         "Name": "Lean Manufacturing",
         "Resources": [
             "recQAbrwc47ekm8I3",
-            "recnhIPaWkZpDSgib"
+            "recnhIPaWkZpDSgib",
+            "recVNlmZ3pxKg3CQs"
         ],
-        "Resources number": 2,
+        "Resources number": 3,
         "Speakers": [
             "NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015",
-            "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs"
+            "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs",
+            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q"
         ],
         "airtable_createdTime": "2023-05-06T20:11:05.000Z",
         "airtable_id": "recH4PbrLpkXZVGDh"
@@ -1345,14 +1399,16 @@
         "airtable_id": "recK4v7rm071B5jK6"
     },
     {
-        "Last Modified": "2022-10-16T17:00:20.000Z",
+        "Last Modified": "2023-11-19T19:43:45.000Z",
         "Name": "Legacy code",
         "Resources": [
-            "recgCeFdi993pAe7V"
+            "recgCeFdi993pAe7V",
+            "recrYqt5GZlrRAe1P"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "Legacy Code, OOP vs Functional Programming & MORE - https://www.youtube.com/watch?v=UGD8pMMJlbk"
+            "Legacy Code, OOP vs Functional Programming & MORE - https://www.youtube.com/watch?v=UGD8pMMJlbk",
+            "SE-Radio Episode 295: Michael Feathers on Legacy Code - http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/"
         ],
         "airtable_createdTime": "2022-10-16T17:00:20.000Z",
         "airtable_id": "recL3VscFTVNbqlMM"
@@ -1377,7 +1433,7 @@
         "airtable_id": "recLS0zTJxflAcqBu"
     },
     {
-        "Last Modified": "2023-11-17T09:13:45.000Z",
+        "Last Modified": "2023-11-19T19:42:58.000Z",
         "Name": "Lean",
         "Resources": [
             "recGNYr6fwcuQrY7O",
@@ -1417,9 +1473,14 @@
             "recXmr49q5ciJGAMp",
             "recgMNfjEQbF98kc0",
             "recnhIPaWkZpDSgib",
-            "recPjJcgKz9yZq4Uc"
+            "recPjJcgKz9yZq4Uc",
+            "recQXhKafE7CbtPIw",
+            "recsO8sRpVmxeUmNM",
+            "rec7NPbH4POd8KrJS",
+            "recohp2EMx3gJ4R14",
+            "recVNlmZ3pxKg3CQs"
         ],
-        "Resources number": 38,
+        "Resources number": 43,
         "Speakers": [
             "Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html",
             "If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk",
@@ -1458,7 +1519,12 @@
             "Software delivery in small batches: Dr. Deming - https://smallbatches.fm/84",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
             "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs",
-            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
+            "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
+            "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
+            "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU",
+            "lean customer development with Cindy Alvarez - https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez",
+            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recO11XlolI72a1fV"
@@ -1495,7 +1561,7 @@
         "airtable_id": "recPDGLhpXxkxbDoU"
     },
     {
-        "Last Modified": "2023-11-18T15:37:10.000Z",
+        "Last Modified": "2023-11-19T19:36:50.000Z",
         "Name": "testing",
         "Resources": [
             "recIFakmXTw6GmZlH",
@@ -1525,9 +1591,11 @@
             "recmxMzHk07eCaRVF",
             "recNoRdbv0UyVegAj",
             "rec6VZ5qk8zuAsbvk",
-            "recWfUV0NqBVUvrz1"
+            "recWfUV0NqBVUvrz1",
+            "recDh53A78GLSgFoT",
+            "rechenJ6kgA7BxHI9"
         ],
-        "Resources number": 28,
+        "Resources number": 30,
         "Speakers": [
             "How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU",
             "Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/",
@@ -1556,13 +1624,15 @@
             "Oredev 2011: Sleeping with the enemy - https://www.youtube.com/watch?v=hIMwTzAAQ-w",
             "Create Web APIs with ASP.NET Core Using Outside In TDD - https://www.youtube.com/watch?v=iVIipp8gj94",
             "Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI",
-            "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018"
+            "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018",
+            "Five key challenges for software quality tomorrow - http://www.ustream.tv/recorded/114861540",
+            "Production - Designing for Testability - https://www.infoq.com/presentations/quality-production"
         ],
         "airtable_createdTime": "2020-09-06T08:22:07.000Z",
         "airtable_id": "recPcLVyg0S4ORUkX"
     },
     {
-        "Last Modified": "2023-11-18T15:39:06.000Z",
+        "Last Modified": "2023-11-19T19:37:01.000Z",
         "Name": "Devops",
         "Resources": [
             "recOeXIOfuU3plaew",
@@ -1627,9 +1697,12 @@
             "recBR96pE4GvW4b8m",
             "recvKM2z7HFHLXSL7",
             "rec60loGe7MPQViCd",
-            "recNlVd0tH5YnKGwN"
+            "recNlVd0tH5YnKGwN",
+            "recsO8sRpVmxeUmNM",
+            "recSi9cTXikmWOquX",
+            "recU3ahWWaBZfihRf"
         ],
-        "Resources number": 63,
+        "Resources number": 66,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
@@ -1693,13 +1766,16 @@
             "DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE",
             "Moving Fast at Scale - https://www.youtube.com/watch?v=t-sIaw4kHqI",
             "Building and Scaling a High-Performance Culture - https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
-            "Webminar 2019 Accelerate State of DevOps - https://newrelic.com/resources/webinar/2019-acceleratestateofdevops"
+            "Webminar 2019 Accelerate State of DevOps - https://newrelic.com/resources/webinar/2019-acceleratestateofdevops",
+            "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
+            "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg",
+            "Devops and Dr Deming\u2019s 14 Points - https://www.youtube.com/watch?v=7g3uqSzWVZs"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2023-11-18T15:43:49.000Z",
+        "Last Modified": "2023-11-19T19:41:09.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1787,9 +1863,16 @@
             "rec0Zn0xNpLa4HaZn",
             "rec3GO9MC5qIQ3aBs",
             "recCryAhEFHiUPGs2",
-            "reckGLUtBVVPUSvzh"
+            "reckGLUtBVVPUSvzh",
+            "rec6hyOkL4BSjtT4P",
+            "recxfgbGw6m2IlOnN",
+            "reczsTUBZ7dNrEzbG",
+            "recSi9cTXikmWOquX",
+            "recnCgMcszzwpmJh8",
+            "recORpJNyUmhoEN7w",
+            "rec3jBh4YZ9cRjwtp"
         ],
-        "Resources number": 86,
+        "Resources number": 93,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1876,7 +1959,14 @@
             "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg",
             "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k",
             "SE Radio Ep 287 Success skills for architects with Neil Ford - http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/",
-            "Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices"
+            "Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices",
+            "Full Stack Radio Ep 80: Tom Schlick - Building Multitenant Applications - http://www.fullstackradio.com/80",
+            "AWS re:Invent 2017: Dating and Data Science: How Coffee Meets Bagel Uses Amazon Elas (DAT323) - https://www.youtube.com/watch?v=_Aniee-XpSQ",
+            "Serverless Patterns and Anti-patterns - https://www.infoq.com/presentations/serverless-patterns-antipatterns",
+            "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg",
+            "InfoQ podcast: Courageous Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/parsons-leadership-evolutionary-architecture",
+            "Evolutionary Architecture with Neal Ford - https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/",
+            "Immutability Changes Everything - https://vimeo.com/52831373"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -2006,7 +2096,7 @@
         "airtable_id": "recTPLZxKhIsbbwEW"
     },
     {
-        "Last Modified": "2023-06-18T06:45:00.000Z",
+        "Last Modified": "2023-11-19T19:45:33.000Z",
         "Name": "leadership",
         "Resources": [
             "rec9EZic34Ot174h3",
@@ -2017,9 +2107,11 @@
             "recRtAWnx4lTVvYUO",
             "rec4grFdhA7wAX8Wy",
             "recKLS8QeOawn7JwY",
-            "recgMNfjEQbF98kc0"
+            "recgMNfjEQbF98kc0",
+            "recbZzYh8iwAqHBJ3",
+            "rectARJKbtqXtcmOQ"
         ],
-        "Resources number": 9,
+        "Resources number": 11,
         "Speakers": [
             "The Principles and Practices behind Team of Teams - https://itrevolution.com/the-idealcast-episode-11/",
             "GOTO 2020 \u2022 Talking With Tech Leads - https://www.youtube.com/watch?v=F81W-JcRgXM",
@@ -2029,7 +2121,9 @@
             "Lunch & Learn How to Misuse DORA DevOps Metrics - https://www.youtube.com/watch?v=0vi7XW15UIg",
             "Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY",
             "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
-            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ"
+            "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
+            "Time to Focus on Your Goals - https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0",
+            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership"
         ],
         "airtable_createdTime": "2021-01-30T20:34:05.000Z",
         "airtable_id": "recUP8TZ3O1cNiioY"
@@ -2069,7 +2163,7 @@
         "airtable_id": "recVEAsHKAjBV6jId"
     },
     {
-        "Last Modified": "2023-11-18T15:39:54.000Z",
+        "Last Modified": "2023-11-19T19:37:52.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2221,9 +2315,11 @@
             "rec4gLOXuC7vijUrI",
             "rec60loGe7MPQViCd",
             "recNlVd0tH5YnKGwN",
-            "recCryAhEFHiUPGs2"
+            "recCryAhEFHiUPGs2",
+            "recsO8sRpVmxeUmNM",
+            "reczLoRy2b7S8EQio"
         ],
-        "Resources number": 150,
+        "Resources number": 152,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2374,22 +2470,26 @@
             "Embracing Uncertainty - http://vimeo.com/43603453",
             "Building and Scaling a High-Performance Culture - https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
             "Webminar 2019 Accelerate State of DevOps - https://newrelic.com/resources/webinar/2019-acceleratestateofdevops",
-            "SE Radio Ep 287 Success skills for architects with Neil Ford - http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/"
+            "SE Radio Ep 287 Success skills for architects with Neil Ford - http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/",
+            "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
     },
     {
-        "Last Modified": "2021-08-15T18:02:35.000Z",
+        "Last Modified": "2023-11-19T19:43:29.000Z",
         "Name": "JS",
         "Resources": [
             "rectkuJrZiRLu4mDH",
-            "recR2uve69wdlzKqT"
+            "recR2uve69wdlzKqT",
+            "rec3hHVVbf5BUn1u9"
         ],
-        "Resources number": 2,
+        "Resources number": 3,
         "Speakers": [
             "dotJS 2019 CRDTs for Mortals - https://www.youtube.com/watch?v=DEcwa68f-jY",
-            "Typical JavaScript interview exercises (explained) - https://dev.to/maxpou/typical-javascript-interview-exercises-explained"
+            "Typical JavaScript interview exercises (explained) - https://dev.to/maxpou/typical-javascript-interview-exercises-explained",
+            "Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013 - https://www.youtube.com/watch?v=v0TFmdO4ZP0"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recXnoO9sU10TZfCj"
@@ -2471,7 +2571,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2023-09-01T14:39:54.000Z",
+        "Last Modified": "2023-11-19T19:23:15.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2537,9 +2637,11 @@
             "recdLJvVSnFgDDGV9",
             "rec4DPUKuiDGOr4of",
             "reck60FOvatP5hPnd",
-            "recbKqpQDuwM9LVDW"
+            "recbKqpQDuwM9LVDW",
+            "rec5D27OxBlCJquml",
+            "recABM6yOE21zVLfd"
         ],
-        "Resources number": 64,
+        "Resources number": 66,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2604,7 +2706,9 @@
             "Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY",
             "Software Craftsmanship al descubierto con Mashooq Badar - https://www.youtube.com/watch?v=rkJNflZ9S5E",
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
-            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE"
+            "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
+            "The Power of Agile - https://www.youtube.com/watch?v=YL-6RCTywbc",
+            "Podcast. Interview Ron Jeffries (Agile.FM) - https://agile.fm/agilefm/2018/4/12/ron-jeffries"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3011,7 +3115,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2023-11-18T15:38:28.000Z",
+        "Last Modified": "2023-11-19T13:51:22.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3054,9 +3158,10 @@
             "reclsxslEsaXTMpfo",
             "recbKqpQDuwM9LVDW",
             "recsbFogKbTtBFQ5o",
-            "recOxqFBf8ctdFeJt"
+            "recOxqFBf8ctdFeJt",
+            "recpSMgAZacKjfZmm"
         ],
-        "Resources number": 41,
+        "Resources number": 42,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -3098,13 +3203,14 @@
             "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q",
             "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
             "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ",
-            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ"
+            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
+            "Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
     },
     {
-        "Last Modified": "2023-11-17T09:13:36.000Z",
+        "Last Modified": "2023-11-19T19:37:46.000Z",
         "Name": "Company Culture",
         "Resources": [
             "recFssGR3GcaytzUE",
@@ -3140,9 +3246,10 @@
             "rec0FlFDAe8nf8BU5",
             "recoN5BMtMjKGPz1b",
             "receYn9iDUfTj3xBp",
-            "recPjJcgKz9yZq4Uc"
+            "recPjJcgKz9yZq4Uc",
+            "reczLoRy2b7S8EQio"
         ],
-        "Resources number": 34,
+        "Resources number": 35,
         "Speakers": [
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
             "The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI",
@@ -3177,13 +3284,14 @@
             "Engineering Your Organization: Services, Platforms, and Communities - https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/",
             "Seven shipping principles - https://changelog.com/shipit/77",
             "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
-            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY"
+            "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2023-11-18T15:45:13.000Z",
+        "Last Modified": "2023-11-19T19:43:24.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3292,9 +3400,14 @@
             "recbKqpQDuwM9LVDW",
             "recPjJcgKz9yZq4Uc",
             "recOxqFBf8ctdFeJt",
-            "recLUHPvqZYpE06h8"
+            "recLUHPvqZYpE06h8",
+            "recQXhKafE7CbtPIw",
+            "recABM6yOE21zVLfd",
+            "recyCkKA0x3HPvZnc",
+            "recMAXS80wmvMBHRc",
+            "recjSKdz5ZcQahIt4"
         ],
-        "Resources number": 107,
+        "Resources number": 112,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3402,13 +3515,18 @@
             "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
             "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
             "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
-            "Exponential Return - The Principles of Agile Organization - 1 of 6 - https://www.youtube.com/watch?v=7dzVvqfFLhA"
+            "Exponential Return - The Principles of Agile Organization - 1 of 6 - https://www.youtube.com/watch?v=7dzVvqfFLhA",
+            "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
+            "Podcast. Interview Ron Jeffries (Agile.FM) - https://agile.fm/agilefm/2018/4/12/ron-jeffries",
+            "The death of Agile - https://www.youtube.com/watch?v=vSnCeJEka_s",
+            "http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/ - http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/",
+            "https://www.agilealliance.org/resources/videos/modern-agile/ - https://www.agilealliance.org/resources/videos/modern-agile/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
     },
     {
-        "Last Modified": "2023-11-18T15:37:06.000Z",
+        "Last Modified": "2023-11-19T19:36:54.000Z",
         "Name": "Testing in production",
         "Resources": [
             "recOvNtGBIJcF8sw0",
@@ -3417,9 +3535,12 @@
             "recmX18vmHRNPz3Jb",
             "recBglPmZE7Z709Sa",
             "reci6hmP68Wu5dCl2",
-            "recWfUV0NqBVUvrz1"
+            "recWfUV0NqBVUvrz1",
+            "recdHOiGfQoVZDKB3",
+            "recDh53A78GLSgFoT",
+            "rechenJ6kgA7BxHI9"
         ],
-        "Resources number": 7,
+        "Resources number": 10,
         "Speakers": [
             "Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/",
             "Testing Strategy for DevOps - https://www.youtube.com/watch?v=z-3aSVfoyBY",
@@ -3427,7 +3548,10 @@
             "Production - Designing for Testability - https://www.infoq.com/presentations/quality-production/",
             "Sufficiently Advanced Monitoring is Indistinguishable from Testing - https://www.youtube.com/watch?v=uSo8i1N18oc",
             "Improving Observability and Testing In Production - https://www.youtube.com/watch?v=Nmu4URA7pSM",
-            "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018"
+            "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018",
+            "Testing in Production - Quality Software Faster - https://www.infoq.com/presentations/testing-software-production",
+            "Five key challenges for software quality tomorrow - http://www.ustream.tv/recorded/114861540",
+            "Production - Designing for Testability - https://www.infoq.com/presentations/quality-production"
         ],
         "airtable_createdTime": "2021-03-07T07:57:14.000Z",
         "airtable_id": "rechwDm7Pn0ivpq7C"
@@ -3452,7 +3576,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2023-11-18T15:38:22.000Z",
+        "Last Modified": "2023-11-19T19:43:35.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3522,9 +3646,12 @@
             "rec9iNXx9wkcIFbAF",
             "recQSVPLU6svtsxEE",
             "rec60loGe7MPQViCd",
-            "recOxqFBf8ctdFeJt"
+            "recOxqFBf8ctdFeJt",
+            "rec6vxNvl606hoeCB",
+            "recQXhKafE7CbtPIw",
+            "recQoqG1njAO55EIh"
         ],
-        "Resources number": 68,
+        "Resources number": 71,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3593,26 +3720,31 @@
             "GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8",
             "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
             "Building and Scaling a High-Performance Culture - https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
-            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ"
+            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
+            "Continuous Delivery Sounds Great But It Won\u2019t Work Here - https://www.infoq.com/presentations/continuous-delivery-highlights",
+            "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
+            "Continuous Delivery In Agile - https://vimeo.com/229954108"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
     },
     {
-        "Last Modified": "2021-08-12T13:08:45.000Z",
+        "Last Modified": "2023-11-19T19:39:31.000Z",
         "Name": "hexagonal",
         "Resources": [
-            "rec949WLw6JyPk1S3"
+            "rec949WLw6JyPk1S3",
+            "rec63r3FZtJBpSY9F"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "Clean Architecture: La mejor forma de escalar y mantener tu c\u00f3digo - https://www.youtube.com/watch?v=y3MWfPDmVqo"
+            "Clean Architecture: La mejor forma de escalar y mantener tu c\u00f3digo - https://www.youtube.com/watch?v=y3MWfPDmVqo",
+            "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM"
         ],
         "airtable_createdTime": "2021-08-12T13:08:45.000Z",
         "airtable_id": "recivP78x0piISrFD"
     },
     {
-        "Last Modified": "2023-11-18T15:38:18.000Z",
+        "Last Modified": "2023-11-19T19:47:43.000Z",
         "Name": "Flow",
         "Resources": [
             "recROSkaWuMOkJEi3",
@@ -3624,9 +3756,12 @@
             "reclwbJbacaku1O47",
             "recp5VZGEHjnR5CHd",
             "recgMNfjEQbF98kc0",
-            "recOxqFBf8ctdFeJt"
+            "recOxqFBf8ctdFeJt",
+            "recQXhKafE7CbtPIw",
+            "rec7NPbH4POd8KrJS",
+            "recF4RCRwyrmzfxXL"
         ],
-        "Resources number": 10,
+        "Resources number": 13,
         "Speakers": [
             "The resource utilization trap - https://www.youtube.com/watch?v=CostXs2p6r0",
             "Multiple WIP vs One Piece Flow Example - https://www.youtube.com/watch?v=Yqi9Gwt-OEA",
@@ -3637,7 +3772,10 @@
             "The Principles of Product Development Flow / Small batches podcast  - https://smallbatches.fm/60",
             "The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
-            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ"
+            "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
+            "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
+            "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU",
+            "How to Break the Rules - https://www.youtube.com/watch?v=hZFShSjAhlQ"
         ],
         "airtable_createdTime": "2021-03-14T07:15:17.000Z",
         "airtable_id": "reck50u1RzhJj6MIy"
@@ -3662,20 +3800,24 @@
         "airtable_id": "reck5fBLLF9Drj8rk"
     },
     {
-        "Last Modified": "2023-11-18T15:32:16.000Z",
+        "Last Modified": "2023-11-19T19:28:38.000Z",
         "Name": "Engineering Scalability",
         "Resources": [
             "rec4SJpVcSeIFUOfq",
             "rec4grFdhA7wAX8Wy",
             "recqZwmfIMth4GnWj",
-            "recvKM2z7HFHLXSL7"
+            "recvKM2z7HFHLXSL7",
+            "recsO8sRpVmxeUmNM",
+            "recSi9cTXikmWOquX"
         ],
-        "Resources number": 4,
+        "Resources number": 6,
         "Speakers": [
             "Scaling from 5 to 250 engineers - https://www.youtube.com/watch?v=qau1aGYc3lA",
             "Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY",
             "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE",
-            "Moving Fast at Scale - https://www.youtube.com/watch?v=t-sIaw4kHqI"
+            "Moving Fast at Scale - https://www.youtube.com/watch?v=t-sIaw4kHqI",
+            "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
+            "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg"
         ],
         "airtable_createdTime": "2022-08-15T16:02:46.000Z",
         "airtable_id": "recl7w0SkqE9A3GAI"
@@ -3694,7 +3836,7 @@
         "airtable_id": "reclZWPaBbTfn5pQo"
     },
     {
-        "Last Modified": "2023-11-18T15:43:52.000Z",
+        "Last Modified": "2023-11-19T19:41:12.000Z",
         "Name": "Architecture patterns",
         "Resources": [
             "recmUlW6oy0nh41vw",
@@ -3725,9 +3867,13 @@
             "recDPS7fNMOi7VkSD",
             "rec3GO9MC5qIQ3aBs",
             "reczX8K9qeisrKC5a",
-            "reckGLUtBVVPUSvzh"
+            "reckGLUtBVVPUSvzh",
+            "rec6hyOkL4BSjtT4P",
+            "recxfgbGw6m2IlOnN",
+            "reczsTUBZ7dNrEzbG",
+            "rec3jBh4YZ9cRjwtp"
         ],
-        "Resources number": 29,
+        "Resources number": 33,
         "Speakers": [
             "Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
@@ -3757,13 +3903,17 @@
             "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy",
             "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k",
             "Microservices: Software that Fits in Your Head - http://www.infoq.com/presentations/microservices-replaceability-consistency",
-            "Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices"
+            "Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices",
+            "Full Stack Radio Ep 80: Tom Schlick - Building Multitenant Applications - http://www.fullstackradio.com/80",
+            "AWS re:Invent 2017: Dating and Data Science: How Coffee Meets Bagel Uses Amazon Elas (DAT323) - https://www.youtube.com/watch?v=_Aniee-XpSQ",
+            "Serverless Patterns and Anti-patterns - https://www.infoq.com/presentations/serverless-patterns-antipatterns",
+            "Immutability Changes Everything - https://vimeo.com/52831373"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2023-11-18T15:43:39.000Z",
+        "Last Modified": "2023-11-19T19:43:52.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -3818,9 +3968,13 @@
             "reck60FOvatP5hPnd",
             "recDPS7fNMOi7VkSD",
             "rec0Zn0xNpLa4HaZn",
-            "recUJOAZZjUhx4qJy"
+            "recUJOAZZjUhx4qJy",
+            "recgNHgQpgbXMk5nD",
+            "recIFRbe3bPKWaQum",
+            "rec63r3FZtJBpSY9F",
+            "recrYqt5GZlrRAe1P"
         ],
-        "Resources number": 53,
+        "Resources number": 57,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -3874,7 +4028,11 @@
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
             "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy",
             "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg",
-            "The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ"
+            "The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ",
+            "The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8",
+            "The Best OO Language is a Functional One - https://www.youtube.com/watch?v=lSBGX7twkB0",
+            "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM",
+            "SE-Radio Episode 295: Michael Feathers on Legacy Code - http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
@@ -3919,22 +4077,24 @@
         "airtable_id": "recmPbBNpUB7Q5XyX"
     },
     {
-        "Last Modified": "2023-08-26T21:42:20.000Z",
+        "Last Modified": "2023-11-19T19:41:48.000Z",
         "Name": "AI",
         "Resources": [
             "recfwzidrRnl6Ut5j",
             "rec1OjPEfpTWlaDDP",
             "rec6PC7Ml4HLNxjnJ",
             "recI7pOxCd4Pe84x8",
-            "recOuZnBtAOlBoiwo"
+            "recOuZnBtAOlBoiwo",
+            "recoAe21A3GrWf6uH"
         ],
-        "Resources number": 5,
+        "Resources number": 6,
         "Speakers": [
             "The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw",
             "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
             "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
             "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
-            "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc"
+            "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc",
+            "Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY"
         ],
         "airtable_createdTime": "2021-08-14T07:25:39.000Z",
         "airtable_id": "recmuONwokRtPS6Tp"
@@ -3996,7 +4156,7 @@
         "airtable_id": "recplrWe03uLQY5MN"
     },
     {
-        "Last Modified": "2023-02-19T20:44:29.000Z",
+        "Last Modified": "2023-11-19T19:39:43.000Z",
         "Name": "DDD",
         "Resources": [
             "recuJC0elQtyoMJIS",
@@ -4018,9 +4178,11 @@
             "rec6BnGkociVtZV3W",
             "rec2EPhhNCTR9v5vS",
             "rec1sxXfGMcC2JXvw",
-            "recIHgDgxmcGBHQJk"
+            "recIHgDgxmcGBHQJk",
+            "rec63r3FZtJBpSY9F",
+            "rec3jBh4YZ9cRjwtp"
         ],
-        "Resources number": 20,
+        "Resources number": 22,
         "Speakers": [
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
             "Command-Query Responsibility Segregation - https://www.infoq.com/presentations/Command-Query-Responsibility-Segregation",
@@ -4041,7 +4203,9 @@
             "Domain Driven Design with BDD - https://www.youtube.com/watch?v=Ju50D11EIoE",
             "Principles Of Microservices - https://www.youtube.com/watch?v=PFQnNFe27kU",
             "Complex Adaptive Systems - https://www.youtube.com/watch?v=l4-vpegxYPg",
-            "Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4"
+            "Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4",
+            "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM",
+            "Immutability Changes Everything - https://vimeo.com/52831373"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recqVF0vISal0hi8E"
@@ -4086,7 +4250,7 @@
         "airtable_id": "recqe6nJcnKjqXdps"
     },
     {
-        "Last Modified": "2023-11-18T15:45:47.000Z",
+        "Last Modified": "2023-11-19T19:41:38.000Z",
         "Name": "Product Discovery",
         "Resources": [
             "recBfVsYe3o327PKD",
@@ -4109,9 +4273,10 @@
             "recKLS8QeOawn7JwY",
             "reclTVcNeM3EWyoMd",
             "recNTlpS9USi3zTOs",
-            "recLoYdYP5G0UM8GT"
+            "recLoYdYP5G0UM8GT",
+            "recohp2EMx3gJ4R14"
         ],
-        "Resources number": 21,
+        "Resources number": 22,
         "Speakers": [
             "The Marty Cagan special - ProductTank #27 Singapore - https://www.youtube.com/watch?v=idMN-YwiYOs",
             "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data - https://www.youtube.com/watch?v=f8XDvtfKWQE",
@@ -4133,10 +4298,24 @@
             "Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY",
             "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
             "Escaping the Build Trap - https://vimeo.com/224453335",
-            "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc"
+            "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc",
+            "lean customer development with Cindy Alvarez - https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez"
         ],
         "airtable_createdTime": "2020-06-14T11:13:46.000Z",
         "airtable_id": "recrNBL2FKBzgsQTs"
+    },
+    {
+        "Last Modified": "2023-11-19T19:39:51.000Z",
+        "Name": "cqrs",
+        "Resources": [
+            "rec3jBh4YZ9cRjwtp"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Immutability Changes Everything - https://vimeo.com/52831373"
+        ],
+        "airtable_createdTime": "2023-11-19T19:39:51.000Z",
+        "airtable_id": "recru8bU8Y6KzIF2C"
     },
     {
         "Last Modified": "2022-09-18T21:56:23.000Z",
@@ -4194,20 +4373,26 @@
         "airtable_id": "recs3XV2rYhyC6qe8"
     },
     {
-        "Last Modified": "2023-11-18T15:36:53.000Z",
+        "Last Modified": "2023-11-19T19:45:26.000Z",
         "Name": "Evolutionary Architecture",
         "Resources": [
             "recnkmoWOa4usiuSE",
             "recDuMsSeSzfLLbsV",
             "reczX8K9qeisrKC5a",
-            "reckjL9O859XqGTqO"
+            "reckjL9O859XqGTqO",
+            "recnCgMcszzwpmJh8",
+            "recORpJNyUmhoEN7w",
+            "rectARJKbtqXtcmOQ"
         ],
-        "Resources number": 4,
+        "Resources number": 7,
         "Speakers": [
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
             "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k",
             "Microservices: Software that Fits in Your Head - http://www.infoq.com/presentations/microservices-replaceability-consistency",
-            "The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA"
+            "The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA",
+            "InfoQ podcast: Courageous Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/parsons-leadership-evolutionary-architecture",
+            "Evolutionary Architecture with Neal Ford - https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/",
+            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership"
         ],
         "airtable_createdTime": "2022-12-06T20:50:16.000Z",
         "airtable_id": "recs8FWnaRcAcdOoW"
@@ -4291,20 +4476,22 @@
         "airtable_id": "rectyNDCe63RLpwI6"
     },
     {
-        "Last Modified": "2022-06-26T15:49:20.000Z",
+        "Last Modified": "2023-11-19T19:18:24.000Z",
         "Name": "Data Science",
         "Resources": [
             "recnxIHCyhvx74jhP",
             "recWP9pM7wNVhBvmR",
             "recqf4P0lQVFsvjcV",
-            "rec1OjPEfpTWlaDDP"
+            "rec1OjPEfpTWlaDDP",
+            "recuEim2tG3QCBz1d"
         ],
-        "Resources number": 4,
+        "Resources number": 5,
         "Speakers": [
             "Agile data science - https://soundcloud.com/thoughtworks/agile_data_science",
             "Software Engineering podcast: Episode 473: Mike Del Balso on Feature Stores - https://www.se-radio.net/2021/08/episode-473-mike-del-balso-on-feature-stores/",
             "Common Mistakes Data Scientists Make With BIG DATA - https://www.youtube.com/watch?v=jeMQld-6BtQ",
-            "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4"
+            "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
+            "SE-Radio Episode 315: Jeroen Janssens on Tools for Data Science - http://www.se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recu0ogH2eAbuoS2q"
@@ -4444,7 +4631,7 @@
         "airtable_id": "recwiPJKumk9LSzL8"
     },
     {
-        "Last Modified": "2023-11-18T15:38:53.000Z",
+        "Last Modified": "2023-11-19T19:37:43.000Z",
         "Name": "Culture",
         "Resources": [
             "recitaMrj8QyQAvHD",
@@ -4456,9 +4643,11 @@
             "receYn9iDUfTj3xBp",
             "recVlzEmpFmIEigTw",
             "recPjJcgKz9yZq4Uc",
-            "recTZlj6ecEgPAWIC"
+            "recTZlj6ecEgPAWIC",
+            "recHpTejTGn0G3Gdl",
+            "reczLoRy2b7S8EQio"
         ],
-        "Resources number": 10,
+        "Resources number": 12,
         "Speakers": [
             "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional",
             "WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998",
@@ -4469,7 +4658,9 @@
             "Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI",
             "LKUK13: Cynefin in Action - Liz Keogh - https://www.youtube.com/watch?v=G2X_7ojZwtU",
             "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
-            "JavaZone 2019, Room 5 - Survival Tips For Women in Tech - https://www.pscp.tv/w/1BdGYepvvLQGX"
+            "JavaZone 2019, Room 5 - Survival Tips For Women in Tech - https://www.pscp.tv/w/1BdGYepvvLQGX",
+            "Management Is Dead! - https://www.youtube.com/watch?v=Q0i3hb0HBPU",
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams"
         ],
         "airtable_createdTime": "2021-08-12T13:09:17.000Z",
         "airtable_id": "recwjZlYYZq3zj7TU"

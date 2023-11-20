@@ -65,7 +65,7 @@
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Venkat Subramaniam", "Resources": ["recnHl5pGRH2db0xL", "rec0szxoxg4meCztF", "recgNHgQpgbXMk5nD"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec7hZamshM3kjfAE"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Javier Garzas", "Resources": ["recHwPhtB6zF2E6Rw"], "airtable_createdTime": "2021-08-12T13:15:58.000Z", "airtable_id": "rec7jUHZf1vW2KONR"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Joe Justice", "Resources": ["recnZloOdt1o7ODzv", "recdu8wYujkNqKSGb"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec7pLxRXF7RvYdxm"}
-{"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "David Foster Wallace", "Resources": ["recnWc2OGQjOxtw4D"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec7wpfKSNjSmEtyA"}
+{"Last Modified": "2023-11-19T19:30:56.000Z", "Name": "David Foster Wallace", "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec7wpfKSNjSmEtyA"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Allison Kaptur", "Resources": ["recfEWGQbUhL9fObu"], "WomenInTech": true, "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec83OMHz3QQp6haf"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Florian Forster", "Resources": ["recEbeDrLiZUegSaB"], "airtable_createdTime": "2023-02-19T20:34:51.000Z", "airtable_id": "rec86YaARVUa6T409"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Paul Johnston", "Resources": ["recl9Jy0XsS9QZUQd"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "rec8YLEPdvUpJJ644"}
@@ -350,7 +350,7 @@
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Troy Magennis", "Resources": ["rec0pXBv3G5TprPIB", "rec2WCUcQ5UxqWwOp"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "recfeFja3m3xIQPlp"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Scott Wlaschin", "Resources": ["recbpR9aV8qEoImRW"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "recfjIMrnPm1Xbhpx"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Kim van Wilgen", "Resources": ["recmr7OudSKN3MWFU"], "WomenInTech": true, "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "recfrfQg2IOwYStfv"}
-{"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Susanne Kaiser", "Resources": ["recQ0ZwU8ZZDmm5BO", "recEE4FvQrkXhqbP0", "recIHgDgxmcGBHQJk"], "WomenInTech": true, "airtable_createdTime": "2020-01-29T17:55:49.000Z", "airtable_id": "recfvF6x6rIQCDBrO"}
+{"Last Modified": "2023-11-19T19:15:33.000Z", "Name": "Susanne Kaiser", "Resources": ["recEE4FvQrkXhqbP0", "recIHgDgxmcGBHQJk"], "WomenInTech": true, "airtable_createdTime": "2020-01-29T17:55:49.000Z", "airtable_id": "recfvF6x6rIQCDBrO"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Patrick Lencioni", "Resources": ["recwvALS7jU4Kh4ra"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "recg3T391Nucul8Ve"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Kyle Evans", "Resources": ["recuIRbW1nugrwXbl"], "airtable_createdTime": "2021-06-19T12:08:13.000Z", "airtable_id": "recgDVGGnHFnbFvyr"}
 {"Last Modified": "2023-06-18T06:28:48.000Z", "Name": "Guido Van Rossum", "Resources": ["rec5sTtEScULwo7f1"], "airtable_createdTime": "2020-01-20T22:41:12.000Z", "airtable_id": "recgL0c9Rkn29N2dX"}
