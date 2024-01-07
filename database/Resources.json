@@ -20032,17 +20032,15 @@
         "registered_at": "2020-01-19T20:38:42.000Z"
     },
     {
-        "Blog Url": "https://www.eferro.net/2019/05/index.html",
         "Created": "2020-01-19T20:39:37.000Z",
         "Description": "Very deep ideas about how to make any kind of huge technical change using small and incremental changes. This part of the core of agile... Vertical slicing to make changes in small (low risk) steps.\n",
         "Duration": 3540,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-01-06T09:41:49.000Z",
         "Less 15": 0,
         "Name": "Big Transitions in Small Steps",
-        "Published": true,
         "Rating": 5,
-        "Resource": "Big Transitions in Small Steps - https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Closing-Keynote-Big-Transitions-in-Small-Steps",
+        "Resource": "Big Transitions in Small Steps - https://www.youtube.com/watch?v=44sJLFgzhn4",
         "Resource type": "talk",
         "Speaker WomenInTech": [
             null
@@ -20063,7 +20061,7 @@
             "Technical Practices",
             "Software Design"
         ],
-        "Url": "https://channel9.msdn.com/Events/Patterns-Practices-Symposium-Online/Patterns-Practices-Symposium-Online-2012/Closing-Keynote-Big-Transitions-in-Small-Steps",
+        "Url": "https://www.youtube.com/watch?v=44sJLFgzhn4",
         "airtable_createdTime": "2020-01-19T20:39:37.000Z",
         "airtable_id": "recgdsK7S2ExHfRYk",
         "registered_at": "2020-01-19T20:39:37.000Z"
