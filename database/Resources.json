@@ -5374,6 +5374,41 @@
         "registered_at": "2020-06-14T11:13:00.000Z"
     },
     {
+        "Created": "2024-01-14T19:04:38.000Z",
+        "Description": "Pure wisdom on why working in small, safe steps is the most efficient way to work in software product development when we have environments of high uncertainty (which is almost always).\n",
+        "Duration": 4680,
+        "Language": "English",
+        "Last Modified": "2024-01-14T19:14:00.000Z",
+        "Less 15": 0,
+        "Name": "GeePaw Hill on Incremental Software Delivery",
+        "Rating": 5,
+        "Resource": "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rechXGbKrcRExnLtX"
+        ],
+        "Speakers_Names": [
+            "GeePaw Hill"
+        ],
+        "Topics": [
+            "recm3GCPgEVSDmeVI",
+            "recYkFYw6BSRfA0Ce",
+            "reck5fBLLF9Drj8rk"
+        ],
+        "Topics_Names": [
+            "Software Design",
+            "XP",
+            "Small Safe Steps (3s)"
+        ],
+        "Url": "https://www.youtube.com/watch?v=NDXV16uheNs",
+        "airtable_createdTime": "2024-01-14T19:04:38.000Z",
+        "airtable_id": "recBgNNTaB15VLMCw",
+        "registered_at": "2024-01-14T19:04:38.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2022/10/good-talkspodcasts-oct-2022-i.html",
         "Created": "2022-10-09T09:41:07.000Z",
         "Description": "Interesting ideas about testing in production.\n",
@@ -12077,13 +12112,15 @@
         "registered_at": "2022-07-25T10:51:55.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
         "Created": "2023-11-17T09:12:34.000Z",
         "Description": "An overview of Frederic Laloux's Reinventing Organizations and how it relates to Lean and Agile Adoption.\n",
         "Duration": 540,
         "Language": "English",
-        "Last Modified": "2023-11-20T08:26:32.000Z",
+        "Last Modified": "2024-01-14T21:10:58.000Z",
         "Less 15": 1,
         "Name": "Laloux Culture Model and Agile",
+        "Published": true,
         "Rating": 5,
         "Resource": "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
         "Resource type": "video",
@@ -14301,6 +14338,44 @@
         "registered_at": "2022-01-17T21:51:46.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
+        "Created": "2024-01-14T18:37:09.000Z",
+        "Description": "Interesting podcast about the current problems of CI/CD pipelines and how they aim to solve them from Dagger. There are also interesting opinions from the perspective of creating technical products geared towards developers and about the development experience.\n",
+        "Duration": 2580,
+        "Language": "English",
+        "Last Modified": "2024-01-14T21:11:15.000Z",
+        "Less 15": 0,
+        "Name": "Solomon Hykes Discusses Dagger, DevOps, and Docker",
+        "Published": true,
+        "Resource": "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recrI4dZlE8qKDuwk"
+        ],
+        "Speakers_Names": [
+            "Solomon Hykes"
+        ],
+        "Topics": [
+            "recSPiTKbfuhfkshg",
+            "rec436FbBa6hFiWcj",
+            "recxJkIWVynhDpBOI",
+            "recin3Ync8iZldW0q"
+        ],
+        "Topics_Names": [
+            "Operations",
+            "Developer Productivity",
+            "Devex",
+            "Continuous Delivery"
+        ],
+        "Url": "https://www.infoq.com/podcasts/dagger-devops-docker/",
+        "airtable_createdTime": "2024-01-14T18:37:09.000Z",
+        "airtable_id": "recUiAvLX6uU6gj42",
+        "registered_at": "2024-01-14T18:37:09.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2017/06/some-pending-interesting-talks.html",
         "Created": "2020-01-19T20:41:13.000Z",
         "Language": "English",
@@ -14418,6 +14493,39 @@
         "airtable_createdTime": "2022-11-06T19:25:50.000Z",
         "airtable_id": "recV0aPgSdTeSObb0",
         "registered_at": "2022-11-06T19:25:50.000Z"
+    },
+    {
+        "Created": "2024-01-14T19:09:03.000Z",
+        "Description": "This is an interesting talk by the two authors of the book 'Continuous Delivery' about the impact the book has had on the industry.\n",
+        "Duration": 3960,
+        "Language": "English",
+        "Last Modified": "2024-01-14T19:24:33.000Z",
+        "Less 15": 0,
+        "Name": "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery",
+        "Resource": "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "recf1C8fNSMXaLZ0q",
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Jez Humble",
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recin3Ync8iZldW0q"
+        ],
+        "Topics_Names": [
+            "Continuous Delivery"
+        ],
+        "Url": "https://www.youtube.com/watch?v=ikrNZxKOrJQ",
+        "airtable_createdTime": "2024-01-14T19:09:03.000Z",
+        "airtable_id": "recV10zLe4vGY7YPO",
+        "registered_at": "2024-01-14T19:09:03.000Z"
     },
     {
         "Created": "2021-06-19T11:36:32.000Z",
@@ -15836,6 +15944,40 @@
         "registered_at": "2020-01-19T20:37:10.000Z"
     },
     {
+        "Created": "2024-01-14T19:01:49.000Z",
+        "Description": "Interesting reflection on the economics of software design and the principles that affect it. This talk describes some of the ideas that Kent elaborates on in detail in his new book 'Tidy first?'\n",
+        "Duration": 3540,
+        "Language": "English",
+        "Last Modified": "2024-01-14T19:34:36.000Z",
+        "Less 15": 0,
+        "Name": "DDD Europe 2023. A Daily Practice of Empirical Software Design",
+        "Resource": "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rechBhL1vENLzvUi6"
+        ],
+        "Speakers_Names": [
+            "Kent Beck"
+        ],
+        "Topics": [
+            "recm3GCPgEVSDmeVI",
+            "recYkFYw6BSRfA0Ce",
+            "reck5fBLLF9Drj8rk"
+        ],
+        "Topics_Names": [
+            "Software Design",
+            "XP",
+            "Small Safe Steps (3s)"
+        ],
+        "Url": "https://www.youtube.com/watch?v=yBEcq23OgB4",
+        "airtable_createdTime": "2024-01-14T19:01:49.000Z",
+        "airtable_id": "recYiENUKo6bXuUaI",
+        "registered_at": "2024-01-14T19:01:49.000Z"
+    },
+    {
         "Created": "2021-08-12T07:26:19.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -17105,6 +17247,41 @@
         "registered_at": "2020-01-19T20:42:38.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
+        "Created": "2024-01-14T10:32:53.000Z",
+        "Description": "Very interesting conversation with Paul Akers who speaks from experience on how to apply lean thinking and continuous improvement.\n",
+        "Duration": 3420,
+        "Language": "English",
+        "Last Modified": "2024-01-14T21:11:06.000Z",
+        "Less 15": 0,
+        "Name": "Paul Akers - How to apply lean thinking to your business for success",
+        "Published": true,
+        "Rating": 5,
+        "Resource": "Paul Akers - How to apply lean thinking to your business for success - https://podcasts.apple.com/gb/podcast/scalex-insider-podcast/id1566729230?i=1000599670214",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rec2iV9gXwKUKTtlC"
+        ],
+        "Speakers_Names": [
+            "Paul Akers"
+        ],
+        "Topics": [
+            "recO11XlolI72a1fV",
+            "recH4PbrLpkXZVGDh"
+        ],
+        "Topics_Names": [
+            "Lean",
+            "Lean Manufacturing"
+        ],
+        "Url": "https://podcasts.apple.com/gb/podcast/scalex-insider-podcast/id1566729230?i=1000599670214",
+        "airtable_createdTime": "2024-01-14T10:32:53.000Z",
+        "airtable_id": "recbHb9Z2j3NTfOeU",
+        "registered_at": "2024-01-14T10:32:53.000Z"
+    },
+    {
         "Created": "2023-09-01T14:38:18.000Z",
         "Duration": 3300,
         "Language": "Spanish",
@@ -17406,6 +17583,38 @@
         "airtable_createdTime": "2020-01-19T20:33:10.000Z",
         "airtable_id": "recbpR9aV8qEoImRW",
         "registered_at": "2020-01-19T20:33:10.000Z"
+    },
+    {
+        "Created": "2024-01-14T18:41:19.000Z",
+        "Description": "Dave explains clearly why what the industry often calls a RockStar developer is by no means a good developer, and why we should change that definition to focus on teams and disciplined developers who work in teams rather than individually. My notes on the topic: https://www.eferro.net/2024/01/be-humble-no-rockstars-allowed.html\n",
+        "Duration": 1020,
+        "Language": "English",
+        "Last Modified": "2024-01-14T18:52:47.000Z",
+        "Less 15": 0,
+        "Name": "Rockstar Developers Are THE WORST Developers",
+        "Resource": "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "recD5hNaJCwpTdERc"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Engineering Career"
+        ],
+        "Url": "https://www.youtube.com/watch?v=mVY2rFninp8",
+        "airtable_createdTime": "2024-01-14T18:41:19.000Z",
+        "airtable_id": "recbwjaeC3WJxRuss",
+        "registered_at": "2024-01-14T18:41:19.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2014/09/podcaststalks-2014-15-21sept.html",
@@ -20032,13 +20241,15 @@
         "registered_at": "2020-01-19T20:38:42.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
         "Created": "2020-01-19T20:39:37.000Z",
         "Description": "Very deep ideas about how to make any kind of huge technical change using small and incremental changes. This part of the core of agile... Vertical slicing to make changes in small (low risk) steps.\n",
         "Duration": 3540,
         "Language": "English",
-        "Last Modified": "2024-01-06T09:41:49.000Z",
+        "Last Modified": "2024-01-15T07:49:11.000Z",
         "Less 15": 0,
         "Name": "Big Transitions in Small Steps",
+        "Published": true,
         "Rating": 5,
         "Resource": "Big Transitions in Small Steps - https://www.youtube.com/watch?v=44sJLFgzhn4",
         "Resource type": "talk",
@@ -26285,6 +26496,36 @@
         "registered_at": "2020-01-19T20:32:55.000Z"
     },
     {
+        "Created": "2024-01-14T18:54:06.000Z",
+        "Description": "A good talk by Sandi about how to create and evolve applications with good OO design. Like all of Sandi's talks, it is very worthwhile.\n",
+        "Duration": 2460,
+        "Language": "English",
+        "Last Modified": "2024-01-14T18:58:12.000Z",
+        "Less 15": 0,
+        "Name": "Polly Want a Message",
+        "Resource": "Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            true
+        ],
+        "Speakers": [
+            "recz7YBBz2r3Nf3Ua"
+        ],
+        "Speakers_Names": [
+            "Sandi Metz"
+        ],
+        "Topics": [
+            "recPDGLhpXxkxbDoU"
+        ],
+        "Topics_Names": [
+            "OOP"
+        ],
+        "Url": "https://www.youtube.com/watch?v=YtROlyWWhV0",
+        "airtable_createdTime": "2024-01-14T18:54:06.000Z",
+        "airtable_id": "recsT9Sui33sZbogD",
+        "registered_at": "2024-01-14T18:54:06.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html",
         "Created": "2023-10-15T18:52:33.000Z",
         "Description": "Chris and Austin explain why mob programming could be a way to implement lean software development in current teams. Very interesting.\n",
@@ -27214,6 +27455,43 @@
         "airtable_createdTime": "2020-01-19T20:41:30.000Z",
         "airtable_id": "recu37jA5sw8OTJN7",
         "registered_at": "2020-01-19T20:41:30.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
+        "Created": "2024-01-14T10:14:15.000Z",
+        "Description": "Great talk in which Charity explains how to maintain good engineering practices in regulated environments while meeting the corresponding compliance requirements. The talk doesn't have a high level of detail, but provides ideas for a general approach.\n",
+        "Duration": 2220,
+        "Language": "English",
+        "Last Modified": "2024-01-14T21:11:01.000Z",
+        "Less 15": 0,
+        "Name": "Compliance standards should be modern development practices",
+        "Published": true,
+        "Rating": 4,
+        "Resource": "Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            true
+        ],
+        "Speakers": [
+            "rec0j5idwhBV3RQry"
+        ],
+        "Speakers_Names": [
+            "Charity Majors"
+        ],
+        "Topics": [
+            "recVjcUEBKByq8k7M",
+            "recvH0OfnC1Mq24L5",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Security",
+            "Compliance",
+            "Engineering Culture"
+        ],
+        "Url": "https://www.youtube.com/watch?v=tuunGZ-4wPQ",
+        "airtable_createdTime": "2024-01-14T10:14:15.000Z",
+        "airtable_id": "recu7UClKsYuB9WMX",
+        "registered_at": "2024-01-14T10:14:15.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2023/01/good-talkspodcasts-jan-2023-ii.html",
@@ -28721,6 +28999,41 @@
         "airtable_createdTime": "2020-01-19T20:41:34.000Z",
         "airtable_id": "recxNfxkIDQa8ap3T",
         "registered_at": "2020-01-19T20:41:34.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-i.html",
+        "Created": "2024-01-14T10:43:16.000Z",
+        "Description": "Fun and interesting talk about the context and process for making technical decisions. Very good ideas. The talk is a few years old, but the ideas are still very valid. Charity talks about how to decide to introduce new technologies, the cost of maintaining them, the importance of migrations, failure modes, etc.\n",
+        "Duration": 2460,
+        "Language": "English",
+        "Last Modified": "2024-01-14T21:11:10.000Z",
+        "Less 15": 0,
+        "Name": "A Young Lady's Illustrated Primer to Technical Decision-Making",
+        "Published": true,
+        "Rating": 5,
+        "Resource": "A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            true
+        ],
+        "Speakers": [
+            "rec0j5idwhBV3RQry"
+        ],
+        "Speakers_Names": [
+            "Charity Majors"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "recF9sEGaOJ0hiQgV"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Technical leadership"
+        ],
+        "Url": "https://www.youtube.com/watch?v=PSIPhVjWBO0",
+        "airtable_createdTime": "2024-01-14T10:43:16.000Z",
+        "airtable_id": "recxOMnJ8i6GxhPbc",
+        "registered_at": "2024-01-14T10:43:16.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2021/10/good-talkspodcasts-october-2021-i.html",

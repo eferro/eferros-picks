@@ -198,7 +198,7 @@
         "airtable_id": "rec1itjm3GvHRxFZu"
     },
     {
-        "Last Modified": "2023-02-19T20:37:26.000Z",
+        "Last Modified": "2024-01-14T18:40:15.000Z",
         "Name": "Developer Productivity",
         "Resources": [
             "rectoiZIRm9UTVPUO",
@@ -210,9 +210,10 @@
             "recZW4aFGILBBfNv1",
             "recNZsQIennGhyS5c",
             "reccNlMl6JcDotm1s",
-            "recEbeDrLiZUegSaB"
+            "recEbeDrLiZUegSaB",
+            "recUiAvLX6uU6gj42"
         ],
-        "Resources number": 10,
+        "Resources number": 11,
         "Speakers": [
             "Developer Productivity Engineering \u2013 The Next Big Thing in Software Development (US 2021) - https://videos.itrevolution.com/watch/621617677/",
             "Accelerating large engineering organisations with Internal Platforms - https://www.youtube.com/watch?v=qGal6Mqia_U",
@@ -223,7 +224,8 @@
             "Building DevX Teams, my story - https://www.youtube.com/watch?v=xX5zeVy8Ta4",
             "From Kubernetes to PaaS to ... Err, What's Next? - https://www.youtube.com/watch?v=btUYeOa7JPI",
             "LOTE #7: Kelsey Hightower on Developer Experience, PaaS, and Testing in Production - https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/",
-            "Why we switched to serverless containers - https://changelog.com/shipit/87"
+            "Why we switched to serverless containers - https://changelog.com/shipit/87",
+            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/"
         ],
         "airtable_createdTime": "2022-02-06T20:58:13.000Z",
         "airtable_id": "rec436FbBa6hFiWcj"
@@ -847,7 +849,7 @@
         "airtable_id": "recBohZTGAA4ovOaO"
     },
     {
-        "Last Modified": "2023-02-19T20:31:24.000Z",
+        "Last Modified": "2024-01-14T18:42:40.000Z",
         "Name": "Engineering Career",
         "Resources": [
             "recBZwhDTylUgYDno",
@@ -870,9 +872,10 @@
             "recsoDlrkESzl0ibA",
             "receEOhwDWcAsDm7V",
             "recOtIG9sYrRR6tQr",
-            "recWUWqSES4nBFQE6"
+            "recWUWqSES4nBFQE6",
+            "recbwjaeC3WJxRuss"
         ],
-        "Resources number": 21,
+        "Resources number": 22,
         "Speakers": [
             "Software_Crasftsmanship (Barcelona CAS2014) - https://www.youtube.com/watch?v=9OhXqBlCmrM",
             "Attitude Determines Altitude- Engineering Yourself - https://www.infoq.com/presentations/improve-engineer-designer-leader",
@@ -894,7 +897,8 @@
             "Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon) - https://www.youtube.com/watch?v=hU6BVxtGd5g",
             "20 Questions To Ask Your Next Employer - https://www.youtube.com/watch?v=2Afk9KVEgpE",
             "What makes a good developer - https://vimeo.com/748032161",
-            "The Well-Balanced Programmer - https://www.youtube.com/watch?v=XhN6fJYG81A"
+            "The Well-Balanced Programmer - https://www.youtube.com/watch?v=XhN6fJYG81A",
+            "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recD5hNaJCwpTdERc"
@@ -1044,7 +1048,7 @@
         "airtable_id": "recDqEOIt9vzNQfTZ"
     },
     {
-        "Last Modified": "2023-11-19T19:45:37.000Z",
+        "Last Modified": "2024-01-14T18:31:13.000Z",
         "Name": "Technical leadership",
         "Resources": [
             "recAgTJFXQFe3DRC1",
@@ -1069,9 +1073,10 @@
             "recoN5BMtMjKGPz1b",
             "rechnBVbwP7XyJUqp",
             "recgMNfjEQbF98kc0",
-            "rectARJKbtqXtcmOQ"
+            "rectARJKbtqXtcmOQ",
+            "recxOMnJ8i6GxhPbc"
         ],
-        "Resources number": 23,
+        "Resources number": 24,
         "Speakers": [
             "Technical Leadership for Empowered Teams - https://vimeo.com/339930423",
             "Life as a Chief Architect - https://www.youtube.com/watch?v=kJRudbvW6qE",
@@ -1095,7 +1100,8 @@
             "Seven shipping principles - https://changelog.com/shipit/77",
             "#100 - Modern Software Engineering - Dave Farley - https://www.youtube.com/watch?v=Q_Uk4OJgxXo",
             "Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ",
-            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership"
+            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership",
+            "A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0"
         ],
         "airtable_createdTime": "2020-05-17T19:55:46.000Z",
         "airtable_id": "recF9sEGaOJ0hiQgV"
@@ -1335,18 +1341,20 @@
         "airtable_id": "recG2ZvgldoblvB4l"
     },
     {
-        "Last Modified": "2023-11-19T19:43:09.000Z",
+        "Last Modified": "2024-01-14T10:34:12.000Z",
         "Name": "Lean Manufacturing",
         "Resources": [
             "recQAbrwc47ekm8I3",
             "recnhIPaWkZpDSgib",
-            "recVNlmZ3pxKg3CQs"
+            "recVNlmZ3pxKg3CQs",
+            "recbHb9Z2j3NTfOeU"
         ],
-        "Resources number": 3,
+        "Resources number": 4,
         "Speakers": [
             "NUMMI (2015) - https://www.thisamericanlife.org/561/nummi-2015",
             "The Elegant Solution: Toyota's Formula for Mastering Innovation - https://www.youtube.com/watch?v=z8wcRDqtyRs",
-            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q"
+            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q",
+            "Paul Akers - How to apply lean thinking to your business for success - https://podcasts.apple.com/gb/podcast/scalex-insider-podcast/id1566729230?i=1000599670214"
         ],
         "airtable_createdTime": "2023-05-06T20:11:05.000Z",
         "airtable_id": "recH4PbrLpkXZVGDh"
@@ -1433,7 +1441,7 @@
         "airtable_id": "recLS0zTJxflAcqBu"
     },
     {
-        "Last Modified": "2023-11-19T19:42:58.000Z",
+        "Last Modified": "2024-01-14T10:34:10.000Z",
         "Name": "Lean",
         "Resources": [
             "recGNYr6fwcuQrY7O",
@@ -1478,9 +1486,10 @@
             "recsO8sRpVmxeUmNM",
             "rec7NPbH4POd8KrJS",
             "recohp2EMx3gJ4R14",
-            "recVNlmZ3pxKg3CQs"
+            "recVNlmZ3pxKg3CQs",
+            "recbHb9Z2j3NTfOeU"
         ],
-        "Resources number": 43,
+        "Resources number": 44,
         "Speakers": [
             "Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html",
             "If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk",
@@ -1524,13 +1533,14 @@
             "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
             "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU",
             "lean customer development with Cindy Alvarez - https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez",
-            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q"
+            "The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q",
+            "Paul Akers - How to apply lean thinking to your business for success - https://podcasts.apple.com/gb/podcast/scalex-insider-podcast/id1566729230?i=1000599670214"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recO11XlolI72a1fV"
     },
     {
-        "Last Modified": "2023-01-28T19:03:07.000Z",
+        "Last Modified": "2024-01-14T18:55:45.000Z",
         "Name": "OOP",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -1542,9 +1552,10 @@
             "reccPDM3Y1VeeTWlq",
             "recinPmonpUpDrs6h",
             "recwUMFbKAjcAFrfH",
-            "recrvswiXD8sPCVkv"
+            "recrvswiXD8sPCVkv",
+            "recsT9Sui33sZbogD"
         ],
-        "Resources number": 10,
+        "Resources number": 11,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1555,7 +1566,8 @@
             "YOW! Singapore/Hong Kong 2017 The Best OO Language is a Functional One - https://www.youtube.com/watch?v=lSBGX7twkB0",
             "OOP is Dead! Long Live OODD! - https://vimeo.com/77415896",
             "Less - The Path to Better Design - https://vimeo.com/53154357",
-            "Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs"
+            "Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs",
+            "Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recPDGLhpXxkxbDoU"
@@ -2016,7 +2028,7 @@
         "airtable_id": "recRy2nXD9Dh7GMhI"
     },
     {
-        "Last Modified": "2023-08-13T08:44:24.000Z",
+        "Last Modified": "2024-01-14T18:40:09.000Z",
         "Name": "Operations",
         "Resources": [
             "recOeXIOfuU3plaew",
@@ -2043,9 +2055,10 @@
             "rec3kcsAi7KgeUv5c",
             "recEbeDrLiZUegSaB",
             "recRBbOu0Yb1BMpo9",
-            "recmOMsXWPRJCtQwC"
+            "recmOMsXWPRJCtQwC",
+            "recUiAvLX6uU6gj42"
         ],
-        "Resources number": 25,
+        "Resources number": 26,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
@@ -2071,7 +2084,8 @@
             "Agile Book Club: Continuous Deployment (with Kelsey Hightower) - https://www.youtube.com/watch?v=ZpB6BXQLPm8",
             "Why we switched to serverless containers - https://changelog.com/shipit/87",
             "Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/",
-            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8"
+            "Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8",
+            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recSPiTKbfuhfkshg"
@@ -2163,7 +2177,20 @@
         "airtable_id": "recVEAsHKAjBV6jId"
     },
     {
-        "Last Modified": "2023-11-19T19:37:52.000Z",
+        "Last Modified": "2024-01-14T10:16:12.000Z",
+        "Name": "Security",
+        "Resources": [
+            "recu7UClKsYuB9WMX"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ"
+        ],
+        "airtable_createdTime": "2024-01-14T10:16:12.000Z",
+        "airtable_id": "recVjcUEBKByq8k7M"
+    },
+    {
+        "Last Modified": "2024-01-14T18:42:34.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2317,9 +2344,12 @@
             "recNlVd0tH5YnKGwN",
             "recCryAhEFHiUPGs2",
             "recsO8sRpVmxeUmNM",
-            "reczLoRy2b7S8EQio"
+            "reczLoRy2b7S8EQio",
+            "recu7UClKsYuB9WMX",
+            "recxOMnJ8i6GxhPbc",
+            "recbwjaeC3WJxRuss"
         ],
-        "Resources number": 152,
+        "Resources number": 155,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2472,7 +2502,10 @@
             "Webminar 2019 Accelerate State of DevOps - https://newrelic.com/resources/webinar/2019-acceleratestateofdevops",
             "SE Radio Ep 287 Success skills for architects with Neil Ford - http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/",
             "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
-            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams"
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams",
+            "Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ",
+            "A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0",
+            "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2571,7 +2604,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2023-11-19T19:23:15.000Z",
+        "Last Modified": "2024-01-14T19:08:16.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2639,9 +2672,11 @@
             "reck60FOvatP5hPnd",
             "recbKqpQDuwM9LVDW",
             "rec5D27OxBlCJquml",
-            "recABM6yOE21zVLfd"
+            "recABM6yOE21zVLfd",
+            "recYiENUKo6bXuUaI",
+            "recBgNNTaB15VLMCw"
         ],
-        "Resources number": 66,
+        "Resources number": 68,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2708,7 +2743,9 @@
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
             "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
             "The Power of Agile - https://www.youtube.com/watch?v=YL-6RCTywbc",
-            "Podcast. Interview Ron Jeffries (Agile.FM) - https://agile.fm/agilefm/2018/4/12/ron-jeffries"
+            "Podcast. Interview Ron Jeffries (Agile.FM) - https://agile.fm/agilefm/2018/4/12/ron-jeffries",
+            "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
+            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3576,7 +3613,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2023-11-19T19:43:35.000Z",
+        "Last Modified": "2024-01-14T19:10:54.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3649,9 +3686,11 @@
             "recOxqFBf8ctdFeJt",
             "rec6vxNvl606hoeCB",
             "recQXhKafE7CbtPIw",
-            "recQoqG1njAO55EIh"
+            "recQoqG1njAO55EIh",
+            "recUiAvLX6uU6gj42",
+            "recV10zLe4vGY7YPO"
         ],
-        "Resources number": 71,
+        "Resources number": 73,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3723,7 +3762,9 @@
             "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
             "Continuous Delivery Sounds Great But It Won\u2019t Work Here - https://www.infoq.com/presentations/continuous-delivery-highlights",
             "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
-            "Continuous Delivery In Agile - https://vimeo.com/229954108"
+            "Continuous Delivery In Agile - https://vimeo.com/229954108",
+            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/",
+            "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
@@ -3781,20 +3822,24 @@
         "airtable_id": "reck50u1RzhJj6MIy"
     },
     {
-        "Last Modified": "2022-02-06T21:19:47.000Z",
+        "Last Modified": "2024-01-14T19:08:27.000Z",
         "Name": "Small Safe Steps (3s)",
         "Resources": [
             "recLOCXTIY9Vp7E3n",
             "recf8eVwiUYjHue5J",
             "recct1CciZBLFrLHp",
-            "recXRcPu4JdPr678x"
+            "recXRcPu4JdPr678x",
+            "recBgNNTaB15VLMCw",
+            "recYiENUKo6bXuUaI"
         ],
-        "Resources number": 4,
+        "Resources number": 6,
         "Speakers": [
             "GeePaw Hill \"More Smaller Steps\"  - https://www.youtube.com/watch?v=WYK4kbrmm84",
             "The RAT: Rework Avoidance Theory - https://www.geepawhill.org/2020/07/17/the-rat-rework-avoidance-theory/",
             "Software has diseconomies of scale - not economies of scale - http://allankelly.blogspot.com.es/2015/10/software-has-diseconomies-of-scale-not.html?m=1",
-            "Surviving Continuous Deployment in Distributed Systems - https://www.youtube.com/watch?v=T0f0qS1k5jg"
+            "Surviving Continuous Deployment in Distributed Systems - https://www.youtube.com/watch?v=T0f0qS1k5jg",
+            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
+            "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4"
         ],
         "airtable_createdTime": "2021-08-14T10:21:05.000Z",
         "airtable_id": "reck5fBLLF9Drj8rk"
@@ -3913,7 +3958,7 @@
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2023-11-19T19:43:52.000Z",
+        "Last Modified": "2024-01-14T19:08:12.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -3972,9 +4017,11 @@
             "recgNHgQpgbXMk5nD",
             "recIFRbe3bPKWaQum",
             "rec63r3FZtJBpSY9F",
-            "recrYqt5GZlrRAe1P"
+            "recrYqt5GZlrRAe1P",
+            "recYiENUKo6bXuUaI",
+            "recBgNNTaB15VLMCw"
         ],
-        "Resources number": 57,
+        "Resources number": 59,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -4032,7 +4079,9 @@
             "The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8",
             "The Best OO Language is a Functional One - https://www.youtube.com/watch?v=lSBGX7twkB0",
             "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM",
-            "SE-Radio Episode 295: Michael Feathers on Legacy Code - http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/"
+            "SE-Radio Episode 295: Michael Feathers on Legacy Code - http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/",
+            "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
+            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
@@ -4510,6 +4559,19 @@
         "airtable_id": "recuR2w480ko3dSKR"
     },
     {
+        "Last Modified": "2024-01-14T10:16:17.000Z",
+        "Name": "Compliance",
+        "Resources": [
+            "recu7UClKsYuB9WMX"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ"
+        ],
+        "airtable_createdTime": "2024-01-14T10:16:17.000Z",
+        "airtable_id": "recvH0OfnC1Mq24L5"
+    },
+    {
         "Last Modified": "2021-10-24T22:30:16.000Z",
         "Name": "professionalism",
         "Resources": [
@@ -4666,7 +4728,7 @@
         "airtable_id": "recwjZlYYZq3zj7TU"
     },
     {
-        "Last Modified": "2023-08-26T21:22:25.000Z",
+        "Last Modified": "2024-01-14T18:40:20.000Z",
         "Name": "Devex",
         "Resources": [
             "rechYABcryStzbIMe",
@@ -4697,9 +4759,10 @@
             "reccNlMl6JcDotm1s",
             "recukmjPdKVdA4zxg",
             "recyQDYTRQVvgVB3Z",
-            "recI7pOxCd4Pe84x8"
+            "recI7pOxCd4Pe84x8",
+            "recUiAvLX6uU6gj42"
         ],
-        "Resources number": 29,
+        "Resources number": 30,
         "Speakers": [
             "Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - https://www.youtube.com/watch?v=xqT8e6_yzLg",
             "Making developer experience a reality - https://www.thoughtworks.com/podcasts/developer-effectiveness",
@@ -4729,7 +4792,8 @@
             "LOTE #7: Kelsey Hightower on Developer Experience, PaaS, and Testing in Production - https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/",
             "Backstage: Restoring Order To Your Chaos - https://www.youtube.com/watch?v=AlQYP88N3Og",
             "How much to invest in platform work - https://getdx.com/podcast/27",
-            "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0"
+            "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
+            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/"
         ],
         "airtable_createdTime": "2021-06-13T22:14:58.000Z",
         "airtable_id": "recxJkIWVynhDpBOI"
