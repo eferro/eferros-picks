@@ -10,7 +10,7 @@ jobs:
       AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       GH_ACTIONS_PAT: ${{ secrets.GH_ACTIONS_PAT }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
           persist-credentials: true
