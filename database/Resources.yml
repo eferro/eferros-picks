@@ -1814,6 +1814,35 @@
   airtable_createdTime: '2021-06-19T11:36:16.000Z'
   airtable_id: rec4xy5d0lYw6Q5TX
   registered_at: '2021-06-19T11:36:16.000Z'
+- Created: '2024-01-22T16:05:02.000Z'
+  Duration: 2280
+  Language: Spanish
+  Last Modified: '2024-01-22T16:19:43.000Z'
+  Less 15: 0
+  Name: Product minded software crafter
+  Resource: Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recUG3ezjc86NIqTL
+  - recpZlR0cYBDjj0Gr
+  Speakers_Names:
+  - Cansu Karayel
+  - Gemma Cortel
+  Topics:
+  - rech2MAtQRy0Lvc2Y
+  - rec0PB37LN1Kz0Blh
+  - reck5fBLLF9Drj8rk
+  Topics_Names:
+  - Lean Software Development
+  - Lean Product Management
+  - Small Safe Steps (3s)
+  Url: https://www.youtube.com/watch?v=JzWZkqem5-8
+  airtable_createdTime: '2024-01-22T16:05:02.000Z'
+  airtable_id: rec4yxbXm5lq421Ui
+  registered_at: '2024-01-22T16:05:02.000Z'
 - Blog Url: https://www.eferro.net/2015/08/index.html
   Created: '2020-01-19T20:36:17.000Z'
   Description: |
@@ -3497,9 +3526,10 @@
     Slides: <https://speakerdeck.com/devopslx/2020-dot-07-meetup-talk-may-poppendieck-six-decades-of-software-engineering>
   Duration: 4980
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-22T14:12:51.000Z'
   Less 15: 0
   Name: Six Decades of Software Engineering
+  Published: true
   Rating: 5
   Resource: Six Decades of Software Engineering - https://www.youtube.com/watch?v=PzI07SBqaPA
   Resource type: talk
@@ -4517,14 +4547,16 @@
   airtable_createdTime: '2020-06-14T11:13:00.000Z'
   airtable_id: recBfVsYe3o327PKD
   registered_at: '2020-06-14T11:13:00.000Z'
-- Created: '2024-01-14T19:04:38.000Z'
+- Blog Url: https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-ii.html
+  Created: '2024-01-14T19:04:38.000Z'
   Description: |
     Pure wisdom on why working in small, safe steps is the most efficient way to work in software product development when we have environments of high uncertainty (which is almost always).
   Duration: 4680
   Language: English
-  Last Modified: '2024-01-14T19:14:00.000Z'
+  Last Modified: '2024-01-22T14:13:58.000Z'
   Less 15: 0
   Name: GeePaw Hill on Incremental Software Delivery
+  Published: true
   Rating: 5
   Resource: GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs
   Resource type: talk
@@ -12255,15 +12287,17 @@
   airtable_createdTime: '2022-11-06T19:25:50.000Z'
   airtable_id: recV0aPgSdTeSObb0
   registered_at: '2022-11-06T19:25:50.000Z'
-- Created: '2024-01-14T19:09:03.000Z'
+- Blog Url: https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-ii.html
+  Created: '2024-01-14T19:09:03.000Z'
   Description: |
     This is an interesting talk by the two authors of the book 'Continuous Delivery' about the impact the book has had on the industry.
   Duration: 3960
   Language: English
-  Last Modified: '2024-01-14T19:24:33.000Z'
+  Last Modified: '2024-01-22T14:14:03.000Z'
   Less 15: 0
   Name: "\u201CIndustry Changing Book\u201D | Jez Humble & Dave Reflect On Continuous\
     \ Delivery"
+  Published: true
   Resource: "\u201CIndustry Changing Book\u201D | Jez Humble & Dave Reflect On Continuous\
     \ Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ"
   Resource type: talk
@@ -13459,14 +13493,16 @@
   airtable_createdTime: '2020-01-19T20:37:10.000Z'
   airtable_id: recYcBPXaIf60Q2Lh
   registered_at: '2020-01-19T20:37:10.000Z'
-- Created: '2024-01-14T19:01:49.000Z'
+- Blog Url: https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-ii.html
+  Created: '2024-01-14T19:01:49.000Z'
   Description: |
     Interesting reflection on the economics of software design and the principles that affect it. This talk describes some of the ideas that Kent elaborates on in detail in his new book 'Tidy first?'
   Duration: 3540
   Language: English
-  Last Modified: '2024-01-14T19:34:36.000Z'
+  Last Modified: '2024-01-22T14:13:53.000Z'
   Less 15: 0
   Name: DDD Europe 2023. A Daily Practice of Empirical Software Design
+  Published: true
   Resource: DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4
   Resource type: talk
   Speaker WomenInTech:
@@ -14627,9 +14663,10 @@
     \ the scope of work and handoffs can increase flow and value. \n"
   Duration: 420
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-22T14:12:48.000Z'
   Less 15: 1
   Name: Creating Value and Flow in Product Development
+  Published: true
   Rating: 5
   Resource: Creating Value and Flow in Product Development - https://www.youtube.com/watch?v=NGdx-f-aGXs
   Resource type: talk
@@ -14845,14 +14882,16 @@
   airtable_createdTime: '2020-01-19T20:33:10.000Z'
   airtable_id: recbpR9aV8qEoImRW
   registered_at: '2020-01-19T20:33:10.000Z'
-- Created: '2024-01-14T18:41:19.000Z'
+- Blog Url: https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-ii.html
+  Created: '2024-01-14T18:41:19.000Z'
   Description: |
     Dave explains clearly why what the industry often calls a RockStar developer is by no means a good developer, and why we should change that definition to focus on teams and disciplined developers who work in teams rather than individually. My notes on the topic: https://www.eferro.net/2024/01/be-humble-no-rockstars-allowed.html
   Duration: 1020
   Language: English
-  Last Modified: '2024-01-14T18:52:47.000Z'
+  Last Modified: '2024-01-22T14:13:29.000Z'
   Less 15: 0
   Name: Rockstar Developers Are THE WORST Developers
+  Published: true
   Resource: Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8
   Resource type: videopodcast
   Speaker WomenInTech:
@@ -19179,9 +19218,10 @@
 - Created: '2023-07-21T16:08:05.000Z'
   Duration: 3420
   Language: Spanish
-  Last Modified: '2023-07-21T16:09:24.000Z'
+  Last Modified: '2024-01-22T14:45:11.000Z'
   Less 15: 0
   Name: "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso"
+  Rating: 5
   Resource: "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   Resource type: talk
   Speaker WomenInTech:
@@ -22335,14 +22375,16 @@
   airtable_createdTime: '2020-01-19T20:32:55.000Z'
   airtable_id: recsO8sRpVmxeUmNM
   registered_at: '2020-01-19T20:32:55.000Z'
-- Created: '2024-01-14T18:54:06.000Z'
+- Blog Url: https://www.eferro.net/2024/01/good-talkspodcasts-jan-2024-ii.html
+  Created: '2024-01-14T18:54:06.000Z'
   Description: |
     A good talk by Sandi about how to create and evolve applications with good OO design. Like all of Sandi's talks, it is very worthwhile.
   Duration: 2460
   Language: English
-  Last Modified: '2024-01-14T18:58:12.000Z'
+  Last Modified: '2024-01-22T14:13:36.000Z'
   Less 15: 0
   Name: Polly Want a Message
+  Published: true
   Resource: Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0
   Resource type: talk
   Speaker WomenInTech:
@@ -24492,6 +24534,32 @@
   airtable_createdTime: '2021-10-03T20:40:08.000Z'
   airtable_id: recxR1aQ9jW7ovNiX
   registered_at: '2021-10-03T20:40:08.000Z'
+- Created: '2024-01-22T16:13:50.000Z'
+  Duration: 3180
+  Language: Spanish
+  Last Modified: '2024-01-22T16:21:29.000Z'
+  Less 15: 0
+  Name: Tips & tricks para llegar a ser un equipo de alto rendimiento
+  Resource: Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rece8E2nYJbHeZk8d
+  Speakers_Names:
+  - "Iva\u0301n Badia"
+  Topics:
+  - recWFKWrPEdeEYbzx
+  - rech2MAtQRy0Lvc2Y
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Engineering Culture
+  - Lean Software Development
+  - Agile
+  Url: https://www.youtube.com/watch?v=wTkiIF6UhKQ
+  airtable_createdTime: '2024-01-22T16:13:50.000Z'
+  airtable_id: recxWvq4BQk9TA98H
+  registered_at: '2024-01-22T16:13:50.000Z'
 - Blog Url: https://www.eferro.net/2019/04/good-talkspodcasts-april-2019-i.html
   Created: '2020-01-19T20:39:22.000Z'
   Description: |

@@ -1,4 +1,4 @@
-- Last Modified: '2023-11-19T19:32:30.000Z'
+- Last Modified: '2024-01-22T16:18:47.000Z'
   Name: Lean Product Management
   Resources:
   - recnXWD90uga820WV
@@ -37,7 +37,8 @@
   - recQSVPLU6svtsxEE
   - recpSMgAZacKjfZmm
   - rec7NPbH4POd8KrJS
-  Resources number: 36
+  - rec4yxbXm5lq421Ui
+  Resources number: 37
   Speakers:
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   - Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
@@ -77,6 +78,7 @@
   - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo
   - The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU
+  - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
 - Last Modified: '2023-04-23T18:22:39.000Z'
@@ -2068,7 +2070,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-01-14T18:42:34.000Z'
+- Last Modified: '2024-01-22T16:18:55.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2226,7 +2228,8 @@
   - recu7UClKsYuB9WMX
   - recxOMnJ8i6GxhPbc
   - recbwjaeC3WJxRuss
-  Resources number: 155
+  - recxWvq4BQk9TA98H
+  Resources number: 156
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2399,6 +2402,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   - A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0
   - Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8
+  - Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -3021,7 +3025,7 @@
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2023-11-19T13:51:22.000Z'
+- Last Modified: '2024-01-22T16:19:03.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3066,7 +3070,9 @@
   - recsbFogKbTtBFQ5o
   - recOxqFBf8ctdFeJt
   - recpSMgAZacKjfZmm
-  Resources number: 42
+  - rec4yxbXm5lq421Ui
+  - recxWvq4BQk9TA98H
+  Resources number: 44
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -3112,6 +3118,8 @@
   - Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ
   - The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ
   - Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo
+  - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
+  - Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2023-11-19T19:37:46.000Z'
@@ -3193,7 +3201,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2023-11-19T19:43:24.000Z'
+- Last Modified: '2024-01-22T16:21:29.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3308,7 +3316,8 @@
   - recyCkKA0x3HPvZnc
   - recMAXS80wmvMBHRc
   - recjSKdz5ZcQahIt4
-  Resources number: 112
+  - recxWvq4BQk9TA98H
+  Resources number: 113
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3435,6 +3444,7 @@
   - http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/
     - http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/
   - https://www.agilealliance.org/resources/videos/modern-agile/ - https://www.agilealliance.org/resources/videos/modern-agile/
+  - Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2023-11-19T19:36:54.000Z'
@@ -3680,7 +3690,7 @@
   - How to Break the Rules - https://www.youtube.com/watch?v=hZFShSjAhlQ
   airtable_createdTime: '2021-03-14T07:15:17.000Z'
   airtable_id: reck50u1RzhJj6MIy
-- Last Modified: '2024-01-14T19:08:27.000Z'
+- Last Modified: '2024-01-22T16:19:43.000Z'
   Name: Small Safe Steps (3s)
   Resources:
   - recLOCXTIY9Vp7E3n
@@ -3689,7 +3699,8 @@
   - recXRcPu4JdPr678x
   - recBgNNTaB15VLMCw
   - recYiENUKo6bXuUaI
-  Resources number: 6
+  - rec4yxbXm5lq421Ui
+  Resources number: 7
   Speakers:
   - GeePaw Hill "More Smaller Steps"  - https://www.youtube.com/watch?v=WYK4kbrmm84
   - 'The RAT: Rework Avoidance Theory - https://www.geepawhill.org/2020/07/17/the-rat-rework-avoidance-theory/'
@@ -3697,6 +3708,7 @@
   - Surviving Continuous Deployment in Distributed Systems - https://www.youtube.com/watch?v=T0f0qS1k5jg
   - GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs
   - DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4
+  - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   airtable_createdTime: '2021-08-14T10:21:05.000Z'
   airtable_id: reck5fBLLF9Drj8rk
 - Last Modified: '2023-11-19T19:28:38.000Z'
