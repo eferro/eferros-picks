@@ -1815,11 +1815,14 @@
   airtable_id: rec4xy5d0lYw6Q5TX
   registered_at: '2021-06-19T11:36:16.000Z'
 - Created: '2024-01-22T16:05:02.000Z'
+  Description: |
+    Ejemplo real de como un equipo de desarrollo de producto en el que todo el mundo entiende el software como un medio puede tener un gran impacto.
   Duration: 2280
   Language: Spanish
-  Last Modified: '2024-01-22T16:19:43.000Z'
+  Last Modified: '2024-01-29T22:58:47.000Z'
   Less 15: 0
   Name: Product minded software crafter
+  Rating: 5
   Resource: Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   Resource type: talk
   Speaker WomenInTech:
@@ -3309,9 +3312,13 @@
   airtable_id: rec8xahUBbtXXfZfV
   registered_at: '2022-03-30T07:31:59.000Z'
 - Created: '2021-08-12T13:50:01.000Z'
+  Description: "Interesante charla para comprender el contexto del cambio que estamos\
+    \ experimentando debido a la entrada masiva de software (y ahora de la Inteligencia\
+    \ Artificial) en todos los aspectos de nuestra sociedad. Invita a la reflexi\xF3\
+    n.\n"
   Duration: 1260
   Language: Spanish
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-29T23:04:17.000Z'
   Less 15: 0
   Name: 'Unexpected inhabitants: algorithms, ethics, and emergency'
   Resource: 'Unexpected inhabitants: algorithms, ethics, and emergency - https://www.youtube.com/watch?v=ikTqt0Vot_s'
@@ -13345,11 +13352,19 @@
   airtable_id: recYCZes90vm2TZ0c
   registered_at: '2021-06-19T11:36:20.000Z'
 - Created: '2021-08-12T13:26:22.000Z'
+  Description: "En esta charla, Xavi introduce el concepto de 'Desarrollo Dirigido\
+    \ por Consenso' junto con el 'Sistema de Concerns'. Esta metodolog\xEDa resulta\
+    \ ser una pr\xE1ctica sumamente efectiva para optimizar el flujo de trabajo en\
+    \ equipos, manteniendo al mismo tiempo bajo control la deuda t\xE9cnica y abordando\
+    \ eficientemente los menores problemas de dise\xF1o identificados por el equipo.\
+    \ Tras observar la implementaci\xF3n de esta metodolog\xEDa en varios equipos,\
+    \ puedo afirmar que su utilidad es significativa.\n"
   Duration: 3480
   Language: Spanish
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-29T23:09:29.000Z'
   Less 15: 0
   Name: CDD (Desarrollo dirigido por consenso)
+  Rating: 5
   Resource: CDD (Desarrollo dirigido por consenso) - https://www.youtube.com/watch?v=pp8j1ggCaoM
   Resource type: talk
   Speaker WomenInTech:
@@ -14629,9 +14644,14 @@
   airtable_id: recbHb9Z2j3NTfOeU
   registered_at: '2024-01-14T10:32:53.000Z'
 - Created: '2023-09-01T14:38:18.000Z'
+  Description: "Excelente charla que se fundamenta en experiencias pr\xE1cticas acerca\
+    \ de c\xF3mo colaborar eficazmente en equipo, siguiendo los principios del desarrollo\
+    \ de software Lean y de Programaci\xF3n Extrema (XP). Constituye un recurso valioso\
+    \ para recomendar o compartir con equipos que buscan optimizar sus metodolog\xED\
+    as de trabajo.\n"
   Duration: 3300
   Language: Spanish
-  Last Modified: '2023-09-01T14:40:03.000Z'
+  Last Modified: '2024-01-29T23:19:29.000Z'
   Less 15: 0
   Name: "Muda, Mura, Muri: mitos y pr\xE1cticas aplicando Lean Software Development"
   Rating: 5
@@ -19216,9 +19236,11 @@
   airtable_id: reclSHrWdh1MDq1QR
   registered_at: '2020-01-19T20:39:41.000Z'
 - Created: '2023-07-21T16:08:05.000Z'
+  Description: |
+    Inspiradora charla de Marta sobre como trabajar en un equipo enfocado a dessarrollo de producto y que entiende la tecnologia como un medio. Gran cantidad de ideas y detalles interesantes.
   Duration: 3420
   Language: Spanish
-  Last Modified: '2024-01-22T14:45:11.000Z'
+  Last Modified: '2024-01-29T23:25:01.000Z'
   Less 15: 0
   Name: "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso"
   Rating: 5
@@ -22252,9 +22274,11 @@
   airtable_id: recrzTQhrNRK14WoN
   registered_at: '2020-03-14T09:04:30.000Z'
 - Created: '2021-08-12T13:40:55.000Z'
+  Description: "Buena reflexi\xF3n sobre el papel del desarrollador en la sociedad\
+    \ y la necesidad de una etica profesional fuerte.\n"
   Duration: 2040
   Language: Spanish
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-29T23:00:57.000Z'
   Less 15: 0
   Name: "\xBFQue es un programador y cual es su papel en la sociedad?"
   Resource: "\xBFQue es un programador y cual es su papel en la sociedad? - https://www.youtube.com/watch?v=n-l4vSVJkNY"
@@ -24535,11 +24559,15 @@
   airtable_id: recxR1aQ9jW7ovNiX
   registered_at: '2021-10-03T20:40:08.000Z'
 - Created: '2024-01-22T16:13:50.000Z'
+  Description: "Iv\xE1n da las claves para tener una cultura de ingenieria sana en\
+    \ el que los equipos tienen una aproximaci\xF3n lean y con buenas pr\xE1cticas\
+    \ para el desarrollo de producto. Muy alineado con las ideas descritas en la charlas.\n"
   Duration: 3180
   Language: Spanish
-  Last Modified: '2024-01-22T16:21:29.000Z'
+  Last Modified: '2024-01-29T22:59:47.000Z'
   Less 15: 0
   Name: Tips & tricks para llegar a ser un equipo de alto rendimiento
+  Rating: 5
   Resource: Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   Resource type: talk
   Speaker WomenInTech:
