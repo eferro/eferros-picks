@@ -12913,12 +12913,13 @@
     },
     {
         "Created": "2021-08-12T13:07:59.000Z",
-        "Description": "\u00bfCu\u00e1l es la forma de entregar valor m\u00e1s r\u00e1pido? \u00bfAgil significa ir m\u00e1s deprisa? Uno de los motivos por los que m\u00e1s se desperdicia c\u00f3digo, tiempo y dinero, es que confundimos la soluci\u00f3n con el problema. No entendemos bien el problema del usuario y erramos en la toma de requisitos. Esto nos produce la sensaci\u00f3n de que el cliente est\u00e1 todo el tiempo cambiando de opini\u00f3n y de requisitos pero en la mayor\u00eda de los casos no es verdad. Es la comunicaci\u00f3n la que falla. Es normal porque estamos entrenados para buscar soluciones, los desarrolladores somos solucion\u00f3logos. Cuando nos decantamos por una soluci\u00f3n concreta estamos descartando las dem\u00e1s. Si hay otras m\u00e1s sencillas y convenientes para resolver el mismo problema, no nos daremos cuenta nunca, o quiz\u00e1s cuando ya sea demasiado tarde y hayamos dado demasiadas vueltas. En esta sesi\u00f3n hablaremos de separar el \"Qu\u00e9\" del \"C\u00f3mo\" para ser eficaces y econ\u00f3micos resolviendo problemas, sin que la calidad de las soluciones se vea afectada.\n",
+        "Description": "En esta sesi\u00f3n Carlos se centra en c\u00f3mo saber separar el \"Qu\u00e9\" del \"C\u00f3mo\" para ser eficaces y econ\u00f3micos resolviendo problemas, sin que la calidad de las soluciones se vea afectada. Una muy buena charla para cualquiera que se interese por el desarrollo de software lean (agile real).\n",
         "Duration": 2460,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-01-31T18:39:09.000Z",
         "Less 15": 0,
         "Name": "Aprender a distinguir el problema de las soluciones",
+        "Rating": 5,
         "Resource": "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -12933,12 +12934,14 @@
         "Topics": [
             "recg6F5ajOhEkbrdW",
             "recWFKWrPEdeEYbzx",
-            "rechj5WeSQRH211np"
+            "rechj5WeSQRH211np",
+            "rech2MAtQRy0Lvc2Y"
         ],
         "Topics_Names": [
             "Product",
             "Engineering Culture",
-            "Agile"
+            "Agile",
+            "Lean Software Development"
         ],
         "Url": "https://www.youtube.com/watch?v=IqUo9kCWQrw",
         "airtable_createdTime": "2021-08-12T13:07:59.000Z",

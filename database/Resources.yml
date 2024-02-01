@@ -10905,25 +10905,16 @@
   airtable_id: recRBbOu0Yb1BMpo9
   registered_at: '2023-02-19T20:58:56.000Z'
 - Created: '2021-08-12T13:07:59.000Z'
-  Description: "\xBFCu\xE1l es la forma de entregar valor m\xE1s r\xE1pido? \xBFAgil\
-    \ significa ir m\xE1s deprisa? Uno de los motivos por los que m\xE1s se desperdicia\
-    \ c\xF3digo, tiempo y dinero, es que confundimos la soluci\xF3n con el problema.\
-    \ No entendemos bien el problema del usuario y erramos en la toma de requisitos.\
-    \ Esto nos produce la sensaci\xF3n de que el cliente est\xE1 todo el tiempo cambiando\
-    \ de opini\xF3n y de requisitos pero en la mayor\xEDa de los casos no es verdad.\
-    \ Es la comunicaci\xF3n la que falla. Es normal porque estamos entrenados para\
-    \ buscar soluciones, los desarrolladores somos solucion\xF3logos. Cuando nos decantamos\
-    \ por una soluci\xF3n concreta estamos descartando las dem\xE1s. Si hay otras\
-    \ m\xE1s sencillas y convenientes para resolver el mismo problema, no nos daremos\
-    \ cuenta nunca, o quiz\xE1s cuando ya sea demasiado tarde y hayamos dado demasiadas\
-    \ vueltas. En esta sesi\xF3n hablaremos de separar el \"Qu\xE9\" del \"C\xF3mo\"\
-    \ para ser eficaces y econ\xF3micos resolviendo problemas, sin que la calidad\
-    \ de las soluciones se vea afectada.\n"
+  Description: "En esta sesi\xF3n Carlos se centra en c\xF3mo saber separar el \"\
+    Qu\xE9\" del \"C\xF3mo\" para ser eficaces y econ\xF3micos resolviendo problemas,\
+    \ sin que la calidad de las soluciones se vea afectada. Una muy buena charla para\
+    \ cualquiera que se interese por el desarrollo de software lean (agile real).\n"
   Duration: 2460
   Language: Spanish
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-01-31T18:39:09.000Z'
   Less 15: 0
   Name: Aprender a distinguir el problema de las soluciones
+  Rating: 5
   Resource: Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
   Resource type: talk
   Speaker WomenInTech:
@@ -10936,10 +10927,12 @@
   - recg6F5ajOhEkbrdW
   - recWFKWrPEdeEYbzx
   - rechj5WeSQRH211np
+  - rech2MAtQRy0Lvc2Y
   Topics_Names:
   - Product
   - Engineering Culture
   - Agile
+  - Lean Software Development
   Url: https://www.youtube.com/watch?v=IqUo9kCWQrw
   airtable_createdTime: '2021-08-12T13:07:59.000Z'
   airtable_id: recRCthMkTETb5Etf

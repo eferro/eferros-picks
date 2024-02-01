@@ -3156,7 +3156,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2024-01-22T16:19:03.000Z",
+        "Last Modified": "2024-01-31T18:39:09.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3202,9 +3202,10 @@
             "recOxqFBf8ctdFeJt",
             "recpSMgAZacKjfZmm",
             "rec4yxbXm5lq421Ui",
-            "recxWvq4BQk9TA98H"
+            "recxWvq4BQk9TA98H",
+            "recRCthMkTETb5Etf"
         ],
-        "Resources number": 44,
+        "Resources number": 45,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -3249,7 +3250,8 @@
             "The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ",
             "Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo",
             "Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8",
-            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ"
+            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
+            "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
