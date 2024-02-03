@@ -1211,13 +1211,15 @@
         "registered_at": "2021-06-19T11:36:20.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-10-17T14:23:08.000Z",
         "Description": "Ejemplo pr\u00e1ctico del uso de los Wardley Maps y algunos conceptos de DDD (strategic design) para proponer una estrategia para el equipo de Ingenieria.\n",
         "Duration": 2880,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:34:57.000Z",
         "Less 15": 0,
         "Name": "Case Study: tools and strategies for tackling legacy practices",
+        "Published": true,
         "Resource": "Case Study: tools and strategies for tackling legacy practices - https://www.youtube.com/watch?v=i8GzkkMWGYE",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -2166,13 +2168,15 @@
         "registered_at": "2021-06-19T11:36:16.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2024-01-22T16:05:02.000Z",
         "Description": "Ejemplo real de como un equipo de desarrollo de producto en el que todo el mundo entiende el software como un medio puede tener un gran impacto.\n",
         "Duration": 2280,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T22:58:47.000Z",
+        "Last Modified": "2024-02-02T07:35:53.000Z",
         "Less 15": 0,
         "Name": "Product minded software crafter",
+        "Published": true,
         "Rating": 5,
         "Resource": "Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8",
         "Resource type": "talk",
@@ -3934,13 +3938,15 @@
         "registered_at": "2022-03-30T07:31:59.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:50:01.000Z",
         "Description": "Interesante charla para comprender el contexto del cambio que estamos experimentando debido a la entrada masiva de software (y ahora de la Inteligencia Artificial) en todos los aspectos de nuestra sociedad. Invita a la reflexi\u00f3n.\n",
         "Duration": 1260,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T23:04:17.000Z",
+        "Last Modified": "2024-02-02T07:34:36.000Z",
         "Less 15": 0,
         "Name": "Unexpected inhabitants: algorithms, ethics, and emergency",
+        "Published": true,
         "Resource": "Unexpected inhabitants: algorithms, ethics, and emergency - https://www.youtube.com/watch?v=ikTqt0Vot_s",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -3968,13 +3974,15 @@
         "registered_at": "2021-08-12T13:50:01.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "Muy buena descripci\u00f3n de las arquitecturas limpias y de la arquitectura hexagonal. Muy didactico.\n",
         "Duration": 1080,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:32:10.000Z",
         "Less 15": 0,
         "Name": "Clean Architecture: La mejor forma de escalar y mantener tu c\u00f3digo",
+        "Published": true,
         "Resource": "Clean Architecture: La mejor forma de escalar y mantener tu c\u00f3digo - https://www.youtube.com/watch?v=y3MWfPDmVqo",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -5683,13 +5691,15 @@
         "registered_at": "2020-01-19T20:38:06.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "\"ownership\" o responsabilidad, una de las grandes tendencias en muchos art\u00edculos sobre productividad y efectividad para gestionar equipos y que pocas veces se explica en profundidad c\u00f3mo conseguirla o las principales razones para hacerlo.\n",
         "Duration": 3360,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:33:04.000Z",
         "Less 15": 0,
         "Name": "Startup School: Restart \"Motivaci\u00f3n y responsabilidad\"",
+        "Published": true,
         "Resource": "Startup School: Restart \"Motivaci\u00f3n y responsabilidad\" - https://www.youtube.com/watch?v=AWBh_ftm-iI",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -7665,13 +7675,15 @@
         "registered_at": "2020-03-14T13:30:25.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:31:22.000Z",
         "Description": "Inspiracional charla sobre las motivaciones y la estrategia para refactorizar de forma continua.\n",
         "Duration": 3060,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:34:00.000Z",
         "Less 15": 0,
         "Name": "La econom\u00eda del refactoring. Una visi\u00f3n desde la gesti\u00f3n econ\u00f3mica del proyecto.",
+        "Published": true,
         "Resource": "La econom\u00eda del refactoring. Una visi\u00f3n desde la gesti\u00f3n econ\u00f3mica del proyecto. - https://www.youtube.com/watch?v=mqjvkL2h3_I",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -12912,13 +12924,15 @@
         "registered_at": "2023-02-19T20:58:56.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "En esta sesi\u00f3n Carlos se centra en c\u00f3mo saber separar el \"Qu\u00e9\" del \"C\u00f3mo\" para ser eficaces y econ\u00f3micos resolviendo problemas, sin que la calidad de las soluciones se vea afectada. Una muy buena charla para cualquiera que se interese por el desarrollo de software lean (agile real).\n",
         "Duration": 2460,
         "Language": "Spanish",
-        "Last Modified": "2024-01-31T18:39:09.000Z",
+        "Last Modified": "2024-02-02T07:33:25.000Z",
         "Less 15": 0,
         "Name": "Aprender a distinguir el problema de las soluciones",
+        "Published": true,
         "Rating": 5,
         "Resource": "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw",
         "Resource type": "talk",
@@ -15811,13 +15825,15 @@
         "registered_at": "2021-06-19T11:36:20.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:26:22.000Z",
         "Description": "En esta charla, Xavi introduce el concepto de 'Desarrollo Dirigido por Consenso' junto con el 'Sistema de Concerns'. Esta metodolog\u00eda resulta ser una pr\u00e1ctica sumamente efectiva para optimizar el flujo de trabajo en equipos, manteniendo al mismo tiempo bajo control la deuda t\u00e9cnica y abordando eficientemente los menores problemas de dise\u00f1o identificados por el equipo. Tras observar la implementaci\u00f3n de esta metodolog\u00eda en varios equipos, puedo afirmar que su utilidad es significativa.\n",
         "Duration": 3480,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T23:09:29.000Z",
+        "Last Modified": "2024-02-02T07:33:46.000Z",
         "Less 15": 0,
         "Name": "CDD (Desarrollo dirigido por consenso)",
+        "Published": true,
         "Rating": 5,
         "Resource": "CDD (Desarrollo dirigido por consenso) - https://www.youtube.com/watch?v=pp8j1ggCaoM",
         "Resource type": "talk",
@@ -17333,13 +17349,15 @@
         "registered_at": "2024-01-14T10:32:53.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2023-09-01T14:38:18.000Z",
         "Description": "Excelente charla que se fundamenta en experiencias pr\u00e1cticas acerca de c\u00f3mo colaborar eficazmente en equipo, siguiendo los principios del desarrollo de software Lean y de Programaci\u00f3n Extrema (XP). Constituye un recurso valioso para recomendar o compartir con equipos que buscan optimizar sus metodolog\u00edas de trabajo.\n",
         "Duration": 3300,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T23:19:29.000Z",
+        "Last Modified": "2024-02-02T07:35:36.000Z",
         "Less 15": 0,
         "Name": "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development",
+        "Published": true,
         "Rating": 5,
         "Resource": "Muda, Mura, Muri: mitos y pr\u00e1cticas aplicando Lean Software Development - https://youtu.be/N6OJg1rxZGE",
         "Resource type": "talk",
@@ -19016,13 +19034,15 @@
         "registered_at": "2020-01-19T20:35:35.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "Inspiradora charla sobre nuestra profesi\u00f3n de eternos aprendices. Imprescindible.\n",
         "Duration": 4920,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:31:39.000Z",
         "Less 15": 0,
         "Name": "Aqu\u00ed tambi\u00e9n hay esperanza",
+        "Published": true,
         "Resource": "Aqu\u00ed tambi\u00e9n hay esperanza - https://www.youtube.com/watch?v=g-WGDoItqiA",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -21618,13 +21638,15 @@
         "registered_at": "2022-03-02T10:01:43.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "Realworld podcast Ep 19.\n",
         "Duration": 3540,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:32:45.000Z",
         "Less 15": 0,
         "Name": "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional",
+        "Published": true,
         "Resource": "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional",
         "Resource type": "podcast",
         "Speaker WomenInTech": [
@@ -22809,13 +22831,15 @@
         "registered_at": "2020-01-19T20:39:41.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2023-07-21T16:08:05.000Z",
         "Description": "Inspiradora charla de Marta sobre como trabajar en un equipo enfocado a dessarrollo de producto y que entiende la tecnologia como un medio. Gran cantidad de ideas y detalles interesantes.\n",
         "Duration": 3420,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T23:25:01.000Z",
+        "Last Modified": "2024-02-02T07:35:22.000Z",
         "Less 15": 0,
         "Name": "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso",
+        "Published": true,
         "Rating": 5,
         "Resource": "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
         "Resource type": "talk",
@@ -26220,13 +26244,15 @@
         "registered_at": "2020-01-19T20:43:05.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:07:59.000Z",
         "Description": "Interesante charla en la que Vanesa nos comparte los artefactos que usa para mejorar  el proceso de producto a escala (radiadores de informaci\u00f3n, tracking, etc).\n",
         "Duration": 3960,
         "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-02-02T07:32:28.000Z",
         "Less 15": 0,
         "Name": "Artefactos en la gesti\u00f3n de Producto",
+        "Published": true,
         "Resource": "Artefactos en la gesti\u00f3n de Producto - https://www.youtube.com/watch?v=AIsMkTBNIeI",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -26402,13 +26428,15 @@
         "registered_at": "2020-03-14T09:04:30.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2021-08-12T13:40:55.000Z",
         "Description": "Buena reflexi\u00f3n sobre el papel del desarrollador en la sociedad y la necesidad de una etica profesional fuerte.\n",
         "Duration": 2040,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T23:00:57.000Z",
+        "Last Modified": "2024-02-02T07:34:19.000Z",
         "Less 15": 0,
         "Name": "\u00bfQue es un programador y cual es su papel en la sociedad?",
+        "Published": true,
         "Resource": "\u00bfQue es un programador y cual es su papel en la sociedad? - https://www.youtube.com/watch?v=n-l4vSVJkNY",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -29132,13 +29160,15 @@
         "registered_at": "2021-10-03T20:40:08.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/01/seleccion-de-charlas-recomendadas-en.html",
         "Created": "2024-01-22T16:13:50.000Z",
         "Description": "Iv\u00e1n da las claves para tener una cultura de ingenieria sana en el que los equipos tienen una aproximaci\u00f3n lean y con buenas pr\u00e1cticas para el desarrollo de producto. Muy alineado con las ideas descritas en la charlas.\n",
         "Duration": 3180,
         "Language": "Spanish",
-        "Last Modified": "2024-01-29T22:59:47.000Z",
+        "Last Modified": "2024-02-02T07:36:14.000Z",
         "Less 15": 0,
         "Name": "Tips & tricks para llegar a ser un equipo de alto rendimiento",
+        "Published": true,
         "Rating": 5,
         "Resource": "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
         "Resource type": "talk",
