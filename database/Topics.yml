@@ -1,4 +1,4 @@
-- Last Modified: '2024-01-22T16:18:47.000Z'
+- Last Modified: '2024-02-05T22:01:45.000Z'
   Name: Lean Product Management
   Resources:
   - recnXWD90uga820WV
@@ -38,7 +38,8 @@
   - recpSMgAZacKjfZmm
   - rec7NPbH4POd8KrJS
   - rec4yxbXm5lq421Ui
-  Resources number: 37
+  - recRCthMkTETb5Etf
+  Resources number: 38
   Speakers:
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   - Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
@@ -79,6 +80,7 @@
   - Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo
   - The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU
   - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
+  - Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
 - Last Modified: '2023-04-23T18:22:39.000Z'
@@ -315,7 +317,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2023-11-19T19:44:56.000Z'
+- Last Modified: '2024-02-05T21:45:37.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -372,7 +374,6 @@
   - recGHXTez0SYwMARL
   - recrzWPwTzGCycMFs
   - rec91GhIUFCHd9MLf
-  - reclr1usk2Dx6cUIe
   - recm68DV9rnUjguf1
   - recAdTSdlxLotkrhB
   - recaq5xgrR8V20wnT
@@ -438,7 +439,7 @@
   - recUJOAZZjUhx4qJy
   - reczLoRy2b7S8EQio
   - recbZzYh8iwAqHBJ3
-  Resources number: 120
+  Resources number: 119
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -498,7 +499,6 @@
     \ del proyecto. - https://www.youtube.com/watch?v=mqjvkL2h3_I"
   - "\xBFQue es un programador y cual es su papel en la sociedad? - https://www.youtube.com/watch?v=n-l4vSVJkNY"
   - 'Unexpected inhabitants: algorithms, ethics, and emergency - https://www.youtube.com/watch?v=ikTqt0Vot_s'
-  - "Pau Ram\xF3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
   - Make two lists - http://sethgodin.typepad.com/seths_blog/2017/06/make-two-lists.html#.WUPgUo66UR8.twitter
   - Software Craftsmanship y profesionalismo - https://www.genbeta.com/desarrollo/software-craftsmanship-y-profesionalismo
@@ -2070,7 +2070,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-01-22T16:18:55.000Z'
+- Last Modified: '2024-02-05T21:45:37.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2159,7 +2159,6 @@
   - recRCthMkTETb5Etf
   - recYMMbwZkII3lYMq
   - recovGzxrWfaZYTku
-  - reclr1usk2Dx6cUIe
   - recdMGAoMJz4NnLmW
   - recct1CciZBLFrLHp
   - recWNkDna2tRK9JNv
@@ -2229,7 +2228,7 @@
   - recxOMnJ8i6GxhPbc
   - recbwjaeC3WJxRuss
   - recxWvq4BQk9TA98H
-  Resources number: 156
+  Resources number: 155
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2327,7 +2326,6 @@
   - Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
   - CDD (Desarrollo dirigido por consenso) - https://www.youtube.com/watch?v=pp8j1ggCaoM
   - Top Software Engineering Interview Tips - https://www.youtube.com/watch?v=osnOY5zgdMI
-  - "Pau Ram\xF3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM"
   - How To Build Quality Software Fast - https://www.youtube.com/watch?v=ZmgbjaRfp_Q
   - Software has diseconomies of scale - not economies of scale - http://allankelly.blogspot.com.es/2015/10/software-has-diseconomies-of-scale-not.html?m=1
   - "Kent Beck\u2019s Product Development Triathlon - https://andela.com/blog/kent-becks-product-development-triathlon/"
@@ -3124,7 +3122,7 @@
   - Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
-- Last Modified: '2023-11-19T19:37:46.000Z'
+- Last Modified: '2024-02-05T21:45:37.000Z'
   Name: Company Culture
   Resources:
   - recFssGR3GcaytzUE
@@ -3152,7 +3150,6 @@
   - recWauvTxPOSravWx
   - recRJkj52FQDwkEHg
   - recitaMrj8QyQAvHD
-  - reclr1usk2Dx6cUIe
   - recm68DV9rnUjguf1
   - recJ4GcimJEOAt9WO
   - recswvNhslMDrLOMK
@@ -3162,7 +3159,7 @@
   - receYn9iDUfTj3xBp
   - recPjJcgKz9yZq4Uc
   - reczLoRy2b7S8EQio
-  Resources number: 35
+  Resources number: 34
   Speakers:
   - The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo
   - The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI
@@ -3191,7 +3188,6 @@
   - Foundations of Modern Product Organizations - https://www.youtube.com/watch?v=cOaFm9vm7AI
   - "E038  Hoshin, OKRs y Estrategia, con \xC1ngel Medinilla - https://www.runroom.com/realworld/e038-hoshin-okrs-y-estrategia-con-angel-medinilla"
   - "E019 Qu\xE9 es y para qu\xE9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional"
-  - "Pau Ram\xF3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
   - 'Workshop: Emociones en equipos de trabajo - https://www.youtube.com/watch?v=c4WlCAEH9Ls'
   - Chapter Two with Christina Wodtke, Author of Radical Focus - https://www.youtube.com/watch?v=spPNrzWYpPQ
@@ -3203,7 +3199,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-01-22T16:21:29.000Z'
+- Last Modified: '2024-02-05T21:45:37.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3281,7 +3277,6 @@
   - recRCthMkTETb5Etf
   - recYMMbwZkII3lYMq
   - recLOCXTIY9Vp7E3n
-  - reclr1usk2Dx6cUIe
   - recHwPhtB6zF2E6Rw
   - recf8eVwiUYjHue5J
   - recW7rPPVpuaEcIQc
@@ -3319,7 +3314,7 @@
   - recMAXS80wmvMBHRc
   - recjSKdz5ZcQahIt4
   - recxWvq4BQk9TA98H
-  Resources number: 113
+  Resources number: 112
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3403,7 +3398,6 @@
   - Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
   - CDD (Desarrollo dirigido por consenso) - https://www.youtube.com/watch?v=pp8j1ggCaoM
   - GeePaw Hill "More Smaller Steps"  - https://www.youtube.com/watch?v=WYK4kbrmm84
-  - "Pau Ram\xF3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM"
   - 'Mi 1er Podcast: Una experiencia personal, mi primer contacto con la agilidad
     y eXtreme Programming - http://www.javiergarzas.com/2017/02/mi-primer-podcast.html'
   - 'The RAT: Rework Avoidance Theory - https://www.geepawhill.org/2020/07/17/the-rat-rework-avoidance-theory/'
@@ -4399,7 +4393,7 @@
   - Software Craftsmanship y profesionalismo - https://www.genbeta.com/desarrollo/software-craftsmanship-y-profesionalismo
   airtable_createdTime: '2021-08-12T13:49:32.000Z'
   airtable_id: recvUEp7q0TOLiXgf
-- Last Modified: '2022-03-30T07:35:15.000Z'
+- Last Modified: '2024-02-05T21:45:37.000Z'
   Name: Management
   Resources:
   - recFssGR3GcaytzUE
@@ -4427,7 +4421,6 @@
   - recwm49J2jLpnm2bE
   - rectduIUy0z2b6gmb
   - recZJpQ9OXPDkm5Bz
-  - reclr1usk2Dx6cUIe
   - recm68DV9rnUjguf1
   - recz8LQdX9KcWJNbf
   - recJ4GcimJEOAt9WO
@@ -4440,7 +4433,7 @@
   - recZ9d2gvtlLmiStq
   - recVds4erYyaknLBa
   - rec8xahUBbtXXfZfV
-  Resources number: 38
+  Resources number: 37
   Speakers:
   - The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo
   - The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI
@@ -4470,7 +4463,6 @@
   - A Guide To Managing Technical Teams - https://www.youtube.com/watch?v=jMpCF0Z623s
   - 'The Trimodal Nature of Software Engineer Compensation: Why Positions Pay a (Very)
     Different Salar - https://www.youtube.com/watch?v=h8Xpapy6I9E'
-  - "Pau Ram\xF3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
   - Equity 101 for Software Engineers at Big Tech and Startups - https://blog.pragmaticengineer.com/equity-for-software-engineers/
   - 'Workshop: Emociones en equipos de trabajo - https://www.youtube.com/watch?v=c4WlCAEH9Ls'

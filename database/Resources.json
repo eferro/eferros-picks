@@ -12929,7 +12929,7 @@
         "Description": "En esta sesi\u00f3n Carlos se centra en c\u00f3mo saber separar el \"Qu\u00e9\" del \"C\u00f3mo\" para ser eficaces y econ\u00f3micos resolviendo problemas, sin que la calidad de las soluciones se vea afectada. Una muy buena charla para cualquiera que se interese por el desarrollo de software lean (agile real).\n",
         "Duration": 2460,
         "Language": "Spanish",
-        "Last Modified": "2024-02-02T07:33:25.000Z",
+        "Last Modified": "2024-02-05T22:01:45.000Z",
         "Less 15": 0,
         "Name": "Aprender a distinguir el problema de las soluciones",
         "Published": true,
@@ -12949,13 +12949,15 @@
             "recg6F5ajOhEkbrdW",
             "recWFKWrPEdeEYbzx",
             "rechj5WeSQRH211np",
-            "rech2MAtQRy0Lvc2Y"
+            "rech2MAtQRy0Lvc2Y",
+            "rec0PB37LN1Kz0Blh"
         ],
         "Topics_Names": [
             "Product",
             "Engineering Culture",
             "Agile",
-            "Lean Software Development"
+            "Lean Software Development",
+            "Lean Product Management"
         ],
         "Url": "https://www.youtube.com/watch?v=IqUo9kCWQrw",
         "airtable_createdTime": "2021-08-12T13:07:59.000Z",
@@ -23019,44 +23021,6 @@
         "airtable_createdTime": "2020-01-19T20:33:04.000Z",
         "airtable_id": "reclgtwynFJI24hnI",
         "registered_at": "2020-01-19T20:33:04.000Z"
-    },
-    {
-        "Created": "2021-08-14T20:11:48.000Z",
-        "Description": "Bernat Farrero invita a Pau Ram\u00f3n, cofundador y CTO de Factorial HR, para indagar en las gestiones de su rol y descubrir con m\u00e1s detalle la forma en que trabaja la compa\u00f1\u00eda, desde la forma en que se gestionan los equipos, los perfiles que se buscan a la hora de contratar, e incluso varios consejos valiosos relacionados con el mundo de la tecnolog\u00eda\n",
-        "Duration": 3540,
-        "Language": "Spanish",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
-        "Less 15": 0,
-        "Name": "Pau Ram\u00f3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161",
-        "Resource": "Pau Ram\u00f3n, asumiendo el liderazgo como CTO de Factorial - Podcast 161 - https://www.youtube.com/watch?v=afLElK-3bbM",
-        "Resource type": "videopodcast",
-        "Speaker WomenInTech": [
-            null
-        ],
-        "Speakers": [
-            "recwyVoHGUUFjUczw"
-        ],
-        "Speakers_Names": [
-            "Pau Ram\u00f3n"
-        ],
-        "Topics": [
-            "recWFKWrPEdeEYbzx",
-            "rechj5WeSQRH211np",
-            "rec6JMQpL2LSjoP2E",
-            "rechSTvKX9sm9HHMA",
-            "recvlsvAt2LHjlKU2"
-        ],
-        "Topics_Names": [
-            "Engineering Culture",
-            "Agile",
-            "Inspirational",
-            "Company Culture",
-            "Management"
-        ],
-        "Url": "https://www.youtube.com/watch?v=afLElK-3bbM",
-        "airtable_createdTime": "2021-08-14T20:11:48.000Z",
-        "airtable_id": "reclr1usk2Dx6cUIe",
-        "registered_at": "2021-08-14T20:11:48.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2019/09/good-talkspodcasts-september-2019-i.html",
