@@ -851,7 +851,20 @@
         "airtable_id": "recBohZTGAA4ovOaO"
     },
     {
-        "Last Modified": "2024-01-14T18:42:40.000Z",
+        "Last Modified": "2024-03-30T16:58:19.000Z",
+        "Name": "Fast Agile",
+        "Resources": [
+            "recmvoo351PsP313Q"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
+        ],
+        "airtable_createdTime": "2024-03-30T16:58:19.000Z",
+        "airtable_id": "recD3pnf517cAQ1Rh"
+    },
+    {
+        "Last Modified": "2024-03-30T16:52:42.000Z",
         "Name": "Engineering Career",
         "Resources": [
             "recBZwhDTylUgYDno",
@@ -875,9 +888,10 @@
             "receEOhwDWcAsDm7V",
             "recOtIG9sYrRR6tQr",
             "recWUWqSES4nBFQE6",
-            "recbwjaeC3WJxRuss"
+            "recbwjaeC3WJxRuss",
+            "recAPAmVnzrSTPDsl"
         ],
-        "Resources number": 22,
+        "Resources number": 23,
         "Speakers": [
             "Software_Crasftsmanship (Barcelona CAS2014) - https://www.youtube.com/watch?v=9OhXqBlCmrM",
             "Attitude Determines Altitude- Engineering Yourself - https://www.infoq.com/presentations/improve-engineer-designer-leader",
@@ -900,7 +914,8 @@
             "20 Questions To Ask Your Next Employer - https://www.youtube.com/watch?v=2Afk9KVEgpE",
             "What makes a good developer - https://vimeo.com/748032161",
             "The Well-Balanced Programmer - https://www.youtube.com/watch?v=XhN6fJYG81A",
-            "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8"
+            "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8",
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recD5hNaJCwpTdERc"
@@ -1109,7 +1124,7 @@
         "airtable_id": "recF9sEGaOJ0hiQgV"
     },
     {
-        "Last Modified": "2023-10-15T20:29:33.000Z",
+        "Last Modified": "2024-03-30T16:59:15.000Z",
         "Name": "Technical Practices",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -1216,9 +1231,10 @@
             "recMP0fXsBeAYZEsH",
             "rechcjxuU2Gdb0VKR",
             "reck60FOvatP5hPnd",
-            "recsbFogKbTtBFQ5o"
+            "recsbFogKbTtBFQ5o",
+            "recmvoo351PsP313Q"
         ],
-        "Resources number": 105,
+        "Resources number": 106,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
@@ -1324,7 +1340,8 @@
             "The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI",
             "The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
-            "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ"
+            "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ",
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recFbzSbd07ttDIYJ"
@@ -1575,7 +1592,7 @@
         "airtable_id": "recPDGLhpXxkxbDoU"
     },
     {
-        "Last Modified": "2023-11-19T19:36:50.000Z",
+        "Last Modified": "2024-03-30T16:59:33.000Z",
         "Name": "testing",
         "Resources": [
             "recIFakmXTw6GmZlH",
@@ -1607,9 +1624,10 @@
             "rec6VZ5qk8zuAsbvk",
             "recWfUV0NqBVUvrz1",
             "recDh53A78GLSgFoT",
-            "rechenJ6kgA7BxHI9"
+            "rechenJ6kgA7BxHI9",
+            "recmvoo351PsP313Q"
         ],
-        "Resources number": 30,
+        "Resources number": 31,
         "Speakers": [
             "How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU",
             "Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/",
@@ -1640,7 +1658,8 @@
             "Don't Mock 3rd Party Code - https://www.youtube.com/watch?v=v6hP2MXoVrI",
             "Yes, I Test in Production (And So Do You) - https://www.infoq.com/presentations/testing-production-2018",
             "Five key challenges for software quality tomorrow - http://www.ustream.tv/recorded/114861540",
-            "Production - Designing for Testability - https://www.infoq.com/presentations/quality-production"
+            "Production - Designing for Testability - https://www.infoq.com/presentations/quality-production",
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
         ],
         "airtable_createdTime": "2020-09-06T08:22:07.000Z",
         "airtable_id": "recPcLVyg0S4ORUkX"
@@ -1789,7 +1808,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2023-11-19T19:41:09.000Z",
+        "Last Modified": "2024-03-30T17:03:49.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1884,9 +1903,12 @@
             "recSi9cTXikmWOquX",
             "recnCgMcszzwpmJh8",
             "recORpJNyUmhoEN7w",
-            "rec3jBh4YZ9cRjwtp"
+            "rec3jBh4YZ9cRjwtp",
+            "recbC0Z68UqbRLJlE",
+            "recAPAmVnzrSTPDsl",
+            "recYZ3cyr9Rm2u5Br"
         ],
-        "Resources number": 93,
+        "Resources number": 96,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1980,7 +2002,10 @@
             "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg",
             "InfoQ podcast: Courageous Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/parsons-leadership-evolutionary-architecture",
             "Evolutionary Architecture with Neal Ford - https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/",
-            "Immutability Changes Everything - https://vimeo.com/52831373"
+            "Immutability Changes Everything - https://vimeo.com/52831373",
+            "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40",
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
+            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -2192,7 +2217,7 @@
         "airtable_id": "recVjcUEBKByq8k7M"
     },
     {
-        "Last Modified": "2024-02-05T21:45:37.000Z",
+        "Last Modified": "2024-03-30T16:52:33.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2349,9 +2374,11 @@
             "recu7UClKsYuB9WMX",
             "recxOMnJ8i6GxhPbc",
             "recbwjaeC3WJxRuss",
-            "recxWvq4BQk9TA98H"
+            "recxWvq4BQk9TA98H",
+            "recUEgx9kn9Dgm3b1",
+            "recAPAmVnzrSTPDsl"
         ],
-        "Resources number": 155,
+        "Resources number": 157,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2507,7 +2534,9 @@
             "Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ",
             "A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0",
             "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8",
-            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ"
+            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
+            "Impulsando el crecimiento organizacional a trav\u00e9s de la Developer Experience - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience",
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2606,7 +2635,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2024-01-14T19:08:16.000Z",
+        "Last Modified": "2024-03-30T16:33:12.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2676,9 +2705,10 @@
             "rec5D27OxBlCJquml",
             "recABM6yOE21zVLfd",
             "recYiENUKo6bXuUaI",
-            "recBgNNTaB15VLMCw"
+            "recBgNNTaB15VLMCw",
+            "recFtAOKr4s4dauLP"
         ],
-        "Resources number": 68,
+        "Resources number": 69,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2747,7 +2777,8 @@
             "The Power of Agile - https://www.youtube.com/watch?v=YL-6RCTywbc",
             "Podcast. Interview Ron Jeffries (Agile.FM) - https://agile.fm/agilefm/2018/4/12/ron-jeffries",
             "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
-            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs"
+            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
+            "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3154,7 +3185,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2024-01-31T18:39:09.000Z",
+        "Last Modified": "2024-03-30T16:58:58.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3334,7 +3365,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2024-02-05T21:45:37.000Z",
+        "Last Modified": "2024-03-30T16:58:02.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3448,9 +3479,10 @@
             "recyCkKA0x3HPvZnc",
             "recMAXS80wmvMBHRc",
             "recjSKdz5ZcQahIt4",
-            "recxWvq4BQk9TA98H"
+            "recxWvq4BQk9TA98H",
+            "recmvoo351PsP313Q"
         ],
-        "Resources number": 112,
+        "Resources number": 113,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3563,7 +3595,8 @@
             "The death of Agile - https://www.youtube.com/watch?v=vSnCeJEka_s",
             "http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/ - http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/",
             "https://www.agilealliance.org/resources/videos/modern-agile/ - https://www.agilealliance.org/resources/videos/modern-agile/",
-            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ"
+            "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
@@ -3600,20 +3633,22 @@
         "airtable_id": "rechwDm7Pn0ivpq7C"
     },
     {
-        "Last Modified": "2023-10-15T20:29:30.000Z",
+        "Last Modified": "2024-03-30T16:58:09.000Z",
         "Name": "MobProgramming",
         "Resources": [
             "rech6rbUIFVGN72gw",
             "recuJ3mMaYCeeBFEl",
             "recubjVFAJfXyqblr",
-            "recsbFogKbTtBFQ5o"
+            "recsbFogKbTtBFQ5o",
+            "recmvoo351PsP313Q"
         ],
-        "Resources number": 4,
+        "Resources number": 5,
         "Speakers": [
             "Mob Programming and the Power of Flow - https://www.infoq.com/presentations/mob-programming-flow/",
             "Mob Programming: A Whole Team Approach - https://www.youtube.com/watch?v=SHOVVnRB4h0",
             "Those pesky pull request reviews - https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/",
-            "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ"
+            "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ",
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recilc2YTQjWvGOWf"
@@ -3776,16 +3811,18 @@
         "airtable_id": "recin3Ync8iZldW0q"
     },
     {
-        "Last Modified": "2023-11-19T19:39:31.000Z",
+        "Last Modified": "2024-03-30T16:23:54.000Z",
         "Name": "hexagonal",
         "Resources": [
             "rec949WLw6JyPk1S3",
-            "rec63r3FZtJBpSY9F"
+            "rec63r3FZtJBpSY9F",
+            "recbC0Z68UqbRLJlE"
         ],
-        "Resources number": 2,
+        "Resources number": 3,
         "Speakers": [
             "Clean Architecture: La mejor forma de escalar y mantener tu c\u00f3digo - https://www.youtube.com/watch?v=y3MWfPDmVqo",
-            "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM"
+            "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM",
+            "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40"
         ],
         "airtable_createdTime": "2021-08-12T13:08:45.000Z",
         "airtable_id": "recivP78x0piISrFD"
@@ -3889,7 +3926,7 @@
         "airtable_id": "reclZWPaBbTfn5pQo"
     },
     {
-        "Last Modified": "2023-11-19T19:41:12.000Z",
+        "Last Modified": "2024-03-30T17:03:46.000Z",
         "Name": "Architecture patterns",
         "Resources": [
             "recmUlW6oy0nh41vw",
@@ -3924,9 +3961,12 @@
             "rec6hyOkL4BSjtT4P",
             "recxfgbGw6m2IlOnN",
             "reczsTUBZ7dNrEzbG",
-            "rec3jBh4YZ9cRjwtp"
+            "rec3jBh4YZ9cRjwtp",
+            "recbC0Z68UqbRLJlE",
+            "recAPAmVnzrSTPDsl",
+            "recYZ3cyr9Rm2u5Br"
         ],
-        "Resources number": 33,
+        "Resources number": 36,
         "Speakers": [
             "Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
@@ -3960,13 +4000,16 @@
             "Full Stack Radio Ep 80: Tom Schlick - Building Multitenant Applications - http://www.fullstackradio.com/80",
             "AWS re:Invent 2017: Dating and Data Science: How Coffee Meets Bagel Uses Amazon Elas (DAT323) - https://www.youtube.com/watch?v=_Aniee-XpSQ",
             "Serverless Patterns and Anti-patterns - https://www.infoq.com/presentations/serverless-patterns-antipatterns",
-            "Immutability Changes Everything - https://vimeo.com/52831373"
+            "Immutability Changes Everything - https://vimeo.com/52831373",
+            "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40",
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
+            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2024-01-14T19:08:12.000Z",
+        "Last Modified": "2024-03-30T16:59:09.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -4027,9 +4070,12 @@
             "rec63r3FZtJBpSY9F",
             "recrYqt5GZlrRAe1P",
             "recYiENUKo6bXuUaI",
-            "recBgNNTaB15VLMCw"
+            "recBgNNTaB15VLMCw",
+            "recU8b3AkYHNEIkd7",
+            "recFtAOKr4s4dauLP",
+            "recmvoo351PsP313Q"
         ],
-        "Resources number": 59,
+        "Resources number": 62,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -4089,13 +4135,16 @@
             "Hexagonal Architecture meets CQRS - https://www.youtube.com/watch?v=9kQ2veoeWZM",
             "SE-Radio Episode 295: Michael Feathers on Legacy Code - http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/",
             "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
-            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs"
+            "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
+            "How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ",
+            "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/",
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
     },
     {
-        "Last Modified": "2022-12-11T19:48:39.000Z",
+        "Last Modified": "2024-03-30T16:25:37.000Z",
         "Name": "tdd",
         "Resources": [
             "recn6JaGznr53p6Jr",
@@ -4111,9 +4160,10 @@
             "recOIkOnNZoSuxBIC",
             "recUIDymP9vqzyyTI",
             "recV0aPgSdTeSObb0",
-            "recRjMDkb2xgyznOJ"
+            "recRjMDkb2xgyznOJ",
+            "recU8b3AkYHNEIkd7"
         ],
-        "Resources number": 14,
+        "Resources number": 15,
         "Speakers": [
             "Benefits Of Going Beyond The Make-It-Work Phase - https://www.youtube.com/watch?v=_Z6x-KOSE2o",
             "Want More Value Faster? Take Many More Much Smaller Steps - https://www.youtube.com/watch?v=1mOs1_pvS9A",
@@ -4128,13 +4178,14 @@
             "TDD Discipline - Thinking Ahead Without Coding Ahead - https://www.youtube.com/watch?v=mlc2dIB1nGM",
             "Agile Book Club: Test-Driven Development (with Mike \u201cGeePaw\u201d Hill and J.B. Rainsberger) - https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development",
             "The Most Common Test Driven Development Mistakes - https://www.youtube.com/watch?v=SQUI9Ixb790",
-            "\"Unembedding\" embedded systems with TDD: benefits of going beyond the make-it-work phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/"
+            "\"Unembedding\" embedded systems with TDD: benefits of going beyond the make-it-work phase - https://francliment.com/embedded-tdd/unembedding-embedded-systems-with-tdd-at-embo2022-conference/",
+            "How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ"
         ],
         "airtable_createdTime": "2021-07-25T17:08:12.000Z",
         "airtable_id": "recmPbBNpUB7Q5XyX"
     },
     {
-        "Last Modified": "2023-11-19T19:41:48.000Z",
+        "Last Modified": "2024-03-30T16:40:11.000Z",
         "Name": "AI",
         "Resources": [
             "recfwzidrRnl6Ut5j",
@@ -4142,16 +4193,18 @@
             "rec6PC7Ml4HLNxjnJ",
             "recI7pOxCd4Pe84x8",
             "recOuZnBtAOlBoiwo",
-            "recoAe21A3GrWf6uH"
+            "recoAe21A3GrWf6uH",
+            "recNNvX8TAghfBXqp"
         ],
-        "Resources number": 6,
+        "Resources number": 7,
         "Speakers": [
             "The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw",
             "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
             "Artificial Intelligence: Last Week Tonight with John Oliver - https://www.youtube.com/watch?v=Sqa8Zo2XWc4",
             "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
             "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc",
-            "Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY"
+            "Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY",
+            "The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai"
         ],
         "airtable_createdTime": "2021-08-14T07:25:39.000Z",
         "airtable_id": "recmuONwokRtPS6Tp"
@@ -4213,7 +4266,7 @@
         "airtable_id": "recplrWe03uLQY5MN"
     },
     {
-        "Last Modified": "2023-11-19T19:39:43.000Z",
+        "Last Modified": "2024-03-30T16:05:15.000Z",
         "Name": "DDD",
         "Resources": [
             "recuJC0elQtyoMJIS",
@@ -4430,7 +4483,7 @@
         "airtable_id": "recs3XV2rYhyC6qe8"
     },
     {
-        "Last Modified": "2023-11-19T19:45:26.000Z",
+        "Last Modified": "2024-03-30T16:23:48.000Z",
         "Name": "Evolutionary Architecture",
         "Resources": [
             "recnkmoWOa4usiuSE",
@@ -4439,9 +4492,10 @@
             "reckjL9O859XqGTqO",
             "recnCgMcszzwpmJh8",
             "recORpJNyUmhoEN7w",
-            "rectARJKbtqXtcmOQ"
+            "rectARJKbtqXtcmOQ",
+            "recbC0Z68UqbRLJlE"
         ],
-        "Resources number": 7,
+        "Resources number": 8,
         "Speakers": [
             "#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU",
             "Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k",
@@ -4449,7 +4503,8 @@
             "The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA",
             "InfoQ podcast: Courageous Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/parsons-leadership-evolutionary-architecture",
             "Evolutionary Architecture with Neal Ford - https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/",
-            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership"
+            "Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership",
+            "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40"
         ],
         "airtable_createdTime": "2022-12-06T20:50:16.000Z",
         "airtable_id": "recs8FWnaRcAcdOoW"
@@ -4734,7 +4789,7 @@
         "airtable_id": "recwjZlYYZq3zj7TU"
     },
     {
-        "Last Modified": "2024-01-14T18:40:20.000Z",
+        "Last Modified": "2024-03-30T16:05:21.000Z",
         "Name": "Devex",
         "Resources": [
             "rechYABcryStzbIMe",
@@ -4766,9 +4821,10 @@
             "recukmjPdKVdA4zxg",
             "recyQDYTRQVvgVB3Z",
             "recI7pOxCd4Pe84x8",
-            "recUiAvLX6uU6gj42"
+            "recUiAvLX6uU6gj42",
+            "recUEgx9kn9Dgm3b1"
         ],
-        "Resources number": 30,
+        "Resources number": 31,
         "Speakers": [
             "Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - https://www.youtube.com/watch?v=xqT8e6_yzLg",
             "Making developer experience a reality - https://www.thoughtworks.com/podcasts/developer-effectiveness",
@@ -4799,7 +4855,8 @@
             "Backstage: Restoring Order To Your Chaos - https://www.youtube.com/watch?v=AlQYP88N3Og",
             "How much to invest in platform work - https://getdx.com/podcast/27",
             "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
-            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/"
+            "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/",
+            "Impulsando el crecimiento organizacional a trav\u00e9s de la Developer Experience - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience"
         ],
         "airtable_createdTime": "2021-06-13T22:14:58.000Z",
         "airtable_id": "recxJkIWVynhDpBOI"

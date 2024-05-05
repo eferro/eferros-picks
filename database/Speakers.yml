@@ -48,11 +48,12 @@
   - recdTgIfPYmk1DKyr
   airtable_createdTime: '2021-08-12T13:14:49.000Z'
   airtable_id: rec0kl5TrNdRYDyWn
-- Last Modified: '2023-10-15T18:53:00.000Z'
+- Last Modified: '2024-03-30T16:57:31.000Z'
   Name: Chris Lucian
   Resources:
   - reck60FOvatP5hPnd
   - recsbFogKbTtBFQ5o
+  - recmvoo351PsP313Q
   airtable_createdTime: '2023-05-06T20:22:33.000Z'
   airtable_id: rec0lgnFuFyfCpVVG
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -103,6 +104,12 @@
   - recFE0wNXDUX94yfZ
   airtable_createdTime: '2021-06-20T07:59:29.000Z'
   airtable_id: rec1Y1CIBGl2rYlzD
+- Last Modified: '2024-03-30T16:40:04.000Z'
+  Name: Jim Fan
+  Resources:
+  - recNNvX8TAghfBXqp
+  airtable_createdTime: '2024-03-30T16:40:04.000Z'
+  airtable_id: rec1Zbp3LQG74ykSB
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Ajay Nair
   Resources:
@@ -853,6 +860,12 @@
   - rec2KdJElwgsP4Uaa
   airtable_createdTime: '2021-10-24T22:16:50.000Z'
   airtable_id: recG6o9nzLcgiMbOK
+- Last Modified: '2024-03-30T16:32:58.000Z'
+  Name: James Henderson
+  Resources:
+  - recFtAOKr4s4dauLP
+  airtable_createdTime: '2024-03-30T16:32:58.000Z'
+  airtable_id: recGHo1Kn6eD45auK
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Ros Mayo
   Resources:
@@ -1294,6 +1307,12 @@
   - recoN5BMtMjKGPz1b
   airtable_createdTime: '2023-01-08T16:53:12.000Z'
   airtable_id: recNug9M163DE05Ih
+- Last Modified: '2024-03-30T16:32:26.000Z'
+  Name: Malcom Sparks
+  Resources:
+  - recFtAOKr4s4dauLP
+  airtable_createdTime: '2024-03-30T16:32:26.000Z'
+  airtable_id: recO8ITp6nrCjDhSJ
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Alexandre Freire
   Resources:
@@ -1468,11 +1487,12 @@
   WomenInTech: true
   airtable_createdTime: '2020-08-31T21:03:47.000Z'
   airtable_id: recQqs46uSKyzjB9K
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-03-30T16:23:34.000Z'
   Name: Alistair Cockburn
   Resources:
   - rec63r3FZtJBpSY9F
   - rect4ZaogM4lv0oKc
+  - recbC0Z68UqbRLJlE
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recQr2YMkqvcHtF6e
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1521,12 +1541,13 @@
   - recR3GaUzk2ciLb9z
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSAApkaLVV6qnUm
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-03-30T16:51:45.000Z'
   Name: Chad Fowler
   Resources:
   - rec8APOecz1HMrqgu
   - recLCSBzkviG6hnBm
   - recV5tYwjgMn7vaaW
+  - recAPAmVnzrSTPDsl
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSCpuEWoZl9H0lw
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1569,7 +1590,7 @@
   - recQoliDLWpkzZGwz
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSzQRG8VGQNBqIQ
-- Last Modified: '2024-01-14T19:09:37.000Z'
+- Last Modified: '2024-03-30T16:25:32.000Z'
   Name: Dave Farley
   Resources:
   - recdZt5nq1JImaUDu
@@ -1628,6 +1649,7 @@
   - recQSVPLU6svtsxEE
   - recbwjaeC3WJxRuss
   - recV10zLe4vGY7YPO
+  - recU8b3AkYHNEIkd7
   Twitter: https://twitter.com/davefarley77
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recTA39Jo1ozZG61R
@@ -1816,11 +1838,12 @@
   - recsxgU1xPqwC6b5y
   airtable_createdTime: '2021-06-19T12:00:30.000Z'
   airtable_id: recVivqLFitzRKGJc
-- Last Modified: '2023-10-15T18:53:09.000Z'
+- Last Modified: '2024-03-30T16:57:40.000Z'
   Name: Austin Chadwick
   Resources:
   - reck60FOvatP5hPnd
   - recsbFogKbTtBFQ5o
+  - recmvoo351PsP313Q
   airtable_createdTime: '2023-05-06T20:22:47.000Z'
   airtable_id: recVj5np1ZG3J5xpk
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -2074,10 +2097,11 @@
   - rectSGWYoQ1Yv5lFg
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recZ96alKISxfeWIF
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-03-30T16:05:11.000Z'
   Name: "Jos\xE9 Rodr\xEDguez Huerta"
   Resources:
   - rec6WbdqhtXLRig4M
+  - recUEgx9kn9Dgm3b1
   airtable_createdTime: '2021-01-30T20:36:42.000Z'
   airtable_id: recZHDOsudIXhfTPn
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -2179,7 +2203,7 @@
   - recGzVifZ3CVfkIHk
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recay7gQuPtfp0H7H
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-03-30T16:57:15.000Z'
   Name: James Shore
   Resources:
   - recnyzknPWJh5BuFV
@@ -2190,6 +2214,7 @@
   - recqsUgjo2kWc1S0V
   - rec3kcsAi7KgeUv5c
   - recgwJfBEOYLO3VOq
+  - recmvoo351PsP313Q
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recbLh2HOz1bkIzL2
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -2617,7 +2642,7 @@
   - recAMPx4U1nMXBIiM
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rech2bt9qtqStowwC
-- Last Modified: '2024-01-14T19:03:29.000Z'
+- Last Modified: '2024-03-30T16:31:51.000Z'
   Name: Kent Beck
   Resources:
   - recr8YgSEnZaZTYLJ
@@ -2644,6 +2669,7 @@
   - recJQ6cyJaPhW0dGq
   - recdLJvVSnFgDDGV9
   - recYiENUKo6bXuUaI
+  - recFtAOKr4s4dauLP
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rechBhL1vENLzvUi6
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -3560,6 +3586,12 @@
   - reczLoRy2b7S8EQio
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recwCqfuyjU4dyeF9
+- Last Modified: '2024-03-30T16:32:45.000Z'
+  Name: Jeremy Taylor
+  Resources:
+  - recFtAOKr4s4dauLP
+  airtable_createdTime: '2024-03-30T16:32:12.000Z'
+  airtable_id: recwvzAp62g8kyRQQ
 - Last Modified: '2024-02-05T21:45:37.000Z'
   Name: "Pau Ram\xF3n"
   airtable_createdTime: '2021-08-14T20:12:31.000Z'
@@ -3570,6 +3602,12 @@
   - rectoiZIRm9UTVPUO
   airtable_createdTime: '2022-02-06T20:58:44.000Z'
   airtable_id: recxAsD7nC5HrIi9c
+- Last Modified: '2024-03-30T16:05:06.000Z'
+  Name: "Ang\xE9lica Lozano"
+  Resources:
+  - recUEgx9kn9Dgm3b1
+  airtable_createdTime: '2024-03-30T16:05:06.000Z'
+  airtable_id: recxGgwOqCFvOSQoW
 - Last Modified: '2023-08-26T21:20:55.000Z'
   Name: Michael Feathers
   Resources:
@@ -3665,6 +3703,13 @@
   - recnJc1iEwa5YWeha
   airtable_createdTime: '2021-02-06T22:57:43.000Z'
   airtable_id: reczBGqdwRSwTYDY6
+- Last Modified: '2024-03-30T17:02:30.000Z'
+  Name: Rebekah Kulidzan
+  Resources:
+  - recYZ3cyr9Rm2u5Br
+  WomenInTech: true
+  airtable_createdTime: '2024-03-30T17:02:20.000Z'
+  airtable_id: reczEgIcEgERiVZfD
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Pascal Van Cauwenberghe
   Resources:

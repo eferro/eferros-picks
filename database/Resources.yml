@@ -3962,6 +3962,38 @@
   airtable_createdTime: '2020-01-19T20:40:45.000Z'
   airtable_id: recAMPx4U1nMXBIiM
   registered_at: '2020-01-19T20:40:45.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:50:29.000Z'
+  Description: |
+    Great episode with Chad Fowler. Interesting ideas about design, architecture, software design, microservices, and the state of the industry.
+  Duration: 3480
+  Last Modified: '2024-03-30T21:11:55.000Z'
+  Less 15: 0
+  Name: 'Maintainable Ep 161: How Small Can We Make This Problem'
+  Published: true
+  Rating: 5
+  Resource: 'Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem'
+  Resource type: podcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recSCpuEWoZl9H0lw
+  Speakers_Names:
+  - Chad Fowler
+  Topics:
+  - recWFKWrPEdeEYbzx
+  - recD5hNaJCwpTdERc
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  Topics_Names:
+  - Engineering Culture
+  - Engineering Career
+  - Architecture
+  - Architecture patterns
+  Url: https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem
+  airtable_createdTime: '2024-03-30T16:50:29.000Z'
+  airtable_id: recAPAmVnzrSTPDsl
+  registered_at: '2024-03-30T16:50:29.000Z'
 - Blog Url: https://www.eferro.net/2016/04/index.html
   Created: '2020-01-19T20:34:31.000Z'
   Description: "This is not a theoretical talk, but rather built from well over a\
@@ -6378,6 +6410,42 @@
   airtable_createdTime: '2020-01-19T20:35:06.000Z'
   airtable_id: recFssGR3GcaytzUE
   registered_at: '2020-01-19T20:35:06.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:30:25.000Z'
+  Description: |
+    Interesting conversation about the concept of eventual business consistency (<https://tidyfirst.substack.com/p/eventual-business-consistency>) / bitemporality and about XP.
+  Duration: 4260
+  Last Modified: '2024-03-30T21:12:07.000Z'
+  Less 15: 0
+  Name: JUXT Cast S5E4 - Special with Kent Beck
+  Published: true
+  Resource: JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  - null
+  - null
+  Speakers:
+  - rechBhL1vENLzvUi6
+  - recwvzAp62g8kyRQQ
+  - recO8ITp6nrCjDhSJ
+  - recGHo1Kn6eD45auK
+  Speakers_Names:
+  - Kent Beck
+  - Jeremy Taylor
+  - Malcom Sparks
+  - James Henderson
+  Topics:
+  - recYkFYw6BSRfA0Ce
+  - recm3GCPgEVSDmeVI
+  Topics_Names:
+  - XP
+  - Software Design
+  Url: https://www.juxt.pro/blog/kent-beck-podcast/
+  airtable_createdTime: '2024-03-30T16:30:25.000Z'
+  airtable_id: recFtAOKr4s4dauLP
+  registered_at: '2024-03-30T16:30:25.000Z'
 - Created: '2021-06-19T11:36:16.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -9286,6 +9354,31 @@
   airtable_createdTime: '2020-01-19T20:42:30.000Z'
   airtable_id: recNFdFT2YotCvb6c
   registered_at: '2020-01-19T20:42:30.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:39:14.000Z'
+  Description: |
+    Inspirational talk about the learning of AI agents and the power of using open games as test and learning environments.
+  Duration: 600
+  Last Modified: '2024-03-30T21:12:00.000Z'
+  Less 15: 1
+  Name: The next grand challenge for AI
+  Published: true
+  Resource: The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rec1Zbp3LQG74ykSB
+  Speakers_Names:
+  - Jim Fan
+  Topics:
+  - recmuONwokRtPS6Tp
+  Topics_Names:
+  - AI
+  Url: https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai
+  airtable_createdTime: '2024-03-30T16:39:14.000Z'
+  airtable_id: recNNvX8TAghfBXqp
+  registered_at: '2024-03-30T16:39:14.000Z'
 - Blog Url: https://www.eferro.net/2018/10/good-talkspodcasts-oct-2018-ii.html
   Created: '2020-01-19T20:33:26.000Z'
   Description: |
@@ -11953,6 +12046,33 @@
   airtable_createdTime: '2020-01-19T20:42:37.000Z'
   airtable_id: recU3ahWWaBZfihRf
   registered_at: '2020-01-19T20:42:37.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:25:21.000Z'
+  Description: |
+    In this episode, Dave explores testing at the edges of the system with examples based on testing UI code as part of a TDD approach. The same tactic can be used to test other components that are difficult to test.
+  Duration: 780
+  Last Modified: '2024-03-30T21:12:13.000Z'
+  Less 15: 1
+  Name: How To Use TDD For UI Design
+  Published: true
+  Resource: How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recTA39Jo1ozZG61R
+  Speakers_Names:
+  - Dave Farley
+  Topics:
+  - recmPbBNpUB7Q5XyX
+  - recm3GCPgEVSDmeVI
+  Topics_Names:
+  - tdd
+  - Software Design
+  Url: https://www.youtube.com/watch?v=NNf8tXs1wbQ
+  airtable_createdTime: '2024-03-30T16:25:21.000Z'
+  airtable_id: recU8b3AkYHNEIkd7
+  registered_at: '2024-03-30T16:25:21.000Z'
 - Blog Url: https://www.eferro.net/2014/10/podcaststalks-2014-1-15-oct.html
   Created: '2020-01-19T20:38:02.000Z'
   Description: |2+
@@ -11999,6 +12119,38 @@
   airtable_createdTime: '2020-01-19T20:33:59.000Z'
   airtable_id: recUDjT6npxqDjTWC
   registered_at: '2020-01-19T20:33:59.000Z'
+- Created: '2024-03-30T16:02:56.000Z'
+  Description: "Interesante conversaci\xF3n sobre el funcionamiento y organizaci\xF3\
+    n de MLean con Ang\xE9lica CTO y fundadora. Interesantes ideas sobre como conectar\
+    \ la experiencia de desarrollo con las necesidades de la compa\xF1ia, la organizacion\
+    \ de equipos, las particularidades del negocio, como balancean las distintas inversiones\
+    \ en ingenieria.\n"
+  Duration: 4020
+  Last Modified: '2024-03-30T16:11:45.000Z'
+  Less 15: 0
+  Name: "Impulsando el crecimiento organizacional a trav\xE9s de la Developer Experience"
+  Resource: "Impulsando el crecimiento organizacional a trav\xE9s de la Developer\
+    \ Experience - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience"
+  Resource type: podcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recxGgwOqCFvOSQoW
+  - recZHDOsudIXhfTPn
+  Speakers_Names:
+  - "Ang\xE9lica Lozano"
+  - "Jos\xE9 Rodr\xEDguez Huerta"
+  Topics:
+  - recxJkIWVynhDpBOI
+  - recWFKWrPEdeEYbzx
+  Topics_Names:
+  - Devex
+  - Engineering Culture
+  Url: https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience
+  airtable_createdTime: '2024-03-30T16:02:56.000Z'
+  airtable_id: recUEgx9kn9Dgm3b1
+  registered_at: '2024-03-30T16:02:56.000Z'
 - Blog Url: https://www.eferro.net/2022/11/good-talkspodcasts-nov-2022-i.html
   Created: '2022-11-06T19:03:09.000Z'
   Description: "Very interesting conversation with great TDD experts. Some interesting\
@@ -13481,6 +13633,34 @@
   airtable_createdTime: '2020-01-19T20:39:22.000Z'
   airtable_id: recYU4svEXED3rmx9
   registered_at: '2020-01-19T20:39:22.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T17:02:08.000Z'
+  Description: |
+    Good list of communication and integration patterns between services. Great talk to remember the basics and clarify some concepts.
+  Duration: 2640
+  Last Modified: '2024-03-30T21:11:48.000Z'
+  Less 15: 0
+  Name: 'Thinking Asynchronously: App Integration Patterns for Microservices'
+  Published: true
+  Resource: 'Thinking Asynchronously: App Integration Patterns for Microservices -
+    https://www.youtube.com/watch?v=_ugRNuE9xmA'
+  Resource type: talk
+  Speaker WomenInTech:
+  - true
+  Speakers:
+  - reczEgIcEgERiVZfD
+  Speakers_Names:
+  - Rebekah Kulidzan
+  Topics:
+  - recm1G3xxDIQZ5dKc
+  - recQ4hio93eTgzFTS
+  Topics_Names:
+  - Architecture patterns
+  - Architecture
+  Url: https://www.youtube.com/watch?v=_ugRNuE9xmA
+  airtable_createdTime: '2024-03-30T17:02:08.000Z'
+  airtable_id: recYZ3cyr9Rm2u5Br
+  registered_at: '2024-03-30T17:02:08.000Z'
 - Created: '2021-06-19T11:36:23.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -14570,6 +14750,40 @@
   airtable_createdTime: '2020-01-19T20:33:35.000Z'
   airtable_id: recb8KNZfbTBQYjoW
   registered_at: '2020-01-19T20:33:35.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:18:26.000Z'
+  Description: |
+    Great explanation of hexagonal architecture made by its original author. Essential if you use or are considering using this type of architecture. Good information also to know when not to use them.
+  Duration: 2520
+  Last Modified: '2024-03-30T21:12:16.000Z'
+  Less 15: 0
+  Name: Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology,
+    inc. | Craft, 2023
+  Published: true
+  Rating: 5
+  Resource: Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans &
+    Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recQr2YMkqvcHtF6e
+  Speakers_Names:
+  - Alistair Cockburn
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  - recs8FWnaRcAcdOoW
+  - recivP78x0piISrFD
+  Topics_Names:
+  - Architecture
+  - Architecture patterns
+  - Evolutionary Architecture
+  - hexagonal
+  Url: https://www.youtube.com/watch?v=Gsgisj1Ns40
+  airtable_createdTime: '2024-03-30T16:18:26.000Z'
+  airtable_id: recbC0Z68UqbRLJlE
+  registered_at: '2024-03-30T16:18:26.000Z'
 - Blog Url: https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-ii.html
   Created: '2021-09-05T15:35:34.000Z'
   Description: "thought-provoking podcast episode. Kris N\xF3va, claims that managing\
@@ -20149,6 +20363,48 @@
   airtable_createdTime: '2020-01-19T20:36:32.000Z'
   airtable_id: recmvGnioINm5MqHN
   registered_at: '2020-01-19T20:36:32.000Z'
+- Blog Url: https://www.eferro.net/2024/03/good-talkspodcasts-mar-2024-i.html
+  Created: '2024-03-30T16:56:29.000Z'
+  Description: |
+    Very interesting conversation with James Shores. It covers many topics, including fast-agile, mobbing, testing without mocks, technical practices, etc. Highly recommended.
+  Duration: 2880
+  Last Modified: '2024-03-30T21:11:52.000Z'
+  Less 15: 0
+  Name: Scaling Organizations and Design with James Shore
+  Published: true
+  Rating: 5
+  Resource: Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  - null
+  Speakers:
+  - recbLh2HOz1bkIzL2
+  - rec0lgnFuFyfCpVVG
+  - recVj5np1ZG3J5xpk
+  Speakers_Names:
+  - James Shore
+  - Chris Lucian
+  - Austin Chadwick
+  Topics:
+  - rechj5WeSQRH211np
+  - recilc2YTQjWvGOWf
+  - recD3pnf517cAQ1Rh
+  - recm3GCPgEVSDmeVI
+  - recFbzSbd07ttDIYJ
+  - recPcLVyg0S4ORUkX
+  Topics_Names:
+  - Agile
+  - MobProgramming
+  - Fast Agile
+  - Software Design
+  - Technical Practices
+  - testing
+  Url: https://www.youtube.com/watch?v=duF4e3CwW9k
+  airtable_createdTime: '2024-03-30T16:56:29.000Z'
+  airtable_id: recmvoo351PsP313Q
+  registered_at: '2024-03-30T16:56:29.000Z'
 - Blog Url: https://www.eferro.net/2023/01/good-talkspodcasts-jan-2023-i.html
   Created: '2023-01-08T17:47:32.000Z'
   Description: "Gojko Adzic describes why independent testing should be a thing of\
