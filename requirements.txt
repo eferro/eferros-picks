@@ -1,5 +1,5 @@
 pyairtable==1.4.0
-requests==2.31.0
+requests==2.32.0
 
 black==24.3.0
 expects==0.9.0
