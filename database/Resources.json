@@ -28522,6 +28522,28 @@
         "registered_at": "2020-01-19T20:35:36.000Z"
     },
     {
+        "Created": "2024-05-31T07:24:46.000Z",
+        "Duration": 1020,
+        "Last Modified": "2024-05-31T07:37:12.000Z",
+        "Less 15": 0,
+        "Name": "Software Engineering F&*K Up Behind The Passport E-gate Failure\"",
+        "Resource": "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Url": "https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R",
+        "airtable_createdTime": "2024-05-31T07:24:46.000Z",
+        "airtable_id": "recvNC33kmVVPxIv3",
+        "registered_at": "2024-05-31T07:24:46.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-ii.html",
         "Created": "2021-09-05T15:41:49.000Z",
         "Description": "This talk strips away the veil and offers simple, practical guidelines for choosing what to test and how to test it. Finding the right testing balance isn't magic, it's a magic trick; come and learn the secret of writing stable tests that protect your application at the lowest possible cost.\n",
