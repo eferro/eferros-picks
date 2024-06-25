@@ -221,7 +221,7 @@
   - recm68DV9rnUjguf1
   airtable_createdTime: '2021-08-14T21:19:15.000Z'
   airtable_id: rec3dOZ45WNW5Jc2Q
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-06-23T08:17:27.000Z'
   Name: Jessica Kerr
   Resources:
   - recicunl34WGqbaUv
@@ -234,6 +234,7 @@
   - recySUpRyik02pieD
   - recgwJfBEOYLO3VOq
   - recWsPImFvQo51sT0
+  WomenInTech: true
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rec3jntKOHmKJ3Is5
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1076,12 +1077,12 @@
   WomenInTech: true
   airtable_createdTime: '2021-09-05T15:36:34.000Z'
   airtable_id: recK554UuvQM5AmhV
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-06-23T07:27:30.000Z'
   Name: Jason Yip
   Resources:
   - recomFIM8h16kGME1
   - rec8ejYX93ed5RUwP
-  WomenInTech: true
+  - recsaEXdWjT3c6ick
   airtable_createdTime: '2021-03-21T09:08:20.000Z'
   airtable_id: recKGksmAnVnA2LI4
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1590,7 +1591,7 @@
   - recQoliDLWpkzZGwz
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSzQRG8VGQNBqIQ
-- Last Modified: '2024-05-31T07:26:42.000Z'
+- Last Modified: '2024-06-23T08:01:14.000Z'
   Name: Dave Farley
   Resources:
   - recdZt5nq1JImaUDu
@@ -1651,6 +1652,8 @@
   - recV10zLe4vGY7YPO
   - recU8b3AkYHNEIkd7
   - recvNC33kmVVPxIv3
+  - recMtH696LP1LMtlW
+  - reckLLBX9RVTL7oFm
   Twitter: https://twitter.com/davefarley77
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recTA39Jo1ozZG61R
@@ -2391,10 +2394,11 @@
   - recw83FaLntoQU6kX
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: receIlYIMIg1HrG56
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-06-23T07:33:20.000Z'
   Name: Kevin Kelly
   Resources:
   - rec9QRYnSNphCIzui
+  - recSbISGVjRAxwhX5
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: receLJovgMDeHxTEd
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -2972,10 +2976,11 @@
   - rec82so3HIE0JyDh5
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: reclrPR9dyVK6V5y1
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-06-23T08:01:11.000Z'
   Name: Bryan Finster
   Resources:
   - recRtAWnx4lTVvYUO
+  - reckLLBX9RVTL7oFm
   Twitter: https://twitter.com/BryanFinster
   airtable_createdTime: '2021-11-07T19:17:33.000Z'
   airtable_id: reclszvPo0XZZIRcq
@@ -3062,7 +3067,7 @@
   - recgMVoQgbHYQ2Ym7
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recn00woQ2dKWgfnK
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2024-06-23T07:51:09.000Z'
   Name: Sam Newman
   Resources:
   - rec06Uk2oxLVg2O10
@@ -3073,6 +3078,7 @@
   - rec2EPhhNCTR9v5vS
   - reczgPOqLahq7Vs7m
   - recnkmoWOa4usiuSE
+  - recIrMS6QNWvtkTzW
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recninSXhPPU42JAf
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -3603,10 +3609,11 @@
   - rectoiZIRm9UTVPUO
   airtable_createdTime: '2022-02-06T20:58:44.000Z'
   airtable_id: recxAsD7nC5HrIi9c
-- Last Modified: '2024-03-30T16:05:06.000Z'
+- Last Modified: '2024-06-23T08:16:49.000Z'
   Name: "Ang\xE9lica Lozano"
   Resources:
   - recUEgx9kn9Dgm3b1
+  WomenInTech: true
   airtable_createdTime: '2024-03-30T16:05:06.000Z'
   airtable_id: recxGgwOqCFvOSQoW
 - Last Modified: '2023-08-26T21:20:55.000Z'

@@ -1319,15 +1319,17 @@
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
   airtable_createdTime: '2021-10-17T14:09:19.000Z'
   airtable_id: recJc39u4nSvu7Gn9
-- Last Modified: '2022-09-18T22:08:34.000Z'
+- Last Modified: '2024-06-23T07:31:57.000Z'
   Name: Resilience
   Resources:
   - recq4A17TPnFudBcF
   - rect19QTtanUH9RYE
-  Resources number: 2
+  - recvNC33kmVVPxIv3
+  Resources number: 3
   Speakers:
   - 'SATURN 2018 Keynote: Uncoupling - https://www.youtube.com/watch?v=EirOknZJvYc'
   - Resilience In Complex Adaptive Systems - https://www.youtube.com/watch?v=PGLYEDpNu60
+  - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
   airtable_createdTime: '2022-02-06T21:06:15.000Z'
   airtable_id: recK4v7rm071B5jK6
 - Last Modified: '2023-11-19T19:43:45.000Z'
@@ -1701,7 +1703,7 @@
   - "Devops and Dr Deming\u2019s 14 Points - https://www.youtube.com/watch?v=7g3uqSzWVZs"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2024-03-30T17:03:49.000Z'
+- Last Modified: '2024-06-23T07:31:38.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1800,7 +1802,8 @@
   - recbC0Z68UqbRLJlE
   - recAPAmVnzrSTPDsl
   - recYZ3cyr9Rm2u5Br
-  Resources number: 96
+  - recvNC33kmVVPxIv3
+  Resources number: 97
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1909,6 +1912,7 @@
     inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40
   - 'Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem'
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
+  - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-10-15T18:45:08.000Z'
@@ -2092,7 +2096,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-03-30T16:52:33.000Z'
+- Last Modified: '2024-06-23T08:01:28.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2252,7 +2256,9 @@
   - recxWvq4BQk9TA98H
   - recUEgx9kn9Dgm3b1
   - recAPAmVnzrSTPDsl
-  Resources number: 157
+  - recsaEXdWjT3c6ick
+  - reckLLBX9RVTL7oFm
+  Resources number: 159
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2428,6 +2434,9 @@
   - "Impulsando el crecimiento organizacional a trav\xE9s de la Developer Experience\
     \ - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience"
   - 'Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem'
+  - Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0
+  - Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
+    Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2684,7 +2693,7 @@
   - Consultoria Honesta - https://www.youtube.com/watch?v=cey1PowGQDM
   airtable_createdTime: '2021-08-12T13:09:11.000Z'
   airtable_id: recbOKFMKAE1vKVqj
-- Last Modified: '2023-04-23T18:22:37.000Z'
+- Last Modified: '2024-06-23T07:51:36.000Z'
   Name: Platform
   Resources:
   - rec01w77iA2Rv594l
@@ -2725,7 +2734,8 @@
   - rechbEi0S7vX0LS7D
   - recyQDYTRQVvgVB3Z
   - reckPa3VBTaIyyNNe
-  Resources number: 38
+  - recIrMS6QNWvtkTzW
+  Resources number: 39
   Speakers:
   - 'Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/'
   - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
@@ -2772,6 +2782,7 @@
   - Tips For Building Successful Platform Teams - https://www.youtube.com/watch?v=_zH7TIXcjEs
   - How much to invest in platform work - https://getdx.com/podcast/27
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
+  - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
   airtable_createdTime: '2020-05-17T13:51:15.000Z'
   airtable_id: recbWs6dTsdPwfWnm
 - Last Modified: '2021-08-12T13:50:39.000Z'
@@ -2810,7 +2821,7 @@
   - Why Everyone Builds Internal Kubernetes Platforms - https://itnext.io/why-everyone-builds-internal-kubernetes-platforms-284c2cf76226
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recfCstv3TFsotZ9q
-- Last Modified: '2023-11-18T15:45:40.000Z'
+- Last Modified: '2024-06-23T07:55:40.000Z'
   Name: Product
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2886,7 +2897,9 @@
   - recCtlo35BNB4e9Cv
   - recNTlpS9USi3zTOs
   - recLoYdYP5G0UM8GT
-  Resources number: 73
+  - recsaEXdWjT3c6ick
+  - recMtH696LP1LMtlW
+  Resources number: 75
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc
@@ -2969,6 +2982,8 @@
   - Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA
   - Escaping the Build Trap - https://vimeo.com/224453335
   - Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc
+  - Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0
+  - Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recg6F5ajOhEkbrdW
 - Last Modified: '2020-05-23T08:45:14.000Z'
@@ -3052,7 +3067,7 @@
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2024-03-30T16:58:58.000Z'
+- Last Modified: '2024-06-23T07:48:26.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3100,7 +3115,8 @@
   - rec4yxbXm5lq421Ui
   - recxWvq4BQk9TA98H
   - recRCthMkTETb5Etf
-  Resources number: 45
+  - recSbISGVjRAxwhX5
+  Resources number: 46
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -3149,6 +3165,7 @@
   - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   - Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   - Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw
+  - Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2024-02-05T21:45:37.000Z'
@@ -3228,7 +3245,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-03-30T16:58:02.000Z'
+- Last Modified: '2024-06-23T07:48:31.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3344,7 +3361,8 @@
   - recjSKdz5ZcQahIt4
   - recxWvq4BQk9TA98H
   - recmvoo351PsP313Q
-  Resources number: 113
+  - recSbISGVjRAxwhX5
+  Resources number: 114
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3472,6 +3490,7 @@
   - https://www.agilealliance.org/resources/videos/modern-agile/ - https://www.agilealliance.org/resources/videos/modern-agile/
   - Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
+  - Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2023-11-19T19:36:54.000Z'
@@ -3501,6 +3520,15 @@
   - Production - Designing for Testability - https://www.infoq.com/presentations/quality-production
   airtable_createdTime: '2021-03-07T07:57:14.000Z'
   airtable_id: rechwDm7Pn0ivpq7C
+- Last Modified: '2024-06-23T07:55:31.000Z'
+  Name: Nature of Software Development
+  Resources:
+  - recMtH696LP1LMtlW
+  Resources number: 1
+  Speakers:
+  - Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
+  airtable_createdTime: '2024-06-23T07:55:31.000Z'
+  airtable_id: reci9edTzz7GIxek0
 - Last Modified: '2024-03-30T16:58:09.000Z'
   Name: MobProgramming
   Resources:
@@ -3518,7 +3546,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2024-01-14T19:10:54.000Z'
+- Last Modified: '2024-06-23T08:01:24.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3594,7 +3622,8 @@
   - recQoqG1njAO55EIh
   - recUiAvLX6uU6gj42
   - recV10zLe4vGY7YPO
-  Resources number: 73
+  - reckLLBX9RVTL7oFm
+  Resources number: 74
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3673,6 +3702,8 @@
   - Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/
   - "\u201CIndustry Changing Book\u201D | Jez Humble & Dave Reflect On Continuous\
     \ Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ"
+  - Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
+    Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2024-03-30T16:23:54.000Z'
@@ -3743,7 +3774,7 @@
   - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   airtable_createdTime: '2021-08-14T10:21:05.000Z'
   airtable_id: reck5fBLLF9Drj8rk
-- Last Modified: '2023-11-19T19:28:38.000Z'
+- Last Modified: '2024-06-23T08:01:38.000Z'
   Name: Engineering Scalability
   Resources:
   - rec4SJpVcSeIFUOfq
@@ -3752,7 +3783,8 @@
   - recvKM2z7HFHLXSL7
   - recsO8sRpVmxeUmNM
   - recSi9cTXikmWOquX
-  Resources number: 6
+  - reckLLBX9RVTL7oFm
+  Resources number: 7
   Speakers:
   - Scaling from 5 to 250 engineers - https://www.youtube.com/watch?v=qau1aGYc3lA
   - Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY
@@ -3761,6 +3793,8 @@
   - Moving Fast at Scale - https://www.youtube.com/watch?v=t-sIaw4kHqI
   - 'a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/'
   - Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg
+  - Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
+    Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
   airtable_createdTime: '2022-08-15T16:02:46.000Z'
   airtable_id: recl7w0SkqE9A3GAI
 - Last Modified: '2022-09-18T21:48:46.000Z'
@@ -3856,7 +3890,7 @@
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
-- Last Modified: '2024-03-30T16:59:09.000Z'
+- Last Modified: '2024-06-23T07:55:14.000Z'
   Name: Software Design
   Resources:
   - reczOXoBpcxfVfN2x
@@ -3921,7 +3955,8 @@
   - recU8b3AkYHNEIkd7
   - recFtAOKr4s4dauLP
   - recmvoo351PsP313Q
-  Resources number: 62
+  - recvNC33kmVVPxIv3
+  Resources number: 63
   Speakers:
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
@@ -3992,6 +4027,7 @@
   - How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ
   - JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
+  - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm3GCPgEVSDmeVI
 - Last Modified: '2024-03-30T16:25:37.000Z'
@@ -4414,13 +4450,15 @@
   - 'SE-Radio Episode 315: Jeroen Janssens on Tools for Data Science - http://www.se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recu0ogH2eAbuoS2q
-- Last Modified: '2023-04-23T18:22:56.000Z'
+- Last Modified: '2024-06-23T07:51:23.000Z'
   Name: Platform engineering
   Resources:
   - reckPa3VBTaIyyNNe
-  Resources number: 1
+  - recIrMS6QNWvtkTzW
+  Resources number: 2
   Speakers:
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
+  - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
   airtable_createdTime: '2023-04-23T18:22:56.000Z'
   airtable_id: recuR2w480ko3dSKR
 - Last Modified: '2024-01-14T10:16:17.000Z'
@@ -4542,7 +4580,7 @@
   - 'Ship It! #31 Is Kubernetes a platform? - https://changelog.com/shipit/31'
   airtable_createdTime: '2022-01-22T19:42:30.000Z'
   airtable_id: recwiPJKumk9LSzL8
-- Last Modified: '2023-11-19T19:37:43.000Z'
+- Last Modified: '2024-06-23T07:30:25.000Z'
   Name: Culture
   Resources:
   - recitaMrj8QyQAvHD
@@ -4557,7 +4595,8 @@
   - recTZlj6ecEgPAWIC
   - recHpTejTGn0G3Gdl
   - reczLoRy2b7S8EQio
-  Resources number: 12
+  - recsaEXdWjT3c6ick
+  Resources number: 13
   Speakers:
   - "E019 Qu\xE9 es y para qu\xE9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional"
   - 'WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998'
@@ -4571,6 +4610,7 @@
   - JavaZone 2019, Room 5 - Survival Tips For Women in Tech - https://www.pscp.tv/w/1BdGYepvvLQGX
   - Management Is Dead! - https://www.youtube.com/watch?v=Q0i3hb0HBPU
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
+  - Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0
   airtable_createdTime: '2021-08-12T13:09:17.000Z'
   airtable_id: recwjZlYYZq3zj7TU
 - Last Modified: '2024-03-30T16:05:21.000Z'

@@ -3178,7 +3178,7 @@
   Resource: "Conquer and\_Divide - https://medium.com/@jchyip/conquer-and-divide-ba6cdcfcf122"
   Resource type: article/paper
   Speaker WomenInTech:
-  - true
+  - null
   Speakers:
   - recKGksmAnVnA2LI4
   Speakers_Names:
@@ -4932,7 +4932,7 @@
   Resource: Shared Mental Models Part 2 - https://www.youtube.com/watch?v=PmS_BAoJssg
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:
@@ -6097,7 +6097,7 @@
   Resource: Shared Mental Models Part 1 - https://www.youtube.com/watch?v=cAfdhSUZG4g
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:
@@ -7783,6 +7783,33 @@
   airtable_createdTime: '2020-11-09T08:50:02.000Z'
   airtable_id: recIpeGLRiiX3Wxw8
   registered_at: '2020-11-09T08:50:02.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-06-23T07:50:40.000Z'
+  Description: |
+    Tips and tricks for creating platforms that truly accelerate the pace of innovation in companies.
+  Duration: 1620
+  Last Modified: '2024-06-23T08:15:56.000Z'
+  Less 15: 0
+  Name: Designing for Habitability
+  Published: true
+  Resource: Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recninSXhPPU42JAf
+  Speakers_Names:
+  - Sam Newman
+  Topics:
+  - recuR2w480ko3dSKR
+  - recbWs6dTsdPwfWnm
+  Topics_Names:
+  - Platform engineering
+  - Platform
+  Url: https://www.youtube.com/watch?v=lDSMDJXmOps
+  airtable_createdTime: '2024-06-23T07:50:40.000Z'
+  airtable_id: recIrMS6QNWvtkTzW
+  registered_at: '2024-06-23T07:50:40.000Z'
 - Created: '2021-06-19T11:36:24.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -9176,6 +9203,34 @@
   airtable_createdTime: '2021-07-03T07:04:11.000Z'
   airtable_id: recMiWcddhzWezOrf
   registered_at: '2021-07-03T07:04:11.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-06-23T07:54:14.000Z'
+  Description: |
+    Great description of the true nature of software development as an adaptive learning process of customer needs. A must.
+  Duration: 780
+  Last Modified: '2024-06-23T08:15:55.000Z'
+  Less 15: 1
+  Name: Fighting User Requirements That CONSTANTLY Change
+  Published: true
+  Rating: 5
+  Resource: Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recTA39Jo1ozZG61R
+  Speakers_Names:
+  - Dave Farley
+  Topics:
+  - reci9edTzz7GIxek0
+  - recg6F5ajOhEkbrdW
+  Topics_Names:
+  - Nature of Software Development
+  - Product
+  Url: https://www.youtube.com/watch?v=kKbQ2-dXsmE
+  airtable_createdTime: '2024-06-23T07:54:14.000Z'
+  airtable_id: recMtH696LP1LMtlW
+  registered_at: '2024-06-23T07:54:14.000Z'
 - Created: '2021-08-12T13:07:59.000Z'
   Duration: 4380
   Language: Spanish
@@ -11479,6 +11534,35 @@
   airtable_createdTime: '2020-01-19T20:33:00.000Z'
   airtable_id: recSQuNX0RNAOQngs
   registered_at: '2020-01-19T20:33:00.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-06-23T07:32:56.000Z'
+  Description: |2
+
+    Interesting approach to lean software development focused on how to tackle agile development with this lean mindset. It contains a few interesting points.
+  Duration: 3900
+  Last Modified: '2024-06-23T08:15:58.000Z'
+  Less 15: 0
+  Name: Lean Code
+  Published: true
+  Rating: 5
+  Resource: Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - receLJovgMDeHxTEd
+  Speakers_Names:
+  - Kevin Kelly
+  Topics:
+  - rech2MAtQRy0Lvc2Y
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Lean Software Development
+  - Agile
+  Url: https://www.youtube.com/watch?v=-nWhH-4wWBU
+  airtable_createdTime: '2024-06-23T07:32:56.000Z'
+  airtable_id: recSbISGVjRAxwhX5
+  registered_at: '2024-06-23T07:32:56.000Z'
 - Blog Url: https://www.eferro.net/2019/04/index.html
   Created: '2020-01-19T20:33:02.000Z'
   Description: |
@@ -11888,7 +11972,7 @@
   Resource: The Origins of Opera and the Future of Programming - https://www.youtube.com/watch?v=pPKemLH5y5c
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:
@@ -12119,21 +12203,23 @@
   airtable_createdTime: '2020-01-19T20:33:59.000Z'
   airtable_id: recUDjT6npxqDjTWC
   registered_at: '2020-01-19T20:33:59.000Z'
-- Created: '2024-03-30T16:02:56.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-03-30T16:02:56.000Z'
   Description: "Interesante conversaci\xF3n sobre el funcionamiento y organizaci\xF3\
     n de MLean con Ang\xE9lica CTO y fundadora. Interesantes ideas sobre como conectar\
     \ la experiencia de desarrollo con las necesidades de la compa\xF1ia, la organizacion\
     \ de equipos, las particularidades del negocio, como balancean las distintas inversiones\
     \ en ingenieria.\n"
   Duration: 4020
-  Last Modified: '2024-03-30T16:11:45.000Z'
+  Last Modified: '2024-06-23T08:16:03.000Z'
   Less 15: 0
   Name: "Impulsando el crecimiento organizacional a trav\xE9s de la Developer Experience"
+  Published: true
   Resource: "Impulsando el crecimiento organizacional a trav\xE9s de la Developer\
     \ Experience - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience"
   Resource type: podcast
   Speaker WomenInTech:
-  - null
+  - true
   - null
   Speakers:
   - recxGgwOqCFvOSQoW
@@ -13071,7 +13157,7 @@
   Resource: Systems Thinking for Developers - https://www.youtube.com/watch?v=xcQVgYzlj8k
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:
@@ -17551,7 +17637,7 @@
   Resource type: videopodcast
   Speaker WomenInTech:
   - null
-  - null
+  - true
   Speakers:
   - recbLh2HOz1bkIzL2
   - rec3jntKOHmKJ3Is5
@@ -18083,7 +18169,7 @@
   Resource: 'Keynote: Systems Thinking - https://www.youtube.com/watch?v=z8bL_V9in9o'
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   - null
   Speakers:
   - rec3jntKOHmKJ3Is5
@@ -18193,7 +18279,7 @@
   Resource type: talk
   Speaker WomenInTech:
   - null
-  - null
+  - true
   Speakers:
   - recFwCH6SfELfIX3t
   - rec3jntKOHmKJ3Is5
@@ -19032,6 +19118,41 @@
   airtable_createdTime: '2021-06-19T11:36:20.000Z'
   airtable_id: reckHXoC6VpBaott2
   registered_at: '2021-06-19T11:36:20.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-06-23T07:54:40.000Z'
+  Description: |2
+
+    Interesting conversation about how to introduce CD as part of the engineering strategy in large companies and how having CD as part of the vision (not as a goal in itself) can generate a healthy engineering culture that continuously improves.
+  Duration: 4140
+  Last Modified: '2024-06-23T08:15:53.000Z'
+  Less 15: 0
+  Name: Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
+    Room Ep. 11
+  Published: true
+  Resource: Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
+    Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - reclszvPo0XZZIRcq
+  - recTA39Jo1ozZG61R
+  Speakers_Names:
+  - Bryan Finster
+  - Dave Farley
+  Topics:
+  - recin3Ync8iZldW0q
+  - recWFKWrPEdeEYbzx
+  - recl7w0SkqE9A3GAI
+  Topics_Names:
+  - Continuous Delivery
+  - Engineering Culture
+  - Engineering Scalability
+  Url: https://www.youtube.com/watch?v=ulRCs7xQA74
+  airtable_createdTime: '2024-06-23T07:54:40.000Z'
+  airtable_id: reckLLBX9RVTL7oFm
+  registered_at: '2024-06-23T07:54:40.000Z'
 - Blog Url: https://www.eferro.net/2014/10/podcaststalks-2014-24-30-oct.html
   Created: '2020-01-19T20:37:55.000Z'
   Description: |
@@ -21363,7 +21484,7 @@
   Resource: Stop starting and start finishing - https://www.youtube.com/watch?v=FOLDDe4ARRs
   Resource type: talk
   Speaker WomenInTech:
-  - true
+  - null
   Speakers:
   - recKGksmAnVnA2LI4
   Speakers_Names:
@@ -22668,6 +22789,36 @@
   airtable_createdTime: '2024-01-14T18:54:06.000Z'
   airtable_id: recsT9Sui33sZbogD
   registered_at: '2024-01-14T18:54:06.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-06-23T07:24:35.000Z'
+  Description: |2
+
+    Good description of what an efficient product development culture should be like. Jason talks about the pillars of that culture, the guiding principles, and even the main practices, including technical, product, and organizational practices.
+  Duration: 2340
+  Last Modified: '2024-06-23T08:15:59.000Z'
+  Less 15: 0
+  Name: Perspectives on effective product development culture
+  Published: true
+  Resource: Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recKGksmAnVnA2LI4
+  Speakers_Names:
+  - Jason Yip
+  Topics:
+  - recwjZlYYZq3zj7TU
+  - recWFKWrPEdeEYbzx
+  - recg6F5ajOhEkbrdW
+  Topics_Names:
+  - Culture
+  - Engineering Culture
+  - Product
+  Url: https://www.youtube.com/watch?v=ba5_bNgkOj0
+  airtable_createdTime: '2024-06-23T07:24:35.000Z'
+  airtable_id: recsaEXdWjT3c6ick
+  registered_at: '2024-06-23T07:24:35.000Z'
 - Blog Url: https://www.eferro.net/2023/10/good-talkspodcasts-oct-2023-i.html
   Created: '2023-10-15T18:52:33.000Z'
   Description: |
@@ -23119,7 +23270,7 @@
   Resource: KEYNOTE Designing change - https://www.youtube.com/watch?v=26KypYl5lXA
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   - null
   Speakers:
   - rec3jntKOHmKJ3Is5
@@ -23737,7 +23888,7 @@
   Resource: Those pesky pull request reviews - https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/
   Resource type: article/paper
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:
@@ -24047,9 +24198,12 @@
   airtable_createdTime: '2020-01-19T20:35:36.000Z'
   airtable_id: recvKM2z7HFHLXSL7
   registered_at: '2020-01-19T20:35:36.000Z'
-- Created: '2024-05-31T07:24:46.000Z'
+- Blog Url: https://www.eferro.net/2024/06/good-talkspodcasts-june-2024-i.html
+  Created: '2024-05-31T07:24:46.000Z'
+  Description: |
+    In this episode, Dave Farley talks about the issue, how poor software engineering led to this, how distributed systems come into it all, how to avoid something like this happening again and at the end of the video asks for answers on some concerning issues around the whole story.
   Duration: 1020
-  Last Modified: '2024-05-31T07:37:12.000Z'
+  Last Modified: '2024-06-23T08:15:33.000Z'
   Less 15: 0
   Name: Software Engineering F&*K Up Behind The Passport E-gate Failure"
   Resource: Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
@@ -24060,6 +24214,14 @@
   - recTA39Jo1ozZG61R
   Speakers_Names:
   - Dave Farley
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recK4v7rm071B5jK6
+  - recm3GCPgEVSDmeVI
+  Topics_Names:
+  - Architecture
+  - Resilience
+  - Software Design
   Url: https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
   airtable_createdTime: '2024-05-31T07:24:46.000Z'
   airtable_id: recvNC33kmVVPxIv3
@@ -25311,7 +25473,7 @@
   Resource: Jessica Kerr on how Software keeps Evolving and is never Done - https://xebia.com/podcasts/jessica-kerr-on-how-software-keeps-evolving-and-is-never-done-e37/
   Resource type: podcast
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rec3jntKOHmKJ3Is5
   Speakers_Names:

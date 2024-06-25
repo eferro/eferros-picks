@@ -1411,16 +1411,18 @@
         "airtable_id": "recJc39u4nSvu7Gn9"
     },
     {
-        "Last Modified": "2022-09-18T22:08:34.000Z",
+        "Last Modified": "2024-06-23T07:31:57.000Z",
         "Name": "Resilience",
         "Resources": [
             "recq4A17TPnFudBcF",
-            "rect19QTtanUH9RYE"
+            "rect19QTtanUH9RYE",
+            "recvNC33kmVVPxIv3"
         ],
-        "Resources number": 2,
+        "Resources number": 3,
         "Speakers": [
             "SATURN 2018 Keynote: Uncoupling - https://www.youtube.com/watch?v=EirOknZJvYc",
-            "Resilience In Complex Adaptive Systems - https://www.youtube.com/watch?v=PGLYEDpNu60"
+            "Resilience In Complex Adaptive Systems - https://www.youtube.com/watch?v=PGLYEDpNu60",
+            "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R"
         ],
         "airtable_createdTime": "2022-02-06T21:06:15.000Z",
         "airtable_id": "recK4v7rm071B5jK6"
@@ -1808,7 +1810,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2024-03-30T17:03:49.000Z",
+        "Last Modified": "2024-06-23T07:31:38.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1906,9 +1908,10 @@
             "rec3jBh4YZ9cRjwtp",
             "recbC0Z68UqbRLJlE",
             "recAPAmVnzrSTPDsl",
-            "recYZ3cyr9Rm2u5Br"
+            "recYZ3cyr9Rm2u5Br",
+            "recvNC33kmVVPxIv3"
         ],
-        "Resources number": 96,
+        "Resources number": 97,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -2005,7 +2008,8 @@
             "Immutability Changes Everything - https://vimeo.com/52831373",
             "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40",
             "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
-            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA"
+            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA",
+            "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -2217,7 +2221,7 @@
         "airtable_id": "recVjcUEBKByq8k7M"
     },
     {
-        "Last Modified": "2024-03-30T16:52:33.000Z",
+        "Last Modified": "2024-06-23T08:01:28.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2376,9 +2380,11 @@
             "recbwjaeC3WJxRuss",
             "recxWvq4BQk9TA98H",
             "recUEgx9kn9Dgm3b1",
-            "recAPAmVnzrSTPDsl"
+            "recAPAmVnzrSTPDsl",
+            "recsaEXdWjT3c6ick",
+            "reckLLBX9RVTL7oFm"
         ],
-        "Resources number": 157,
+        "Resources number": 159,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2536,7 +2542,9 @@
             "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8",
             "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
             "Impulsando el crecimiento organizacional a trav\u00e9s de la Developer Experience - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience",
-            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem"
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
+            "Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0",
+            "Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2812,7 +2820,7 @@
         "airtable_id": "recbOKFMKAE1vKVqj"
     },
     {
-        "Last Modified": "2023-04-23T18:22:37.000Z",
+        "Last Modified": "2024-06-23T07:51:36.000Z",
         "Name": "Platform",
         "Resources": [
             "rec01w77iA2Rv594l",
@@ -2852,9 +2860,10 @@
             "reclzgoa7vW7uVJgW",
             "rechbEi0S7vX0LS7D",
             "recyQDYTRQVvgVB3Z",
-            "reckPa3VBTaIyyNNe"
+            "reckPa3VBTaIyyNNe",
+            "recIrMS6QNWvtkTzW"
         ],
-        "Resources number": 38,
+        "Resources number": 39,
         "Speakers": [
             "Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/",
             "AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems, Big & Small ARC337 - https://www.youtube.com/watch?v=O8xLxNje30M",
@@ -2893,7 +2902,8 @@
             "How to scale platforms in high-growth companies? - https://www.youtube.com/watch?v=5iLJ2MjK40o",
             "Tips For Building Successful Platform Teams - https://www.youtube.com/watch?v=_zH7TIXcjEs",
             "How much to invest in platform work - https://getdx.com/podcast/27",
-            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering",
+            "Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps"
         ],
         "airtable_createdTime": "2020-05-17T13:51:15.000Z",
         "airtable_id": "recbWs6dTsdPwfWnm"
@@ -2946,7 +2956,7 @@
         "airtable_id": "recfCstv3TFsotZ9q"
     },
     {
-        "Last Modified": "2023-11-18T15:45:40.000Z",
+        "Last Modified": "2024-06-23T07:55:40.000Z",
         "Name": "Product",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -3021,9 +3031,11 @@
             "reclTVcNeM3EWyoMd",
             "recCtlo35BNB4e9Cv",
             "recNTlpS9USi3zTOs",
-            "recLoYdYP5G0UM8GT"
+            "recLoYdYP5G0UM8GT",
+            "recsaEXdWjT3c6ick",
+            "recMtH696LP1LMtlW"
         ],
-        "Resources number": 73,
+        "Resources number": 75,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc",
@@ -3097,7 +3109,9 @@
             "Connectsai 2020: C\u00f3mo entregar m\u00e1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU",
             "Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA",
             "Escaping the Build Trap - https://vimeo.com/224453335",
-            "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc"
+            "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc",
+            "Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0",
+            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recg6F5ajOhEkbrdW"
@@ -3185,7 +3199,7 @@
         "airtable_id": "recgcJy2O48j2V5SW"
     },
     {
-        "Last Modified": "2024-03-30T16:58:58.000Z",
+        "Last Modified": "2024-06-23T07:48:26.000Z",
         "Name": "Lean Software Development",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3232,9 +3246,10 @@
             "recpSMgAZacKjfZmm",
             "rec4yxbXm5lq421Ui",
             "recxWvq4BQk9TA98H",
-            "recRCthMkTETb5Etf"
+            "recRCthMkTETb5Etf",
+            "recSbISGVjRAxwhX5"
         ],
-        "Resources number": 45,
+        "Resources number": 46,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk",
@@ -3280,7 +3295,8 @@
             "Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo",
             "Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8",
             "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
-            "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw"
+            "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw",
+            "Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rech2MAtQRy0Lvc2Y"
@@ -3365,7 +3381,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2024-03-30T16:58:02.000Z",
+        "Last Modified": "2024-06-23T07:48:31.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3480,9 +3496,10 @@
             "recMAXS80wmvMBHRc",
             "recjSKdz5ZcQahIt4",
             "recxWvq4BQk9TA98H",
-            "recmvoo351PsP313Q"
+            "recmvoo351PsP313Q",
+            "recSbISGVjRAxwhX5"
         ],
-        "Resources number": 113,
+        "Resources number": 114,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3596,7 +3613,8 @@
             "http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/ - http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/",
             "https://www.agilealliance.org/resources/videos/modern-agile/ - https://www.agilealliance.org/resources/videos/modern-agile/",
             "Tips & tricks para llegar a ser un equipo de alto rendimiento - https://www.youtube.com/watch?v=wTkiIF6UhKQ",
-            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
+            "Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
@@ -3633,6 +3651,19 @@
         "airtable_id": "rechwDm7Pn0ivpq7C"
     },
     {
+        "Last Modified": "2024-06-23T07:55:31.000Z",
+        "Name": "Nature of Software Development",
+        "Resources": [
+            "recMtH696LP1LMtlW"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+        ],
+        "airtable_createdTime": "2024-06-23T07:55:31.000Z",
+        "airtable_id": "reci9edTzz7GIxek0"
+    },
+    {
         "Last Modified": "2024-03-30T16:58:09.000Z",
         "Name": "MobProgramming",
         "Resources": [
@@ -3654,7 +3685,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2024-01-14T19:10:54.000Z",
+        "Last Modified": "2024-06-23T08:01:24.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3729,9 +3760,10 @@
             "recQXhKafE7CbtPIw",
             "recQoqG1njAO55EIh",
             "recUiAvLX6uU6gj42",
-            "recV10zLe4vGY7YPO"
+            "recV10zLe4vGY7YPO",
+            "reckLLBX9RVTL7oFm"
         ],
-        "Resources number": 73,
+        "Resources number": 74,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3805,7 +3837,8 @@
             "The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility",
             "Continuous Delivery In Agile - https://vimeo.com/229954108",
             "Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/",
-            "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ"
+            "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ",
+            "Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
@@ -3890,7 +3923,7 @@
         "airtable_id": "reck5fBLLF9Drj8rk"
     },
     {
-        "Last Modified": "2023-11-19T19:28:38.000Z",
+        "Last Modified": "2024-06-23T08:01:38.000Z",
         "Name": "Engineering Scalability",
         "Resources": [
             "rec4SJpVcSeIFUOfq",
@@ -3898,16 +3931,18 @@
             "recqZwmfIMth4GnWj",
             "recvKM2z7HFHLXSL7",
             "recsO8sRpVmxeUmNM",
-            "recSi9cTXikmWOquX"
+            "recSi9cTXikmWOquX",
+            "reckLLBX9RVTL7oFm"
         ],
-        "Resources number": 6,
+        "Resources number": 7,
         "Speakers": [
             "Scaling from 5 to 250 engineers - https://www.youtube.com/watch?v=qau1aGYc3lA",
             "Hey CTO - S01E01 - with Hass Chapman - https://www.youtube.com/watch?v=0VutWduX8oY",
             "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE",
             "Moving Fast at Scale - https://www.youtube.com/watch?v=t-sIaw4kHqI",
             "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
-            "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg"
+            "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg",
+            "Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74"
         ],
         "airtable_createdTime": "2022-08-15T16:02:46.000Z",
         "airtable_id": "recl7w0SkqE9A3GAI"
@@ -4009,7 +4044,7 @@
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2024-03-30T16:59:09.000Z",
+        "Last Modified": "2024-06-23T07:55:14.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -4073,9 +4108,10 @@
             "recBgNNTaB15VLMCw",
             "recU8b3AkYHNEIkd7",
             "recFtAOKr4s4dauLP",
-            "recmvoo351PsP313Q"
+            "recmvoo351PsP313Q",
+            "recvNC33kmVVPxIv3"
         ],
-        "Resources number": 62,
+        "Resources number": 63,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -4138,7 +4174,8 @@
             "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
             "How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ",
             "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/",
-            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
+            "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
@@ -4609,14 +4646,16 @@
         "airtable_id": "recu0ogH2eAbuoS2q"
     },
     {
-        "Last Modified": "2023-04-23T18:22:56.000Z",
+        "Last Modified": "2024-06-23T07:51:23.000Z",
         "Name": "Platform engineering",
         "Resources": [
-            "reckPa3VBTaIyyNNe"
+            "reckPa3VBTaIyyNNe",
+            "recIrMS6QNWvtkTzW"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering"
+            "The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering",
+            "Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps"
         ],
         "airtable_createdTime": "2023-04-23T18:22:56.000Z",
         "airtable_id": "recuR2w480ko3dSKR"
@@ -4754,7 +4793,7 @@
         "airtable_id": "recwiPJKumk9LSzL8"
     },
     {
-        "Last Modified": "2023-11-19T19:37:43.000Z",
+        "Last Modified": "2024-06-23T07:30:25.000Z",
         "Name": "Culture",
         "Resources": [
             "recitaMrj8QyQAvHD",
@@ -4768,9 +4807,10 @@
             "recPjJcgKz9yZq4Uc",
             "recTZlj6ecEgPAWIC",
             "recHpTejTGn0G3Gdl",
-            "reczLoRy2b7S8EQio"
+            "reczLoRy2b7S8EQio",
+            "recsaEXdWjT3c6ick"
         ],
-        "Resources number": 12,
+        "Resources number": 13,
         "Speakers": [
             "E019 Qu\u00e9 es y para qu\u00e9 sirve la cultura organizacional - https://www.runroom.com/realworld/e019-que-es-y-para-que-sirve-la-cultura-organizacional",
             "WorkLife podcast: Why it Pays to Raise Pay - https://podcasts.apple.com/us/podcast/why-it-pays-to-raise-pay/id1346314086?i=1000521240998",
@@ -4783,7 +4823,8 @@
             "Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY",
             "JavaZone 2019, Room 5 - Survival Tips For Women in Tech - https://www.pscp.tv/w/1BdGYepvvLQGX",
             "Management Is Dead! - https://www.youtube.com/watch?v=Q0i3hb0HBPU",
-            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams"
+            "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams",
+            "Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0"
         ],
         "airtable_createdTime": "2021-08-12T13:09:17.000Z",
         "airtable_id": "recwjZlYYZq3zj7TU"
