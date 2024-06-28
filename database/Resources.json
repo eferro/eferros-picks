@@ -719,6 +719,37 @@
         "registered_at": "2022-06-26T15:47:27.000Z"
     },
     {
+        "Created": "2024-06-27T12:04:43.000Z",
+        "Duration": 120,
+        "Last Modified": "2024-06-27T12:06:18.000Z",
+        "Less 15": 1,
+        "Name": "Be Quick But Don't Hurry ",
+        "Rating": 5,
+        "Resource": "Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recgxkWdZQMXrLcyo"
+        ],
+        "Speakers_Names": [
+            "Joshua Kerievsky"
+        ],
+        "Topics": [
+            "rechj5WeSQRH211np",
+            "recwjZlYYZq3zj7TU"
+        ],
+        "Topics_Names": [
+            "Agile",
+            "Culture"
+        ],
+        "Url": "https://www.youtube.com/watch?v=_pwSyzNwMHM",
+        "airtable_createdTime": "2024-06-27T12:04:43.000Z",
+        "airtable_id": "rec1V4GfD9UbYT2V4",
+        "registered_at": "2024-06-27T12:04:43.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2017/01/interesting-talks-i-saw-these-days-work.html",
         "Created": "2020-01-19T20:42:29.000Z",
         "Description": "Inside Quest\n",
