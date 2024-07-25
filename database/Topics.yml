@@ -1,4 +1,4 @@
-- Last Modified: '2024-02-05T22:01:45.000Z'
+- Last Modified: '2024-07-24T22:33:47.000Z'
   Name: Lean Product Management
   Resources:
   - recnXWD90uga820WV
@@ -34,12 +34,11 @@
   - reclTVcNeM3EWyoMd
   - reciUkxVDCZbYLk2E
   - recSvICPiAU0cN86t
-  - recQSVPLU6svtsxEE
   - recpSMgAZacKjfZmm
   - rec7NPbH4POd8KrJS
   - rec4yxbXm5lq421Ui
   - recRCthMkTETb5Etf
-  Resources number: 38
+  Resources number: 37
   Speakers:
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   - Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
@@ -76,7 +75,6 @@
   - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
   - Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw
   - Friction - https://vimeo.com/163573399
-  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Principles of Lean Product Managment - https://www.youtube.com/watch?v=cH6bnQzJojo
   - The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU
   - Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
@@ -317,7 +315,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2024-02-05T21:45:37.000Z'
+- Last Modified: '2024-07-24T22:33:47.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -424,7 +422,6 @@
   - recirlexFAzgG5gZt
   - recgMNfjEQbF98kc0
   - receYn9iDUfTj3xBp
-  - recQSVPLU6svtsxEE
   - reclsxslEsaXTMpfo
   - rec0Zn0xNpLa4HaZn
   - recDPS7fNMOi7VkSD
@@ -439,6 +436,7 @@
   - recUJOAZZjUhx4qJy
   - reczLoRy2b7S8EQio
   - recbZzYh8iwAqHBJ3
+  - recMtH696LP1LMtlW
   Resources number: 119
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
@@ -552,7 +550,6 @@
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   - Simon Sinek Performance vs Trust - https://www.youtube.com/watch?v=kJdXjtSnZTI
-  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
   - '"Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg'
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
@@ -567,6 +564,7 @@
   - The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   - Time to Focus on Your Goals - https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0
+  - Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -1703,7 +1701,7 @@
   - "Devops and Dr Deming\u2019s 14 Points - https://www.youtube.com/watch?v=7g3uqSzWVZs"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2024-06-23T07:31:38.000Z'
+- Last Modified: '2024-07-24T22:25:15.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1803,7 +1801,8 @@
   - recAPAmVnzrSTPDsl
   - recYZ3cyr9Rm2u5Br
   - recvNC33kmVVPxIv3
-  Resources number: 97
+  - recFo4C6tWCDoJH0Z
+  Resources number: 98
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1913,6 +1912,7 @@
   - 'Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem'
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
   - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
+  - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-10-15T18:45:08.000Z'
@@ -2469,7 +2469,7 @@
   - 'WIP: why limiting work in progress makes sense (Kanban) - https://www.youtube.com/watch?v=W92wG-HW8gg'
   airtable_createdTime: '2021-03-14T07:15:03.000Z'
   airtable_id: recY6zZikaaqsHrEX
-- Last Modified: '2023-11-18T15:43:57.000Z'
+- Last Modified: '2024-07-24T22:25:36.000Z'
   Name: Microservices
   Resources:
   - recIOfjqnhxyzz2w5
@@ -2494,7 +2494,9 @@
   - rec2EPhhNCTR9v5vS
   - recKdIjTXzEsrI7EO
   - reckGLUtBVVPUSvzh
-  Resources number: 22
+  - recYcBPXaIf60Q2Lh
+  - recmvGnioINm5MqHN
+  Resources number: 24
   Speakers:
   - 'Baruco 2012: Micro-Service Architecture - https://www.youtube.com/watch?v=2rKEveL55TY'
   - Everything about distributed systems is terrible - https://www.youtube.com/watch?v=tfnldxWlOhM
@@ -2518,6 +2520,9 @@
   - Principles Of Microservices - https://www.youtube.com/watch?v=PFQnNFe27kU
   - How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec
   - Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices
+  - Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery
+    - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
+  - Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
 - Last Modified: '2024-03-30T16:33:12.000Z'
@@ -3067,7 +3072,7 @@
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2024-06-23T07:48:26.000Z'
+- Last Modified: '2024-07-24T22:33:47.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3106,7 +3111,6 @@
   - recgMNfjEQbF98kc0
   - reciUkxVDCZbYLk2E
   - recSvICPiAU0cN86t
-  - recQSVPLU6svtsxEE
   - reclsxslEsaXTMpfo
   - recbKqpQDuwM9LVDW
   - recsbFogKbTtBFQ5o
@@ -3116,7 +3120,7 @@
   - recxWvq4BQk9TA98H
   - recRCthMkTETb5Etf
   - recSbISGVjRAxwhX5
-  Resources number: 46
+  Resources number: 45
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -3155,7 +3159,6 @@
   - Improving Software Flow - https://www.youtube.com/watch?v=XMyt5S8limQ
   - Competing On The Basis Of Speed - https://www.youtube.com/watch?v=ZSdsjpCcpFw
   - Friction - https://vimeo.com/163573399
-  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
   - "Muda, Mura, Muri: mitos y pr\xE1cticas aplicando Lean Software Development -\
     \ https://youtu.be/N6OJg1rxZGE"
@@ -3245,7 +3248,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-06-27T12:06:08.000Z'
+- Last Modified: '2024-07-24T22:33:47.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3349,7 +3352,6 @@
   - recRjMDkb2xgyznOJ
   - recdLJvVSnFgDDGV9
   - recirlexFAzgG5gZt
-  - recQSVPLU6svtsxEE
   - recbKqpQDuwM9LVDW
   - recPjJcgKz9yZq4Uc
   - recOxqFBf8ctdFeJt
@@ -3363,7 +3365,7 @@
   - recmvoo351PsP313Q
   - recSbISGVjRAxwhX5
   - rec1V4GfD9UbYT2V4
-  Resources number: 115
+  Resources number: 114
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3477,7 +3479,6 @@
   - Kent Beck On The FIRST Testing Frameworks, TDD, Waterfall & MORE | The Engineering
     Room Ep. 16 - https://www.youtube.com/watch?v=guycIP56YeY
   - Sabotaging a Transformation - https://www.youtube.com/watch?v=DyM4NtlIL44
-  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - "Muda, Mura, Muri: mitos y pr\xE1cticas aplicando Lean Software Development -\
     \ https://youtu.be/N6OJg1rxZGE"
   - Laloux Culture Model and Agile - https://www.youtube.com/watch?v=2rUbNSDLfxY
@@ -3548,7 +3549,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2024-06-23T08:01:24.000Z'
+- Last Modified: '2024-07-24T22:33:47.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3616,7 +3617,6 @@
   - recMP0fXsBeAYZEsH
   - recSvICPiAU0cN86t
   - rec9iNXx9wkcIFbAF
-  - recQSVPLU6svtsxEE
   - rec60loGe7MPQViCd
   - recOxqFBf8ctdFeJt
   - rec6vxNvl606hoeCB
@@ -3625,7 +3625,9 @@
   - recUiAvLX6uU6gj42
   - recV10zLe4vGY7YPO
   - reckLLBX9RVTL7oFm
-  Resources number: 74
+  - recYcBPXaIf60Q2Lh
+  - recMtH696LP1LMtlW
+  Resources number: 75
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3695,7 +3697,6 @@
   - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   - Friction - https://vimeo.com/163573399
   - GOTO 2016 The Future of Software Engineering - https://www.youtube.com/watch?v=6K4ljFZWgW8
-  - CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   - Building and Scaling a High-Performance Culture - https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/
   - The Value of Flow 14 09 17 - https://www.youtube.com/watch?v=1aOItUyZ2wQ
   - "Continuous Delivery Sounds Great But It Won\u2019t Work Here - https://www.infoq.com/presentations/continuous-delivery-highlights"
@@ -3706,6 +3707,9 @@
     \ Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ"
   - Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
     Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
+  - Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery
+    - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
+  - Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2024-03-30T16:23:54.000Z'
@@ -4345,7 +4349,7 @@
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recs3XV2rYhyC6qe8
-- Last Modified: '2024-03-30T16:23:48.000Z'
+- Last Modified: '2024-07-24T22:25:19.000Z'
   Name: Evolutionary Architecture
   Resources:
   - recnkmoWOa4usiuSE
@@ -4356,7 +4360,11 @@
   - recORpJNyUmhoEN7w
   - rectARJKbtqXtcmOQ
   - recbC0Z68UqbRLJlE
-  Resources number: 8
+  - recZzcEBKP19ATZZb
+  - recmvGnioINm5MqHN
+  - recYcBPXaIf60Q2Lh
+  - recFo4C6tWCDoJH0Z
+  Resources number: 12
   Speakers:
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
   - Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k
@@ -4367,6 +4375,11 @@
   - Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership
   - Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology,
     inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40
+  - Principles and techniques of Evolutionary Architecture - https://www.youtube.com/watch?v=OU_NKGEVsy8
+  - Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
+  - Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery
+    - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
+  - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
   airtable_createdTime: '2022-12-06T20:50:16.000Z'
   airtable_id: recs8FWnaRcAcdOoW
 - Last Modified: '2021-09-05T16:12:26.000Z'

@@ -7572,10 +7572,11 @@
         "Created": "2020-01-19T20:40:43.000Z",
         "Description": "This talk is a great introduction to the topic.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-07-24T22:25:19.000Z",
         "Less 15": 1,
         "Name": "Evolutionary Architecture",
         "Published": true,
+        "Rating": 5,
         "Resource": "Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -7586,6 +7587,14 @@
         ],
         "Speakers_Names": [
             "Rebecca Parsons"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recs8FWnaRcAcdOoW"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Evolutionary Architecture"
         ],
         "Url": "https://www.infoq.com/presentations/evolutionary-architecture/",
         "airtable_createdTime": "2020-01-19T20:40:43.000Z",
@@ -10917,7 +10926,8 @@
         "Created": "2024-06-23T07:54:14.000Z",
         "Description": "Great description of the true nature of software development as an adaptive learning process of customer needs. A must.\n",
         "Duration": 780,
-        "Last Modified": "2024-06-23T08:15:55.000Z",
+        "Language": "English",
+        "Last Modified": "2024-07-24T22:33:40.000Z",
         "Less 15": 1,
         "Name": "Fighting User Requirements That CONSTANTLY Change",
         "Published": true,
@@ -10935,11 +10945,15 @@
         ],
         "Topics": [
             "reci9edTzz7GIxek0",
-            "recg6F5ajOhEkbrdW"
+            "recg6F5ajOhEkbrdW",
+            "rec6JMQpL2LSjoP2E",
+            "recin3Ync8iZldW0q"
         ],
         "Topics_Names": [
             "Nature of Software Development",
-            "Product"
+            "Product",
+            "Inspirational",
+            "Continuous Delivery"
         ],
         "Url": "https://www.youtube.com/watch?v=kKbQ2-dXsmE",
         "airtable_createdTime": "2024-06-23T07:54:14.000Z",
@@ -12699,47 +12713,6 @@
         "airtable_createdTime": "2020-01-19T20:37:54.000Z",
         "airtable_id": "recQQbDcXuUhH7qiq",
         "registered_at": "2020-01-19T20:37:54.000Z"
-    },
-    {
-        "Blog Url": "https://www.eferro.net/2023/08/good-talkspodcasts-ago-2023-i.html",
-        "Created": "2023-08-10T22:32:14.000Z",
-        "Description": "This presentation by Dave Farley shows that software development is not just about translating perfect requirements into code, but rather a process of discovery and exploration. It acknowledges that the nature of the problems being solved has changed and that it is impossible to have all the answers. It emphasizes that successful software products must be able to adapt and evolve over time, and that the key to success is embracing change and making it easy, safe, and low-cost.\n\n",
-        "Duration": 780,
-        "Language": "English",
-        "Last Modified": "2023-08-26T22:03:35.000Z",
-        "Less 15": 1,
-        "Name": "CONSTANT Changes To User Requirements Drive Me CRAZY",
-        "Published": true,
-        "Rating": 5,
-        "Resource": "CONSTANT Changes To User Requirements Drive Me CRAZY - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
-        "Resource type": "talk",
-        "Speaker WomenInTech": [
-            null
-        ],
-        "Speakers": [
-            "recTA39Jo1ozZG61R"
-        ],
-        "Speakers_Names": [
-            "Dave Farley"
-        ],
-        "Topics": [
-            "rec6JMQpL2LSjoP2E",
-            "recin3Ync8iZldW0q",
-            "rech2MAtQRy0Lvc2Y",
-            "rec0PB37LN1Kz0Blh",
-            "rechj5WeSQRH211np"
-        ],
-        "Topics_Names": [
-            "Inspirational",
-            "Continuous Delivery",
-            "Lean Software Development",
-            "Lean Product Management",
-            "Agile"
-        ],
-        "Url": "https://www.youtube.com/watch?v=kKbQ2-dXsmE",
-        "airtable_createdTime": "2023-08-10T22:32:14.000Z",
-        "airtable_id": "recQSVPLU6svtsxEE",
-        "registered_at": "2023-08-10T22:32:14.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/08/good-talkspodcasts-aug-2018-i.html",
@@ -16335,7 +16308,7 @@
         "Blog Url": "https://www.eferro.net/2015/06/more-interesting-podcaststalks.html",
         "Created": "2020-01-19T20:37:10.000Z",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-07-24T22:25:02.000Z",
         "Less 15": 1,
         "Name": "Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery",
         "Published": true,
@@ -16349,6 +16322,16 @@
         ],
         "Speakers_Names": [
             "Rebecca Parsons"
+        ],
+        "Topics": [
+            "recs8FWnaRcAcdOoW",
+            "recin3Ync8iZldW0q",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Evolutionary Architecture",
+            "Continuous Delivery",
+            "Microservices"
         ],
         "Url": "http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd",
         "airtable_createdTime": "2020-01-19T20:37:10.000Z",
@@ -17001,7 +16984,7 @@
         "Description": "How can a small team handle infrastructure and operational complexities that come with Microservices and still deliver business and user value?\n",
         "Duration": 3120,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-07-24T22:24:08.000Z",
         "Less 15": 0,
         "Name": "Principles and techniques of Evolutionary Architecture",
         "Published": true,
@@ -17015,6 +16998,12 @@
         ],
         "Speakers_Names": [
             "Rebecca Parsons"
+        ],
+        "Topics": [
+            "recs8FWnaRcAcdOoW"
+        ],
+        "Topics_Names": [
+            "Evolutionary Architecture"
         ],
         "Url": "https://www.youtube.com/watch?v=OU_NKGEVsy8",
         "airtable_createdTime": "2020-01-19T20:42:36.000Z",
@@ -24296,7 +24285,7 @@
         "Created": "2020-01-19T20:36:32.000Z",
         "Description": "Informative talk about microservices and the Continuous Delivery as the central practice that allow the constant evolution of the apps and real agile development.\n",
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-07-24T22:25:36.000Z",
         "Less 15": 1,
         "Name": "Evolutionary Architecture and Microservices",
         "Published": true,
@@ -24310,6 +24299,14 @@
         ],
         "Speakers_Names": [
             "Rebecca Parsons"
+        ],
+        "Topics": [
+            "recs8FWnaRcAcdOoW",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Evolutionary Architecture",
+            "Microservices"
         ],
         "Url": "http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd",
         "airtable_createdTime": "2020-01-19T20:36:32.000Z",
