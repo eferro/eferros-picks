@@ -1163,7 +1163,7 @@
   - 'Test-Driven: The Four-Step Dance - http://www.ustream.tv/recorded/114916388'
   - '060: Coping with Complexity with Kent Beck - https://www.greaterthancode.com/coping-with-complexity'
   - '073: Driven By Need, Guided By Example with Dan North - https://www.greaterthancode.com/driven-by-need-guided-by-example'
-  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore
+  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
   - 'From startups to big-business: Using functional programming techniques to transform
     line-of-business applications - https://www.youtube.com/watch?v=dSCzCaiWgLM'
@@ -1811,7 +1811,7 @@
   - Architecting a Modern Financial Institution with Vitor Olivier, Thoughts on Immutability,
     CI/CD, FP - https://www.infoq.com/podcasts/Vitor-Olivier
   - Command-Query Responsibility Segregation - https://www.infoq.com/presentations/Command-Query-Responsibility-Segregation
-  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore
+  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
   - 'From startups to big-business: Using functional programming techniques to transform
     line-of-business applications - https://www.youtube.com/watch?v=dSCzCaiWgLM'
   - Architects live in the first derivative - https://www.youtube.com/watch?v=sRNyqJJk6Jg
@@ -2096,7 +2096,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-06-23T08:01:28.000Z'
+- Last Modified: '2024-07-26T08:37:11.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2258,7 +2258,8 @@
   - recAPAmVnzrSTPDsl
   - recsaEXdWjT3c6ick
   - reckLLBX9RVTL7oFm
-  Resources number: 159
+  - recRyKUpTpRQJdke4
+  Resources number: 160
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2302,7 +2303,7 @@
   - Rapid Prototyping & Product Management  - https://vimeo.com/131447795
   - Complexity is Outside the Code - https://www.infoq.com/presentations/complexity-simplicity-esb/
   - "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data - https://www.youtube.com/watch?v=f8XDvtfKWQE"
-  - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
+  - YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   - 'Product Discovery: Engineering perspective - https://www.youtube.com/watch?v=xeGHvXwCk1M'
   - Automating safe, hands-off deployments - https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/
   - How to start focusing on value - https://stanete.com/focus-on-value
@@ -2437,6 +2438,7 @@
   - Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0
   - Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering
     Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74
+  - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2525,7 +2527,7 @@
   - Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2024-03-30T16:33:12.000Z'
+- Last Modified: '2024-07-26T08:37:11.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2597,7 +2599,8 @@
   - recYiENUKo6bXuUaI
   - recBgNNTaB15VLMCw
   - recFtAOKr4s4dauLP
-  Resources number: 69
+  - recRyKUpTpRQJdke4
+  Resources number: 70
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2616,7 +2619,7 @@
   - 'AFH 107: Explore, Expand, Extract with Kent Beck - https://www.stitcher.com/podcast/agile-for-humans/e/59811508'
   - 'The Agile Revolution Podcast: Episode 180: Extreme Programming & 3X Explained
     with Kent Beck - https://theagilerevolution.com/2020/02/20/episode-180-extreme-programming-3x-explained-with-kent-beck/'
-  - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
+  - YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development
     - https://www.youtube.com/watch?v=WSes_PexXcA
   - Tidy First? - https://www.youtube.com/watch?v=BFFY9Zor6zw
@@ -2676,6 +2679,7 @@
   - DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4
   - GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs
   - JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/
+  - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2022-11-20T09:31:14.000Z'
@@ -3248,7 +3252,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-07-24T22:33:47.000Z'
+- Last Modified: '2024-07-26T08:37:11.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3365,7 +3369,8 @@
   - recmvoo351PsP313Q
   - recSbISGVjRAxwhX5
   - rec1V4GfD9UbYT2V4
-  Resources number: 114
+  - recRyKUpTpRQJdke4
+  Resources number: 115
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3379,7 +3384,7 @@
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
   - Henrik Kniberg and how to help your kids win robot battles - https://www.bosslevelpodcast.com/henrik-kniberg-and-how-to-help-your-kids-win-robot-battles/
-  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore
+  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
   - Software_Crasftsmanship (Barcelona CAS2014) - https://www.youtube.com/watch?v=9OhXqBlCmrM
   - Towards an Evolutionary Architecture - https://vimeo.com/97537675
@@ -3407,7 +3412,7 @@
   - 'Making Work Visible: How to Unmask Capacity Killing WIP - https://www.youtube.com/watch?v=KR7Y8IUgyyA'
   - Technical Leadership for Empowered Teams - https://vimeo.com/339930423
   - Complexity is Outside the Code - https://www.infoq.com/presentations/complexity-simplicity-esb/
-  - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
+  - YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   - The Efficiency Paradox - https://www.youtube.com/watch?v=hGJpez7rvc0
   - Big Transitions in Small Steps - https://www.youtube.com/watch?v=44sJLFgzhn4
   - Creating Value and Flow in Product Development - https://www.youtube.com/watch?v=NGdx-f-aGXs
@@ -3494,6 +3499,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   - Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU
   - Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM
+  - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2023-11-19T19:36:54.000Z'
@@ -3896,7 +3902,7 @@
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
-- Last Modified: '2024-06-23T07:55:14.000Z'
+- Last Modified: '2024-07-26T08:37:11.000Z'
   Name: Software Design
   Resources:
   - reczOXoBpcxfVfN2x
@@ -3962,7 +3968,8 @@
   - recFtAOKr4s4dauLP
   - recmvoo351PsP313Q
   - recvNC33kmVVPxIv3
-  Resources number: 63
+  - recRyKUpTpRQJdke4
+  Resources number: 64
   Speakers:
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
   - Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY
@@ -3986,7 +3993,7 @@
   - If (domain logic) then CQRS, or Saga? - https://www.youtube.com/watch?v=fWU8ZK0Dmxs
   - 'Queueing Theory in Practice: Performance Modeling for the Working Engineer -
     https://www.youtube.com/watch?v=Hda5tMrLJqc'
-  - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
+  - YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   - 'Strategic Autonomous Design: Patterns & Heuristics - https://www.youtube.com/watch?v=mEFbjt_87TU'
   - Big Transitions in Small Steps - https://www.youtube.com/watch?v=44sJLFgzhn4
   - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
@@ -4034,6 +4041,7 @@
   - JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
+  - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm3GCPgEVSDmeVI
 - Last Modified: '2024-03-30T16:25:37.000Z'
@@ -4097,7 +4105,7 @@
   - The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai
   airtable_createdTime: '2021-08-14T07:25:39.000Z'
   airtable_id: recmuONwokRtPS6Tp
-- Last Modified: '2023-11-18T15:36:56.000Z'
+- Last Modified: '2024-07-26T08:47:15.000Z'
   Name: Evolutionary Design
   Resources:
   - recHTVTL3hM9YyEuY
@@ -4114,9 +4122,11 @@
   - recUIDymP9vqzyyTI
   - reck60FOvatP5hPnd
   - reckjL9O859XqGTqO
-  Resources number: 14
+  - recRyKUpTpRQJdke4
+  - recnyzknPWJh5BuFV
+  Resources number: 16
   Speakers:
-  - YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo
+  - YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   - Boundaries - https://www.youtube.com/watch?v=eOYal8elnZk
   - Tidy First? - https://www.youtube.com/watch?v=BFFY9Zor6zw
   - "GOTO 2020 \u2022 When To Use Microservices (And When Not To!) - https://www.youtube.com/watch?v=GBTdnfD6s5Q"
@@ -4131,6 +4141,8 @@
     \ J.B. Rainsberger) - https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development"
   - Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ
   - The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA
+  - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
+  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
   airtable_createdTime: '2020-06-14T11:21:28.000Z'
   airtable_id: recnvzS3XS3MGHk3e
 - Last Modified: '2023-11-18T15:45:51.000Z'
@@ -4349,7 +4361,7 @@
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recs3XV2rYhyC6qe8
-- Last Modified: '2024-07-24T22:25:19.000Z'
+- Last Modified: '2024-07-26T08:47:20.000Z'
   Name: Evolutionary Architecture
   Resources:
   - recnkmoWOa4usiuSE
@@ -4364,7 +4376,8 @@
   - recmvGnioINm5MqHN
   - recYcBPXaIf60Q2Lh
   - recFo4C6tWCDoJH0Z
-  Resources number: 12
+  - recnyzknPWJh5BuFV
+  Resources number: 13
   Speakers:
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
   - Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k
@@ -4380,6 +4393,7 @@
   - Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery
     - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
+  - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
   airtable_createdTime: '2022-12-06T20:50:16.000Z'
   airtable_id: recs8FWnaRcAcdOoW
 - Last Modified: '2021-09-05T16:12:26.000Z'

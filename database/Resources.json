@@ -8401,17 +8401,15 @@
         "registered_at": "2020-03-14T08:56:58.000Z"
     },
     {
-        "Blog Url": "https://www.eferro.net/2020/06/good-talkspodcasts-jun-2020-i.html",
         "Created": "2020-06-14T11:18:41.000Z",
         "Description": "Modern software development welcomes changing requirements, even late in the process, but how can we write our software so that those changes don\u2019t create a mess? Evolutionary design is the key. It\u2019s a technique that emerges from Extreme Programming, the method that brought us test-driven development, merciless refactoring, and continuous integration. James Shore first encountered Extreme Programming and evolutionary design nearly 20 years ago. Initially skeptical, he\u2019s explored its boundaries ever since. In this session, James will share what he\u2019s learned through in-depth animations of real software projects. You\u2019ll see how designs evolve over time and you\u2019ll learn how and when to use evolutionary design for your own projects.\n",
-        "Duration": 2880,
+        "Duration": 1440,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-07-26T08:40:40.000Z",
         "Less 15": 0,
-        "Name": "YOW! 2019 Evolutionary Design Animated",
-        "Published": true,
+        "Name": "YOW! 2019 Evolutionary Design Animated (Part1)",
         "Rating": 5,
-        "Resource": "YOW! 2019 Evolutionary Design Animated - https://www.youtube.com/watch?v=QJRAeoOHewo",
+        "Resource": "YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI",
         "Resource type": "talk",
         "Speaker WomenInTech": [
             null
@@ -8436,7 +8434,7 @@
             "Evolutionary Design",
             "Software Design"
         ],
-        "Url": "https://www.youtube.com/watch?v=QJRAeoOHewo",
+        "Url": "https://www.youtube.com/watch?v=LtBRvsez8DI",
         "airtable_createdTime": "2020-06-14T11:18:41.000Z",
         "airtable_id": "recHTVTL3hM9YyEuY",
         "registered_at": "2020-06-14T11:18:41.000Z"
@@ -13517,6 +13515,45 @@
         "airtable_createdTime": "2021-11-07T19:17:17.000Z",
         "airtable_id": "recRtAWnx4lTVvYUO",
         "registered_at": "2021-11-07T19:17:17.000Z"
+    },
+    {
+        "Created": "2024-07-26T08:37:11.000Z",
+        "Description": "Second part of this great talk. Part1 https://www.youtube.com/watch?v=LtBRvsez8DI\n",
+        "Duration": 1440,
+        "Language": "English",
+        "Last Modified": "2024-07-26T08:40:41.000Z",
+        "Less 15": 0,
+        "Name": "YOW! 2019 Evolutionary Design Animated (Part2)",
+        "Rating": 5,
+        "Resource": "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recbLh2HOz1bkIzL2"
+        ],
+        "Speakers_Names": [
+            "James Shore"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "rechj5WeSQRH211np",
+            "recYkFYw6BSRfA0Ce",
+            "recnvzS3XS3MGHk3e",
+            "recm3GCPgEVSDmeVI"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Agile",
+            "XP",
+            "Evolutionary Design",
+            "Software Design"
+        ],
+        "Url": "https://www.youtube.com/watch?v=wDZCF8jfeMc",
+        "airtable_createdTime": "2024-07-26T08:37:11.000Z",
+        "airtable_id": "recRyKUpTpRQJdke4",
+        "registered_at": "2024-07-26T08:37:11.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2021/03/good-talkspodcasts-march-2021-i.html",
@@ -25067,12 +25104,13 @@
     {
         "Blog Url": "https://www.eferro.net/2016/10/great-technical-talks-ive-seen-this.html",
         "Created": "2020-01-19T20:35:24.000Z",
+        "Duration": 4200,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
-        "Less 15": 1,
+        "Last Modified": "2024-07-26T08:47:20.000Z",
+        "Less 15": 0,
         "Name": "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore",
         "Published": true,
-        "Resource": "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore",
+        "Resource": "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y",
         "Resource type": "podcast",
         "Speaker WomenInTech": [
             null
@@ -25086,14 +25124,18 @@
         "Topics": [
             "rechj5WeSQRH211np",
             "recFbzSbd07ttDIYJ",
-            "recQ4hio93eTgzFTS"
+            "recQ4hio93eTgzFTS",
+            "recnvzS3XS3MGHk3e",
+            "recs8FWnaRcAcdOoW"
         ],
         "Topics_Names": [
             "Agile",
             "Technical Practices",
-            "Architecture"
+            "Architecture",
+            "Evolutionary Design",
+            "Evolutionary Architecture"
         ],
-        "Url": "https://devchat.tv/ruby-rogues/275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore",
+        "Url": "https://www.youtube.com/watch?v=que8EIafW9Y",
         "airtable_createdTime": "2020-01-19T20:35:24.000Z",
         "airtable_id": "recnyzknPWJh5BuFV",
         "registered_at": "2020-01-19T20:35:24.000Z"
