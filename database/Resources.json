@@ -14963,6 +14963,30 @@
         "registered_at": "2021-06-19T11:36:24.000Z"
     },
     {
+        "Created": "2024-08-17T21:10:31.000Z",
+        "Duration": 3360,
+        "Language": "English",
+        "Last Modified": "2024-08-17T21:11:15.000Z",
+        "Less 15": 0,
+        "Name": "The best programmer I know ",
+        "Rating": 5,
+        "Resource": "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recFwCH6SfELfIX3t"
+        ],
+        "Speakers_Names": [
+            "Dan North"
+        ],
+        "Url": "https://www.youtube.com/watch?v=D6aUoGK2rkk",
+        "airtable_createdTime": "2024-08-17T21:10:31.000Z",
+        "airtable_id": "recVFSquUdCuGrS16",
+        "registered_at": "2024-08-17T21:10:31.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/07/good-talkspodcasts-jul-2021-i.html",
         "Created": "2021-06-29T22:23:05.000Z",
         "Description": "the best product teams are shifting from a project mindset to a continuous mindset. In this talk, Teresa explores the key differences between project-based discovery and continuous discovery and give your team a clear benchmark to aspire to.\n",
