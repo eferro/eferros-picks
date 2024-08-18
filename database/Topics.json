@@ -233,18 +233,20 @@
         "airtable_id": "rec436FbBa6hFiWcj"
     },
     {
-        "Last Modified": "2022-11-20T09:31:24.000Z",
+        "Last Modified": "2024-08-18T08:17:10.000Z",
         "Name": "Trunk Based Development",
         "Resources": [
             "recXRcPu4JdPr678x",
             "reczgPOqLahq7Vs7m",
-            "recjRAqvFByDOS2Wk"
+            "recjRAqvFByDOS2Wk",
+            "recclNm0J3dDOzoHt"
         ],
-        "Resources number": 3,
+        "Resources number": 4,
         "Speakers": [
             "Surviving Continuous Deployment in Distributed Systems - https://www.youtube.com/watch?v=T0f0qS1k5jg",
             "Feature Branches and Toggles in a Post-GitHub World - https://www.youtube.com/watch?v=lqRQYEHAtpk",
-            "Why Pull Requests Are A BAD IDEA - https://www.youtube.com/watch?v=ASOSEiJCyEM"
+            "Why Pull Requests Are A BAD IDEA - https://www.youtube.com/watch?v=ASOSEiJCyEM",
+            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
         ],
         "airtable_createdTime": "2022-02-06T21:19:54.000Z",
         "airtable_id": "rec4gRjrYk5XVT03n"
@@ -339,7 +341,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2024-07-24T22:33:47.000Z",
+        "Last Modified": "2024-08-18T08:33:35.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -460,9 +462,12 @@
             "recUJOAZZjUhx4qJy",
             "reczLoRy2b7S8EQio",
             "recbZzYh8iwAqHBJ3",
-            "recMtH696LP1LMtlW"
+            "recMtH696LP1LMtlW",
+            "recVFSquUdCuGrS16",
+            "reczYEOBiA6KzE1Gv",
+            "rec1V4GfD9UbYT2V4"
         ],
-        "Resources number": 119,
+        "Resources number": 122,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -582,7 +587,10 @@
             "The Forgotten Ideas in Computer Science - Code BEAM SF 2018 - https://www.youtube.com/watch?v=-I_jE0l7sYQ",
             "What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams",
             "Time to Focus on Your Goals - https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0",
-            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY",
+            "Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -862,7 +870,7 @@
         "airtable_id": "recD3pnf517cAQ1Rh"
     },
     {
-        "Last Modified": "2024-03-30T16:52:42.000Z",
+        "Last Modified": "2024-08-18T07:53:58.000Z",
         "Name": "Engineering Career",
         "Resources": [
             "recBZwhDTylUgYDno",
@@ -887,9 +895,10 @@
             "recOtIG9sYrRR6tQr",
             "recWUWqSES4nBFQE6",
             "recbwjaeC3WJxRuss",
-            "recAPAmVnzrSTPDsl"
+            "recAPAmVnzrSTPDsl",
+            "recVFSquUdCuGrS16"
         ],
-        "Resources number": 23,
+        "Resources number": 24,
         "Speakers": [
             "Software_Crasftsmanship (Barcelona CAS2014) - https://www.youtube.com/watch?v=9OhXqBlCmrM",
             "Attitude Determines Altitude- Engineering Yourself - https://www.infoq.com/presentations/improve-engineer-designer-leader",
@@ -913,7 +922,8 @@
             "What makes a good developer - https://vimeo.com/748032161",
             "The Well-Balanced Programmer - https://www.youtube.com/watch?v=XhN6fJYG81A",
             "Rockstar Developers Are THE WORST Developers - https://www.youtube.com/watch?v=mVY2rFninp8",
-            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem"
+            "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
+            "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recD5hNaJCwpTdERc"
@@ -1122,7 +1132,7 @@
         "airtable_id": "recF9sEGaOJ0hiQgV"
     },
     {
-        "Last Modified": "2024-03-30T16:59:15.000Z",
+        "Last Modified": "2024-08-18T08:16:19.000Z",
         "Name": "Technical Practices",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -1230,9 +1240,10 @@
             "rechcjxuU2Gdb0VKR",
             "reck60FOvatP5hPnd",
             "recsbFogKbTtBFQ5o",
-            "recmvoo351PsP313Q"
+            "recmvoo351PsP313Q",
+            "recclNm0J3dDOzoHt"
         ],
-        "Resources number": 106,
+        "Resources number": 107,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
@@ -1339,7 +1350,8 @@
             "The wet codebase - https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
             "Lean Turned Up to 10 - https://www.youtube.com/watch?v=qjZ2_ZLorjQ",
-            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k"
+            "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
+            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recFbzSbd07ttDIYJ"
@@ -1460,6 +1472,19 @@
         "airtable_id": "recLS0zTJxflAcqBu"
     },
     {
+        "Last Modified": "2024-08-18T08:16:49.000Z",
+        "Name": "CI",
+        "Resources": [
+            "recclNm0J3dDOzoHt"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
+        ],
+        "airtable_createdTime": "2024-08-18T08:16:43.000Z",
+        "airtable_id": "recLYwn1IYVGWYavk"
+    },
+    {
         "Last Modified": "2024-01-14T10:34:10.000Z",
         "Name": "Lean",
         "Resources": [
@@ -1559,7 +1584,7 @@
         "airtable_id": "recO11XlolI72a1fV"
     },
     {
-        "Last Modified": "2024-01-14T18:55:45.000Z",
+        "Last Modified": "2024-08-18T07:57:46.000Z",
         "Name": "OOP",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -1572,9 +1597,10 @@
             "recinPmonpUpDrs6h",
             "recwUMFbKAjcAFrfH",
             "recrvswiXD8sPCVkv",
-            "recsT9Sui33sZbogD"
+            "recsT9Sui33sZbogD",
+            "reczYEOBiA6KzE1Gv"
         ],
-        "Resources number": 11,
+        "Resources number": 12,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -1586,7 +1612,8 @@
             "OOP is Dead! Long Live OODD! - https://vimeo.com/77415896",
             "Less - The Path to Better Design - https://vimeo.com/53154357",
             "Ruby Conf 12 - Boundaries - https://www.youtube.com/watch?v=yTkzNHF6rMs",
-            "Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0"
+            "Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recPDGLhpXxkxbDoU"
@@ -1808,7 +1835,7 @@
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2024-07-24T22:25:15.000Z",
+        "Last Modified": "2024-08-18T07:47:21.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -1908,9 +1935,10 @@
             "recAPAmVnzrSTPDsl",
             "recYZ3cyr9Rm2u5Br",
             "recvNC33kmVVPxIv3",
-            "recFo4C6tWCDoJH0Z"
+            "recFo4C6tWCDoJH0Z",
+            "recCTj8eJ0Za6tae4"
         ],
-        "Resources number": 98,
+        "Resources number": 99,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -2009,7 +2037,8 @@
             "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
             "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA",
             "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R",
-            "Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/"
+            "Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/",
+            "The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -2195,7 +2224,7 @@
         "airtable_id": "recUnYzKrJyW20xWO"
     },
     {
-        "Last Modified": "2022-01-22T19:23:37.000Z",
+        "Last Modified": "2024-08-18T08:16:38.000Z",
         "Name": "Incident respond",
         "Resources": [
             "recm1ocukk0b7YfFt"
@@ -2221,7 +2250,7 @@
         "airtable_id": "recVjcUEBKByq8k7M"
     },
     {
-        "Last Modified": "2024-07-26T08:37:11.000Z",
+        "Last Modified": "2024-08-18T07:57:29.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2383,9 +2412,12 @@
             "recAPAmVnzrSTPDsl",
             "recsaEXdWjT3c6ick",
             "reckLLBX9RVTL7oFm",
-            "recRyKUpTpRQJdke4"
+            "recRyKUpTpRQJdke4",
+            "recCTj8eJ0Za6tae4",
+            "recVFSquUdCuGrS16",
+            "reczYEOBiA6KzE1Gv"
         ],
-        "Resources number": 160,
+        "Resources number": 163,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2546,7 +2578,10 @@
             "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
             "Perspectives on effective product development culture - https://www.youtube.com/watch?v=ba5_bNgkOj0",
             "Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74",
-            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc"
+            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
+            "The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg",
+            "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2590,7 +2625,7 @@
         "airtable_id": "recY6zZikaaqsHrEX"
     },
     {
-        "Last Modified": "2024-07-24T22:25:36.000Z",
+        "Last Modified": "2024-08-18T08:10:05.000Z",
         "Name": "Microservices",
         "Resources": [
             "recIOfjqnhxyzz2w5",
@@ -2616,9 +2651,11 @@
             "recKdIjTXzEsrI7EO",
             "reckGLUtBVVPUSvzh",
             "recYcBPXaIf60Q2Lh",
-            "recmvGnioINm5MqHN"
+            "recmvGnioINm5MqHN",
+            "recCTj8eJ0Za6tae4",
+            "recN5kKqqCeEjWegT"
         ],
-        "Resources number": 24,
+        "Resources number": 26,
         "Speakers": [
             "Baruco 2012: Micro-Service Architecture - https://www.youtube.com/watch?v=2rKEveL55TY",
             "Everything about distributed systems is terrible - https://www.youtube.com/watch?v=tfnldxWlOhM",
@@ -2643,13 +2680,15 @@
             "How Well Designed Is Your Microservice? - https://www.youtube.com/watch?v=GPqJ1r9bHec",
             "Monoliths, Migrations, and Microservices - https://slideslive.com/38911397/monoliths-migrations-and-microservices",
             "Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd",
-            "Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd"
+            "Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd",
+            "The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg",
+            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2024-07-26T08:37:11.000Z",
+        "Last Modified": "2024-08-18T08:16:23.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2721,9 +2760,10 @@
             "recYiENUKo6bXuUaI",
             "recBgNNTaB15VLMCw",
             "recFtAOKr4s4dauLP",
-            "recRyKUpTpRQJdke4"
+            "recRyKUpTpRQJdke4",
+            "recclNm0J3dDOzoHt"
         ],
-        "Resources number": 70,
+        "Resources number": 71,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2794,7 +2834,8 @@
             "DDD Europe 2023. A Daily Practice of Empirical Software Design - https://www.youtube.com/watch?v=yBEcq23OgB4",
             "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
             "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/",
-            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc"
+            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
+            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -2813,6 +2854,19 @@
         ],
         "airtable_createdTime": "2022-02-06T22:06:06.000Z",
         "airtable_id": "reca0FiaHsqUjIHYb"
+    },
+    {
+        "Last Modified": "2024-08-18T08:22:11.000Z",
+        "Name": "Generative AI",
+        "Resources": [
+            "recgKG33Jjit6WvBS"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw"
+        ],
+        "airtable_createdTime": "2024-08-18T08:22:11.000Z",
+        "airtable_id": "recbJb6M6X8AZPTRc"
     },
     {
         "Last Modified": "2021-08-12T13:09:11.000Z",
@@ -3140,7 +3194,7 @@
         "airtable_id": "recgEKQV2Gwxxtdf2"
     },
     {
-        "Last Modified": "2023-10-15T18:48:54.000Z",
+        "Last Modified": "2024-08-18T08:09:45.000Z",
         "Name": "Scalability",
         "Resources": [
             "recSuNxI6AZPoqJYa",
@@ -3170,9 +3224,11 @@
             "reca5eujcc1ryM5Br",
             "recqZwmfIMth4GnWj",
             "rec0Zn0xNpLa4HaZn",
-            "recDPS7fNMOi7VkSD"
+            "recDPS7fNMOi7VkSD",
+            "recCTj8eJ0Za6tae4",
+            "recN5kKqqCeEjWegT"
         ],
-        "Resources number": 28,
+        "Resources number": 30,
         "Speakers": [
             "Architecting a Modern Financial Institution with Vitor Olivier, Thoughts on Immutability, CI/CD, FP - https://www.infoq.com/podcasts/Vitor-Olivier",
             "Command-Query Responsibility Segregation - https://www.infoq.com/presentations/Command-Query-Responsibility-Segregation",
@@ -3201,7 +3257,9 @@
             "How Fast is Your Computer? | DESIGNING FOR HIGH PERFORMANCE (Mechanical Sympathy) - https://www.youtube.com/watch?v=0reMVgn6kRo",
             "FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - https://www.youtube.com/watch?v=sc3J4McebHE",
             "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg",
-            "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy"
+            "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy",
+            "The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg",
+            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recgcJy2O48j2V5SW"
@@ -3387,7 +3445,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2024-07-26T08:37:11.000Z",
+        "Last Modified": "2024-08-18T07:53:37.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3504,9 +3562,10 @@
             "recmvoo351PsP313Q",
             "recSbISGVjRAxwhX5",
             "rec1V4GfD9UbYT2V4",
-            "recRyKUpTpRQJdke4"
+            "recRyKUpTpRQJdke4",
+            "recVFSquUdCuGrS16"
         ],
-        "Resources number": 115,
+        "Resources number": 116,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3622,7 +3681,8 @@
             "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
             "Lean Code - https://www.youtube.com/watch?v=-nWhH-4wWBU",
             "Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM",
-            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc"
+            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
+            "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"
@@ -3659,14 +3719,18 @@
         "airtable_id": "rechwDm7Pn0ivpq7C"
     },
     {
-        "Last Modified": "2024-06-23T07:55:31.000Z",
+        "Last Modified": "2024-08-18T07:57:23.000Z",
         "Name": "Nature of Software Development",
         "Resources": [
-            "recMtH696LP1LMtlW"
+            "recMtH696LP1LMtlW",
+            "recVFSquUdCuGrS16",
+            "reczYEOBiA6KzE1Gv"
         ],
-        "Resources number": 1,
+        "Resources number": 3,
         "Speakers": [
-            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
         ],
         "airtable_createdTime": "2024-06-23T07:55:31.000Z",
         "airtable_id": "reci9edTzz7GIxek0"
@@ -3971,7 +4035,7 @@
         "airtable_id": "reclZWPaBbTfn5pQo"
     },
     {
-        "Last Modified": "2024-03-30T17:03:46.000Z",
+        "Last Modified": "2024-08-18T08:09:52.000Z",
         "Name": "Architecture patterns",
         "Resources": [
             "recmUlW6oy0nh41vw",
@@ -4009,9 +4073,10 @@
             "rec3jBh4YZ9cRjwtp",
             "recbC0Z68UqbRLJlE",
             "recAPAmVnzrSTPDsl",
-            "recYZ3cyr9Rm2u5Br"
+            "recYZ3cyr9Rm2u5Br",
+            "recN5kKqqCeEjWegT"
         ],
-        "Resources number": 36,
+        "Resources number": 37,
         "Speakers": [
             "Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/",
             "Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M",
@@ -4048,13 +4113,14 @@
             "Immutability Changes Everything - https://vimeo.com/52831373",
             "Hexagonal Architecture from its Inventor -Alistair Cockburn, Humans & Technology, inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40",
             "Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem",
-            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA"
+            "Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA",
+            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2024-07-26T08:37:11.000Z",
+        "Last Modified": "2024-08-18T07:57:57.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -4120,9 +4186,10 @@
             "recFtAOKr4s4dauLP",
             "recmvoo351PsP313Q",
             "recvNC33kmVVPxIv3",
-            "recRyKUpTpRQJdke4"
+            "recRyKUpTpRQJdke4",
+            "reczYEOBiA6KzE1Gv"
         ],
-        "Resources number": 64,
+        "Resources number": 65,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -4187,7 +4254,8 @@
             "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/",
             "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
             "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R",
-            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc"
+            "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
@@ -4234,7 +4302,7 @@
         "airtable_id": "recmPbBNpUB7Q5XyX"
     },
     {
-        "Last Modified": "2024-03-30T16:40:11.000Z",
+        "Last Modified": "2024-08-18T08:22:03.000Z",
         "Name": "AI",
         "Resources": [
             "recfwzidrRnl6Ut5j",
@@ -4243,9 +4311,10 @@
             "recI7pOxCd4Pe84x8",
             "recOuZnBtAOlBoiwo",
             "recoAe21A3GrWf6uH",
-            "recNNvX8TAghfBXqp"
+            "recNNvX8TAghfBXqp",
+            "recgKG33Jjit6WvBS"
         ],
-        "Resources number": 7,
+        "Resources number": 8,
         "Speakers": [
             "The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw",
             "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
@@ -4253,13 +4322,14 @@
             "AI Impacts in Development Practice - https://www.youtube.com/watch?v=_oHiyunEMF0",
             "Artificial Intelligence seen from the software development lifecycle perspective - https://www.youtube.com/watch?v=a_T21Lf26pc",
             "Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY",
-            "The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai"
+            "The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai",
+            "Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw"
         ],
         "airtable_createdTime": "2021-08-14T07:25:39.000Z",
         "airtable_id": "recmuONwokRtPS6Tp"
     },
     {
-        "Last Modified": "2024-07-26T08:47:15.000Z",
+        "Last Modified": "2024-08-18T07:58:08.000Z",
         "Name": "Evolutionary Design",
         "Resources": [
             "recHTVTL3hM9YyEuY",
@@ -4277,9 +4347,10 @@
             "reck60FOvatP5hPnd",
             "reckjL9O859XqGTqO",
             "recRyKUpTpRQJdke4",
-            "recnyzknPWJh5BuFV"
+            "recnyzknPWJh5BuFV",
+            "reczYEOBiA6KzE1Gv"
         ],
-        "Resources number": 16,
+        "Resources number": 17,
         "Speakers": [
             "YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI",
             "Boundaries - https://www.youtube.com/watch?v=eOYal8elnZk",
@@ -4296,10 +4367,24 @@
             "Many More Much Smaller Steps with GeePaw Hill - https://www.youtube.com/watch?v=lHoOUylvfxQ",
             "The art of destroying software - https://www.youtube.com/watch?v=Ed94CfxgsCA",
             "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
-            "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y"
+            "275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y",
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
         ],
         "airtable_createdTime": "2020-06-14T11:21:28.000Z",
         "airtable_id": "recnvzS3XS3MGHk3e"
+    },
+    {
+        "Last Modified": "2024-08-18T08:10:31.000Z",
+        "Name": "erlang",
+        "Resources": [
+            "recN5kKqqCeEjWegT"
+        ],
+        "Resources number": 1,
+        "Speakers": [
+            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA"
+        ],
+        "airtable_createdTime": "2024-08-18T08:10:31.000Z",
+        "airtable_id": "recoGeI1oZSkdKcJh"
     },
     {
         "Last Modified": "2023-11-18T15:45:51.000Z",

@@ -603,11 +603,15 @@
   airtable_createdTime: '2022-06-26T15:47:27.000Z'
   airtable_id: rec1OjPEfpTWlaDDP
   registered_at: '2022-06-26T15:47:27.000Z'
-- Created: '2024-06-27T12:04:43.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-06-27T12:04:43.000Z'
+  Description: |
+    Inspirational. These two minutes summarize very well why it is important to be fast but maintain control in order to be truly agile.
   Duration: 120
-  Last Modified: '2024-06-27T12:06:18.000Z'
+  Last Modified: '2024-08-18T09:00:31.000Z'
   Less 15: 1
   Name: 'Be Quick But Don''t Hurry '
+  Published: true
   Rating: 5
   Resource: Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM
   Resource type: talk
@@ -620,9 +624,11 @@
   Topics:
   - rechj5WeSQRH211np
   - recwjZlYYZq3zj7TU
+  - rec6JMQpL2LSjoP2E
   Topics_Names:
   - Agile
   - Culture
+  - Inspirational
   Url: https://www.youtube.com/watch?v=_pwSyzNwMHM
   airtable_createdTime: '2024-06-27T12:04:43.000Z'
   airtable_id: rec1V4GfD9UbYT2V4
@@ -2776,9 +2782,10 @@
   Created: '2020-01-19T20:32:20.000Z'
   Description: |
     A new version of a classic one. A great talk.
+  Duration: 2400
   Language: English
-  Last Modified: '2023-11-19T13:51:34.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:33:17.000Z'
+  Less 15: 0
   Name: "Continuous Delivery Sounds Great But It Won\u2019t Work Here"
   Published: true
   Rating: 5
@@ -4973,6 +4980,38 @@
   airtable_createdTime: '2022-08-15T15:35:56.000Z'
   airtable_id: recCTXXPpMeHzHRXI
   registered_at: '2022-08-15T15:35:56.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-18T07:45:18.000Z'
+  Description: |
+    Suhail Patel discusses the art and practice of building systems from core principles with a focus on how this can be done in practice within teams and organisations. Very interesting talk with many details about system implementation, taking into account the changes that have occurred in the hardware.
+  Duration: 3180
+  Language: English
+  Last Modified: '2024-08-18T09:00:29.000Z'
+  Less 15: 0
+  Name: The Joy of Building Large Scale Systems
+  Published: true
+  Resource: The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recOzG8s9oicHcNDi
+  Speakers_Names:
+  - Suhail Patel
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recYUfHSzJzot7zSJ
+  - recWFKWrPEdeEYbzx
+  - recgcJy2O48j2V5SW
+  Topics_Names:
+  - Architecture
+  - Microservices
+  - Engineering Culture
+  - Scalability
+  Url: https://www.youtube.com/watch?v=lLbcvGgxCPg
+  airtable_createdTime: '2024-08-18T07:45:18.000Z'
+  airtable_id: recCTj8eJ0Za6tae4
+  registered_at: '2024-08-18T07:45:18.000Z'
 - Blog Url: https://www.eferro.net/2014/09/podcaststalks-2014-15-21sept.html
   Created: '2020-01-19T20:37:44.000Z'
   Description: |
@@ -5479,9 +5518,10 @@
   Created: '2020-01-19T20:37:08.000Z'
   Description: |
     2011\. Great talk and a good excuse to study functional programming.
+  Duration: 3660
   Language: English
-  Last Modified: '2023-10-15T18:48:54.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:38:32.000Z'
+  Less 15: 0
   Name: Simple Made Easy
   Published: true
   Rating: 5
@@ -5674,9 +5714,11 @@
   registered_at: '2023-08-26T21:25:52.000Z'
 - Blog Url: https://www.eferro.net/2018/07/good-talkspodcasts-junjul-2018-i.html
   Created: '2020-01-19T20:33:19.000Z'
+  Description: |
+    A good summary of how accelerating the iteration pace is fundamental for innovation and how the cloud can help with it.
   Duration: 840
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-08-18T21:30:34.000Z'
   Less 15: 1
   Name: Digital Transformation
   Published: true
@@ -9391,6 +9433,42 @@
   airtable_createdTime: '2020-01-19T20:34:06.000Z'
   airtable_id: recN2OiGQL1lafVnC
   registered_at: '2020-01-19T20:34:06.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-18T08:04:12.000Z'
+  Description: |
+    This talk delves into how the Erlang concurrency model, initially developed for telecom systems in the 90s, is now vital for modern cloud-based microservices, mobile apps, and machine learning. Presenters Robert and Francesco emphasize how functional languages and fault-tolerant computing principles are essential for distributed multi-core architectures across cloud, edge, and IoT networks.
+  Duration: 3120
+  Language: English
+  Last Modified: '2024-08-18T09:00:27.000Z'
+  Less 15: 0
+  Name: Concurrency Oriented Programming in a Modern World
+  Published: true
+  Rating: 4
+  Resource: Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recf5AvJXByqP6B1w
+  - recshpc27lJM1Cxjm
+  Speakers_Names:
+  - Francesco Cesarini
+  - Robert Virding
+  Topics:
+  - recgcJy2O48j2V5SW
+  - recm1G3xxDIQZ5dKc
+  - recYUfHSzJzot7zSJ
+  - recoGeI1oZSkdKcJh
+  Topics_Names:
+  - Scalability
+  - Architecture patterns
+  - Microservices
+  - erlang
+  Url: https://www.youtube.com/watch?v=AvA97AB8cAA
+  airtable_createdTime: '2024-08-18T08:04:12.000Z'
+  airtable_id: recN5kKqqCeEjWegT
+  registered_at: '2024-08-18T08:04:12.000Z'
 - Blog Url: https://www.eferro.net/2018/11/good-talkspodcasts-nov-2018-i.html
   Created: '2020-01-19T20:34:00.000Z'
   Description: "Interesting talk to understand failure\_and how to architect to be\
@@ -10005,9 +10083,11 @@
   registered_at: '2020-01-19T20:33:11.000Z'
 - Blog Url: https://www.eferro.net/2018/05/good-talkspodcasts-april-2018.html
   Created: '2020-01-19T20:32:56.000Z'
+  Description: |
+    Tom highlights radical ideas from _The Practice of Cloud System Administration_ on embracing failure to build resilient distributed systems, focusing on economic resiliency, performing risky procedures frequently, and creating a blameless culture.
   Duration: 3840
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2024-08-18T21:32:45.000Z'
   Less 15: 0
   Name: 'Fail Better: Radical Ideas from the Practice of Cloud Computing'
   Published: true
@@ -10739,9 +10819,10 @@
   Created: '2020-01-19T20:32:31.000Z'
   Description: |
     Modern agile and how to introduce it. (good ideas about, flow, value, and teams).
+  Duration: 3540
   Language: English
-  Last Modified: '2023-11-19T19:20:52.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:33:28.000Z'
+  Less 15: 0
   Name: The Journey to Continuous Delivery
   Published: true
   Rating: 5
@@ -11412,14 +11493,16 @@
   airtable_createdTime: '2021-11-07T19:17:17.000Z'
   airtable_id: recRtAWnx4lTVvYUO
   registered_at: '2021-11-07T19:17:17.000Z'
-- Created: '2024-07-26T08:37:11.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-07-26T08:37:11.000Z'
   Description: |
-    Second part of this great talk. Part1 https://www.youtube.com/watch?v=LtBRvsez8DI
+    The second part of this great talk. Part1 https://www.youtube.com/watch?v=LtBRvsez8DI
   Duration: 1440
   Language: English
-  Last Modified: '2024-07-26T08:40:41.000Z'
+  Last Modified: '2024-08-18T09:00:31.000Z'
   Less 15: 0
   Name: YOW! 2019 Evolutionary Design Animated (Part2)
+  Published: true
   Rating: 5
   Resource: YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   Resource type: talk
@@ -11875,9 +11958,10 @@
   Created: '2020-06-27T07:02:05.000Z'
   Description: |
     Sam Newman shares some key principles and a number of patterns to use to incrementally decompose an existing system into microservices. He covers patterns that can work to migrate functionality out of systems hard to change, and looks at the use of strangler patterns, change data capture, database decomposition and more.
+  Duration: 2940
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:40:27.000Z'
+  Less 15: 0
   Name: Monolith Decomposition Patterns
   Published: true
   Rating: 5
@@ -12641,12 +12725,16 @@
   airtable_createdTime: '2021-06-19T11:36:24.000Z'
   airtable_id: recV8nQoAtEg5osDg
   registered_at: '2021-06-19T11:36:24.000Z'
-- Created: '2024-08-17T21:10:31.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-17T21:10:31.000Z'
+  Description: |
+    Very good talk about the nature of software development and the approach to the profession. Dan talks about software as a medium, continuous learning, teamwork, etc. Highly recommended.
   Duration: 3360
   Language: English
-  Last Modified: '2024-08-17T21:11:15.000Z'
+  Last Modified: '2024-08-18T09:00:30.000Z'
   Less 15: 0
   Name: 'The best programmer I know '
+  Published: true
   Rating: 5
   Resource: The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk
   Resource type: talk
@@ -12656,6 +12744,18 @@
   - recFwCH6SfELfIX3t
   Speakers_Names:
   - Dan North
+  Topics:
+  - recWFKWrPEdeEYbzx
+  - rec6JMQpL2LSjoP2E
+  - rechj5WeSQRH211np
+  - recD5hNaJCwpTdERc
+  - reci9edTzz7GIxek0
+  Topics_Names:
+  - Engineering Culture
+  - Inspirational
+  - Agile
+  - Engineering Career
+  - Nature of Software Development
   Url: https://www.youtube.com/watch?v=D6aUoGK2rkk
   airtable_createdTime: '2024-08-17T21:10:31.000Z'
   airtable_id: recVFSquUdCuGrS16
@@ -15686,6 +15786,39 @@
   airtable_createdTime: '2020-01-19T20:33:17.000Z'
   airtable_id: recciPeK3aI8C25dC
   registered_at: '2020-01-19T20:33:17.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-18T08:13:50.000Z'
+  Description: "\nVery good talk about the benefits of using Trunk Based Development\
+    \ (or in other words, the practice of CI as it was originally created).\t\n"
+  Duration: 3360
+  Language: English
+  Last Modified: '2024-08-18T09:00:26.000Z'
+  Less 15: 0
+  Name: "Continuous Integration: That\u2019s Not What They Meant"
+  Published: true
+  Rating: 5
+  Resource: "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
+  Resource type: talk
+  Speaker WomenInTech:
+  - true
+  Speakers:
+  - recXJzmBYl50usz11
+  Speakers_Names:
+  - Clare Sudbery
+  Topics:
+  - recFbzSbd07ttDIYJ
+  - recYkFYw6BSRfA0Ce
+  - recLYwn1IYVGWYavk
+  - rec4gRjrYk5XVT03n
+  Topics_Names:
+  - Technical Practices
+  - XP
+  - CI
+  - Trunk Based Development
+  Url: https://www.youtube.com/watch?v=97qyNQz7fxY
+  airtable_createdTime: '2024-08-18T08:13:50.000Z'
+  airtable_id: recclNm0J3dDOzoHt
+  registered_at: '2024-08-18T08:13:50.000Z'
 - Blog Url: https://www.eferro.net/2019/01/good-talkspodcasts-jan-2019-i.html
   Created: '2020-01-19T20:39:59.000Z'
   Description: |
@@ -15772,9 +15905,10 @@
   Created: '2020-01-19T20:34:08.000Z'
   Description: |
     Interesting talk to understand some concepts about simplicity and hiden accidental complexity.
+  Duration: 2700
   Language: English
-  Last Modified: '2023-11-18T15:34:58.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:36:58.000Z'
+  Less 15: 0
   Name: 'Keynote: 8 Lines of Code'
   Published: true
   Rating: 5
@@ -17318,6 +17452,35 @@
   airtable_createdTime: '2020-01-19T20:42:24.000Z'
   airtable_id: recgEfBpQDruUARDa
   registered_at: '2020-01-19T20:42:24.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-18T08:21:22.000Z'
+  Description: |
+    Simple explanation of what AI is, Generative AI, and how it works at a high level. It's not a detailed explanation, but it's very useful if you want to explain it to someone without a technological background.
+  Duration: 1020
+  Language: English
+  Last Modified: '2024-08-18T09:00:25.000Z'
+  Less 15: 0
+  Name: Generative AI in a Nutshell - how to survive and thrive in the age of AI
+  Published: true
+  Resource: Generative AI in a Nutshell - how to survive and thrive in the age of
+    AI - https://www.youtube.com/watch?v=2IK3DFHRFfw
+  Resource type: video
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recZna9MiT6dErU4E
+  Speakers_Names:
+  - Henrik Kniberg
+  Topics:
+  - recmuONwokRtPS6Tp
+  - recbJb6M6X8AZPTRc
+  Topics_Names:
+  - AI
+  - Generative AI
+  Url: https://www.youtube.com/watch?v=2IK3DFHRFfw
+  airtable_createdTime: '2024-08-18T08:21:22.000Z'
+  airtable_id: recgKG33Jjit6WvBS
+  registered_at: '2024-08-18T08:21:22.000Z'
 - Blog Url: https://www.eferro.net/2023/06/good-talkspodcasts-jun-2023-i.html
   Created: '2023-06-18T06:44:04.000Z'
   Description: |
@@ -18331,9 +18494,10 @@
   Created: '2020-01-19T20:35:00.000Z'
   Description: |
     Dan North and Jessica Kerr make a journey through complexity. At the other side we may find simplicity, or we may find the light at the end of the tunnel is just another oncoming ESB.
+  Duration: 2400
   Language: English
-  Last Modified: '2023-10-05T15:23:09.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:37:17.000Z'
+  Less 15: 0
   Name: Complexity is Outside the Code
   Published: true
   Rating: 5
@@ -25927,9 +26091,10 @@
   Created: '2020-01-19T20:34:45.000Z'
   Description: "IMHO this is the more interesting talk I show this year. No spoilers\
     \ :) \_ I agree one hundred per cent with the talk.\_Just show it.\n"
+  Duration: 2880
   Language: English
-  Last Modified: '2023-11-18T15:36:12.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:37:08.000Z'
+  Less 15: 0
   Name: 'Microservices: Software that Fits in Your Head'
   Published: true
   Rating: 5
@@ -25951,6 +26116,44 @@
   airtable_createdTime: '2020-01-19T20:34:45.000Z'
   airtable_id: reczX8K9qeisrKC5a
   registered_at: '2020-01-19T20:34:45.000Z'
+- Blog Url: https://www.eferro.net/2024/08/good-talkspodcasts-aug-2024-i.html
+  Created: '2024-08-18T07:55:26.000Z'
+  Description: |
+    Classic presentation by Alan Kay talks about the nature of software, the design that systems should have, scalability, and how, to some extent, we could compare it to how biological systems work. Many of the ideas behind Smalltalk can be identified in the talk.. Inspirational.
+  Duration: 3840
+  Language: English
+  Last Modified: '2024-08-18T09:00:28.000Z'
+  Less 15: 0
+  Name: Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet
+  Published: true
+  Rating: 5
+  Resource: Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet -
+    https://www.youtube.com/watch?v=oKg1hTOQXoY
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rec9Rxye2W4LbURfq
+  Speakers_Names:
+  - Alan Kay
+  Topics:
+  - reci9edTzz7GIxek0
+  - recWFKWrPEdeEYbzx
+  - rec6JMQpL2LSjoP2E
+  - recPDGLhpXxkxbDoU
+  - recm3GCPgEVSDmeVI
+  - recnvzS3XS3MGHk3e
+  Topics_Names:
+  - Nature of Software Development
+  - Engineering Culture
+  - Inspirational
+  - OOP
+  - Software Design
+  - Evolutionary Design
+  Url: https://www.youtube.com/watch?v=oKg1hTOQXoY
+  airtable_createdTime: '2024-08-18T07:55:26.000Z'
+  airtable_id: reczYEOBiA6KzE1Gv
+  registered_at: '2024-08-18T07:55:26.000Z'
 - Blog Url: https://www.eferro.net/2020/09/good-talkspodcasts-sept-2020-i.html
   Created: '2020-08-31T21:03:01.000Z'
   Description: |
