@@ -18825,9 +18825,10 @@
     \ demonstrates a method (Parallel Change) of reducing the red while refactoring\
     \ code, and discusses another approach called Narrowed Change, and answers refactoring\
     \ related questions.\n"
+  Duration: 3480
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
-  Less 15: 1
+  Last Modified: '2024-08-18T21:43:32.000Z'
+  Less 15: 0
   Name: The Limited Red Society
   Published: true
   Rating: 5
@@ -22878,10 +22879,11 @@
     \ y la necesidad de una etica profesional fuerte.\n"
   Duration: 2040
   Language: Spanish
-  Last Modified: '2024-02-02T07:34:19.000Z'
+  Last Modified: '2024-08-18T21:54:01.000Z'
   Less 15: 0
   Name: "\xBFQue es un programador y cual es su papel en la sociedad?"
   Published: true
+  Rating: 5
   Resource: "\xBFQue es un programador y cual es su papel en la sociedad? - https://www.youtube.com/watch?v=n-l4vSVJkNY"
   Resource type: talk
   Speaker WomenInTech:
