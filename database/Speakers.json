@@ -3799,7 +3799,7 @@
         "airtable_id": "rech2bt9qtqStowwC"
     },
     {
-        "Last Modified": "2024-03-30T16:31:51.000Z",
+        "Last Modified": "2024-09-02T21:41:14.000Z",
         "Name": "Kent Beck",
         "Resources": [
             "recr8YgSEnZaZTYLJ",
@@ -3826,7 +3826,8 @@
             "recJQ6cyJaPhW0dGq",
             "recdLJvVSnFgDDGV9",
             "recYiENUKo6bXuUaI",
-            "recFtAOKr4s4dauLP"
+            "recFtAOKr4s4dauLP",
+            "recMKaRM5scFVWgij"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "rechBhL1vENLzvUi6"
@@ -4220,6 +4221,16 @@
         ],
         "airtable_createdTime": "2020-07-08T07:02:34.000Z",
         "airtable_id": "reckliDngQRAgSV4n"
+    },
+    {
+        "Last Modified": "2024-09-02T21:41:09.000Z",
+        "Name": "Eric Ries",
+        "Resources": [
+            "recLu6ITwHRiiZwbF",
+            "recMKaRM5scFVWgij"
+        ],
+        "airtable_createdTime": "2024-09-02T21:28:27.000Z",
+        "airtable_id": "recl3vC0lO8YhUhlK"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",

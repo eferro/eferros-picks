@@ -894,13 +894,17 @@
   - The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8
   airtable_createdTime: '2023-11-19T19:34:48.000Z'
   airtable_id: recDJCrzfZkg89BP0
-- Last Modified: '2023-08-26T18:48:53.000Z'
+- Last Modified: '2024-09-02T21:41:39.000Z'
   Name: Lean Startup
   Resources:
   - reclsxslEsaXTMpfo
-  Resources number: 1
+  - recLu6ITwHRiiZwbF
+  - recMKaRM5scFVWgij
+  Resources number: 3
   Speakers:
   - Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q
+  - 'Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/'
+  - A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU
   airtable_createdTime: '2023-08-26T18:48:53.000Z'
   airtable_id: recDLQajzALuoHW40
 - Last Modified: '2023-11-18T15:43:33.000Z'
@@ -2562,7 +2566,7 @@
   - Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2024-08-18T08:16:23.000Z'
+- Last Modified: '2024-09-02T21:41:48.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2636,7 +2640,8 @@
   - recFtAOKr4s4dauLP
   - recRyKUpTpRQJdke4
   - recclNm0J3dDOzoHt
-  Resources number: 71
+  - recMKaRM5scFVWgij
+  Resources number: 72
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2717,6 +2722,7 @@
   - JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/
   - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
+  - A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2022-11-20T09:31:14.000Z'
@@ -3611,7 +3617,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2024-07-24T22:33:47.000Z'
+- Last Modified: '2024-09-02T21:41:44.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3689,7 +3695,8 @@
   - reckLLBX9RVTL7oFm
   - recYcBPXaIf60Q2Lh
   - recMtH696LP1LMtlW
-  Resources number: 75
+  - recLu6ITwHRiiZwbF
+  Resources number: 76
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3772,6 +3779,7 @@
   - Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery
     - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   - Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE
+  - 'Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2024-03-30T16:23:54.000Z'

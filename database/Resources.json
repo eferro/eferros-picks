@@ -10607,6 +10607,37 @@
         "registered_at": "2020-01-19T20:32:16.000Z"
     },
     {
+        "Created": "2024-09-02T21:27:42.000Z",
+        "Duration": 3480,
+        "Language": "English",
+        "Last Modified": "2024-09-02T21:41:44.000Z",
+        "Less 15": 0,
+        "Name": "Eric Ries: The Science of Lean Startups",
+        "Resource": "Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recl3vC0lO8YhUhlK"
+        ],
+        "Speakers_Names": [
+            "Eric Ries"
+        ],
+        "Topics": [
+            "recDLQajzALuoHW40",
+            "recin3Ync8iZldW0q"
+        ],
+        "Topics_Names": [
+            "Lean Startup",
+            "Continuous Delivery"
+        ],
+        "Url": "https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/",
+        "airtable_createdTime": "2024-09-02T21:27:42.000Z",
+        "airtable_id": "recLu6ITwHRiiZwbF",
+        "registered_at": "2024-09-02T21:27:42.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:15.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -10779,6 +10810,40 @@
         "airtable_createdTime": "2020-07-27T08:02:02.000Z",
         "airtable_id": "recMGlBhfcLvvKry6",
         "registered_at": "2020-07-27T08:02:02.000Z"
+    },
+    {
+        "Created": "2024-09-02T21:40:25.000Z",
+        "Duration": 3840,
+        "Language": "English",
+        "Last Modified": "2024-09-02T21:41:48.000Z",
+        "Less 15": 0,
+        "Name": "A Conversation with Kent Beck and Eric Ries",
+        "Resource": "A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "recl3vC0lO8YhUhlK",
+            "rechBhL1vENLzvUi6"
+        ],
+        "Speakers_Names": [
+            "Eric Ries",
+            "Kent Beck"
+        ],
+        "Topics": [
+            "recDLQajzALuoHW40",
+            "recYkFYw6BSRfA0Ce"
+        ],
+        "Topics_Names": [
+            "Lean Startup",
+            "XP"
+        ],
+        "Url": "https://www.youtube.com/watch?v=dHvfUssSWZU",
+        "airtable_createdTime": "2024-09-02T21:40:25.000Z",
+        "airtable_id": "recMKaRM5scFVWgij",
+        "registered_at": "2024-09-02T21:40:25.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/10/good-talkspodcasts-oct-2018-i.html",

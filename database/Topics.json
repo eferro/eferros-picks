@@ -955,14 +955,18 @@
         "airtable_id": "recDJCrzfZkg89BP0"
     },
     {
-        "Last Modified": "2023-08-26T18:48:53.000Z",
+        "Last Modified": "2024-09-02T21:41:39.000Z",
         "Name": "Lean Startup",
         "Resources": [
-            "reclsxslEsaXTMpfo"
+            "reclsxslEsaXTMpfo",
+            "recLu6ITwHRiiZwbF",
+            "recMKaRM5scFVWgij"
         ],
-        "Resources number": 1,
+        "Resources number": 3,
         "Speakers": [
-            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q"
+            "Tips For Technical Startup Founders | Startup School - https://www.youtube.com/watch?v=rP7bpYsfa6Q",
+            "Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/",
+            "A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU"
         ],
         "airtable_createdTime": "2023-08-26T18:48:53.000Z",
         "airtable_id": "recDLQajzALuoHW40"
@@ -2688,7 +2692,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2024-08-18T08:16:23.000Z",
+        "Last Modified": "2024-09-02T21:41:48.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2761,9 +2765,10 @@
             "recBgNNTaB15VLMCw",
             "recFtAOKr4s4dauLP",
             "recRyKUpTpRQJdke4",
-            "recclNm0J3dDOzoHt"
+            "recclNm0J3dDOzoHt",
+            "recMKaRM5scFVWgij"
         ],
-        "Resources number": 71,
+        "Resources number": 72,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2835,7 +2840,8 @@
             "GeePaw Hill on Incremental Software Delivery - https://www.youtube.com/watch?v=NDXV16uheNs",
             "JUXT Cast S5E4 - Special with Kent Beck - https://www.juxt.pro/blog/kent-beck-podcast/",
             "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
-            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
+            "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY",
+            "A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3757,7 +3763,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2024-07-24T22:33:47.000Z",
+        "Last Modified": "2024-09-02T21:41:44.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -3834,9 +3840,10 @@
             "recV10zLe4vGY7YPO",
             "reckLLBX9RVTL7oFm",
             "recYcBPXaIf60Q2Lh",
-            "recMtH696LP1LMtlW"
+            "recMtH696LP1LMtlW",
+            "recLu6ITwHRiiZwbF"
         ],
-        "Resources number": 75,
+        "Resources number": 76,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -3912,7 +3919,8 @@
             "\u201cIndustry Changing Book\u201d | Jez Humble & Dave Reflect On Continuous Delivery - https://www.youtube.com/watch?v=ikrNZxKOrJQ",
             "Continuous Delivery vs. Gitflow & CD At Scale | Bryan Finster In The Engineering Room Ep. 11 - https://www.youtube.com/watch?v=ulRCs7xQA74",
             "Evolutionary Architecture and Microservices - A Match Enabled by Continuous Delivery - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd",
-            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE"
+            "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
+            "Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
