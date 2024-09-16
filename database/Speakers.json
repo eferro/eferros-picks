@@ -247,7 +247,7 @@
         "airtable_id": "rec34pB6gwXOLM3t7"
     },
     {
-        "Last Modified": "2023-06-18T06:38:24.000Z",
+        "Last Modified": "2024-09-15T07:28:15.000Z",
         "Name": "Adam Hawkins",
         "Resources": [
             "rec5MK2KUQVjRiY3I",
@@ -256,7 +256,8 @@
             "reclUShJUPwxcpTBq",
             "recmOIICcAQeELLxO",
             "recRGemuzb1VbhcSj",
-            "recXmr49q5ciJGAMp"
+            "recXmr49q5ciJGAMp",
+            "recceiIXetqPomvUx"
         ],
         "airtable_createdTime": "2021-08-14T20:41:37.000Z",
         "airtable_id": "rec35SAap9XVFNmP9"
@@ -737,13 +738,14 @@
         "airtable_id": "rec8aLoMmmQ9K1COf"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-09-15T07:37:41.000Z",
         "Name": "Simon Wardley",
         "Resources": [
             "recEontBoZ5oY8Bc1",
             "reccRmzSyVDPti8Rt",
             "rece8B11u0Arm1S6H",
-            "rec0L5sGoMCbQvVWQ"
+            "rec0L5sGoMCbQvVWQ",
+            "recdLIMS2kPAda6MP"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "rec8kTBPLmBnKVM6g"
@@ -1444,6 +1446,16 @@
         "airtable_id": "recIajNj61tq4HksP"
     },
     {
+        "Last Modified": "2024-09-15T07:21:10.000Z",
+        "Name": "Cassandra Shum",
+        "Resources": [
+            "reccfJsxaBnA09Cmu"
+        ],
+        "WomenInTech": true,
+        "airtable_createdTime": "2024-09-15T07:20:54.000Z",
+        "airtable_id": "recIpL0EvFEChNxJy"
+    },
+    {
         "Last Modified": "2023-06-18T06:28:48.000Z",
         "Name": "Andreas Wittig",
         "Resources": [
@@ -2004,11 +2016,12 @@
         "airtable_id": "recP22n8vdPeLgGG8"
     },
     {
-        "Last Modified": "2023-08-26T21:28:58.000Z",
+        "Last Modified": "2024-09-15T07:22:09.000Z",
         "Name": "Nerea Luis",
         "Resources": [
             "recOuZnBtAOlBoiwo"
         ],
+        "WomenInTech": true,
         "airtable_createdTime": "2023-08-26T21:28:58.000Z",
         "airtable_id": "recP2A3mHqqu0ARQT"
     },
@@ -2485,11 +2498,12 @@
         "airtable_id": "recUAu6agxaDrULB5"
     },
     {
-        "Last Modified": "2024-01-22T16:08:26.000Z",
+        "Last Modified": "2024-09-15T07:22:02.000Z",
         "Name": "Cansu Karayel",
         "Resources": [
             "rec4yxbXm5lq421Ui"
         ],
+        "WomenInTech": true,
         "airtable_createdTime": "2024-01-22T16:08:26.000Z",
         "airtable_id": "recUG3ezjc86NIqTL"
     },
@@ -2893,12 +2907,13 @@
         "airtable_id": "recY7HOhL2eug6FfB"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-09-15T07:47:34.000Z",
         "Name": "Daniel Bryant",
         "Resources": [
             "recMiWcddhzWezOrf",
             "recmrK619G2nRlb70",
-            "recNZsQIennGhyS5c"
+            "recNZsQIennGhyS5c",
+            "recuryjF7KHysdtUl"
         ],
         "airtable_createdTime": "2021-07-03T07:05:00.000Z",
         "airtable_id": "recYBjSGZpGBpqebJ"
@@ -3833,11 +3848,12 @@
         "airtable_id": "rechBhL1vENLzvUi6"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-09-15T07:23:27.000Z",
         "Name": "Donella Meadows",
         "Resources": [
             "recnnQul0ekn6r0B9"
         ],
+        "WomenInTech": true,
         "airtable_createdTime": "2022-12-08T20:08:53.000Z",
         "airtable_id": "rechChDgQe1L6SsYX"
     },
@@ -4184,6 +4200,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "reckAL7HjXE9wF4fg"
+    },
+    {
+        "Last Modified": "2024-09-15T06:51:50.000Z",
+        "Name": "Grady Booch",
+        "Resources": [
+            "recHORJ4ydowbim4n"
+        ],
+        "airtable_createdTime": "2024-09-15T06:51:50.000Z",
+        "airtable_id": "reckCLx6MPuIlUaIb"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -4608,11 +4633,12 @@
         "airtable_id": "recpZbhiDiMhj58fu"
     },
     {
-        "Last Modified": "2024-01-22T16:08:40.000Z",
+        "Last Modified": "2024-09-15T07:21:46.000Z",
         "Name": "Gemma Cortel",
         "Resources": [
             "rec4yxbXm5lq421Ui"
         ],
+        "WomenInTech": true,
         "airtable_createdTime": "2024-01-22T16:08:40.000Z",
         "airtable_id": "recpZlR0cYBDjj0Gr"
     },

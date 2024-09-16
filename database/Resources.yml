@@ -1860,8 +1860,8 @@
   Resource: Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8
   Resource type: talk
   Speaker WomenInTech:
-  - null
-  - null
+  - true
+  - true
   Speakers:
   - recUG3ezjc86NIqTL
   - recpZlR0cYBDjj0Gr
@@ -7057,6 +7057,37 @@
   airtable_createdTime: '2021-08-29T11:42:40.000Z'
   airtable_id: recHM4gtNtsBwBtBP
   registered_at: '2021-08-29T11:42:40.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-15T06:51:12.000Z'
+  Description: |
+    Interesting journey through the history of our profession and some predictions about the future with one of the main protagonists (Grady Booch). Very interesting, both the talk and the subsequent questions.
+  Duration: 4140
+  Language: English
+  Last Modified: '2024-09-15T08:07:46.000Z'
+  Less 15: 0
+  Name: The future of software engineering
+  Published: true
+  Rating: 5
+  Resource: The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - reckCLx6MPuIlUaIb
+  Speakers_Names:
+  - Grady Booch
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recWFKWrPEdeEYbzx
+  - recmuONwokRtPS6Tp
+  Topics_Names:
+  - Inspirational
+  - Engineering Culture
+  - AI
+  Url: https://www.youtube.com/watch?v=-hnguwVg-iE
+  airtable_createdTime: '2024-09-15T06:51:12.000Z'
+  airtable_id: recHORJ4ydowbim4n
+  registered_at: '2024-09-15T06:51:12.000Z'
 - Blog Url: https://www.eferro.net/2022/01/good-talkspodcasts-january-2022-ii.html
   Created: '2022-01-22T19:31:36.000Z'
   Description: |
@@ -8968,12 +8999,17 @@
   airtable_createdTime: '2020-01-19T20:32:16.000Z'
   airtable_id: recLoYdYP5G0UM8GT
   registered_at: '2020-01-19T20:32:16.000Z'
-- Created: '2024-09-02T21:27:42.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-02T21:27:42.000Z'
+  Description: |
+    I believe this is the best talk I have heard from Eric about the ideas of Lean Startup. It is also very enlightening to see how one of the fundamental pieces is continuous deployment and the engineering practices he uses. Essential.
   Duration: 3480
   Language: English
-  Last Modified: '2024-09-02T21:41:44.000Z'
+  Last Modified: '2024-09-15T08:07:48.000Z'
   Less 15: 0
   Name: 'Eric Ries: The Science of Lean Startups'
+  Published: true
+  Rating: 5
   Resource: 'Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/'
   Resource type: talk
   Speaker WomenInTech:
@@ -8985,9 +9021,11 @@
   Topics:
   - recDLQajzALuoHW40
   - recin3Ync8iZldW0q
+  - rec6JMQpL2LSjoP2E
   Topics_Names:
   - Lean Startup
   - Continuous Delivery
+  - Inspirational
   Url: https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/
   airtable_createdTime: '2024-09-02T21:27:42.000Z'
   airtable_id: recLu6ITwHRiiZwbF
@@ -9145,12 +9183,16 @@
   airtable_createdTime: '2020-07-27T08:02:02.000Z'
   airtable_id: recMGlBhfcLvvKry6
   registered_at: '2020-07-27T08:02:02.000Z'
-- Created: '2024-09-02T21:40:25.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-02T21:40:25.000Z'
+  Description: |
+    Interesting conversation between the author of Lean Startup and the author of XP. Clearly, there are synergies between the two movements, and they complement each other perfectly. With both approaches, I believe we can fully cover "Building the right thing, and building the thing right."
   Duration: 3840
   Language: English
-  Last Modified: '2024-09-02T21:41:48.000Z'
+  Last Modified: '2024-09-15T08:07:47.000Z'
   Less 15: 0
   Name: A Conversation with Kent Beck and Eric Ries
+  Published: true
   Resource: A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU
   Resource type: videopodcast
   Speaker WomenInTech:
@@ -10257,7 +10299,7 @@
     - https://www.youtube.com/watch?v=a_T21Lf26pc
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - recP2A3mHqqu0ARQT
   Speakers_Names:
@@ -15787,6 +15829,69 @@
   airtable_createdTime: '2020-01-19T20:39:19.000Z'
   airtable_id: reccRmzSyVDPti8Rt
   registered_at: '2020-01-19T20:39:19.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-15T07:27:42.000Z'
+  Description: |
+    Adam presents in this episode an interesting mental model that he calls T1 and T2 signals. It's worth understanding this model.
+  Duration: 1020
+  Language: English
+  Last Modified: '2024-09-15T08:07:45.000Z'
+  Less 15: 0
+  Name: T1 and T2 Signals
+  Published: true
+  Rating: 5
+  Resource: T1 and T2 Signals - https://smallbatches.fm/109
+  Resource type: podcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rec35SAap9XVFNmP9
+  Speakers_Names:
+  - Adam Hawkins
+  Topics:
+  - recSPiTKbfuhfkshg
+  - recO11XlolI72a1fV
+  - recPoM7t8neA7gkZ5
+  Topics_Names:
+  - Operations
+  - Lean
+  - Devops
+  Url: https://smallbatches.fm/109
+  airtable_createdTime: '2024-09-15T07:27:42.000Z'
+  airtable_id: recceiIXetqPomvUx
+  registered_at: '2024-09-15T07:27:42.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-15T07:20:16.000Z'
+  Description: |
+    Cassandra Shum discusses one of the bottlenecks of software development, an overcomplicated architecture, addressing how a company gets to an overcomplicated architecture, and how to get out of it.
+  Duration: 2940
+  Language: English
+  Last Modified: '2024-09-15T08:07:45.000Z'
+  Less 15: 0
+  Name: 'Overcomplicated Architecture: Scaling Bottleneck'
+  Published: true
+  Resource: 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
+  Resource type: talk
+  Speaker WomenInTech:
+  - true
+  Speakers:
+  - recIpL0EvFEChNxJy
+  Speakers_Names:
+  - Cassandra Shum
+  Topics:
+  - recQ4hio93eTgzFTS
+  - recm1G3xxDIQZ5dKc
+  - recs8FWnaRcAcdOoW
+  - recWFKWrPEdeEYbzx
+  Topics_Names:
+  - Architecture
+  - Architecture patterns
+  - Evolutionary Architecture
+  - Engineering Culture
+  Url: https://www.infoq.com/presentations/overcomplicated-architecture/
+  airtable_createdTime: '2024-09-15T07:20:16.000Z'
+  airtable_id: reccfJsxaBnA09Cmu
+  registered_at: '2024-09-15T07:20:16.000Z'
 - Blog Url: https://www.eferro.net/2018/09/index.html
   Created: '2020-01-19T20:32:41.000Z'
   Description: |
@@ -16171,6 +16276,40 @@
   airtable_createdTime: '2020-01-19T20:32:20.000Z'
   airtable_id: recdHOiGfQoVZDKB3
   registered_at: '2020-01-19T20:32:20.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-15T07:36:48.000Z'
+  Description: |
+    Simon has given this talk several times, in which he presents Wardley maps and how to use them to help with strategy. I particularly like this version because it uses very good examples, including one about when to use Agile development or Lean ideas. Very instructive.
+  Duration: 3900
+  Language: English
+  Last Modified: '2024-09-15T08:07:43.000Z'
+  Less 15: 0
+  Name: Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones
+  Published: true
+  Rating: 5
+  Resource: Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones -
+    https://www.youtube.com/watch?v=KdR8_kqcpPQ
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rec8kTBPLmBnKVM6g
+  Speakers_Names:
+  - Simon Wardley
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - rec94mSWZ4bx2wFpf
+  - rec51AOvJVPEWfUVK
+  - recSz178X5sMJ2WW5
+  Topics_Names:
+  - Inspirational
+  - Technology Strategy
+  - Product Strategy
+  - Strategy
+  Url: https://www.youtube.com/watch?v=KdR8_kqcpPQ
+  airtable_createdTime: '2024-09-15T07:36:48.000Z'
+  airtable_id: recdLIMS2kPAda6MP
+  registered_at: '2024-09-15T07:36:48.000Z'
 - Blog Url: https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html
   Created: '2023-04-23T18:08:24.000Z'
   Description: |
@@ -21293,7 +21432,7 @@
   Resource: A Philosophical Look at System Dynamics - https://www.youtube.com/watch?app=desktop&v=XL_lOoomRTA&t=1139s
   Resource type: talk
   Speaker WomenInTech:
-  - null
+  - true
   Speakers:
   - rechChDgQe1L6SsYX
   Speakers_Names:
@@ -24283,6 +24422,35 @@
   airtable_createdTime: '2020-01-19T20:37:52.000Z'
   airtable_id: recunrsV8wo2ISydL
   registered_at: '2020-01-19T20:37:52.000Z'
+- Blog Url: https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html
+  Created: '2024-09-15T07:46:54.000Z'
+  Description: |
+    Good introduction to the different approaches to platform creation for development, with an emphasis on Platform Orchestrators, which are not as well-known but can play an important role in the success of these platforms.
+  Duration: 840
+  Language: English
+  Last Modified: '2024-09-15T08:07:42.000Z'
+  Less 15: 1
+  Name: 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms?'
+  Published: true
+  Resource: 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms?
+    - https://www.youtube.com/watch?v=t4IOnciAzbE'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recYBjSGZpGBpqebJ
+  Speakers_Names:
+  - Daniel Bryant
+  Topics:
+  - recbWs6dTsdPwfWnm
+  - recuR2w480ko3dSKR
+  Topics_Names:
+  - Platform
+  - Platform engineering
+  Url: https://www.youtube.com/watch?v=t4IOnciAzbE
+  airtable_createdTime: '2024-09-15T07:46:54.000Z'
+  airtable_id: recuryjF7KHysdtUl
+  registered_at: '2024-09-15T07:46:54.000Z'
 - Blog Url: https://www.eferro.net/2017/01/interesting-talks-and-podcast-episodes.html
   Created: '2020-01-19T20:42:21.000Z'
   Duration: 2400

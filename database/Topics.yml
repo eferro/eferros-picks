@@ -239,7 +239,7 @@
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   airtable_createdTime: '2022-02-06T21:19:54.000Z'
   airtable_id: rec4gRjrYk5XVT03n
-- Last Modified: '2023-11-18T15:45:58.000Z'
+- Last Modified: '2024-09-15T07:38:03.000Z'
   Name: Product Strategy
   Resources:
   - rec9OjoMhRCiQQxH4
@@ -263,7 +263,8 @@
   - recCtlo35BNB4e9Cv
   - recNTlpS9USi3zTOs
   - recLoYdYP5G0UM8GT
-  Resources number: 21
+  - recdLIMS2kPAda6MP
+  Resources number: 22
   Speakers:
   - Habits, Practices & Strategy For Building Viral Products - https://www.youtube.com/watch?v=5Qt5gjzKtZc
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
@@ -287,6 +288,7 @@
   - Scaling Shape Up Beyond Bootstrapped Companies - https://www.youtube.com/watch?v=XG4HxI1hZOA
   - Escaping the Build Trap - https://vimeo.com/224453335
   - Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc
+  - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
   airtable_createdTime: '2020-07-08T07:01:11.000Z'
   airtable_id: rec51AOvJVPEWfUVK
 - Last Modified: '2023-01-28T19:36:04.000Z'
@@ -317,7 +319,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2024-08-18T08:33:35.000Z'
+- Last Modified: '2024-09-15T07:37:46.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -442,7 +444,10 @@
   - recVFSquUdCuGrS16
   - reczYEOBiA6KzE1Gv
   - rec1V4GfD9UbYT2V4
-  Resources number: 122
+  - recHORJ4ydowbim4n
+  - recLu6ITwHRiiZwbF
+  - recdLIMS2kPAda6MP
+  Resources number: 125
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -573,6 +578,9 @@
   - The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk
   - Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY
   - Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM
+  - The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE
+  - 'Eric Ries: The Science of Lean Startups - https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/'
+  - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -675,7 +683,7 @@
   - Cloud for startup sucess - https://vimeo.com/131660205
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec945yNhVIzyZIuX
-- Last Modified: '2023-06-18T06:56:06.000Z'
+- Last Modified: '2024-09-15T07:37:56.000Z'
   Name: Technology Strategy
   Resources:
   - recEontBoZ5oY8Bc1
@@ -713,7 +721,8 @@
   - recYCVX1yuQJGpU40
   - recMP0fXsBeAYZEsH
   - recH9YE2PIzCNA8Zv
-  Resources number: 35
+  - recdLIMS2kPAda6MP
+  Resources number: 36
   Speakers:
   - 'Keynote: Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=xlNYYy8pzB4'
   - Why the fuss about serverless - https://www.softwaretalks.io/v/4568/why-the-fuss-about-serverless-simon-wardley-at-ijs-london-2018
@@ -755,6 +764,7 @@
   - Prioritizing Technical Debt as If Time & Money Matters. Goto 2022 - https://www.youtube.com/watch?v=w9YhmMPLQ4U
   - The Difference Between Continuous Delivery & Continuous Deployment - https://www.youtube.com/watch?v=7SNbDWob6cI
   - AWS Community Day Nordics 2023 - The Tao of Event-Driven Architectures - https://www.youtube.com/watch?v=9r9WDzzTcr0
+  - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec94mSWZ4bx2wFpf
 - Last Modified: '2023-10-15T18:50:59.000Z'
@@ -1382,7 +1392,7 @@
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   airtable_createdTime: '2024-08-18T08:16:43.000Z'
   airtable_id: recLYwn1IYVGWYavk
-- Last Modified: '2024-01-14T10:34:10.000Z'
+- Last Modified: '2024-09-15T07:28:36.000Z'
   Name: Lean
   Resources:
   - recGNYr6fwcuQrY7O
@@ -1429,7 +1439,8 @@
   - recohp2EMx3gJ4R14
   - recVNlmZ3pxKg3CQs
   - recbHb9Z2j3NTfOeU
-  Resources number: 44
+  - recceiIXetqPomvUx
+  Resources number: 45
   Speakers:
   - Podcast Agile Uprising Jeff Gothelf | Sense and Respond/Lean UX - https://www.ivoox.com/jeff-gothelf-sense-and-respond-lean-ux-audios-mp3_rf_18166157_1.html
   - If Russ Ackoff had given a TED Talk... - https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -1477,6 +1488,7 @@
   - lean customer development with Cindy Alvarez - https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez
   - The Improvement Kata in 10 Minutes - https://www.youtube.com/watch?v=uqZOu1D639Q
   - Paul Akers - How to apply lean thinking to your business for success - https://podcasts.apple.com/gb/podcast/scalex-insider-podcast/id1566729230?i=1000599670214
+  - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recO11XlolI72a1fV
 - Last Modified: '2024-08-18T07:57:46.000Z'
@@ -1580,7 +1592,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
-- Last Modified: '2023-11-19T19:37:01.000Z'
+- Last Modified: '2024-09-15T07:28:46.000Z'
   Name: Devops
   Resources:
   - recOeXIOfuU3plaew
@@ -1649,7 +1661,8 @@
   - recsO8sRpVmxeUmNM
   - recSi9cTXikmWOquX
   - recU3ahWWaBZfihRf
-  Resources number: 66
+  - recceiIXetqPomvUx
+  Resources number: 67
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -1726,9 +1739,10 @@
   - 'a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/'
   - Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg
   - "Devops and Dr Deming\u2019s 14 Points - https://www.youtube.com/watch?v=7g3uqSzWVZs"
+  - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2024-08-18T07:47:21.000Z'
+- Last Modified: '2024-09-15T07:24:19.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1830,7 +1844,8 @@
   - recvNC33kmVVPxIv3
   - recFo4C6tWCDoJH0Z
   - recCTj8eJ0Za6tae4
-  Resources number: 99
+  - reccfJsxaBnA09Cmu
+  Resources number: 100
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1942,6 +1957,7 @@
   - Software Engineering F&*K Up Behind The Passport E-gate Failure" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R
   - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
   - The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg
+  - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-10-15T18:45:08.000Z'
@@ -1984,7 +2000,7 @@
   - Keynote PyCon 2017 - https://www.youtube.com/watch?v=66XoCk79kjM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recRy2nXD9Dh7GMhI
-- Last Modified: '2024-01-14T18:40:09.000Z'
+- Last Modified: '2024-09-15T07:28:26.000Z'
   Name: Operations
   Resources:
   - recOeXIOfuU3plaew
@@ -2013,7 +2029,8 @@
   - recRBbOu0Yb1BMpo9
   - recmOMsXWPRJCtQwC
   - recUiAvLX6uU6gj42
-  Resources number: 26
+  - recceiIXetqPomvUx
+  Resources number: 27
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -2043,8 +2060,18 @@
   - 'Episode 548: Alex Hidalgo on Implementing Service-Level Objectives - https://www.se-radio.net/2023/01/episode-548-alex-hidalgo-on-implementing-service-level-objectives/'
   - 'Reliability Engineering: One of the Best Jobs in Software Engineering - https://www.youtube.com/watch?v=zlfhJiNmin8'
   - Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/
+  - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recSPiTKbfuhfkshg
+- Last Modified: '2024-09-15T07:38:15.000Z'
+  Name: Strategy
+  Resources:
+  - recdLIMS2kPAda6MP
+  Resources number: 1
+  Speakers:
+  - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
+  airtable_createdTime: '2024-09-15T07:38:15.000Z'
+  airtable_id: recSz178X5sMJ2WW5
 - Last Modified: '2023-10-15T18:50:56.000Z'
   Name: Infrastructure
   Resources:
@@ -2125,7 +2152,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-08-18T07:57:29.000Z'
+- Last Modified: '2024-09-15T07:24:32.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2291,7 +2318,9 @@
   - recCTj8eJ0Za6tae4
   - recVFSquUdCuGrS16
   - reczYEOBiA6KzE1Gv
-  Resources number: 163
+  - recHORJ4ydowbim4n
+  - reccfJsxaBnA09Cmu
+  Resources number: 165
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2474,6 +2503,8 @@
   - The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg
   - The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk
   - Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY
+  - The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE
+  - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2754,7 +2785,7 @@
   - Consultoria Honesta - https://www.youtube.com/watch?v=cey1PowGQDM
   airtable_createdTime: '2021-08-12T13:09:11.000Z'
   airtable_id: recbOKFMKAE1vKVqj
-- Last Modified: '2024-06-23T07:51:36.000Z'
+- Last Modified: '2024-09-15T07:47:08.000Z'
   Name: Platform
   Resources:
   - rec01w77iA2Rv594l
@@ -2796,7 +2827,8 @@
   - recyQDYTRQVvgVB3Z
   - reckPa3VBTaIyyNNe
   - recIrMS6QNWvtkTzW
-  Resources number: 39
+  - recuryjF7KHysdtUl
+  Resources number: 40
   Speakers:
   - 'Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/'
   - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
@@ -2844,6 +2876,8 @@
   - How much to invest in platform work - https://getdx.com/podcast/27
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
+  - 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms? -
+    https://www.youtube.com/watch?v=t4IOnciAzbE'
   airtable_createdTime: '2020-05-17T13:51:15.000Z'
   airtable_id: recbWs6dTsdPwfWnm
 - Last Modified: '2021-08-12T13:50:39.000Z'
@@ -3882,7 +3916,7 @@
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   airtable_createdTime: '2022-09-18T21:48:46.000Z'
   airtable_id: reclZWPaBbTfn5pQo
-- Last Modified: '2024-08-18T08:09:52.000Z'
+- Last Modified: '2024-09-15T07:24:23.000Z'
   Name: Architecture patterns
   Resources:
   - recmUlW6oy0nh41vw
@@ -3922,7 +3956,8 @@
   - recAPAmVnzrSTPDsl
   - recYZ3cyr9Rm2u5Br
   - recN5kKqqCeEjWegT
-  Resources number: 37
+  - reccfJsxaBnA09Cmu
+  Resources number: 38
   Speakers:
   - 'Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/'
   - Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M
@@ -3966,6 +4001,7 @@
   - 'Maintainable Ep 161: How Small Can We Make This Problem - https://maintainable.fm/episodes/chad-fowler-how-small-can-we-make-this-problem'
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
   - Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
+  - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
 - Last Modified: '2024-08-18T07:57:57.000Z'
@@ -4151,7 +4187,7 @@
   - How To Use TDD For UI Design - https://www.youtube.com/watch?v=NNf8tXs1wbQ
   airtable_createdTime: '2021-07-25T17:08:12.000Z'
   airtable_id: recmPbBNpUB7Q5XyX
-- Last Modified: '2024-08-18T08:22:03.000Z'
+- Last Modified: '2024-09-15T07:16:35.000Z'
   Name: AI
   Resources:
   - recfwzidrRnl6Ut5j
@@ -4162,7 +4198,8 @@
   - recoAe21A3GrWf6uH
   - recNNvX8TAghfBXqp
   - recgKG33Jjit6WvBS
-  Resources number: 8
+  - recHORJ4ydowbim4n
+  Resources number: 9
   Speakers:
   - The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw
   - Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4
@@ -4173,6 +4210,7 @@
   - Large-Scale Deep Learning for Intelligent Computer Systems - https://www.youtube.com/watch?v=QSaZGT4-6EY
   - The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai
   - Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw
+  - The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE
   airtable_createdTime: '2021-08-14T07:25:39.000Z'
   airtable_id: recmuONwokRtPS6Tp
 - Last Modified: '2024-08-18T07:58:08.000Z'
@@ -4442,7 +4480,7 @@
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recs3XV2rYhyC6qe8
-- Last Modified: '2024-07-26T08:47:20.000Z'
+- Last Modified: '2024-09-15T07:24:29.000Z'
   Name: Evolutionary Architecture
   Resources:
   - recnkmoWOa4usiuSE
@@ -4458,7 +4496,8 @@
   - recYcBPXaIf60Q2Lh
   - recFo4C6tWCDoJH0Z
   - recnyzknPWJh5BuFV
-  Resources number: 13
+  - reccfJsxaBnA09Cmu
+  Resources number: 14
   Speakers:
   - '#12 e-Meetup | Sam Newman - Monolith Decomposition patterns - https://www.youtube.com/watch?v=UqFnH6G_hkU'
   - Minimum Viable Architecture - https://www.youtube.com/watch?v=9Q7GANXn02k
@@ -4475,6 +4514,7 @@
     - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
   - 275-rr-the-evolution-of-agile-and-evolutionary-design-with-james-shore - https://www.youtube.com/watch?v=que8EIafW9Y
+  - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
   airtable_createdTime: '2022-12-06T20:50:16.000Z'
   airtable_id: recs8FWnaRcAcdOoW
 - Last Modified: '2021-09-05T16:12:26.000Z'
@@ -4560,15 +4600,18 @@
   - 'SE-Radio Episode 315: Jeroen Janssens on Tools for Data Science - http://www.se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recu0ogH2eAbuoS2q
-- Last Modified: '2024-06-23T07:51:23.000Z'
+- Last Modified: '2024-09-15T07:47:16.000Z'
   Name: Platform engineering
   Resources:
   - reckPa3VBTaIyyNNe
   - recIrMS6QNWvtkTzW
-  Resources number: 2
+  - recuryjF7KHysdtUl
+  Resources number: 3
   Speakers:
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
+  - 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms? -
+    https://www.youtube.com/watch?v=t4IOnciAzbE'
   airtable_createdTime: '2023-04-23T18:22:56.000Z'
   airtable_id: recuR2w480ko3dSKR
 - Last Modified: '2024-01-14T10:16:17.000Z'
