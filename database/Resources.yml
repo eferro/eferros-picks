@@ -339,6 +339,35 @@
   airtable_createdTime: '2023-10-15T18:46:04.000Z'
   airtable_id: rec0Zn0xNpLa4HaZn
   registered_at: '2023-10-15T18:46:04.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:50:04.000Z'
+  Description: |
+    This talk explores key concepts and mathematical principles behind achieving flow in processes, like product development, drawing parallels to flow dynamics in traffic and internet systems. Don Reinertsen explains the economics of queuing, batch size reduction, and fast feedback loops, highlighting their impact on cycle time and overall process efficiency.
+  Duration: 1980
+  Language: English
+  Last Modified: '2024-11-24T09:12:57.000Z'
+  Less 15: 0
+  Name: 'The Logic of Flow: Some Indispensable Concepts'
+  Published: true
+  Rating: 5
+  Resource: 'The Logic of Flow: Some Indispensable Concepts - https://www.youtube.com/watch?v=rc1MqHsiiKo'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recUdsmvh0to5eUgH
+  Speakers_Names:
+  - Donald Reinertsen
+  Topics:
+  - rec0PB37LN1Kz0Blh
+  - recg6F5ajOhEkbrdW
+  Topics_Names:
+  - Lean Product Management
+  - Product
+  Url: https://www.youtube.com/watch?v=rc1MqHsiiKo
+  airtable_createdTime: '2024-11-24T08:50:04.000Z'
+  airtable_id: rec0cTDqEx18P2i1q
+  registered_at: '2024-11-24T08:50:04.000Z'
 - Blog Url: https://www.eferro.net/2018/10/good-talkspodcasts-oct-2018-ii.html
   Created: '2020-01-19T20:33:28.000Z'
   Description: "Good talk about hot to use probabilistic forecasting to obtain better\
@@ -11621,6 +11650,34 @@
   airtable_createdTime: '2024-07-26T08:37:11.000Z'
   airtable_id: recRyKUpTpRQJdke4
   registered_at: '2024-07-26T08:37:11.000Z'
+- Created: '2024-11-24T18:50:37.000Z'
+  Description: |
+    This video explores the five reasons why automated tests fail, including environment, test data, version control, resource use, and system behavior. It then explains how to fix these failures by controlling the environment, isolating test data, using version control, addressing resource constraints, and designing deterministic systems
+  Duration: 1260
+  Language: English
+  Last Modified: '2024-11-24T18:53:14.000Z'
+  Less 15: 0
+  Name: 5 Reasons Your Automated Tests Fail
+  Resource: 5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recTA39Jo1ozZG61R
+  Speakers_Names:
+  - Dave Farley
+  Topics:
+  - recPcLVyg0S4ORUkX
+  - recLYwn1IYVGWYavk
+  - recin3Ync8iZldW0q
+  Topics_Names:
+  - testing
+  - CI
+  - Continuous Delivery
+  Url: https://www.youtube.com/watch?v=vHBzZHE4tJ0
+  airtable_createdTime: '2024-11-24T18:50:37.000Z'
+  airtable_id: recSAamOq3VNnKbru
+  registered_at: '2024-11-24T18:50:37.000Z'
 - Blog Url: https://www.eferro.net/2021/03/good-talkspodcasts-march-2021-i.html
   Created: '2021-03-07T08:32:38.000Z'
   Description: |
@@ -13119,6 +13176,34 @@
   airtable_createdTime: '2023-10-15T20:33:05.000Z'
   airtable_id: recVlzEmpFmIEigTw
   registered_at: '2023-10-15T20:33:05.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:59:08.000Z'
+  Description: |
+    This episode explores when to apply the lean mental model in software development, emphasizing its effectiveness for navigating situations with high uncertainty and the need for rapid learning.
+  Duration: 420
+  Language: English
+  Last Modified: '2024-11-24T09:12:55.000Z'
+  Less 15: 1
+  Name: 'Small Batches podcast: The Mental Model'
+  Published: true
+  Resource: 'Small Batches podcast: The Mental Model - https://smallbatches.fm/95/'
+  Resource type: podcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rec35SAap9XVFNmP9
+  Speakers_Names:
+  - Adam Hawkins
+  Topics:
+  - recO11XlolI72a1fV
+  - rech2MAtQRy0Lvc2Y
+  Topics_Names:
+  - Lean
+  - Lean Software Development
+  Url: https://smallbatches.fm/95/
+  airtable_createdTime: '2024-11-24T08:59:08.000Z'
+  airtable_id: recVqfFEPSbb0wjql
+  registered_at: '2024-11-24T08:59:08.000Z'
 - Created: '2021-06-19T11:36:31.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -13618,6 +13703,34 @@
   airtable_createdTime: '2022-03-27T09:55:38.000Z'
   airtable_id: recXaEycmGLHzVNdk
   registered_at: '2022-03-27T09:55:38.000Z'
+- Created: '2024-11-24T19:08:55.000Z'
+  Description: |
+    This video features Trisha Gee, presenting on Developer Productivity Engineering (DPE). She explains the principles and practices of DPE and emphasizes how it can improve developer experience and efficiency.
+  Duration: 4080
+  Language: English
+  Last Modified: '2024-11-24T19:12:57.000Z'
+  Less 15: 0
+  Name: 'Developer Productivity Engineering: What''s in it for me?'
+  Resource: 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
+  Resource type: talk
+  Speaker WomenInTech:
+  - true
+  Speakers:
+  - rec6YK7iVlaLvwiXV
+  Speakers_Names:
+  - Trisha Gee
+  Topics:
+  - rec436FbBa6hFiWcj
+  - recxJkIWVynhDpBOI
+  - recPcLVyg0S4ORUkX
+  Topics_Names:
+  - Developer Productivity
+  - Devex
+  - testing
+  Url: https://www.youtube.com/watch?v=w9u7cIiVelc
+  airtable_createdTime: '2024-11-24T19:08:55.000Z'
+  airtable_id: recXdlYlg3hNMt3MA
+  registered_at: '2024-11-24T19:08:55.000Z'
 - Blog Url: https://www.eferro.net/2022/02/good-talkspodcasts-february-2022-i.html
   Created: '2022-02-06T22:04:48.000Z'
   Description: |
@@ -14426,6 +14539,37 @@
   airtable_createdTime: '2022-05-15T06:33:38.000Z'
   airtable_id: recZW4aFGILBBfNv1
   registered_at: '2022-05-15T06:33:38.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:51:46.000Z'
+  Description: |
+    This talk explores how to avoid common pitfalls in quality improvement programs by applying systems thinking principles, arguing that focusing on improving individual parts in isolation can be detrimental to the overall system's performance.
+  Duration: 720
+  Language: English
+  Last Modified: '2024-11-24T09:12:56.000Z'
+  Less 15: 1
+  Name: If Russ Ackoff had given a TED Talk... (Beyond continuous improvement)
+  Published: true
+  Resource: If Russ Ackoff had given a TED Talk... (Beyond continuous improvement)
+    - https://www.youtube.com/watch?v=OqEeIG8aPPk
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recoNn6GQYD5b70eN
+  Speakers_Names:
+  - Russ Ackoff
+  Topics:
+  - rec1S54WAgSRzsQQB
+  - rec5qcZLhWV3LGjsu
+  - recK4v7rm071B5jK6
+  Topics_Names:
+  - Systems Thinking
+  - Quality
+  - Resilience
+  Url: https://www.youtube.com/watch?v=OqEeIG8aPPk
+  airtable_createdTime: '2024-11-24T08:51:46.000Z'
+  airtable_id: recZW8hH7yNsA3zo7
+  registered_at: '2024-11-24T08:51:46.000Z'
 - Blog Url: https://www.eferro.net/2021/10/good-talkspodcasts-october-2021-i.html
   Created: '2021-10-03T21:09:10.000Z'
   Description: |
@@ -14760,6 +14904,36 @@
   airtable_createdTime: '2020-01-19T20:41:11.000Z'
   airtable_id: recaSgIugjoRmMoKc
   registered_at: '2020-01-19T20:41:11.000Z'
+- Created: '2024-11-24T18:55:28.000Z'
+  Description: |
+    This interview with Gojko Adzic, the creator of Narakeet and author of "Lizard Optimization," explores his journey in building products that reach millions of users. He shares insights on "lizard optimization," a method of leveraging unexpected user behavior for product innovation and growth, as well as the importance of aligning development with the five stages of product growth.
+  Duration: 3000
+  Language: English
+  Last Modified: '2024-11-24T19:01:13.000Z'
+  Less 15: 0
+  Name: 'Product Agility Podcast: 9 Million Users from a Full Stack Product Legend
+    An Interview with Gojko Adzic'
+  Resource: 'Product Agility Podcast: 9 Million Users from a Full Stack Product Legend
+    An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI'
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recXocGAFyWC8rgfL
+  Speakers_Names:
+  - Gojko Adzic
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recrNBL2FKBzgsQTs
+  - recg6F5ajOhEkbrdW
+  Topics_Names:
+  - Inspirational
+  - Product Discovery
+  - Product
+  Url: https://www.youtube.com/watch?v=fC-AKpO83DI
+  airtable_createdTime: '2024-11-24T18:55:28.000Z'
+  airtable_id: recaTxSRbgrtkff9X
+  registered_at: '2024-11-24T18:55:28.000Z'
 - Blog Url: https://www.eferro.net/2020/09/good-talkspodcasts-sept-2020-i.html
   Created: '2020-08-31T21:06:17.000Z'
   Description: |
@@ -17153,6 +17327,38 @@
   airtable_createdTime: '2021-06-30T06:27:10.000Z'
   airtable_id: recf1NHsyuYoudLfC
   registered_at: '2021-06-30T06:27:10.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:32:45.000Z'
+  Description: |
+    Useful talk for anyway working with legacy complex systems. Younes Zeriahi shares practical examples and techniques for refactoring code in a way that accelerates delivery and improves the overall design, using concepts like Mikado, expand and contract, and Chesterton's Fence. He also highlights the importance of a strong test suite and a deep understanding of the domain for effective refactoring.
+  Duration: 2820
+  Language: English
+  Last Modified: '2024-11-24T09:12:59.000Z'
+  Less 15: 0
+  Name: 'Living Domain Model: Continuous Refactoring to Accelerate Delivery'
+  Published: true
+  Rating: 5
+  Resource: 'Living Domain Model: Continuous Refactoring to Accelerate Delivery -
+    https://www.youtube.com/watch?v=7c_kuuVBRoo'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - rece93IoitMvfigoz
+  Speakers_Names:
+  - Younes Zeriahi
+  Topics:
+  - reca0FiaHsqUjIHYb
+  - recFbzSbd07ttDIYJ
+  - recL3VscFTVNbqlMM
+  Topics_Names:
+  - Refactoring
+  - Technical Practices
+  - Legacy code
+  Url: https://www.youtube.com/watch?v=7c_kuuVBRoo
+  airtable_createdTime: '2024-11-24T08:32:45.000Z'
+  airtable_id: recf65jjPPURcp0jt
+  registered_at: '2024-11-24T08:32:45.000Z'
 - Created: '2021-08-12T07:26:20.000Z'
   Language: English
   Last Modified: '2023-06-18T06:28:48.000Z'
@@ -20395,6 +20601,34 @@
   airtable_createdTime: '2022-10-09T22:02:46.000Z'
   airtable_id: recm4jFcHXCYvjXOz
   registered_at: '2022-10-09T22:02:46.000Z'
+- Created: '2024-11-24T19:22:59.000Z'
+  Description: |
+    Jez Humble examines the common pitfalls of scaling Agile methodologies and presents alternative strategies for achieving organizational agility. He argues that simply implementing Agile practices without addressing underlying systemic issues, such as lengthy feedback loops and inefficient decision-making processes, will not lead to significant improvements. Instead, he proposes that organizations focus on creating rapid feedback loops, reducing batch sizes, and adopting an experimental approach to product development and process improvement, emphasizing value over cost and estimation.
+  Duration: 3060
+  Language: English
+  Last Modified: '2024-11-24T19:26:34.000Z'
+  Less 15: 0
+  Name: Why Scaling Agile Doesn't Work - GOTO 2015
+  Resource: Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recf1C8fNSMXaLZ0q
+  Speakers_Names:
+  - Jez Humble
+  Topics:
+  - rechj5WeSQRH211np
+  - rech2MAtQRy0Lvc2Y
+  - recin3Ync8iZldW0q
+  Topics_Names:
+  - Agile
+  - Lean Software Development
+  - Continuous Delivery
+  Url: https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
+  airtable_createdTime: '2024-11-24T19:22:59.000Z'
+  airtable_id: recm5NyzuUShg6KDI
+  registered_at: '2024-11-24T19:22:59.000Z'
 - Blog Url: https://www.eferro.net/2017/06/some-pending-interesting-talks.html
   Created: '2020-01-19T20:43:01.000Z'
   Description: |
@@ -21574,6 +21808,43 @@
   airtable_createdTime: '2020-01-19T20:35:24.000Z'
   airtable_id: recnyzknPWJh5BuFV
   registered_at: '2020-01-19T20:35:24.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:22:26.000Z'
+  Description: |
+    This interview with Michael Feathers, author of "Working Effectively with Legacy Code," explores practical strategies for managing and improving large, untested codebases, including techniques for testing, refactoring, and understanding software change mechanics. Feathers and interviewer Christian Clausen also discuss the impact of AI on code quality, the challenges of advocating for testing in organizations, and the importance of prioritizing efforts based on code value and criticality
+  Duration: 2700
+  Language: English
+  Last Modified: '2024-11-24T09:13:00.000Z'
+  Less 15: 0
+  Name: "Working Effectively with Legacy Code \u2022 Michael Feathers & Christian\
+    \ Clausen \u2022 GOTO 2023"
+  Published: true
+  Resource: "Working Effectively with Legacy Code \u2022 Michael Feathers & Christian\
+    \ Clausen \u2022 GOTO 2023 - https://www.youtube.com/watch?v=P_6eDL1aqtA"
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recxIEBH98KfI6Cxf
+  - rec3bCTnZ1ZrhbP2w
+  Speakers_Names:
+  - Michael Feathers
+  - Christian Clausen
+  Topics:
+  - reca0FiaHsqUjIHYb
+  - recL3VscFTVNbqlMM
+  - recPcLVyg0S4ORUkX
+  - recmuONwokRtPS6Tp
+  Topics_Names:
+  - Refactoring
+  - Legacy code
+  - testing
+  - AI
+  Url: https://www.youtube.com/watch?v=P_6eDL1aqtA
+  airtable_createdTime: '2024-11-24T08:22:26.000Z'
+  airtable_id: recnzNfCI9zPNOyT5
+  registered_at: '2024-11-24T08:22:26.000Z'
 - Blog Url: https://www.eferro.net/2017/04/interesting-talkspodcasts-april-2017.html
   Created: '2020-01-19T20:42:02.000Z'
   Description: |
@@ -22244,6 +22515,36 @@
   airtable_createdTime: '2020-01-19T20:40:49.000Z'
   airtable_id: recpiZkDYnXWDdCxg
   registered_at: '2020-01-19T20:40:49.000Z'
+- Created: '2024-11-24T19:19:44.000Z'
+  Description: |
+    Daniel Terhorst-North challenges the notion of stable, long-lived teams and presents an alternative approach called demand-led planning. He argues that by structuring teams around the demand for specific types of work, including feature delivery, discovery, Kaizen, failure demand, and business as usual, organizations can achieve greater flexibility and responsiveness to changing needs.
+  Duration: 1920
+  Language: English
+  Last Modified: '2024-11-24T19:21:58.000Z'
+  Less 15: 0
+  Name: 'Shaped by demand: the power of fluid teams '
+  Resource: 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recFwCH6SfELfIX3t
+  Speakers_Names:
+  - Dan North
+  Topics:
+  - recs3XV2rYhyC6qe8
+  - rechj5WeSQRH211np
+  - rech2MAtQRy0Lvc2Y
+  - recvlsvAt2LHjlKU2
+  Topics_Names:
+  - Teams
+  - Agile
+  - Lean Software Development
+  - Management
+  Url: https://www.youtube.com/watch?v=w6T78XMxbuY
+  airtable_createdTime: '2024-11-24T19:19:44.000Z'
+  airtable_id: recpkxs58fTTCeDvt
+  registered_at: '2024-11-24T19:19:44.000Z'
 - Blog Url: https://www.eferro.net/2016/10/great-technical-talks-ive-seen-this.html
   Created: '2020-01-19T20:35:25.000Z'
   Duration: 3180
@@ -22577,6 +22878,39 @@
   airtable_createdTime: '2021-08-14T19:40:56.000Z'
   airtable_id: recr3GfyDU0VPOf69
   registered_at: '2021-08-14T19:40:56.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-i.html
+  Created: '2024-11-24T08:38:59.000Z'
+  Description: |
+    This podcast episode features a conversation with Marty Cagan about the state of product management and the differences between effective and ineffective practices. Cagan discusses the common problem of "product management theater," where individuals hold product management titles but lack the necessary skills and operate within feature teams rather than empowered product teams. The discussion emphasizes the importance of focusing on outcomes, understanding customer needs, and embracing experimentation to build successful products.
+  Duration: 5100
+  Language: English
+  Last Modified: '2024-11-24T09:12:58.000Z'
+  Less 15: 0
+  Name: Product management theater
+  Published: true
+  Resource: Product management theater - https://www.youtube.com/watch?v=9N4ZgNaWvI0
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - reczrumy9DkB51MFk
+  - reciiLOv2Qpm17yNt
+  Speakers_Names:
+  - Marty Cagan
+  - Lenny Rachitsky
+  Topics:
+  - recg6F5ajOhEkbrdW
+  - recrNBL2FKBzgsQTs
+  - recplrWe03uLQY5MN
+  Topics_Names:
+  - Product
+  - Product Discovery
+  - Product Leadership
+  Url: https://www.youtube.com/watch?v=9N4ZgNaWvI0
+  airtable_createdTime: '2024-11-24T08:38:59.000Z'
+  airtable_id: recr5tjxMaxeZDCww
+  registered_at: '2024-11-24T08:38:59.000Z'
 - Blog Url: https://www.eferro.net/2018/09/index.html
   Created: '2020-01-19T20:32:43.000Z'
   Description: |
@@ -25133,6 +25467,39 @@
   airtable_createdTime: '2021-12-20T18:04:48.000Z'
   airtable_id: recwbEy0kcWhTiRzG
   registered_at: '2021-12-20T18:04:48.000Z'
+- Created: '2024-11-24T19:01:19.000Z'
+  Description: |
+    This interview with Charity Majors, CTO of Honeycomb, explores the concept of observability, particularly focusing on the differences between observability 1.0 and 2.0 and the advantages of the latter for modern software development. The conversation also touches upon the importance of testing in production, implementing an effective continuous delivery process, and embracing the changing role of software engineers in the age of AI.
+  Duration: 3180
+  Language: English
+  Last Modified: '2024-11-24T19:08:01.000Z'
+  Less 15: 0
+  Name: Observability & Testing in Production - with Charity Majors
+  Resource: Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - true
+  - null
+  Speakers:
+  - rec0j5idwhBV3RQry
+  - recj8LRVgcSNxbNeN
+  Speakers_Names:
+  - Charity Majors
+  - Luca Rossi
+  Topics:
+  - recDqEOIt9vzNQfTZ
+  - rechwDm7Pn0ivpq7C
+  - recin3Ync8iZldW0q
+  - recWFKWrPEdeEYbzx
+  Topics_Names:
+  - Observability
+  - Testing in production
+  - Continuous Delivery
+  - Engineering Culture
+  Url: https://www.youtube.com/watch?v=97YRxrKNLP0
+  airtable_createdTime: '2024-11-24T19:01:19.000Z'
+  airtable_id: recwcdWSq15iUEKwj
+  registered_at: '2024-11-24T19:01:19.000Z'
 - Blog Url: https://www.eferro.net/2021/03/good-talkspodcasts-march-2021-ii.html
   Created: '2021-03-21T11:55:46.000Z'
   Description: |

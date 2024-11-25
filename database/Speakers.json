@@ -27,7 +27,7 @@
         "airtable_id": "rec0bJNzJorfoT4Bk"
     },
     {
-        "Last Modified": "2024-01-14T10:44:48.000Z",
+        "Last Modified": "2024-11-24T19:06:35.000Z",
         "Name": "Charity Majors",
         "Resources": [
             "rec7vBKiI5GRQsNab",
@@ -49,7 +49,8 @@
             "recJ4xDeqnTvukNmQ",
             "recr9psXCCS4XmZA6",
             "recu7UClKsYuB9WMX",
-            "recxOMnJ8i6GxhPbc"
+            "recxOMnJ8i6GxhPbc",
+            "recwcdWSq15iUEKwj"
         ],
         "WomenInTech": true,
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
@@ -247,7 +248,7 @@
         "airtable_id": "rec34pB6gwXOLM3t7"
     },
     {
-        "Last Modified": "2024-09-15T07:28:15.000Z",
+        "Last Modified": "2024-11-24T09:00:05.000Z",
         "Name": "Adam Hawkins",
         "Resources": [
             "rec5MK2KUQVjRiY3I",
@@ -257,7 +258,8 @@
             "recmOIICcAQeELLxO",
             "recRGemuzb1VbhcSj",
             "recXmr49q5ciJGAMp",
-            "recceiIXetqPomvUx"
+            "recceiIXetqPomvUx",
+            "recVqfFEPSbb0wjql"
         ],
         "airtable_createdTime": "2021-08-14T20:41:37.000Z",
         "airtable_id": "rec35SAap9XVFNmP9"
@@ -309,6 +311,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "rec3Yah6Sk0dZ7zPb"
+    },
+    {
+        "Last Modified": "2024-11-24T08:23:29.000Z",
+        "Name": "Christian Clausen",
+        "Resources": [
+            "recnzNfCI9zPNOyT5"
+        ],
+        "airtable_createdTime": "2024-11-24T08:23:29.000Z",
+        "airtable_id": "rec3bCTnZ1ZrhbP2w"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -559,6 +570,16 @@
         ],
         "airtable_createdTime": "2023-02-19T20:59:54.000Z",
         "airtable_id": "rec6KeqmNKL9gSLpZ"
+    },
+    {
+        "Last Modified": "2024-11-24T19:13:27.000Z",
+        "Name": "Trisha Gee",
+        "Resources": [
+            "recXdlYlg3hNMt3MA"
+        ],
+        "WomenInTech": true,
+        "airtable_createdTime": "2024-11-24T19:09:45.000Z",
+        "airtable_id": "rec6YK7iVlaLvwiXV"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -1180,7 +1201,7 @@
         "airtable_id": "recFotXMclQcwGhzA"
     },
     {
-        "Last Modified": "2024-08-17T21:11:06.000Z",
+        "Last Modified": "2024-11-24T19:20:28.000Z",
         "Name": "Dan North",
         "Resources": [
             "recQXhKafE7CbtPIw",
@@ -1202,7 +1223,8 @@
             "recXAwtzoEcLOlfWu",
             "recUU1sBQWcwX539J",
             "recY69LspKzif5oKz",
-            "recVFSquUdCuGrS16"
+            "recVFSquUdCuGrS16",
+            "recpkxs58fTTCeDvt"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recFwCH6SfELfIX3t"
@@ -2307,7 +2329,7 @@
         "airtable_id": "recSzQRG8VGQNBqIQ"
     },
     {
-        "Last Modified": "2024-08-17T21:11:03.000Z",
+        "Last Modified": "2024-11-24T18:51:29.000Z",
         "Name": "Dave Farley",
         "Resources": [
             "recdZt5nq1JImaUDu",
@@ -2368,7 +2390,8 @@
             "recU8b3AkYHNEIkd7",
             "recvNC33kmVVPxIv3",
             "recMtH696LP1LMtlW",
-            "reckLLBX9RVTL7oFm"
+            "reckLLBX9RVTL7oFm",
+            "recSAamOq3VNnKbru"
         ],
         "Twitter": "https://twitter.com/davefarley77",
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
@@ -2544,14 +2567,15 @@
         "airtable_id": "recUY2u28F46qLoZQ"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-11-24T08:51:18.000Z",
         "Name": "Donald Reinertsen",
         "Resources": [
             "reclu4ag3R1hrFQI3",
             "rec7NPbH4POd8KrJS",
             "recNVbjexRqEredPK",
             "recJj5CkUuT3Im6BR",
-            "recAQxzzcVCc1huCH"
+            "recAQxzzcVCc1huCH",
+            "rec0cTDqEx18P2i1q"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recUdsmvh0to5eUgH"
@@ -2867,7 +2891,7 @@
         "airtable_id": "recXhRJFUgXsHp0A4"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-11-24T18:55:59.000Z",
         "Name": "Gojko Adzic",
         "Resources": [
             "recDh53A78GLSgFoT",
@@ -2882,7 +2906,8 @@
             "recm4jFcHXCYvjXOz",
             "recQGfbwsNl5WtAws",
             "recmxMzHk07eCaRVF",
-            "recuhSHXcIgo9xJHc"
+            "recuhSHXcIgo9xJHc",
+            "recaTxSRbgrtkff9X"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recXocGAFyWC8rgfL"
@@ -3414,6 +3439,15 @@
         "airtable_id": "rece8E2nYJbHeZk8d"
     },
     {
+        "Last Modified": "2024-11-24T08:34:43.000Z",
+        "Name": "Younes Zeriahi",
+        "Resources": [
+            "recf65jjPPURcp0jt"
+        ],
+        "airtable_createdTime": "2024-11-24T08:34:43.000Z",
+        "airtable_id": "rece93IoitMvfigoz"
+    },
+    {
         "Last Modified": "2023-06-18T06:28:48.000Z",
         "Name": "Neil Ford",
         "Resources": [
@@ -3535,7 +3569,7 @@
         "airtable_id": "receuNs6f5GQZYA2l"
     },
     {
-        "Last Modified": "2024-01-14T19:09:32.000Z",
+        "Last Modified": "2024-11-24T19:23:42.000Z",
         "Name": "Jez Humble",
         "Resources": [
             "recpSMgAZacKjfZmm",
@@ -3553,7 +3587,8 @@
             "recN2IkHwFljS5u2x",
             "recwznqIb6ycqXb6u",
             "reczwtffHNw0fqzfl",
-            "recV10zLe4vGY7YPO"
+            "recV10zLe4vGY7YPO",
+            "recm5NyzuUShg6KDI"
         ],
         "Twitter": "https://twitter.com/jezhumble",
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
@@ -4026,6 +4061,15 @@
         "airtable_id": "recihORm2df6ry6f4"
     },
     {
+        "Last Modified": "2024-11-24T08:41:45.000Z",
+        "Name": "Lenny Rachitsky",
+        "Resources": [
+            "recr5tjxMaxeZDCww"
+        ],
+        "airtable_createdTime": "2024-11-24T08:41:45.000Z",
+        "airtable_id": "reciiLOv2Qpm17yNt"
+    },
+    {
         "Last Modified": "2023-06-18T06:28:48.000Z",
         "Name": "Steve Sanderson",
         "Resources": [
@@ -4065,10 +4109,11 @@
         "airtable_id": "recisGEpUKq0n3ORm"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-11-24T19:06:51.000Z",
         "Name": "Luca Rossi",
         "Resources": [
-            "recUcmOZuOBCoTHMP"
+            "recUcmOZuOBCoTHMP",
+            "recwcdWSq15iUEKwj"
         ],
         "airtable_createdTime": "2022-01-17T21:52:26.000Z",
         "airtable_id": "recj8LRVgcSNxbNeN"
@@ -4531,6 +4576,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recoD4KzfiT16SY23"
+    },
+    {
+        "Last Modified": "2024-11-24T08:52:31.000Z",
+        "Name": "Russ Ackoff",
+        "Resources": [
+            "recZW8hH7yNsA3zo7"
+        ],
+        "airtable_createdTime": "2024-11-24T08:52:31.000Z",
+        "airtable_id": "recoNn6GQYD5b70eN"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -5217,14 +5271,15 @@
         "airtable_id": "recxGgwOqCFvOSQoW"
     },
     {
-        "Last Modified": "2023-08-26T21:20:55.000Z",
+        "Last Modified": "2024-11-24T08:23:11.000Z",
         "Name": "Michael Feathers",
         "Resources": [
             "recrYqt5GZlrRAe1P",
             "recdtuuFrAhIbab9g",
             "rec9WnqzZlw7RK32c",
             "recgCeFdi993pAe7V",
-            "recI7pOxCd4Pe84x8"
+            "recI7pOxCd4Pe84x8",
+            "recnzNfCI9zPNOyT5"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recxIEBH98KfI6Cxf"
@@ -5416,7 +5471,7 @@
         "airtable_id": "reczijcDpu4sMjnlA"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-11-24T08:39:43.000Z",
         "Name": "Marty Cagan",
         "Resources": [
             "recLoYdYP5G0UM8GT",
@@ -5433,7 +5488,8 @@
             "rec6miv38YvgtCONY",
             "recafrPZUnygCGxiz",
             "recBervSRt0ntmH2V",
-            "recKLS8QeOawn7JwY"
+            "recKLS8QeOawn7JwY",
+            "recr5tjxMaxeZDCww"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "reczrumy9DkB51MFk"
