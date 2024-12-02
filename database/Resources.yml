@@ -7186,7 +7186,8 @@
   airtable_createdTime: '2020-03-14T08:56:58.000Z'
   airtable_id: recHSnsS4Oh59wKrd
   registered_at: '2020-03-14T08:56:58.000Z'
-- Created: '2020-06-14T11:18:41.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2020-06-14T11:18:41.000Z'
   Description: "Modern software development welcomes changing requirements, even late\
     \ in the process, but how can we write our software so that those changes don\u2019\
     t create a mess? Evolutionary design is the key. It\u2019s a technique that emerges\
@@ -7196,12 +7197,13 @@
     \ he\u2019s explored its boundaries ever since. In this session, James will share\
     \ what he\u2019s learned through in-depth animations of real software projects.\
     \ You\u2019ll see how designs evolve over time and you\u2019ll learn how and when\
-    \ to use evolutionary design for your own projects.\n"
+    \ to use evolutionary design for your own projects. Part 2: https://www.youtube.com/watch?v=wDZCF8jfeMc\n"
   Duration: 1440
   Language: English
-  Last Modified: '2024-07-26T08:40:40.000Z'
+  Last Modified: '2024-11-30T17:03:25.000Z'
   Less 15: 0
   Name: YOW! 2019 Evolutionary Design Animated (Part1)
+  Published: true
   Rating: 5
   Resource: YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
   Resource type: talk
@@ -11650,14 +11652,16 @@
   airtable_createdTime: '2024-07-26T08:37:11.000Z'
   airtable_id: recRyKUpTpRQJdke4
   registered_at: '2024-07-26T08:37:11.000Z'
-- Created: '2024-11-24T18:50:37.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T18:50:37.000Z'
   Description: |
     This video explores the five reasons why automated tests fail, including environment, test data, version control, resource use, and system behavior. It then explains how to fix these failures by controlling the environment, isolating test data, using version control, addressing resource constraints, and designing deterministic systems
   Duration: 1260
   Language: English
-  Last Modified: '2024-11-24T18:53:14.000Z'
+  Last Modified: '2024-11-30T17:03:08.000Z'
   Less 15: 0
   Name: 5 Reasons Your Automated Tests Fail
+  Published: true
   Resource: 5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0
   Resource type: videopodcast
   Speaker WomenInTech:
@@ -13703,14 +13707,16 @@
   airtable_createdTime: '2022-03-27T09:55:38.000Z'
   airtable_id: recXaEycmGLHzVNdk
   registered_at: '2022-03-27T09:55:38.000Z'
-- Created: '2024-11-24T19:08:55.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T19:08:55.000Z'
   Description: |
     This video features Trisha Gee, presenting on Developer Productivity Engineering (DPE). She explains the principles and practices of DPE and emphasizes how it can improve developer experience and efficiency.
   Duration: 4080
   Language: English
-  Last Modified: '2024-11-24T19:12:57.000Z'
+  Last Modified: '2024-11-30T17:03:11.000Z'
   Less 15: 0
   Name: 'Developer Productivity Engineering: What''s in it for me?'
+  Published: true
   Resource: 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
   Resource type: talk
   Speaker WomenInTech:
@@ -14904,15 +14910,18 @@
   airtable_createdTime: '2020-01-19T20:41:11.000Z'
   airtable_id: recaSgIugjoRmMoKc
   registered_at: '2020-01-19T20:41:11.000Z'
-- Created: '2024-11-24T18:55:28.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T18:55:28.000Z'
   Description: |
     This interview with Gojko Adzic, the creator of Narakeet and author of "Lizard Optimization," explores his journey in building products that reach millions of users. He shares insights on "lizard optimization," a method of leveraging unexpected user behavior for product innovation and growth, as well as the importance of aligning development with the five stages of product growth.
   Duration: 3000
   Language: English
-  Last Modified: '2024-11-24T19:01:13.000Z'
+  Last Modified: '2024-11-30T17:03:09.000Z'
   Less 15: 0
   Name: 'Product Agility Podcast: 9 Million Users from a Full Stack Product Legend
     An Interview with Gojko Adzic'
+  Published: true
+  Rating: 5
   Resource: 'Product Agility Podcast: 9 Million Users from a Full Stack Product Legend
     An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI'
   Resource type: videopodcast
@@ -20601,14 +20610,17 @@
   airtable_createdTime: '2022-10-09T22:02:46.000Z'
   airtable_id: recm4jFcHXCYvjXOz
   registered_at: '2022-10-09T22:02:46.000Z'
-- Created: '2024-11-24T19:22:59.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T19:22:59.000Z'
   Description: |
     Jez Humble examines the common pitfalls of scaling Agile methodologies and presents alternative strategies for achieving organizational agility. He argues that simply implementing Agile practices without addressing underlying systemic issues, such as lengthy feedback loops and inefficient decision-making processes, will not lead to significant improvements. Instead, he proposes that organizations focus on creating rapid feedback loops, reducing batch sizes, and adopting an experimental approach to product development and process improvement, emphasizing value over cost and estimation.
   Duration: 3060
   Language: English
-  Last Modified: '2024-11-24T19:26:34.000Z'
+  Last Modified: '2024-11-30T17:03:12.000Z'
   Less 15: 0
   Name: Why Scaling Agile Doesn't Work - GOTO 2015
+  Published: true
+  Rating: 5
   Resource: Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
   Resource type: talk
   Speaker WomenInTech:
@@ -22515,14 +22527,16 @@
   airtable_createdTime: '2020-01-19T20:40:49.000Z'
   airtable_id: recpiZkDYnXWDdCxg
   registered_at: '2020-01-19T20:40:49.000Z'
-- Created: '2024-11-24T19:19:44.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T19:19:44.000Z'
   Description: |
     Daniel Terhorst-North challenges the notion of stable, long-lived teams and presents an alternative approach called demand-led planning. He argues that by structuring teams around the demand for specific types of work, including feature delivery, discovery, Kaizen, failure demand, and business as usual, organizations can achieve greater flexibility and responsiveness to changing needs.
   Duration: 1920
   Language: English
-  Last Modified: '2024-11-24T19:21:58.000Z'
+  Last Modified: '2024-11-30T17:03:12.000Z'
   Less 15: 0
   Name: 'Shaped by demand: the power of fluid teams '
+  Published: true
   Resource: 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
   Resource type: talk
   Speaker WomenInTech:
@@ -25467,14 +25481,16 @@
   airtable_createdTime: '2021-12-20T18:04:48.000Z'
   airtable_id: recwbEy0kcWhTiRzG
   registered_at: '2021-12-20T18:04:48.000Z'
-- Created: '2024-11-24T19:01:19.000Z'
+- Blog Url: https://www.eferro.net/2024/11/good-talkspodcasts-nov-2024-ii.html
+  Created: '2024-11-24T19:01:19.000Z'
   Description: |
     This interview with Charity Majors, CTO of Honeycomb, explores the concept of observability, particularly focusing on the differences between observability 1.0 and 2.0 and the advantages of the latter for modern software development. The conversation also touches upon the importance of testing in production, implementing an effective continuous delivery process, and embracing the changing role of software engineers in the age of AI.
   Duration: 3180
   Language: English
-  Last Modified: '2024-11-24T19:08:01.000Z'
+  Last Modified: '2024-11-30T17:03:10.000Z'
   Less 15: 0
   Name: Observability & Testing in Production - with Charity Majors
+  Published: true
   Resource: Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0
   Resource type: videopodcast
   Speaker WomenInTech:
