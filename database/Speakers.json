@@ -27,6 +27,15 @@
         "airtable_id": "rec0bJNzJorfoT4Bk"
     },
     {
+        "Last Modified": "2024-12-08T21:02:04.000Z",
+        "Name": "Werner Vogels",
+        "Resources": [
+            "recc0PZAq20p3ZJuT"
+        ],
+        "airtable_createdTime": "2024-12-08T21:02:04.000Z",
+        "airtable_id": "rec0dCr6WRyP2wR05"
+    },
+    {
         "Last Modified": "2024-11-24T19:06:35.000Z",
         "Name": "Charity Majors",
         "Resources": [
@@ -1055,7 +1064,7 @@
         "airtable_id": "recDOHYCOOHlhoRYU"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-12-08T22:11:34.000Z",
         "Name": "Adrian Cockcroft",
         "Resources": [
             "recDy9NVQflmwSa4B",
@@ -1065,7 +1074,8 @@
             "recKUQEJqlhqnXO9X",
             "recGXOnOo7jejkQV7",
             "recGPM0UnhuHyjojs",
-            "reccIPqNvR68DX6i1"
+            "reccIPqNvR68DX6i1",
+            "recnSM0Hjvic4XhFx"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recDwJvxpOCKsBRGZ"
@@ -1201,7 +1211,7 @@
         "airtable_id": "recFotXMclQcwGhzA"
     },
     {
-        "Last Modified": "2024-11-24T19:20:28.000Z",
+        "Last Modified": "2024-12-08T21:22:26.000Z",
         "Name": "Dan North",
         "Resources": [
             "recQXhKafE7CbtPIw",
@@ -1224,7 +1234,8 @@
             "recUU1sBQWcwX539J",
             "recY69LspKzif5oKz",
             "recVFSquUdCuGrS16",
-            "recpkxs58fTTCeDvt"
+            "recpkxs58fTTCeDvt",
+            "recCPjTZloWAjizKF"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recFwCH6SfELfIX3t"
@@ -2435,10 +2446,11 @@
         "airtable_id": "recTa2FdcrhuzUEE2"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2024-12-08T22:16:11.000Z",
         "Name": "James Lewis",
         "Resources": [
-            "receO8rFJW7u7nrd8"
+            "receO8rFJW7u7nrd8",
+            "recMK9byb9akbMylA"
         ],
         "airtable_createdTime": "2020-11-09T09:24:09.000Z",
         "airtable_id": "recTcX5TNO8Zp0gCu"
@@ -3928,6 +3940,15 @@
         ],
         "airtable_createdTime": "2021-07-25T18:03:15.000Z",
         "airtable_id": "rechXGbKrcRExnLtX"
+    },
+    {
+        "Last Modified": "2024-12-08T20:37:19.000Z",
+        "Name": "Adam Ralph",
+        "Resources": [
+            "recoRHsRlGCAsIFus"
+        ],
+        "airtable_createdTime": "2024-12-08T20:37:19.000Z",
+        "airtable_id": "rechaZYHlHIAM56ei"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",

@@ -5885,6 +5885,43 @@
         "registered_at": "2021-06-19T11:36:14.000Z"
     },
     {
+        "Created": "2024-12-08T21:06:39.000Z",
+        "Description": "This podcast features Daniel Terhorst-North, a prominent figure in the software development world, reflecting on 20 years of industry changes and sharing his insights on topics ranging from Agile and DevOps to product management and organizational flow. Drawing on his experiences at Thoughtworks and beyond, Terhorst-North highlights the importance of connecting business needs with technical implementation and emphasizes the value of building evolvable systems with \"simplexity\" in mind.\n",
+        "Duration": 3120,
+        "Language": "English",
+        "Last Modified": "2024-12-08T21:22:30.000Z",
+        "Less 15": 0,
+        "Name": "How to Deliver Quality Software Against All Odds GOTO 2024",
+        "Rating": 5,
+        "Resource": "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recFwCH6SfELfIX3t"
+        ],
+        "Speakers_Names": [
+            "Dan North"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "rechj5WeSQRH211np",
+            "recYkFYw6BSRfA0Ce",
+            "recin3Ync8iZldW0q"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Agile",
+            "XP",
+            "Continuous Delivery"
+        ],
+        "Url": "https://www.youtube.com/watch?v=klqo1oPdbpM",
+        "airtable_createdTime": "2024-12-08T21:06:39.000Z",
+        "airtable_id": "recCPjTZloWAjizKF",
+        "registered_at": "2024-12-08T21:06:39.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2017/08/good-talkspodcasts-purging-queue-ii.html",
         "Created": "2020-01-19T20:41:27.000Z",
         "Duration": 2760,
@@ -10890,6 +10927,42 @@
         "airtable_createdTime": "2020-07-27T08:02:02.000Z",
         "airtable_id": "recMGlBhfcLvvKry6",
         "registered_at": "2020-07-27T08:02:02.000Z"
+    },
+    {
+        "Created": "2024-12-08T22:15:32.000Z",
+        "Description": "This presentation explores the intersection of team topologies, software architecture, and complexity science, arguing that successful organizational design and software development hinges on optimizing for flow and value delivery. The speaker, drawing on his experience with the evolution of microservices, advocates for embracing decentralization, limiting hierarchy, and leveraging social network structures to foster innovation and agility in growing organizations.\n",
+        "Duration": 2280,
+        "Language": "English",
+        "Last Modified": "2024-12-08T22:18:01.000Z",
+        "Less 15": 0,
+        "Name": "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022 GOTO 2022",
+        "Resource": "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022 GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTcX5TNO8Zp0gCu"
+        ],
+        "Speakers_Names": [
+            "James Lewis"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recWFKWrPEdeEYbzx",
+            "recynJ6SkSnezmQrV",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Engineering Culture",
+            "team topologies",
+            "Microservices"
+        ],
+        "Url": "https://www.youtube.com/watch?v=izLg4NkJQO4",
+        "airtable_createdTime": "2024-12-08T22:15:32.000Z",
+        "airtable_id": "recMK9byb9akbMylA",
+        "registered_at": "2024-12-08T22:15:32.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2024/09/good-talkspodcasts-sept-2024-i.html",
@@ -18579,6 +18652,40 @@
         "registered_at": "2020-01-19T20:37:44.000Z"
     },
     {
+        "Created": "2024-12-08T20:57:50.000Z",
+        "Description": "This presentation explores the concept of \"simplexity\" - building and operating complex systems safely and simply, using lessons learned from 20 years of evolution at Amazon Web Services (AWS). The speaker emphasizes the importance of designing evolvable systems from the beginning and outlines six key lessons for managing complexity, including breaking down systems into smaller units, aligning organizations to architecture, and automating tasks that don't require human judgment. Numerous examples from AWS, such as the evolution of Amazon S3, CloudWatch, and Route 53, illustrate the practical application of these principles.\n",
+        "Duration": 6600,
+        "Language": "English",
+        "Last Modified": "2024-12-08T21:02:34.000Z",
+        "Less 15": 0,
+        "Name": "AWS re:Invent 2024 - Dr. Werner Vogels Keynote",
+        "Resource": "AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rec0dCr6WRyP2wR05"
+        ],
+        "Speakers_Names": [
+            "Werner Vogels"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recWFKWrPEdeEYbzx",
+            "recDJCrzfZkg89BP0"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Engineering Culture",
+            "simplicity"
+        ],
+        "Url": "https://www.youtube.com/watch?v=aim5x73crbM",
+        "airtable_createdTime": "2024-12-08T20:57:50.000Z",
+        "airtable_id": "recc0PZAq20p3ZJuT",
+        "registered_at": "2024-12-08T20:57:50.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2018/08/index.html",
         "Created": "2020-01-19T20:32:27.000Z",
         "Language": "English",
@@ -25405,6 +25512,42 @@
         "registered_at": "2020-01-19T20:34:34.000Z"
     },
     {
+        "Created": "2024-12-08T22:11:19.000Z",
+        "Description": "This presentation offers a retrospective analysis of the speaker's experience implementing microservices at Netflix from 2007-2013, examining both the successes and the lessons learned along the way. The speaker discusses key aspects of Netflix's innovative approach, including their \"extreme and agile\" culture, early adoption of cloud technologies like AWS and Cassandra, and focus on developer freedom and responsibility. The presentation also highlights specific technical patterns and practices developed at Netflix, such as the use of service access libraries, lightweight serializable objects, and chaos engineering.\n",
+        "Duration": 3300,
+        "Language": "English",
+        "Last Modified": "2024-12-08T22:12:27.000Z",
+        "Less 15": 0,
+        "Name": "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from Netflix",
+        "Resource": "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recDwJvxpOCKsBRGZ"
+        ],
+        "Speakers_Names": [
+            "Adrian Cockcroft"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recm1G3xxDIQZ5dKc",
+            "rec945yNhVIzyZIuX",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Architecture patterns",
+            "Cloud",
+            "Microservices"
+        ],
+        "Url": "https://www.youtube.com/watch?v=TOM6UhCetQ0",
+        "airtable_createdTime": "2024-12-08T22:11:19.000Z",
+        "airtable_id": "recnSM0Hjvic4XhFx",
+        "registered_at": "2024-12-08T22:11:19.000Z"
+    },
+    {
         "Created": "2020-07-08T06:39:29.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -26021,6 +26164,41 @@
         "airtable_createdTime": "2023-01-08T16:50:10.000Z",
         "airtable_id": "recoN5BMtMjKGPz1b",
         "registered_at": "2023-01-08T16:50:10.000Z"
+    },
+    {
+        "Created": "2024-12-08T20:35:47.000Z",
+        "Description": "This presentation is about identifying service boundaries in software architecture to avoid coupling and ending up with a \"big ball of mud\", even when using microservices. I recommend this talk because it provides practical advice on how to define services as technical authorities for specific business capabilities, leading to more maintainable and scalable systems.\n",
+        "Duration": 2880,
+        "Language": "English",
+        "Last Modified": "2024-12-08T20:44:32.000Z",
+        "Less 15": 0,
+        "Name": "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN 24",
+        "Rating": 5,
+        "Resource": "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN 24 - https://www.youtube.com/watch?v=cxLGc5YRFBs",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rechaZYHlHIAM56ei"
+        ],
+        "Speakers_Names": [
+            "Adam Ralph"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recm1G3xxDIQZ5dKc",
+            "recYUfHSzJzot7zSJ"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Architecture patterns",
+            "Microservices"
+        ],
+        "Url": "https://www.youtube.com/watch?v=cxLGc5YRFBs",
+        "airtable_createdTime": "2024-12-08T20:35:47.000Z",
+        "airtable_id": "recoRHsRlGCAsIFus",
+        "registered_at": "2024-12-08T20:35:47.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2022/09/good-talkspodcasts-sept-2022-i.html",

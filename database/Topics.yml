@@ -648,7 +648,7 @@
   - How to Break the Rules - https://www.youtube.com/watch?v=hZFShSjAhlQ
   airtable_createdTime: '2020-05-17T13:54:13.000Z'
   airtable_id: rec8Z4b4p6s6IhX2C
-- Last Modified: '2024-05-31T07:37:12.000Z'
+- Last Modified: '2024-12-08T22:11:44.000Z'
   Name: Cloud
   Resources:
   - recci0Pe28klxq9Ii
@@ -670,7 +670,8 @@
   - recdHOiGfQoVZDKB3
   - recDh53A78GLSgFoT
   - reciQUByvgPPQfZKh
-  Resources number: 19
+  - recnSM0Hjvic4XhFx
+  Resources number: 20
   Speakers:
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
@@ -692,6 +693,8 @@
   - Testing in Production - Quality Software Faster - https://www.infoq.com/presentations/testing-software-production
   - Five key challenges for software quality tomorrow - http://www.ustream.tv/recorded/114861540
   - Cloud for startup sucess - https://vimeo.com/131660205
+  - "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from\
+    \ Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec945yNhVIzyZIuX
 - Last Modified: '2024-09-15T07:37:56.000Z'
@@ -906,13 +909,15 @@
   - Wired for Success - Business Modelling for Startups - https://www.youtube.com/watch?v=-ANI2UXqzy8
   airtable_createdTime: '2022-10-09T09:31:53.000Z'
   airtable_id: recDFzWENoFZ1WRp9
-- Last Modified: '2023-11-19T19:34:48.000Z'
+- Last Modified: '2024-12-08T21:02:34.000Z'
   Name: simplicity
   Resources:
   - recgNHgQpgbXMk5nD
-  Resources number: 1
+  - recc0PZAq20p3ZJuT
+  Resources number: 2
   Speakers:
   - The Art of Simplicity by Venkat Subramaniam - https://www.youtube.com/watch?v=NMTrlv4nQR8
+  - AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM
   airtable_createdTime: '2023-11-19T19:34:48.000Z'
   airtable_id: recDJCrzfZkg89BP0
 - Last Modified: '2024-09-02T21:41:39.000Z'
@@ -1775,7 +1780,7 @@
   - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2024-09-15T07:24:19.000Z'
+- Last Modified: '2024-12-08T22:17:36.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1878,7 +1883,11 @@
   - recFo4C6tWCDoJH0Z
   - recCTj8eJ0Za6tae4
   - reccfJsxaBnA09Cmu
-  Resources number: 100
+  - recoRHsRlGCAsIFus
+  - recc0PZAq20p3ZJuT
+  - recnSM0Hjvic4XhFx
+  - recMK9byb9akbMylA
+  Resources number: 104
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1991,6 +2000,13 @@
   - Evolutionary Architecture - https://www.infoq.com/presentations/evolutionary-architecture/
   - The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg
   - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
+  - "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN\
+    \ 24 - https://www.youtube.com/watch?v=cxLGc5YRFBs"
+  - AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM
+  - "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from\
+    \ Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0"
+  - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
+    \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-10-15T18:45:08.000Z'
@@ -2185,7 +2201,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-11-24T19:08:01.000Z'
+- Last Modified: '2024-12-08T22:17:45.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2354,7 +2370,10 @@
   - recHORJ4ydowbim4n
   - reccfJsxaBnA09Cmu
   - recwcdWSq15iUEKwj
-  Resources number: 166
+  - recc0PZAq20p3ZJuT
+  - recCPjTZloWAjizKF
+  - recMK9byb9akbMylA
+  Resources number: 169
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2540,6 +2559,10 @@
   - The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE
   - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
   - Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0
+  - AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM
+  - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
+  - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
+    \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2572,7 +2595,7 @@
   - 'WIP: why limiting work in progress makes sense (Kanban) - https://www.youtube.com/watch?v=W92wG-HW8gg'
   airtable_createdTime: '2021-03-14T07:15:03.000Z'
   airtable_id: recY6zZikaaqsHrEX
-- Last Modified: '2024-08-18T08:10:05.000Z'
+- Last Modified: '2024-12-08T22:17:54.000Z'
   Name: Microservices
   Resources:
   - recIOfjqnhxyzz2w5
@@ -2601,7 +2624,10 @@
   - recmvGnioINm5MqHN
   - recCTj8eJ0Za6tae4
   - recN5kKqqCeEjWegT
-  Resources number: 26
+  - recoRHsRlGCAsIFus
+  - recnSM0Hjvic4XhFx
+  - recMK9byb9akbMylA
+  Resources number: 29
   Speakers:
   - 'Baruco 2012: Micro-Service Architecture - https://www.youtube.com/watch?v=2rKEveL55TY'
   - Everything about distributed systems is terrible - https://www.youtube.com/watch?v=tfnldxWlOhM
@@ -2630,9 +2656,15 @@
   - Evolutionary Architecture and Microservices - http://www.infoq.com/presentations/evolutionary-architecture-microservices-cd
   - The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg
   - Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
+  - "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN\
+    \ 24 - https://www.youtube.com/watch?v=cxLGc5YRFBs"
+  - "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from\
+    \ Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0"
+  - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
+    \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2024-09-02T21:41:48.000Z'
+- Last Modified: '2024-12-08T21:16:20.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2707,7 +2739,8 @@
   - recRyKUpTpRQJdke4
   - recclNm0J3dDOzoHt
   - recMKaRM5scFVWgij
-  Resources number: 72
+  - recCPjTZloWAjizKF
+  Resources number: 73
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2789,6 +2822,7 @@
   - YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   - A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU
+  - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2024-11-24T08:35:28.000Z'
@@ -3395,7 +3429,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-11-24T19:26:21.000Z'
+- Last Modified: '2024-12-08T21:16:17.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3516,7 +3550,8 @@
   - recVFSquUdCuGrS16
   - recpkxs58fTTCeDvt
   - recm5NyzuUShg6KDI
-  Resources number: 118
+  - recCPjTZloWAjizKF
+  Resources number: 119
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3649,6 +3684,7 @@
   - The best programmer I know  - https://www.youtube.com/watch?v=D6aUoGK2rkk
   - 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
   - Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
+  - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2024-11-24T19:07:40.000Z'
@@ -3710,7 +3746,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recilc2YTQjWvGOWf
-- Last Modified: '2024-11-24T19:26:34.000Z'
+- Last Modified: '2024-12-08T21:16:26.000Z'
   Name: Continuous Delivery
   Resources:
   - recYRRdQNqoJfTD4f
@@ -3792,7 +3828,8 @@
   - recSAamOq3VNnKbru
   - recwcdWSq15iUEKwj
   - recm5NyzuUShg6KDI
-  Resources number: 79
+  - recCPjTZloWAjizKF
+  Resources number: 80
   Speakers:
   - Feature branching considered evil - http://videos.ncrafts.io/video/275529985
   - Feature Branching considered Evil - https://vimeo.com/275529985
@@ -3879,6 +3916,7 @@
   - 5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0
   - Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0
   - Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
+  - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recin3Ync8iZldW0q
 - Last Modified: '2024-03-30T16:23:54.000Z'
@@ -3981,7 +4019,7 @@
   - 'FYAC: The 3 Levels of User Story Slicing - https://www.youtube.com/watch?v=TJ2aS80OTKg'
   airtable_createdTime: '2022-09-18T21:48:46.000Z'
   airtable_id: reclZWPaBbTfn5pQo
-- Last Modified: '2024-09-15T07:24:23.000Z'
+- Last Modified: '2024-12-08T22:11:41.000Z'
   Name: Architecture patterns
   Resources:
   - recmUlW6oy0nh41vw
@@ -4022,7 +4060,9 @@
   - recYZ3cyr9Rm2u5Br
   - recN5kKqqCeEjWegT
   - reccfJsxaBnA09Cmu
-  Resources number: 38
+  - recoRHsRlGCAsIFus
+  - recnSM0Hjvic4XhFx
+  Resources number: 40
   Speakers:
   - 'Beyond Microservices: Streams, State and Scalability - https://www.infoq.com/presentations/microservices-streams-state-scalability/'
   - Intro to Amazon EventBridge - https://www.youtube.com/watch?v=TXh5oU_yo9M
@@ -4067,6 +4107,10 @@
   - 'Thinking Asynchronously: App Integration Patterns for Microservices - https://www.youtube.com/watch?v=_ugRNuE9xmA'
   - Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
   - 'Overcomplicated Architecture: Scaling Bottleneck - https://www.infoq.com/presentations/overcomplicated-architecture/'
+  - "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN\
+    \ 24 - https://www.youtube.com/watch?v=cxLGc5YRFBs"
+  - "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from\
+    \ Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recm1G3xxDIQZ5dKc
 - Last Modified: '2024-08-18T07:57:57.000Z'
@@ -4924,7 +4968,7 @@
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
   airtable_createdTime: '2021-06-13T22:14:58.000Z'
   airtable_id: recxJkIWVynhDpBOI
-- Last Modified: '2023-02-19T20:44:36.000Z'
+- Last Modified: '2024-12-08T22:17:49.000Z'
   Name: team topologies
   Resources:
   - recYzwGK7rq9HmLTU
@@ -4935,7 +4979,8 @@
   - recPimGXOeaAHSQ3S
   - recr9psXCCS4XmZA6
   - recIHgDgxmcGBHQJk
-  Resources number: 8
+  - recMK9byb9akbMylA
+  Resources number: 9
   Speakers:
   - 'Traditional vs Modern Internal Platforms: Find the Differences! - https://www.youtube.com/watch?v=d3xHju0Lb2Q'
   - WTF is Platform as a Product? - https://www.youtube.com/watch?v=NZL7O88xAL4
@@ -4946,5 +4991,7 @@
   - "Why Your Software Team CAN\u2019T Scale - https://www.youtube.com/watch?v=pw686Oyeqmw"
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   - Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - https://www.youtube.com/watch?v=qKLnlaWKkb4
+  - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
+    \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   airtable_createdTime: '2021-06-29T22:21:35.000Z'
   airtable_id: recynJ6SkSnezmQrV
