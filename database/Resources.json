@@ -5885,13 +5885,15 @@
         "registered_at": "2021-06-19T11:36:14.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/12/good-talkspodcasts-dec-2024-i.html",
         "Created": "2024-12-08T21:06:39.000Z",
         "Description": "This podcast features Daniel Terhorst-North, a prominent figure in the software development world, reflecting on 20 years of industry changes and sharing his insights on topics ranging from Agile and DevOps to product management and organizational flow. Drawing on his experiences at Thoughtworks and beyond, Terhorst-North highlights the importance of connecting business needs with technical implementation and emphasizes the value of building evolvable systems with \"simplexity\" in mind.\n",
         "Duration": 3120,
         "Language": "English",
-        "Last Modified": "2024-12-08T21:22:30.000Z",
+        "Last Modified": "2024-12-15T17:41:50.000Z",
         "Less 15": 0,
         "Name": "How to Deliver Quality Software Against All Odds GOTO 2024",
+        "Published": true,
         "Rating": 5,
         "Resource": "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
         "Resource type": "talk",
@@ -10929,13 +10931,15 @@
         "registered_at": "2020-07-27T08:02:02.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/12/good-talkspodcasts-dec-2024-i.html",
         "Created": "2024-12-08T22:15:32.000Z",
         "Description": "This presentation explores the intersection of team topologies, software architecture, and complexity science, arguing that successful organizational design and software development hinges on optimizing for flow and value delivery. The speaker, drawing on his experience with the evolution of microservices, advocates for embracing decentralization, limiting hierarchy, and leveraging social network structures to foster innovation and agility in growing organizations.\n",
         "Duration": 2280,
         "Language": "English",
-        "Last Modified": "2024-12-08T22:18:01.000Z",
+        "Last Modified": "2024-12-15T17:41:53.000Z",
         "Less 15": 0,
         "Name": "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022 GOTO 2022",
+        "Published": true,
         "Resource": "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022 GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -18652,13 +18656,15 @@
         "registered_at": "2020-01-19T20:37:44.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/12/good-talkspodcasts-dec-2024-i.html",
         "Created": "2024-12-08T20:57:50.000Z",
         "Description": "This presentation explores the concept of \"simplexity\" - building and operating complex systems safely and simply, using lessons learned from 20 years of evolution at Amazon Web Services (AWS). The speaker emphasizes the importance of designing evolvable systems from the beginning and outlines six key lessons for managing complexity, including breaking down systems into smaller units, aligning organizations to architecture, and automating tasks that don't require human judgment. Numerous examples from AWS, such as the evolution of Amazon S3, CloudWatch, and Route 53, illustrate the practical application of these principles.\n",
         "Duration": 6600,
         "Language": "English",
-        "Last Modified": "2024-12-08T21:02:34.000Z",
+        "Last Modified": "2024-12-15T17:41:49.000Z",
         "Less 15": 0,
         "Name": "AWS re:Invent 2024 - Dr. Werner Vogels Keynote",
+        "Published": true,
         "Resource": "AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -25512,13 +25518,15 @@
         "registered_at": "2020-01-19T20:34:34.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/12/good-talkspodcasts-dec-2024-i.html",
         "Created": "2024-12-08T22:11:19.000Z",
         "Description": "This presentation offers a retrospective analysis of the speaker's experience implementing microservices at Netflix from 2007-2013, examining both the successes and the lessons learned along the way. The speaker discusses key aspects of Netflix's innovative approach, including their \"extreme and agile\" culture, early adoption of cloud technologies like AWS and Cassandra, and focus on developer freedom and responsibility. The presentation also highlights specific technical patterns and practices developed at Netflix, such as the use of service access libraries, lightweight serializable objects, and chaos engineering.\n",
         "Duration": 3300,
         "Language": "English",
-        "Last Modified": "2024-12-08T22:12:27.000Z",
+        "Last Modified": "2024-12-15T17:41:52.000Z",
         "Less 15": 0,
         "Name": "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from Netflix",
+        "Published": true,
         "Resource": "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0",
         "Resource type": "talk",
         "Speaker WomenInTech": [
@@ -26166,13 +26174,15 @@
         "registered_at": "2023-01-08T16:50:10.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2024/12/good-talkspodcasts-dec-2024-i.html",
         "Created": "2024-12-08T20:35:47.000Z",
         "Description": "This presentation is about identifying service boundaries in software architecture to avoid coupling and ending up with a \"big ball of mud\", even when using microservices. I recommend this talk because it provides practical advice on how to define services as technical authorities for specific business capabilities, leading to more maintainable and scalable systems.\n",
         "Duration": 2880,
         "Language": "English",
-        "Last Modified": "2024-12-08T20:44:32.000Z",
+        "Last Modified": "2024-12-15T17:41:48.000Z",
         "Less 15": 0,
         "Name": "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN 24",
+        "Published": true,
         "Rating": 5,
         "Resource": "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN 24 - https://www.youtube.com/watch?v=cxLGc5YRFBs",
         "Resource type": "talk",
