@@ -25,6 +25,9 @@ jobs:
           mkdir -p database
           airtable-export --version
           airtable-export --verbose database appEq6pzSjq7DugAR --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics --json --ndjson --yaml
+      - name: Generate awesome talks
+        run: |
+          python3 scripts/generate_talks.py
       - name: Commit updated Database
         run: |
           git config --global user.name "Eduardo Ferro"
@@ -38,7 +41,8 @@ jobs:
           git add database/Speakers.yml
           git add database/Topics.json
           git add database/Topics.ndjson
-          git add database/Topics.yml          
+          git add database/Topics.yml      
+          git add talks/awesome_talks.json    
           git commit -m "Exported Airtable Database"
       - name: Push changes
         uses: ad-m/github-push-action@master
