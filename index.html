@@ -1,0 +1,21 @@
+     <html>
+     <head>
+       <title>Charlas y Podcasts</title>
+     </head>
+     <body>
+       <h1>Charlas y Podcasts</h1>
+       <div id="content"></div>
+       <script>
+         fetch('data.json')
+           .then(response => response.json())
+           .then(data => {
+             const contentDiv = document.getElementById('content');
+             data.forEach(item => {
+               const div = document.createElement('div');
+               div.innerHTML = `<h2>${item.title}</h2><p>${item.description}</p>`;
+               contentDiv.appendChild(div);
+             });
+           });
+       </script>
+     </body>
+     </html>
