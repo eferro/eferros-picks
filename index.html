@@ -17,8 +17,10 @@
               const contentUl = document.getElementById('content');
               data.forEach(item => {
                 const li = document.createElement('li');
-                const speakers = item.Speakers_Names.join(', ');
-                li.innerHTML = `<a href="${item.Url}">${item.Name}</a> (${speakers}) ${item.Description}`;
+                const speakers = `<strong>${item.Speakers_Names.join(', ')}</strong>`;
+                const topics = `<strong>[${item.Topics_Names.join(', ')}]</strong>`;
+                const duration = `<strong>[Duration: ${Math.floor(item.Duration / 60).toString().padStart(2, '0')}:${(item.Duration % 60).toString().padStart(2, '0')}]</strong>`;
+                li.innerHTML = `${speakers} - <a href="${item.Url}">${item.Name}</a> ${topics} ${duration} ${item.Description}`;
                 contentUl.appendChild(li);
               });
             })
