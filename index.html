@@ -17,7 +17,8 @@
               const contentUl = document.getElementById('content');
               data.forEach(item => {
                 const li = document.createElement('li');
-                li.innerHTML = `<a href="${item.Url}">${item.Name}</a> ${item.Description}`;
+                const speakers = item.Speakers_Names.join(', ');
+                li.innerHTML = `<a href="${item.Url}">${item.Name}</a> (${speakers}) ${item.Description}`;
                 contentUl.appendChild(li);
               });
             })
