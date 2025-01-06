@@ -4,7 +4,7 @@
      </head>
      <body>
        <h1>Recomended Talks</h1>
-       <div id="content"></div>
+       <ul id="content"></ul>
         <script>
           fetch('database/awesome-talks.json')
             .then(response => {
@@ -14,11 +14,11 @@
               return response.json();
             })
             .then(data => {
-              const contentDiv = document.getElementById('content');
+              const contentUl = document.getElementById('content');
               data.forEach(item => {
-                const div = document.createElement('div');
-                div.innerHTML = `<h2>${item.Name}</h2><p><a href="${item.Url}">${item.Url}</a>${item.Description}</p>`;
-                contentDiv.appendChild(div);
+                const li = document.createElement('li');
+                li.innerHTML = `<a href="${item.Url}">${item.Name}</a> ${item.Description}`;
+                contentUl.appendChild(li);
               });
             })
             .catch(error => {
