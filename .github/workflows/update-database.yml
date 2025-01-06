@@ -47,7 +47,7 @@ jobs:
           git add database/Topics.json
           git add database/Topics.ndjson
           git add database/Topics.yml      
-          git add database/awesome_talks.json    
+          git add database/awesome-talks.json    
           git commit -m "Exported Airtable Database"
       - name: Push changes
         uses: ad-m/github-push-action@master
