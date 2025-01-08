@@ -1,7 +1,8 @@
 name: Update Database
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite la ejecución manual desde la interfaz de GitHub
 jobs:
   export:
     runs-on: ubuntu-latest
