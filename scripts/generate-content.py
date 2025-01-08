@@ -90,6 +90,7 @@ def generate_html_from_repository(repo):
 
         file.write(f"    <br>\n")
         file.write(f"    <br>\n")
+        file.write(f"    <h2>Other speakers</h2>\n")
         file.write(f"    <ul>\n")        
         generate_html_for_other_speakers(file, talks_by_speaker, include_speakers=True)
         file.write(f"    </ul>\n")
