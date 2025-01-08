@@ -44,7 +44,7 @@ jobs:
           git add database/Topics.yml      
           git add index.html
           git commit -m "Exported Airtable Database"
-          git pull origin ${{ github.ref }}
+          git pull origin ${{ github.ref }} --rebase
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
