@@ -27,9 +27,6 @@ jobs:
           airtable-export --verbose database $AIRTABLE_DATABASE_ID --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics --json --ndjson --yaml
       - name: Generate awesome talks
         run: |
-          git config --global user.name "Eduardo Ferro"
-          git config --global user.email "eferro@eferro.net"
-          git pull origin ${{ github.ref }}
           python3 scripts/generate-content.py
       - name: Commit updated Database
         run: |
@@ -47,6 +44,7 @@ jobs:
           git add database/Topics.yml      
           git add index.html
           git commit -m "Exported Airtable Database"
+          git pull origin ${{ github.ref }}
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
