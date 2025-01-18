@@ -115,7 +115,8 @@ def generate_html_for_other_speakers(file, talks_by_speaker, include_speakers):
         generate_html_for_a_talk(file, talk, include_speakers=True)
 
 def generate_html_for_a_speaker(file, speaker, talks, include_speakers):
-    file.write(f"    <li>{speaker}</li>\n")
+    sanitized_speaker = speaker.replace(' ', '_').replace('.','_').lower()
+    file.write(f"    <li><a name=\"{sanitized_speaker}\">{speaker}</a></li>\n")
     file.write(f"      <ul>\n")
     for talk in talks:
         generate_html_for_a_talk(file, talk, include_speakers)
