@@ -25,7 +25,7 @@ jobs:
         run: |
           mkdir -p database
           airtable-export --version
-          airtable-export --verbose database $AIRTABLE_DATABASE_ID --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics --json --ndjson --yaml
+          airtable-export --verbose database $AIRTABLE_DATABASE_ID --key=$AIRTABLE_API_KEY  --sqlite database/picks.db Resources Speakers Topics --json --ndjson --yaml --http-read-timeout 60
       - name: Generate awesome talks
         run: |
           python3 scripts/generate-content.py
