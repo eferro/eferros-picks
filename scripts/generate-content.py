@@ -3,7 +3,6 @@ from dataclasses import dataclass
 from typing import List, Optional
 from collections import defaultdict
 
-
 @dataclass
 class Talk:
     id: str
@@ -14,6 +13,12 @@ class Talk:
     speakers: List[str]
     description: Optional[str]
 
+
+introduction_html = """
+<p>These recommended talks represent my personal take on software delivery and product development, shaped by both my real-world experiences and my guiding principles around Agile, XP, Continuous Delivery, and Lean thinking. They aren’t meant to be a comprehensive or neutral collection—rather, they showcase how I’ve seen teams thrive when we embrace flow, high-quality code, and tight feedback loops. If you’d like to learn about the premises that form the backbone of my approach, please check out <a href="https://www.eferro.net/p/my-premises-about-software-development.html">My Premises About Software Development</a>.</p>
+<p>Because I firmly believe in going fast by maintaining high quality and always remembering that software is a means to an end, you’ll notice a theme of close collaboration, small safe steps, and continuous learning throughout these talks. These beliefs stem directly from my hands-on experience, and I’ve seen their impact across multiple projects. For more insights into my approach, visit my blog at <a href="https://www.eferro.net/">https://www.eferro.net/</a>, where I delve deeper into Lean product delivery, XP practices, and the value of reliable, evolving code.</p>
+"""
+image_html = '<center><img src="images/honey_badger-eferro-no-bg-small.png" alt="eferro logo" /></center>'
 
 class TalkRepository:
     def __init__(self, db_path: str):
@@ -84,6 +89,11 @@ def generate_html_from_repository(repo):
         file.write("  <body>\n")
         file.write("    <h1>Recomended Talks</h1>\n")
 
+        file.write(image_html)
+        file.write(introduction_html)
+
+
+        file.write("    <h2>Talks by speaker</h2>\n")
         file.write(f"    <ul>\n")
         generate_html_for_top_speakers(file, talks_by_speaker, include_speakers=False)
         file.write(f"    </ul>\n")
