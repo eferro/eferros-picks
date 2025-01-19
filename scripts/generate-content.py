@@ -19,6 +19,16 @@ introduction_html = """
 <p>Because I firmly believe in going fast by maintaining high quality and always remembering that software is a means to an end, you’ll notice a theme of close collaboration, small safe steps, and continuous learning throughout these talks. These beliefs stem directly from my hands-on experience, and I’ve seen their impact across multiple projects. For more insights into my approach, visit my <a href="https://www.eferro.net">Blog (eferro's random stuff)</a>, where I delve deeper into Lean Software Development, Lean Product Development, XP practices, and the value of reliable, evolving code.</p>
 """
 image_html = '<center><img src="images/honey_badger-eferro-no-bg-small.png" alt="eferro logo" /></center>'
+librecounter_html = """
+<a href="https://librecounter.org/referer/show" target="_blank">
+<img src="https://librecounter.org/counter.svg" referrerPolicy="unsafe-url" />
+</a>'
+"""
+footer_html = """
+<p>
+© 2024 Edu Ferro (<b>eferro</b>). All rights reserved. <a href="https://www.eferro.net">Visit my website</a>
+</p>
+"""
 
 class TalkRepository:
     def __init__(self, db_path: str):
@@ -106,6 +116,10 @@ def generate_html_from_repository(repo):
         file.write(f"    </ul>\n")
 
         file.write(f"    </ul>\n")
+
+        file.write(footer_html)
+        file.write(librecounter_html)
+
         file.write("  </body>\n")
         file.write("</html>\n")
 
