@@ -25,6 +25,8 @@ librecounter_html = """
 </a>'
 """
 footer_html = """
+<br>
+<br>
 <p>
 © 2024 Edu Ferro (<b>eferro</b>). All rights reserved. <a href="https://www.eferro.net">Visit my website</a>
 </p>
