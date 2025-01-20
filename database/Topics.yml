@@ -1630,7 +1630,7 @@
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
-- Last Modified: '2024-09-15T07:28:46.000Z'
+- Last Modified: '2025-01-19T22:06:43.000Z'
   Name: Devops
   Resources:
   - recOeXIOfuU3plaew
@@ -1682,7 +1682,6 @@
   - reclOYdhJa384pJOo
   - recnJc1iEwa5YWeha
   - recmX18vmHRNPz3Jb
-  - recK6Q0fLRWNCL9KI
   - recZsVeNr2HHHpRLG
   - recr9psXCCS4XmZA6
   - recgwJfBEOYLO3VOq
@@ -1700,7 +1699,7 @@
   - recSi9cTXikmWOquX
   - recU3ahWWaBZfihRf
   - recceiIXetqPomvUx
-  Resources number: 67
+  Resources number: 66
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -1760,7 +1759,6 @@
   - "Frozen DevOps? Team Topologies Comes to the Rescue! - DevOpsDays Pozna\u0144\
     \ 2021 - https://www.youtube.com/watch?v=P7NIbMxlC7E"
   - Production - Designing for Testability - https://www.infoq.com/presentations/quality-production/
-  - Full Cycle Developers at Netflix - https://www.youtube.com/watch?v=NitqmK9M4wI
   - 'Scaling Personalization: DevOps at Stitch Fix - https://www.youtube.com/watch?v=aJuoADKh0GY'
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   - Agile Book Club - DevOps (with Jessica Kerr) - https://www.youtube.com/watch?v=DAayRED0B7g
@@ -1780,7 +1778,7 @@
   - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2024-12-08T22:17:36.000Z'
+- Last Modified: '2025-01-19T22:06:43.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1855,7 +1853,6 @@
   - recax0iR3rlZXst7c
   - recq4A17TPnFudBcF
   - rec5ilr769PCz9J9S
-  - recK6Q0fLRWNCL9KI
   - recLnRF2aJnuRO2hg
   - recDACew9N6gP5AhA
   - rec0QeqSAE9n3RAu6
@@ -1887,7 +1884,7 @@
   - recc0PZAq20p3ZJuT
   - recnSM0Hjvic4XhFx
   - recMK9byb9akbMylA
-  Resources number: 104
+  Resources number: 103
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -1970,7 +1967,6 @@
     Ep. 1 - https://www.youtube.com/watch?v=0TwoubGSXpc
   - 'SATURN 2018 Keynote: Uncoupling - https://www.youtube.com/watch?v=EirOknZJvYc'
   - 'Expert Talk: DevOps & Software Architecture GOTO 2021 - https://www.youtube.com/watch?v=Qv92qaIGbDg'
-  - Full Cycle Developers at Netflix - https://www.youtube.com/watch?v=NitqmK9M4wI
   - How To Avoid Big Upfront Design - https://www.youtube.com/watch?v=8GONv6jJsG0
   - Operational simplicity is a gift to you - https://changelog.com/shipit/62
   - 'Building Evolutionary Architectures: Principles and Practices - https://www.youtube.com/watch?v=PQBlyAxPje0'
@@ -2049,7 +2045,7 @@
   - Keynote PyCon 2017 - https://www.youtube.com/watch?v=66XoCk79kjM
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recRy2nXD9Dh7GMhI
-- Last Modified: '2024-09-15T07:28:26.000Z'
+- Last Modified: '2025-01-19T22:06:43.000Z'
   Name: Operations
   Resources:
   - recOeXIOfuU3plaew
@@ -2071,7 +2067,6 @@
   - recO0DG5oqYcZ55lA
   - recm1ocukk0b7YfFt
   - recLdSfYAzDq0x01r
-  - recK6Q0fLRWNCL9KI
   - recDACew9N6gP5AhA
   - rec3kcsAi7KgeUv5c
   - recEbeDrLiZUegSaB
@@ -2079,7 +2074,7 @@
   - recmOMsXWPRJCtQwC
   - recUiAvLX6uU6gj42
   - recceiIXetqPomvUx
-  Resources number: 27
+  Resources number: 26
   Speakers:
   - 'Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw'
   - Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s
@@ -2102,7 +2097,6 @@
   - 'Software at Scale 13 - Emma Tang: ex Data Infrastructure Lead, Stripe - https://www.softwareatscale.dev/p/software-at-scale-13-emma-tang-ex'
   - How Honeycomb Manages Incident Response - https://vimeo.com/568639911
   - 'Honeycomb & OpenTelemetry: Instrumentation Should Be Boring - https://www.youtube.com/watch?v=bsVyry8U47Q'
-  - Full Cycle Developers at Netflix - https://www.youtube.com/watch?v=NitqmK9M4wI
   - Operational simplicity is a gift to you - https://changelog.com/shipit/62
   - 'Agile Book Club: Continuous Deployment (with Kelsey Hightower) - https://www.youtube.com/watch?v=ZpB6BXQLPm8'
   - Why we switched to serverless containers - https://changelog.com/shipit/87
@@ -2201,7 +2195,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2024-12-08T22:17:45.000Z'
+- Last Modified: '2025-01-19T23:06:06.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2373,7 +2367,8 @@
   - recc0PZAq20p3ZJuT
   - recCPjTZloWAjizKF
   - recMK9byb9akbMylA
-  Resources number: 169
+  - recOtIG9sYrRR6tQr
+  Resources number: 170
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2563,6 +2558,7 @@
   - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
   - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
     \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
+  - What makes a good developer - https://vimeo.com/748032161
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2990,7 +2986,7 @@
   - Why Everyone Builds Internal Kubernetes Platforms - https://itnext.io/why-everyone-builds-internal-kubernetes-platforms-284c2cf76226
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recfCstv3TFsotZ9q
-- Last Modified: '2024-11-24T19:00:32.000Z'
+- Last Modified: '2025-01-19T21:50:34.000Z'
   Name: Product
   Resources:
   - recAqmzu1BqJCJVxS
@@ -3015,7 +3011,6 @@
   - recBfVsYe3o327PKD
   - recCiJLjLExH5URns
   - recuNKgXSKL0koaKU
-  - rectcpSR95TCD5yxR
   - recfsDPHjPlSeLYRw
   - rec9OjoMhRCiQQxH4
   - recbPgwllMN0O9rA6
@@ -3071,7 +3066,7 @@
   - recr5tjxMaxeZDCww
   - rec0cTDqEx18P2i1q
   - recaTxSRbgrtkff9X
-  Resources number: 78
+  Resources number: 77
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc
@@ -3097,8 +3092,6 @@
   - 'The Marty Cagan special - ProductTank #27 Singapore - https://www.youtube.com/watch?v=idMN-YwiYOs'
   - 'Product Discovery: Engineering perspective - https://www.youtube.com/watch?v=xeGHvXwCk1M'
   - How to start focusing on value - https://stanete.com/focus-on-value
-  - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
-    Big & Small ARC337 - https://www.youtube.com/watch?v=O8xLxNje30M'
   - Cross-functional Leadership for High-Performance Product Teams - https://www.youtube.com/watch?v=GJc9xoMxGK0
   - Habits, Practices & Strategy For Building Viral Products - https://www.youtube.com/watch?v=5Qt5gjzKtZc
   - Creating Value and Flow in Product Development - https://www.youtube.com/watch?v=NGdx-f-aGXs

@@ -135,7 +135,7 @@
         "Description": "Great summary about the different ways high-performing engineering organizations gain leverage by specialization and sharing.\n",
         "Duration": 2280,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:02:14.000Z",
         "Less 15": 0,
         "Name": "Engineering Your Organization: Services, Platforms, and Communities",
         "Published": true,
@@ -172,6 +172,7 @@
         "Url": "https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/",
         "airtable_createdTime": "2022-01-17T08:12:35.000Z",
         "airtable_id": "rec0FlFDAe8nf8BU5",
+        "core_topic": "Engineering Culture",
         "registered_at": "2022-01-17T08:12:35.000Z"
     },
     {
@@ -277,7 +278,7 @@
         "Description": "Great talk to understand what is development experience. \n",
         "Duration": 900,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:31:27.000Z",
         "Less 15": 1,
         "Name": "Keynote: Creating a Holistic Developer Experience",
         "Published": true,
@@ -304,6 +305,7 @@
         "Url": "https://www.youtube.com/watch?v=KGbw2c40q9Q",
         "airtable_createdTime": "2022-04-09T18:12:26.000Z",
         "airtable_id": "rec0NaKLjOOS7L1Gb",
+        "core_topic": "Platform-Engineering",
         "registered_at": "2022-04-09T18:12:26.000Z"
     },
     {
@@ -373,7 +375,7 @@
         "Description": "This is a 12-minute redux of the 1-hour talk by Rich Hickey, for really impatient people. Original: https://www.youtube.com/watch?v=SxdOUGdseq4\n",
         "Duration": 720,
         "Language": "English",
-        "Last Modified": "2023-11-17T09:16:50.000Z",
+        "Last Modified": "2025-01-19T23:09:53.000Z",
         "Less 15": 1,
         "Name": "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011)",
         "Published": true,
@@ -404,6 +406,7 @@
         "Url": "https://www.youtube.com/watch?v=F87PtAoJNtg",
         "airtable_createdTime": "2023-10-15T18:46:04.000Z",
         "airtable_id": "rec0Zn0xNpLa4HaZn",
+        "core_topic": "Architecture",
         "registered_at": "2023-10-15T18:46:04.000Z"
     },
     {
@@ -412,7 +415,7 @@
         "Description": "This talk explores key concepts and mathematical principles behind achieving flow in processes, like product development, drawing parallels to flow dynamics in traffic and internet systems. Don Reinertsen explains the economics of queuing, batch size reduction, and fast feedback loops, highlighting their impact on cycle time and overall process efficiency.\n",
         "Duration": 1980,
         "Language": "English",
-        "Last Modified": "2024-11-24T09:12:57.000Z",
+        "Last Modified": "2025-01-19T22:59:50.000Z",
         "Less 15": 0,
         "Name": "The Logic of Flow: Some Indispensable Concepts",
         "Published": true,
@@ -439,6 +442,7 @@
         "Url": "https://www.youtube.com/watch?v=rc1MqHsiiKo",
         "airtable_createdTime": "2024-11-24T08:50:04.000Z",
         "airtable_id": "rec0cTDqEx18P2i1q",
+        "core_topic": "Lean",
         "registered_at": "2024-11-24T08:50:04.000Z"
     },
     {
@@ -1028,7 +1032,7 @@
         "Description": "Great talks about how cloud is changing the risk profile of our application and the software quality practices.\n",
         "Duration": 2700,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:56:27.000Z",
         "Less 15": 0,
         "Name": "Snow White and the 777.777.777 Dwarfs",
         "Published": true,
@@ -1061,6 +1065,7 @@
         "Url": "https://www.youtube.com/watch?v=UBVHQaI02PQ",
         "airtable_createdTime": "2020-01-19T20:43:07.000Z",
         "airtable_id": "rec2DFjI7MRRpAkZH",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:43:07.000Z"
     },
     {
@@ -1515,7 +1520,7 @@
         "Description": "Modeling your data in the DynamoDB database structure requires a different approach from modeling in traditional relational databases. Alex DeBrie has written a number of applications using DynamoDB and is the creator of DynamoDBGuide.com, a free resource for learning DynamoDB\n",
         "Duration": 2340,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:51:33.000Z",
         "Less 15": 0,
         "Name": "AWS re:Invent 2019: Data modeling with Amazon DynamoDB (CMY304)",
         "Published": true,
@@ -1550,6 +1555,7 @@
         "Url": "https://www.youtube.com/watch?v=DIQVJqiSUkE",
         "airtable_createdTime": "2020-03-14T09:01:20.000Z",
         "airtable_id": "rec3E0KiheJHZzqvy",
+        "core_topic": "Architecture",
         "registered_at": "2020-03-14T09:01:20.000Z"
     },
     {
@@ -2536,7 +2542,7 @@
         "Description": "An exploration of the boundaries between pieces of code, including: isolated testing, behavior vs. data, mutation vs. immutability, how data shape affords parallelism, transforming interface dependencies into data dependencies,  and what a system optimizing each of these for natural isolation might look like.\n",
         "Duration": 1800,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:53:40.000Z",
         "Less 15": 0,
         "Name": "Boundaries",
         "Published": true,
@@ -2567,6 +2573,7 @@
         "Url": "https://www.youtube.com/watch?v=eOYal8elnZk",
         "airtable_createdTime": "2020-07-08T06:46:19.000Z",
         "airtable_id": "rec5ausknvBSEt8z3",
+        "core_topic": "Architecture",
         "registered_at": "2020-07-08T06:46:19.000Z"
     },
     {
@@ -2793,7 +2800,7 @@
         "Created": "2020-01-19T20:40:09.000Z",
         "Description": "A great talk about culture for high-performance tech organizations.\u00a0Good complement for\u00a0Accelerate and based in his experience at ebay and google.\n",
         "Language": "English",
-        "Last Modified": "2023-11-18T15:37:47.000Z",
+        "Last Modified": "2025-01-19T21:54:29.000Z",
         "Less 15": 1,
         "Name": "Building and Scaling a High-Performance Culture",
         "Published": true,
@@ -2824,6 +2831,7 @@
         "Url": "https://www.infoq.com/presentations/autonomy-trust-pragmacy-teams/",
         "airtable_createdTime": "2020-01-19T20:40:09.000Z",
         "airtable_id": "rec60loGe7MPQViCd",
+        "core_topic": "Engineering Culture",
         "registered_at": "2020-01-19T20:40:09.000Z"
     },
     {
@@ -3349,7 +3357,7 @@
         "Description": "A new version of a classic one. A great talk.\n",
         "Duration": 2400,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:33:17.000Z",
+        "Last Modified": "2025-01-19T21:57:40.000Z",
         "Less 15": 0,
         "Name": "Continuous Delivery Sounds Great But It Won\u2019t Work Here",
         "Published": true,
@@ -3374,6 +3382,7 @@
         "Url": "https://www.infoq.com/presentations/continuous-delivery-highlights",
         "airtable_createdTime": "2020-01-19T20:32:20.000Z",
         "airtable_id": "rec6vxNvl606hoeCB",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-01-19T20:32:20.000Z"
     },
     {
@@ -4281,7 +4290,7 @@
         "Description": "Great talk with the evolution of our field from a lean perspective. Great insights about the engineering role, agile, the current painful division between business and development, how we can think about complex systems, the failure of having proxy roles as the product owner, etc... Great talk, lot of computer and development history, and great Q&A session.\nSlides: <https://speakerdeck.com/devopslx/2020-dot-07-meetup-talk-may-poppendieck-six-decades-of-software-engineering>\n",
         "Duration": 4980,
         "Language": "English",
-        "Last Modified": "2024-01-22T14:12:51.000Z",
+        "Last Modified": "2025-01-19T22:56:00.000Z",
         "Less 15": 0,
         "Name": "Six Decades of Software Engineering",
         "Published": true,
@@ -4312,6 +4321,7 @@
         "Url": "https://www.youtube.com/watch?v=PzI07SBqaPA",
         "airtable_createdTime": "2020-07-27T09:20:46.000Z",
         "airtable_id": "rec9S1TCWALLhQvvt",
+        "core_topic": "Lean",
         "registered_at": "2020-07-27T09:20:46.000Z"
     },
     {
@@ -4738,7 +4748,7 @@
         "Description": "Do you know what scalability really is? It's a mathematical function that's simple, precise, and useful. REALLY useful. It describes the relationship between system performance and load. In this talk you'll learn the function (the Universal Scalability Law), how it describes and predicts system behavior you see every day, and how to use it in practice. I'll show you how to understand the function, how to capture the data you need to measure your own system's behavior (you probably already have that), and how to analyze the data with the USL. You'll leave this talk knowing exactly what scalability is and what causes non-linear scaling. There are two factors, and you'll start seeing those everywhere, too. As a result, when systems don't scale you'll know what kind of problem to look for, and you'll avoid building bottlenecks into your systems in the first place. Final note: this talk requires zero mathematical skill.\n",
         "Duration": 1740,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:33:16.000Z",
         "Less 15": 0,
         "Name": "LISA17 - Scalability Is Quantifiable: The Universal Scalability Law",
         "Published": true,
@@ -4767,6 +4777,7 @@
         "Url": "https://www.youtube.com/watch?v=lZU6RK0oazM",
         "airtable_createdTime": "2020-01-19T20:31:53.000Z",
         "airtable_id": "recAIkpCKXiZCft7V",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:31:53.000Z"
     },
     {
@@ -5288,7 +5299,7 @@
         "Description": "This talk presents the findings of the 2017 State of DevOps Report, emphasizing that high-performing organizations achieve both better throughput and stability. It explores how transformational leadership, technical practices, and lean product management contribute to IT and organizational performance.\n",
         "Duration": 1860,
         "Language": "English",
-        "Last Modified": "2025-01-08T22:02:56.000Z",
+        "Last Modified": "2025-01-19T22:00:33.000Z",
         "Less 15": 0,
         "Name": "DOES17 London - The Key to High Performance What the Data Says",
         "Published": true,
@@ -5325,6 +5336,7 @@
         "Url": "https://www.youtube.com/watch?v=cabzxfM_vWE",
         "airtable_createdTime": "2020-01-19T20:32:54.000Z",
         "airtable_id": "recBR96pE4GvW4b8m",
+        "core_topic": "Engineering Culture",
         "registered_at": "2020-01-19T20:32:54.000Z"
     },
     {
@@ -5511,7 +5523,7 @@
         "Description": "An open discussion on Modern Product Management.  The talk contains a lot of interesting discussions during the Q&A. I think it covers all the underpinnings of modern product management.\n",
         "Duration": 5280,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:00:20.000Z",
         "Less 15": 0,
         "Name": "The Marty Cagan special - ProductTank #27 Singapore",
         "Published": true,
@@ -5538,6 +5550,7 @@
         "Url": "https://www.youtube.com/watch?v=idMN-YwiYOs",
         "airtable_createdTime": "2020-06-14T11:13:00.000Z",
         "airtable_id": "recBfVsYe3o327PKD",
+        "core_topic": "Product",
         "registered_at": "2020-06-14T11:13:00.000Z"
     },
     {
@@ -5546,7 +5559,7 @@
         "Description": "Pure wisdom on why working in small, safe steps is the most efficient way to work in software product development when we have environments of high uncertainty (which is almost always).\n",
         "Duration": 4680,
         "Language": "English",
-        "Last Modified": "2024-01-22T14:13:58.000Z",
+        "Last Modified": "2025-01-19T22:06:54.000Z",
         "Less 15": 0,
         "Name": "GeePaw Hill on Incremental Software Delivery",
         "Published": true,
@@ -5575,6 +5588,7 @@
         "Url": "https://www.youtube.com/watch?v=NDXV16uheNs",
         "airtable_createdTime": "2024-01-14T19:04:38.000Z",
         "airtable_id": "recBgNNTaB15VLMCw",
+        "core_topic": "Agile-XP",
         "registered_at": "2024-01-14T19:04:38.000Z"
     },
     {
@@ -5583,7 +5597,7 @@
         "Description": "Interesting ideas about testing in production.\n",
         "Duration": 300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:56:52.000Z",
         "Less 15": 1,
         "Name": "Sufficiently Advanced Monitoring is Indistinguishable from Testing",
         "Published": true,
@@ -5612,6 +5626,7 @@
         "Url": "https://www.youtube.com/watch?v=uSo8i1N18oc",
         "airtable_createdTime": "2022-10-09T09:41:07.000Z",
         "airtable_id": "recBglPmZE7Z709Sa",
+        "core_topic": "Testing",
         "registered_at": "2022-10-09T09:41:07.000Z"
     },
     {
@@ -5620,7 +5635,7 @@
         "Description": "Integrated tests are a scam. You\u2019re probably writing 2-5% of the integrated tests you need to test thoroughly. You\u2019re probably duplicating unit tests all over the place. Your integrated tests probably duplicate each other all over the place. When an integrated test fails, who knows what\u2019s broken? Integrated tests probably do you more harm than good. Learn the two-pronged attack that solves the problem: collaboration tests and contract tests.\n",
         "Duration": 3840,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:30:19.000Z",
         "Less 15": 0,
         "Name": "Integrated Tests Are A Scam",
         "Published": true,
@@ -5647,6 +5662,7 @@
         "Url": "https://vimeo.com/80533536",
         "airtable_createdTime": "2022-10-16T17:04:13.000Z",
         "airtable_id": "recBhYq8BJVoKYAu4",
+        "core_topic": "Agile-XP",
         "registered_at": "2022-10-16T17:04:13.000Z"
     },
     {
@@ -5655,7 +5671,7 @@
         "Description": "Let's talk about how to allocate glue work deliberately, frame it usefully and make sure that everyone is choosing a career path they actually want to be on.\n",
         "Duration": 1680,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:57:11.000Z",
         "Less 15": 0,
         "Name": "Technical leadership and glue work",
         "Published": true,
@@ -5686,6 +5702,7 @@
         "Url": "https://www.youtube.com/watch?v=KClAPipnKqw",
         "airtable_createdTime": "2020-03-14T09:06:56.000Z",
         "airtable_id": "recBk5M98Nf6b43gM",
+        "core_topic": "Engineering Culture",
         "registered_at": "2020-03-14T09:06:56.000Z"
     },
     {
@@ -5899,7 +5916,7 @@
         "Description": "This podcast features Daniel Terhorst-North, a prominent figure in the software development world, reflecting on 20 years of industry changes and sharing his insights on topics ranging from Agile and DevOps to product management and organizational flow. Drawing on his experiences at Thoughtworks and beyond, Terhorst-North highlights the importance of connecting business needs with technical implementation and emphasizes the value of building evolvable systems with \"simplexity\" in mind.\n",
         "Duration": 3120,
         "Language": "English",
-        "Last Modified": "2024-12-15T17:41:50.000Z",
+        "Last Modified": "2025-01-19T22:09:00.000Z",
         "Less 15": 0,
         "Name": "How to Deliver Quality Software Against All Odds GOTO 2024",
         "Published": true,
@@ -5930,6 +5947,7 @@
         "Url": "https://www.youtube.com/watch?v=klqo1oPdbpM",
         "airtable_createdTime": "2024-12-08T21:06:39.000Z",
         "airtable_id": "recCPjTZloWAjizKF",
+        "core_topic": "Engineering Culture",
         "registered_at": "2024-12-08T21:06:39.000Z"
     },
     {
@@ -6102,7 +6120,7 @@
         "Description": "An essential talk to understand how to get the most impact with the least amount of software (and thereby reduce basal cost and time to market). Highly recommended.\n",
         "Duration": 3060,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:36:09.000Z",
         "Less 15": 0,
         "Name": "Make Impacts Not Software",
         "Published": true,
@@ -6133,6 +6151,7 @@
         "Url": "https://www.youtube.com/watch?v=GnK_n9Udhhs",
         "airtable_createdTime": "2022-06-12T08:29:01.000Z",
         "airtable_id": "recCZBg2e64L4QsLL",
+        "core_topic": "Lean-Product Engineering",
         "registered_at": "2022-06-12T08:29:01.000Z"
     },
     {
@@ -6233,7 +6252,7 @@
         "Description": "In this talk, Steve Smith will explain how easy it is for a Continuous Delivery programme to be unsuccessful, how the Theory Of Constraints works, how to apply the Five Focussing Steps to Continuous Delivery, and how to home in on the constrained activities that are your keys to success. It includes tales of glorious failures and ignominious successes when adopting Continuous Delivery.\n",
         "Duration": 2640,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:56:29.000Z",
         "Less 15": 0,
         "Name": "Continuous Delivery and the Theory of Constraints",
         "Published": true,
@@ -6264,6 +6283,7 @@
         "Url": "https://vimeo.com/338843900",
         "airtable_createdTime": "2020-05-17T14:09:22.000Z",
         "airtable_id": "recChBYalg4Q2xv3Y",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-05-17T14:09:22.000Z"
     },
     {
@@ -6627,7 +6647,7 @@
         "Description": "2011\\. Great talk and a good excuse to study functional programming.\n",
         "Duration": 3660,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:38:32.000Z",
+        "Last Modified": "2025-01-19T22:54:24.000Z",
         "Less 15": 0,
         "Name": "Simple Made Easy",
         "Published": true,
@@ -6662,6 +6682,7 @@
         "Url": "http://www.infoq.com/presentations/Simple-Made-Easy",
         "airtable_createdTime": "2020-01-19T20:37:08.000Z",
         "airtable_id": "recDPS7fNMOi7VkSD",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:37:08.000Z"
     },
     {
@@ -6865,7 +6886,7 @@
         "Description": "A good summary of how accelerating the iteration pace is fundamental for innovation and how the cloud can help with it.\n",
         "Duration": 840,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:30:34.000Z",
+        "Last Modified": "2025-01-19T22:00:08.000Z",
         "Less 15": 1,
         "Name": "Digital Transformation",
         "Published": true,
@@ -6896,6 +6917,7 @@
         "Url": "https://www.youtube.com/watch?v=7lDWXtNjVyQ",
         "airtable_createdTime": "2020-01-19T20:33:19.000Z",
         "airtable_id": "recDy9NVQflmwSa4B",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:33:19.000Z"
     },
     {
@@ -7035,7 +7057,7 @@
         "Description": "Excellent talk. John presents all the learnings he had during the last three years, using his great article as a starting point (<https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory>). Lots of knowledge and tips to introduce product thinking.\n",
         "Duration": 3900,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:51:49.000Z",
         "Less 15": 0,
         "Name": "Product Tank Madrid: Focus on Impact with John Cutler - World Product Day 2020",
         "Published": true,
@@ -7060,6 +7082,7 @@
         "Url": "https://www.youtube.com/watch?v=7yiudST4bJY",
         "airtable_createdTime": "2020-05-31T07:06:27.000Z",
         "airtable_id": "recEKkIZldl9R5iza",
+        "core_topic": "Product",
         "registered_at": "2020-05-31T07:06:27.000Z"
     },
     {
@@ -7701,7 +7724,7 @@
         "Created": "2020-01-19T20:40:43.000Z",
         "Description": "This talk is a great introduction to the topic.\n",
         "Language": "English",
-        "Last Modified": "2024-07-24T22:25:19.000Z",
+        "Last Modified": "2025-01-19T22:05:20.000Z",
         "Less 15": 1,
         "Name": "Evolutionary Architecture",
         "Published": true,
@@ -7728,6 +7751,7 @@
         "Url": "https://www.infoq.com/presentations/evolutionary-architecture/",
         "airtable_createdTime": "2020-01-19T20:40:43.000Z",
         "airtable_id": "recFo4C6tWCDoJH0Z",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:40:43.000Z"
     },
     {
@@ -8073,7 +8097,7 @@
         "Description": "A classic talk to understand how to leverage the cloud, continuous delivery and devops\u00a0to create modern\u00a0web-scale systems.\n",
         "Duration": 2160,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:03:58.000Z",
         "Less 15": 0,
         "Name": "Velocity and Volume or Speed Wins",
         "Published": true,
@@ -8108,6 +8132,7 @@
         "Url": "https://www.youtube.com/watch?v=wyWI3gLpB8o",
         "airtable_createdTime": "2020-01-19T20:38:31.000Z",
         "airtable_id": "recGXOnOo7jejkQV7",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:38:31.000Z"
     },
     {
@@ -8454,7 +8479,7 @@
         "Description": "Interesting journey through the history of our profession and some predictions about the future with one of the main protagonists (Grady Booch). Very interesting, both the talk and the subsequent questions.\n",
         "Duration": 4140,
         "Language": "English",
-        "Last Modified": "2024-09-15T08:07:46.000Z",
+        "Last Modified": "2025-01-19T22:58:33.000Z",
         "Less 15": 0,
         "Name": "The future of software engineering",
         "Published": true,
@@ -8483,6 +8508,7 @@
         "Url": "https://www.youtube.com/watch?v=-hnguwVg-iE",
         "airtable_createdTime": "2024-09-15T06:51:12.000Z",
         "airtable_id": "recHORJ4ydowbim4n",
+        "core_topic": "Engineering Culture",
         "registered_at": "2024-09-15T06:51:12.000Z"
     },
     {
@@ -8572,7 +8598,7 @@
         "Description": "Modern software development welcomes changing requirements, even late in the process, but how can we write our software so that those changes don\u2019t create a mess? Evolutionary design is the key. It\u2019s a technique that emerges from Extreme Programming, the method that brought us test-driven development, merciless refactoring, and continuous integration. James Shore first encountered Extreme Programming and evolutionary design nearly 20 years ago. Initially skeptical, he\u2019s explored its boundaries ever since. In this session, James will share what he\u2019s learned through in-depth animations of real software projects. You\u2019ll see how designs evolve over time and you\u2019ll learn how and when to use evolutionary design for your own projects. Part 2: https://www.youtube.com/watch?v=wDZCF8jfeMc\n",
         "Duration": 1440,
         "Language": "English",
-        "Last Modified": "2024-11-30T17:03:25.000Z",
+        "Last Modified": "2025-01-19T22:59:01.000Z",
         "Less 15": 0,
         "Name": "YOW! 2019 Evolutionary Design Animated (Part1)",
         "Published": true,
@@ -8605,6 +8631,7 @@
         "Url": "https://www.youtube.com/watch?v=LtBRvsez8DI",
         "airtable_createdTime": "2020-06-14T11:18:41.000Z",
         "airtable_id": "recHTVTL3hM9YyEuY",
+        "core_topic": "Agile-XP",
         "registered_at": "2020-06-14T11:18:41.000Z"
     },
     {
@@ -9158,7 +9185,7 @@
         "Description": "This talk illustrates the concepts, connects the dots between DDD, Wardley mapping and team topologies, and demonstrates how these techniques help to evolve a fictitious legacy system for a fast flow of change.\n",
         "Duration": 2580,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:11:25.000Z",
         "Less 15": 0,
         "Name": "Architecture for Flow with Wardley Mapping, DDD, and Team Topologies",
         "Published": true,
@@ -9191,6 +9218,7 @@
         "Url": "https://www.youtube.com/watch?v=qKLnlaWKkb4",
         "airtable_createdTime": "2023-02-19T20:43:34.000Z",
         "airtable_id": "recIHgDgxmcGBHQJk",
+        "core_topic": "Architecture",
         "registered_at": "2023-02-19T20:43:34.000Z"
     },
     {
@@ -9518,7 +9546,7 @@
         "Description": "Great presentation, in which Randy, starts from the 5 ideals of the Unicorn project (Locality and Simplicity, Focus, Flow, and Joy, Improvement of Daily Work, Psychological Safety, Customer Focus) to describe what we can do as technical leaders and as engineers to improve our ability to build and deliver software.\n",
         "Duration": 2760,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:09:14.000Z",
         "Less 15": 0,
         "Name": "Improving Software Flow",
         "Published": true,
@@ -9551,6 +9579,7 @@
         "Url": "https://www.youtube.com/watch?v=o2-QLMz2VWw",
         "airtable_createdTime": "2021-10-17T14:10:40.000Z",
         "airtable_id": "recJ0GIyaO8sh0gf6",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2021-10-17T14:10:40.000Z"
     },
     {
@@ -9706,7 +9735,7 @@
         "Description": "This was one of the best talks I've heard on software design in a long time. Excellent points on evolutionary design, testing, technical practices, etc. A full three quarters of an hour of wisdom.\n",
         "Duration": 2520,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:40:50.000Z",
         "Less 15": 0,
         "Name": "Agile Book Club: Evolutionary Design (with Kent Beck)",
         "Published": true,
@@ -9740,6 +9769,7 @@
         "Url": "https://www.jamesshore.com/v2/books/aoad2/book_club/evolutionary_design",
         "airtable_createdTime": "2022-11-05T13:01:48.000Z",
         "airtable_id": "recJQ6cyJaPhW0dGq",
+        "core_topic": "Agile-XP",
         "registered_at": "2022-11-05T13:01:48.000Z"
     },
     {
@@ -9748,7 +9778,7 @@
         "Description": "An introduction to Lean Product Development Flow given by Don Reinertsen at Adventures with Agile in London. \nThis talk is a must to understand modern product development (Flow, uncertainty, Little's law, cost of delay, the value of feedback, queues, batch size, etc).\n",
         "Duration": 5220,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:54:10.000Z",
         "Less 15": 0,
         "Name": "Second Generation Lean Product Development Flow",
         "Published": true,
@@ -9781,6 +9811,7 @@
         "Url": "https://www.youtube.com/watch?v=L6v6W7jkwok",
         "airtable_createdTime": "2021-01-30T20:14:08.000Z",
         "airtable_id": "recJj5CkUuT3Im6BR",
+        "core_topic": "Product",
         "registered_at": "2021-01-30T20:14:08.000Z"
     },
     {
@@ -9882,43 +9913,6 @@
         "registered_at": "2020-01-19T20:36:57.000Z"
     },
     {
-        "Blog Url": "https://www.eferro.net/2022/05/good-talkspodcasts-may-2022-i.html",
-        "Created": "2022-05-15T06:27:45.000Z",
-        "Description": "This talk presents Netflix' journey from siloed teams to our Full Cycle Developer model for building and operating our services at Netflix. Greg discusses the various approaches they\u2019ve tried, the motivations that pushed them to keep evolving, and the lessons learned along the way.\n",
-        "Duration": 2880,
-        "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
-        "Less 15": 0,
-        "Name": "Full Cycle Developers at Netflix",
-        "Published": true,
-        "Rating": 5,
-        "Resource": "Full Cycle Developers at Netflix - https://www.youtube.com/watch?v=NitqmK9M4wI",
-        "Resource type": "talk",
-        "Speaker WomenInTech": [
-            null
-        ],
-        "Speakers": [
-            "recD8RjVljlJn0wte"
-        ],
-        "Speakers_Names": [
-            "Greg Burrell"
-        ],
-        "Topics": [
-            "recPoM7t8neA7gkZ5",
-            "recSPiTKbfuhfkshg",
-            "recQ4hio93eTgzFTS"
-        ],
-        "Topics_Names": [
-            "Devops",
-            "Operations",
-            "Architecture"
-        ],
-        "Url": "https://www.youtube.com/watch?v=NitqmK9M4wI",
-        "airtable_createdTime": "2022-05-15T06:27:45.000Z",
-        "airtable_id": "recK6Q0fLRWNCL9KI",
-        "registered_at": "2022-05-15T06:27:45.000Z"
-    },
-    {
         "Blog Url": "https://www.eferro.net/2021/12/good-talkspodcasts-december-2021-i.html",
         "Created": "2021-12-04T13:50:37.000Z",
         "Description": "Great and concise description of what software engineering is and the forces that apply to our profession.\n",
@@ -9986,7 +9980,7 @@
         "Description": "A great presentation on skilled product teams and leading product organizations. The questions at the end are also very interesting.\n",
         "Duration": 4860,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:34:34.000Z",
         "Less 15": 0,
         "Name": "Master Class with Marty Cagan",
         "Published": true,
@@ -10021,6 +10015,7 @@
         "Url": "https://www.youtube.com/watch?v=mcnxxdzC2fY",
         "airtable_createdTime": "2023-04-23T18:10:49.000Z",
         "airtable_id": "recKLS8QeOawn7JwY",
+        "core_topic": "Product",
         "registered_at": "2023-04-23T18:10:49.000Z"
     },
     {
@@ -10421,7 +10416,7 @@
         "Description": "A great talk for anyone trying to do lean/agile software development. Explain why we need to give small safe steps (3s). Very interesting Q&A session at the end.\n\n",
         "Duration": 4800,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:06:54.000Z",
         "Less 15": 0,
         "Name": "GeePaw Hill \"More Smaller Steps\" ",
         "Published": true,
@@ -10452,6 +10447,7 @@
         "Url": "https://www.youtube.com/watch?v=WYK4kbrmm84",
         "airtable_createdTime": "2021-08-14T10:19:49.000Z",
         "airtable_id": "recLOCXTIY9Vp7E3n",
+        "core_topic": "Agile-XP",
         "registered_at": "2021-08-14T10:19:49.000Z"
     },
     {
@@ -10734,7 +10730,7 @@
         "Description": "I believe this is the best talk I have heard from Eric about the ideas of Lean Startup. It is also very enlightening to see how one of the fundamental pieces is continuous deployment and the engineering practices he uses. Essential.\n",
         "Duration": 3480,
         "Language": "English",
-        "Last Modified": "2024-09-15T08:07:48.000Z",
+        "Last Modified": "2025-01-19T22:03:56.000Z",
         "Less 15": 0,
         "Name": "Eric Ries: The Science of Lean Startups",
         "Published": true,
@@ -10763,6 +10759,7 @@
         "Url": "https://businessofsoftware.org/talks/eric-ries-the-science-of-lean-startups/",
         "airtable_createdTime": "2024-09-02T21:27:42.000Z",
         "airtable_id": "recLu6ITwHRiiZwbF",
+        "core_topic": "Lean",
         "registered_at": "2024-09-02T21:27:42.000Z"
     },
     {
@@ -10910,7 +10907,7 @@
         "Description": "Excellent 3-minute video explains the subtle difference between a constraint and a bottleneck in the Theory of Constraints (and, therefore, where to put the focus.)\n",
         "Duration": 180,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:00:54.000Z",
         "Less 15": 1,
         "Name": "The subtle difference between a constraint and a bottleneck (Theory of Constraints)",
         "Published": true,
@@ -10937,6 +10934,7 @@
         "Url": "https://www.youtube.com/watch?v=6UT1EnL7nOc",
         "airtable_createdTime": "2020-07-27T08:02:02.000Z",
         "airtable_id": "recMGlBhfcLvvKry6",
+        "core_topic": "Lean",
         "registered_at": "2020-07-27T08:02:02.000Z"
     },
     {
@@ -11334,7 +11332,7 @@
         "Description": "Great 2012 presentation on Continuous Delivery. Jez discusses the value of CD to the business. He presents the principles and related practices, including value stream mapping, deployment pipelines, acceptance test-driven development, zero-downtime releases, etc. This talk is a while old, but still as relevant as the first day.\n",
         "Duration": 2820,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:56:20.000Z",
         "Less 15": 0,
         "Name": "Continuous Delivery",
         "Published": true,
@@ -11365,6 +11363,7 @@
         "Url": "https://www.youtube.com/watch?v=skLJuksCRTw",
         "airtable_createdTime": "2021-10-03T20:50:18.000Z",
         "airtable_id": "recN2IkHwFljS5u2x",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2021-10-03T20:50:18.000Z"
     },
     {
@@ -11534,7 +11533,7 @@
         "Description": "Mind the Product San Francisco 2017. A classic one to escape from the feature factory mindset.\n",
         "Duration": 1560,
         "Language": "English",
-        "Last Modified": "2023-11-18T15:34:27.000Z",
+        "Last Modified": "2025-01-19T22:05:20.000Z",
         "Less 15": 0,
         "Name": "Escaping the Build Trap",
         "Published": true,
@@ -11563,6 +11562,7 @@
         "Url": "https://vimeo.com/224453335",
         "airtable_createdTime": "2020-01-19T20:33:26.000Z",
         "airtable_id": "recNTlpS9USi3zTOs",
+        "core_topic": "Product",
         "registered_at": "2020-01-19T20:33:26.000Z"
     },
     {
@@ -11607,7 +11607,7 @@
         "Description": "In this talk Daniel reviews his experience in building platforms, both as an end user and now as part of an organization that helps our clients do the same. She discusses topics such as DevEx, UX, workflows, available tools, etc.\n",
         "Duration": 1860,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:06:21.000Z",
         "Less 15": 0,
         "Name": "From Kubernetes to PaaS to ... Err, What's Next?",
         "Published": true,
@@ -11638,6 +11638,7 @@
         "Url": "https://www.youtube.com/watch?v=btUYeOa7JPI",
         "airtable_createdTime": "2022-06-12T08:23:05.000Z",
         "airtable_id": "recNZsQIennGhyS5c",
+        "core_topic": "Platform Engineering",
         "registered_at": "2022-06-12T08:23:05.000Z"
     },
     {
@@ -11806,7 +11807,7 @@
         "Description": "Christina told us how to reboot the team you have, or build a healthy one from the ground up.\n",
         "Duration": 1920,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:52:24.000Z",
         "Less 15": 0,
         "Name": "Reboot Your Team",
         "Published": true,
@@ -11837,6 +11838,7 @@
         "Url": "https://www.mindtheproduct.com/reboot-your-team-by-christina-wodtke/",
         "airtable_createdTime": "2020-11-09T09:04:54.000Z",
         "airtable_id": "recNuR7PNPTKDGUJb",
+        "core_topic": "Engineering Culture",
         "registered_at": "2020-11-09T09:04:54.000Z"
     },
     {
@@ -12171,7 +12173,7 @@
         "Description": "Tom highlights radical ideas from _The Practice of Cloud System Administration_ on embracing failure to build resilient distributed systems, focusing on economic resiliency, performing risky procedures frequently, and creating a blameless culture.\n",
         "Duration": 3840,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:32:45.000Z",
+        "Last Modified": "2025-01-19T22:05:32.000Z",
         "Less 15": 0,
         "Name": "Fail Better: Radical Ideas from the Practice of Cloud Computing",
         "Published": true,
@@ -12204,6 +12206,7 @@
         "Url": "https://www.youtube.com/watch?v=nsrzWEHEWDw",
         "airtable_createdTime": "2020-01-19T20:32:56.000Z",
         "airtable_id": "recOeXIOfuU3plaew",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:32:56.000Z"
     },
     {
@@ -12268,7 +12271,7 @@
         "Description": "Inspiring lightning talk about the importance of humanities, empathy for users and information management as the basis of our profession (beyond pure technology and knowledge about logic or mathematics).\n",
         "Duration": 660,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:06:06.000Z",
         "Less 15": 1,
         "Name": "What makes a good developer",
         "Published": true,
@@ -12286,15 +12289,18 @@
         ],
         "Topics": [
             "rec6JMQpL2LSjoP2E",
-            "recD5hNaJCwpTdERc"
+            "recD5hNaJCwpTdERc",
+            "recWFKWrPEdeEYbzx"
         ],
         "Topics_Names": [
             "Inspirational",
-            "Engineering Career"
+            "Engineering Career",
+            "Engineering Culture"
         ],
         "Url": "https://vimeo.com/748032161",
         "airtable_createdTime": "2022-12-06T20:52:52.000Z",
         "airtable_id": "recOtIG9sYrRR6tQr",
+        "core_topic": "Engineering Culture",
         "registered_at": "2022-12-06T20:52:52.000Z"
     },
     {
@@ -12303,7 +12309,7 @@
         "Description": "Great introduction to the differences between traditional software development and the development cycle with AI models. Nerea introduces concepts such as Continuous training, model deployment, MLOps, and collaboration between data scientists and software engineers. Highly recommended for software engineers looking to delve into these topics and collaborate more closely on AI-based feature development.\n",
         "Duration": 3240,
         "Language": "English",
-        "Last Modified": "2023-08-26T22:03:58.000Z",
+        "Last Modified": "2025-01-19T21:44:07.000Z",
         "Less 15": 0,
         "Name": "Artificial Intelligence seen from the software development lifecycle perspective",
         "Published": true,
@@ -12330,6 +12336,7 @@
         "Url": "https://www.youtube.com/watch?v=a_T21Lf26pc",
         "airtable_createdTime": "2023-08-26T21:28:04.000Z",
         "airtable_id": "recOuZnBtAOlBoiwo",
+        "core_topic": "AI",
         "registered_at": "2023-08-26T21:28:04.000Z"
     },
     {
@@ -12377,7 +12384,7 @@
         "Description": "Great explanation for flow efficiency for software delivery\n",
         "Duration": 1620,
         "Language": "English",
-        "Last Modified": "2025-01-04T16:28:24.000Z",
+        "Last Modified": "2025-01-19T23:01:59.000Z",
         "Less 15": 0,
         "Name": "The Value of Flow 14 09 17",
         "Published": true,
@@ -12408,6 +12415,7 @@
         "Url": "https://www.youtube.com/watch?v=1aOItUyZ2wQ",
         "airtable_createdTime": "2020-01-19T20:43:04.000Z",
         "airtable_id": "recOxqFBf8ctdFeJt",
+        "core_topic": "Lean",
         "registered_at": "2020-01-19T20:43:04.000Z"
     },
     {
@@ -12444,7 +12452,7 @@
         "Description": "Greg Burrell presents Netflix\u2019s journey from siloed teams to their Full Cycle Developer model for building and operating their services at Netflix. He discusses the various approaches they\u2019ve tried, the motivations that pushed them to keep evolving, and the lessons learned along the way.\n",
         "Duration": 3000,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:06:24.000Z",
         "Less 15": 0,
         "Name": "Full Cycle Developers @Netflix",
         "Published": true,
@@ -12477,6 +12485,7 @@
         "Url": "https://www.infoq.com/presentations/netflix-devops/",
         "airtable_createdTime": "2020-05-17T14:17:43.000Z",
         "airtable_id": "recP6JVPIkZphh1PN",
+        "core_topic": "Platform Engineering",
         "registered_at": "2020-05-17T14:17:43.000Z"
     },
     {
@@ -12644,7 +12653,7 @@
         "Description": "Particular CEO, Udi Dahan, describes how you can still do reliable messaging without using distributed transactions\n",
         "Duration": 960,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:53:18.000Z",
         "Less 15": 0,
         "Name": "Reliable Messaging Without Distributed Transactions",
         "Published": true,
@@ -12671,6 +12680,7 @@
         "Url": "https://www.youtube.com/watch?v=AfAojdORxHs",
         "airtable_createdTime": "2021-03-07T08:27:28.000Z",
         "airtable_id": "recPeKtcL1bmOHyXS",
+        "core_topic": "Architecture",
         "registered_at": "2021-03-07T08:27:28.000Z"
     },
     {
@@ -12912,7 +12922,7 @@
         "Description": "Gojko gives a masterclass on how to focus on impacts, understand the need, and improve product decisions. Good ideas to postpone decisions, focus on behavioral changes, and be cautious with metrics. An essential talk for any product developer.\n",
         "Duration": 3300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:35:53.000Z",
         "Less 15": 0,
         "Name": "Adaptive Planning Beyond User Stories",
         "Published": true,
@@ -12943,6 +12953,7 @@
         "Url": "https://www.youtube.com/watch?v=mCC10nTOgTE",
         "airtable_createdTime": "2022-11-06T19:11:42.000Z",
         "airtable_id": "recQGfbwsNl5WtAws",
+        "core_topic": "Lean-Product Engineering",
         "registered_at": "2022-11-06T19:11:42.000Z"
     },
     {
@@ -13041,7 +13052,7 @@
         "Description": "Modern agile and how to introduce it. (good ideas about, flow, value, and teams).\n",
         "Duration": 3540,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:33:28.000Z",
+        "Last Modified": "2025-01-19T22:58:43.000Z",
         "Less 15": 0,
         "Name": "The Journey to Continuous Delivery",
         "Published": true,
@@ -13072,6 +13083,7 @@
         "Url": "https://www.infoq.com/presentations/cd-business-agility",
         "airtable_createdTime": "2020-01-19T20:32:31.000Z",
         "airtable_id": "recQXhKafE7CbtPIw",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-01-19T20:32:31.000Z"
     },
     {
@@ -13616,7 +13628,7 @@
         "Description": "Henrik Kniberg explains the resource utilization trap, how it impacts our ability to deliver and what we can do about it.\n",
         "Duration": 300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:00:20.000Z",
         "Less 15": 1,
         "Name": "The resource utilization trap",
         "Published": true,
@@ -13645,6 +13657,7 @@
         "Url": "https://www.youtube.com/watch?v=CostXs2p6r0",
         "airtable_createdTime": "2021-03-14T07:06:49.000Z",
         "airtable_id": "recROSkaWuMOkJEi3",
+        "core_topic": "Lean",
         "registered_at": "2021-03-14T07:06:49.000Z"
     },
     {
@@ -13846,7 +13859,7 @@
         "Description": "The second part of this great talk. Part1 https://www.youtube.com/watch?v=LtBRvsez8DI\n",
         "Duration": 1440,
         "Language": "English",
-        "Last Modified": "2024-08-18T09:00:31.000Z",
+        "Last Modified": "2025-01-19T22:59:01.000Z",
         "Less 15": 0,
         "Name": "YOW! 2019 Evolutionary Design Animated (Part2)",
         "Published": true,
@@ -13879,6 +13892,7 @@
         "Url": "https://www.youtube.com/watch?v=wDZCF8jfeMc",
         "airtable_createdTime": "2024-07-26T08:37:11.000Z",
         "airtable_id": "recRyKUpTpRQJdke4",
+        "core_topic": "Agile-XP",
         "registered_at": "2024-07-26T08:37:11.000Z"
     },
     {
@@ -14421,7 +14435,7 @@
         "Description": "Sam Newman shares some key principles and a number of patterns to use to incrementally decompose an existing system into microservices. He covers patterns that can work to migrate functionality out of systems hard to change, and looks at the use of strangler patterns, change data capture, database decomposition and more.\n",
         "Duration": 2940,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:40:27.000Z",
+        "Last Modified": "2025-01-19T22:39:12.000Z",
         "Less 15": 0,
         "Name": "Monolith Decomposition Patterns",
         "Published": true,
@@ -14450,6 +14464,7 @@
         "Url": "https://www.infoq.com/presentations/microservices-principles-patterns/",
         "airtable_createdTime": "2020-06-27T07:02:05.000Z",
         "airtable_id": "recT5uMkmujev77nz",
+        "core_topic": "Architecture",
         "registered_at": "2020-06-27T07:02:05.000Z"
     },
     {
@@ -14517,7 +14532,7 @@
         "Description": "Essential talk about how to do TDD in an efficient way and getting a battery of tests that support continuous refactoring. It fundamentally changed my approach to TDD. I highly recommend it.\n",
         "Duration": 3660,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:57:01.000Z",
         "Less 15": 0,
         "Name": "TDD, where did it all go wrong",
         "Published": true,
@@ -14546,6 +14561,7 @@
         "Url": "https://vimeo.com/68375232",
         "airtable_createdTime": "2022-01-22T18:36:50.000Z",
         "airtable_id": "recTB7wNYxiDwtMeG",
+        "core_topic": "Agile-XP",
         "registered_at": "2022-01-22T18:36:50.000Z"
     },
     {
@@ -14591,7 +14607,7 @@
         "Description": "This session takes a serious but light-hearted look at the role of enterprise architects in modern IT organizations.\n",
         "Duration": 3660,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:03:08.000Z",
         "Less 15": 0,
         "Name": "Enterprise Architecture = Architecting the Enterprise?",
         "Published": true,
@@ -14620,6 +14636,7 @@
         "Url": "https://www.youtube.com/watch?v=mS0AJLqmnvQ",
         "airtable_createdTime": "2020-11-09T08:44:59.000Z",
         "airtable_id": "recTLLUeNHzpm3ciV",
+        "core_topic": "Architecture",
         "registered_at": "2020-11-09T08:44:59.000Z"
     },
     {
@@ -14880,7 +14897,7 @@
         "Description": "Very interesting conversation with great TDD experts. Some interesting ideas, techniques and tricks. \n",
         "Duration": 2580,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:40:51.000Z",
         "Less 15": 0,
         "Name": "Agile Book Club: Test-Driven Development (with Mike \u201cGeePaw\u201d Hill and J.B. Rainsberger)",
         "Published": true,
@@ -14917,6 +14934,7 @@
         "Url": "https://www.jamesshore.com/v2/books/aoad2/book_club/test-driven_development",
         "airtable_createdTime": "2022-11-06T19:03:09.000Z",
         "airtable_id": "recUIDymP9vqzyyTI",
+        "core_topic": "Agile-XP",
         "registered_at": "2022-11-06T19:03:09.000Z"
     },
     {
@@ -14992,7 +15010,7 @@
         "Description": "The modern developer needs to be constantly reinventing themselves, learning, and helping others to do the same. In this session, Dan explores some of the skills and characteristics of the modern developer, and suggests some ways you can grow them for yourself.\n",
         "Duration": 2580,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:51:48.000Z",
         "Less 15": 0,
         "Name": "Beyond Developer",
         "Published": true,
@@ -15023,6 +15041,7 @@
         "Url": "https://www.youtube.com/watch?v=_P1ZdVV_yic",
         "airtable_createdTime": "2021-01-30T19:42:52.000Z",
         "airtable_id": "recUU1sBQWcwX539J",
+        "core_topic": "Agile",
         "registered_at": "2021-01-30T19:42:52.000Z"
     },
     {
@@ -15331,7 +15350,7 @@
         "Description": "Very good talk about the nature of software development and the approach to the profession. Dan talks about software as a medium, continuous learning, teamwork, etc. Highly recommended.\n",
         "Duration": 3360,
         "Language": "English",
-        "Last Modified": "2024-08-18T09:00:30.000Z",
+        "Last Modified": "2025-01-19T22:59:42.000Z",
         "Less 15": 0,
         "Name": "The best programmer I know ",
         "Published": true,
@@ -15364,6 +15383,7 @@
         "Url": "https://www.youtube.com/watch?v=D6aUoGK2rkk",
         "airtable_createdTime": "2024-08-17T21:10:31.000Z",
         "airtable_id": "recVFSquUdCuGrS16",
+        "core_topic": "Engineering Culture",
         "registered_at": "2024-08-17T21:10:31.000Z"
     },
     {
@@ -15509,7 +15529,7 @@
         "Description": "This talk focuses on key product development strategies for developer tools and platforms, highlighting discovery, data-driven decisions, and end-user experience. It also emphasizes collaboration, rapid testing, and iterative development.\n\n",
         "Duration": 3720,
         "Language": "English",
-        "Last Modified": "2025-01-08T21:58:20.000Z",
+        "Last Modified": "2025-01-19T22:38:33.000Z",
         "Less 15": 0,
         "Name": "Minimum Viable Product for Platforms",
         "Published": true,
@@ -15538,6 +15558,7 @@
         "Url": "https://www.youtube.com/watch?v=A9wx91rVTms",
         "airtable_createdTime": "2020-01-19T20:33:12.000Z",
         "airtable_id": "recVTbzrAhUvzmVba",
+        "core_topic": "Product",
         "registered_at": "2020-01-19T20:33:12.000Z"
     },
     {
@@ -15941,7 +15962,7 @@
         "Description": "This talk explains the keys to the success of digital product organizations. Technology is an essential part of any business today, not just a cost center.\n",
         "Duration": 2460,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:05:44.000Z",
         "Less 15": 0,
         "Name": "Foundations of Modern Product Organizations",
         "Published": true,
@@ -15972,6 +15993,7 @@
         "Url": "https://www.youtube.com/watch?v=cOaFm9vm7AI",
         "airtable_createdTime": "2021-07-03T06:55:55.000Z",
         "airtable_id": "recWauvTxPOSravWx",
+        "core_topic": "Product",
         "registered_at": "2021-07-03T06:55:55.000Z"
     },
     {
@@ -15979,7 +16001,7 @@
         "Created": "2020-01-19T20:39:26.000Z",
         "Description": "A great talk about the need for testing in production and the approach we can use.\n",
         "Language": "English",
-        "Last Modified": "2023-11-18T15:37:10.000Z",
+        "Last Modified": "2025-01-19T22:59:10.000Z",
         "Less 15": 1,
         "Name": "Yes, I Test in Production (And So Do You)",
         "Published": true,
@@ -16006,6 +16028,7 @@
         "Url": "https://www.infoq.com/presentations/testing-production-2018",
         "airtable_createdTime": "2020-01-19T20:39:26.000Z",
         "airtable_id": "recWfUV0NqBVUvrz1",
+        "core_topic": "Testing",
         "registered_at": "2020-01-19T20:39:26.000Z"
     },
     {
@@ -16014,7 +16037,7 @@
         "Description": "A must-talk for anyone trying to do lean/agile software development. The talk delves into the reasons why the strategy of using small, safe steps is the right one to steadily evolve a software system. I am very much aligned with this approach to software development.\n",
         "Duration": 3300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:04:25.000Z",
         "Less 15": 0,
         "Name": "Want More Value Faster? Take Many More Much Smaller Steps",
         "Published": true,
@@ -16047,6 +16070,7 @@
         "Url": "https://www.youtube.com/watch?v=1mOs1_pvS9A",
         "airtable_createdTime": "2021-07-25T18:02:02.000Z",
         "airtable_id": "recWr0AUmugIvM9fn",
+        "core_topic": "Agile-XP",
         "registered_at": "2021-07-25T18:02:02.000Z"
     },
     {
@@ -16141,7 +16165,7 @@
         "Description": "Maybe we've been thinking about delivery all wrong. Maybe features aren\u2019t the point after all. Maybe there are other kinds of work that we should recognise, schedule and track as first class citizens. Maybe this could take some of the uncertainty out of the delivery process, and give us back our sanity. Maybe.\n",
         "Duration": 4440,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:52:37.000Z",
         "Less 15": 0,
         "Name": "Beyond Features: rethinking agile software delivery",
         "Published": true,
@@ -16172,6 +16196,7 @@
         "Url": "https://www.youtube.com/watch?v=EoJFWdhv8q0",
         "airtable_createdTime": "2020-12-19T21:36:18.000Z",
         "airtable_id": "recXAwtzoEcLOlfWu",
+        "core_topic": "Lean-Product Engineering",
         "registered_at": "2020-12-19T21:36:18.000Z"
     },
     {
@@ -16367,7 +16392,7 @@
         "Description": "In this live coding session, Sandro will present many techniques that will help you to efficiently retrofit tests to legacy code and then refactor it to show the business logic more clearly.\n",
         "Duration": 5340,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:57:33.000Z",
         "Less 15": 0,
         "Name": "Testing and Refactoring Legacy Code",
         "Published": true,
@@ -16398,6 +16423,7 @@
         "Url": "https://www.youtube.com/watch?v=LSqbXorkyfQ",
         "airtable_createdTime": "2022-02-06T22:04:48.000Z",
         "airtable_id": "recXe1EEX4sVeCXP9",
+        "core_topic": "Testing",
         "registered_at": "2022-02-06T22:04:48.000Z"
     },
     {
@@ -16469,7 +16495,7 @@
         "Description": "Havens shares his views on what makes great architecture great. He details what happened when an API call required 23 other synchronous procedures calls to return a correct answer. He discusses the challenges of managing inventory at Walmart, how one implements event sourcing patterns on that scale, and the functional programming principles that it depends upon. Lastly, he talks about how much category theory you need to know to do functional programming and considerations when creating code in complex systems. It is recommended to first watch the talk https://www.youtube.com/watch?v=n5S3hScE6dU or listen to the podcast https://itrevolution.com/the-idealcast-episode-22/\n",
         "Duration": 7320,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:54:32.000Z",
         "Less 15": 0,
         "Name": "Simplifying The Inventory Management Systems at the World\u2019s Largest Retailer Using Functional Programming Principles",
         "Published": true,
@@ -16505,6 +16531,7 @@
         "Url": "https://itrevolution.com/the-idealcast-episode-23/",
         "airtable_createdTime": "2021-10-17T14:40:43.000Z",
         "airtable_id": "recXooBJg7DRlLquE",
+        "core_topic": "Architecture",
         "registered_at": "2021-10-17T14:40:43.000Z"
     },
     {
@@ -16703,7 +16730,7 @@
         "Description": "Brilliant explanation of the concept of WIP and how limiting it improves delivery flow.\n",
         "Duration": 420,
         "Language": "English",
-        "Last Modified": "2023-11-09T21:40:10.000Z",
+        "Last Modified": "2025-01-19T22:39:25.000Z",
         "Less 15": 1,
         "Name": "Multiple WIP vs One Piece Flow Example",
         "Published": true,
@@ -16732,6 +16759,7 @@
         "Url": "https://www.youtube.com/watch?v=Yqi9Gwt-OEA",
         "airtable_createdTime": "2021-03-14T07:13:20.000Z",
         "airtable_id": "recYRu7BJLsggK3xT",
+        "core_topic": "Lean-Agile",
         "registered_at": "2021-03-14T07:13:20.000Z"
     },
     {
@@ -16921,7 +16949,7 @@
         "Description": "Another great talk about product.\n",
         "Duration": 2820,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:36:19.000Z",
         "Less 15": 0,
         "Name": "Maximum impact minimum effort",
         "Published": true,
@@ -16952,6 +16980,7 @@
         "Url": "https://www.youtube.com/watch?v=SVo3Tzru9o4",
         "airtable_createdTime": "2020-01-19T20:38:32.000Z",
         "airtable_id": "recYll8adtdvmL9Pc",
+        "core_topic": "Lean-Product Engineering",
         "registered_at": "2020-01-19T20:38:32.000Z"
     },
     {
@@ -17280,7 +17309,7 @@
         "Description": "In this presentation, Cirpo talks about his past 4 years of experience setting up a DevX team from scratch, the main challenges, the pain, the gain, and the lessons learned.\n",
         "Duration": 2520,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:54:48.000Z",
         "Less 15": 0,
         "Name": "Building DevX Teams, my story",
         "Published": true,
@@ -17309,6 +17338,7 @@
         "Url": "https://www.youtube.com/watch?v=xX5zeVy8Ta4",
         "airtable_createdTime": "2022-05-15T06:33:38.000Z",
         "airtable_id": "recZW4aFGILBBfNv1",
+        "core_topic": "Platform Engineering",
         "registered_at": "2022-05-15T06:33:38.000Z"
     },
     {
@@ -18086,7 +18116,7 @@
         "Description": "A ton of useful insights and ideas in this excellent Charity presentation. Great description of observability and its need in modern systems.\n",
         "Duration": 6900,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:04:57.000Z",
         "Less 15": 0,
         "Name": "What got you here won't get you there: How your team can become a high-performing team by embracing observability",
         "Published": true,
@@ -18115,6 +18145,7 @@
         "Url": "https://www.youtube.com/watch?v=QK6zEFdvXYw",
         "airtable_createdTime": "2020-08-09T19:42:16.000Z",
         "airtable_id": "recazeVUxHdijBZU2",
+        "core_topic": "Operations",
         "registered_at": "2020-08-09T19:42:16.000Z"
     },
     {
@@ -18349,7 +18380,7 @@
         "Description": "John Cutler, Product Evangelist at Amplitude explains why most of a product developers time is spent waiting and how limiting work in progress, the scope of work and handoffs can increase flow and value. \n",
         "Duration": 420,
         "Language": "English",
-        "Last Modified": "2024-01-22T14:12:48.000Z",
+        "Last Modified": "2025-01-19T21:59:08.000Z",
         "Less 15": 1,
         "Name": "Creating Value and Flow in Product Development",
         "Published": true,
@@ -18384,6 +18415,7 @@
         "Url": "https://www.youtube.com/watch?v=NGdx-f-aGXs",
         "airtable_createdTime": "2020-07-17T15:36:45.000Z",
         "airtable_id": "recbPgwllMN0O9rA6",
+        "core_topic": "Agile",
         "registered_at": "2020-07-17T15:36:45.000Z"
     },
     {
@@ -18862,7 +18894,7 @@
         "Description": "Learn how Twilio\u2019s internal Platform has evolved to reduce their engineers' cognitive load by providing a unified self-service, declarative platform to build, deliver, and run the thousands of global microservices that make up Twilio.\n",
         "Duration": 3000,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:51:28.000Z",
         "Less 15": 0,
         "Name": "Platforms at Twilio: Unlocking Developer Effectiveness",
         "Published": true,
@@ -18895,6 +18927,7 @@
         "Url": "https://www.youtube.com/watch?v=OQYF6HkoZdw",
         "airtable_createdTime": "2022-02-12T21:31:01.000Z",
         "airtable_id": "reccMJEetzG9ZqHYQ",
+        "core_topic": "Platform Engineering",
         "registered_at": "2022-02-12T21:31:01.000Z"
     },
     {
@@ -19214,7 +19247,7 @@
         "Description": "\nVery good talk about the benefits of using Trunk Based Development (or in other words, the practice of CI as it was originally created).\t\n",
         "Duration": 3360,
         "Language": "English",
-        "Last Modified": "2024-08-18T09:00:26.000Z",
+        "Last Modified": "2025-01-19T21:57:58.000Z",
         "Less 15": 0,
         "Name": "Continuous Integration: That\u2019s Not What They Meant",
         "Published": true,
@@ -19245,6 +19278,7 @@
         "Url": "https://www.youtube.com/watch?v=97qyNQz7fxY",
         "airtable_createdTime": "2024-08-18T08:13:50.000Z",
         "airtable_id": "recclNm0J3dDOzoHt",
+        "core_topic": "Agile-XP",
         "registered_at": "2024-08-18T08:13:50.000Z"
     },
     {
@@ -20221,7 +20255,7 @@
         "Description": "One of the best descriptions I have heard of the usefulness of this practice. Dave provides pair programming examples, describes some pair programming best practices, and challenges some thinking about pair programming patterns and anti-patterns.\n",
         "Duration": 1440,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:59:02.000Z",
         "Less 15": 0,
         "Name": "You Must Be CRAZY To Do Pair Programming",
         "Published": true,
@@ -20250,6 +20284,7 @@
         "Url": "https://www.youtube.com/watch?v=aItVJprLYkg",
         "airtable_createdTime": "2020-11-09T08:45:14.000Z",
         "airtable_id": "rece2CJmPCKHEJ1Zl",
+        "core_topic": "Agile-XP",
         "registered_at": "2020-11-09T08:45:14.000Z"
     },
     {
@@ -20258,7 +20293,7 @@
         "Description": "Cloud! Autoscaling! Kubernetes! Etc! In theory, it's easier than ever to scale a service based on variable demand. In practice, it's still hard to take observed metrics, and translate them into quantitative predictions about what will happen to service performance as load changes. Resource limits are often chosen by guesstimation, and teams are likely to find themselves reacting to slowdowns and bottlenecks, rather than anticipating them. Queueing theory can help, by treating large-scale software systems as mathematical models that you can rigorously reason about. But it's not necessarily easy to translate between real-world systems and textbook models. This talk will cover practical techniques for turning operational data into actionable predictions. We'll show how to use the Universal Scalability Law to develop a model of system performance, and how to leverage that model to make more informed capacity planning and architectural decisions. We'll discuss what data to gather in production to better inform its predictions -- for example, why it's important to capture the shape of a latency distribution, and not just a few percentiles. We'll also talk about some of the limitations and pitfalls of performance modelling.\n",
         "Duration": 2700,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:53:00.000Z",
         "Less 15": 0,
         "Name": "Queueing Theory in Practice: Performance Modeling for the Working Engineer",
         "Published": true,
@@ -20289,6 +20324,7 @@
         "Url": "https://www.youtube.com/watch?v=Hda5tMrLJqc",
         "airtable_createdTime": "2020-01-19T20:40:30.000Z",
         "airtable_id": "rece3oTqtXw1BhZg9",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:40:30.000Z"
     },
     {
@@ -20840,7 +20876,7 @@
         "Description": "Interesting presentation about software design and trade-offs and techniques to refactor the code before applying a change. The talk is full of interesting insights. It is also very interesting the Q&A part that is not only focused on the content of the talk.\t\n",
         "Duration": 3480,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:54:52.000Z",
         "Less 15": 0,
         "Name": "Code for Ukraine #2: Tidy First? Daily Empirical Software Design & Why It Works",
         "Published": true,
@@ -20867,6 +20903,7 @@
         "Url": "https://www.youtube.com/watch?v=VrkRAVX1h4I",
         "airtable_createdTime": "2022-07-25T17:09:43.000Z",
         "airtable_id": "recfMTIUpBbEYLUth",
+        "core_topic": "Agile-XP",
         "registered_at": "2022-07-25T17:09:43.000Z"
     },
     {
@@ -21004,7 +21041,7 @@
         "Description": "Great description of a Continuous Delivery process.\n",
         "Duration": 1140,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:07:08.000Z",
         "Less 15": 0,
         "Name": "GOTO 2020 \u2022 Modern Continuous Delivery",
         "Published": true,
@@ -21031,6 +21068,7 @@
         "Url": "https://www.youtube.com/watch?v=lBi85lNmKFw",
         "airtable_createdTime": "2020-08-09T19:34:42.000Z",
         "airtable_id": "recfnyp2AWgJNj0Zp",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-08-09T19:34:42.000Z"
     },
     {
@@ -21312,7 +21350,7 @@
         "Description": "In this session, Randy explains how they improve the overall flow and the engineering capacity following the ideas in the Unicorn Project (Locality and Simplicity, Focus, Flow, and Joy, Improvement of Daily Work, Psychological Safety, and Customer Focus). It is an excellent talk about generating/improving an engineering culture following lean principles.\n",
         "Duration": 3000,
         "Language": "English",
-        "Last Modified": "2023-06-18T07:08:24.000Z",
+        "Last Modified": "2025-01-19T22:09:17.000Z",
         "Less 15": 0,
         "Name": "Improving Software Flow",
         "Published": true,
@@ -21349,6 +21387,7 @@
         "Url": "https://www.youtube.com/watch?v=XMyt5S8limQ",
         "airtable_createdTime": "2023-06-18T06:44:04.000Z",
         "airtable_id": "recgMNfjEQbF98kc0",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2023-06-18T06:44:04.000Z"
     },
     {
@@ -21379,7 +21418,7 @@
         "Description": "vJUG KeyNote. A great complementary talk to my talk\u00a0Simplicidad para desarrolladores\u00a0(Spanish)\n",
         "Duration": 3240,
         "Language": "English",
-        "Last Modified": "2023-11-19T19:34:48.000Z",
+        "Last Modified": "2025-01-19T22:58:01.000Z",
         "Less 15": 0,
         "Name": "The Art of Simplicity by Venkat Subramaniam",
         "Published": true,
@@ -21406,6 +21445,7 @@
         "Url": "https://www.youtube.com/watch?v=NMTrlv4nQR8",
         "airtable_createdTime": "2020-01-19T20:43:06.000Z",
         "airtable_id": "recgNHgQpgbXMk5nD",
+        "core_topic": "Lean",
         "registered_at": "2020-01-19T20:43:06.000Z"
     },
     {
@@ -21540,7 +21580,7 @@
         "Description": "Very deep ideas about how to make any kind of huge technical change using small and incremental changes. This part of the core of agile... Vertical slicing to make changes in small (low risk) steps.\n",
         "Duration": 3540,
         "Language": "English",
-        "Last Modified": "2024-01-15T07:49:11.000Z",
+        "Last Modified": "2025-01-19T21:52:47.000Z",
         "Less 15": 0,
         "Name": "Big Transitions in Small Steps",
         "Published": true,
@@ -21569,6 +21609,7 @@
         "Url": "https://www.youtube.com/watch?v=44sJLFgzhn4",
         "airtable_createdTime": "2020-01-19T20:39:37.000Z",
         "airtable_id": "recgdsK7S2ExHfRYk",
+        "core_topic": "Agile-XP",
         "registered_at": "2020-01-19T20:39:37.000Z"
     },
     {
@@ -21629,7 +21670,7 @@
         "Description": "Short excellent talk (7:26') that distilled the essence of software development and agile development. Essential. A must.\n",
         "Duration": 420,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:37:02.000Z",
         "Less 15": 1,
         "Name": "7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development",
         "Published": true,
@@ -21658,6 +21699,7 @@
         "Url": "https://www.youtube.com/watch?v=WSes_PexXcA",
         "airtable_createdTime": "2020-08-04T16:11:26.000Z",
         "airtable_id": "recgmP18mKuy7sIVf",
+        "core_topic": "Agile",
         "registered_at": "2020-08-04T16:11:26.000Z"
     },
     {
@@ -22481,7 +22523,7 @@
         "Description": "Optimizing for speed, flow, and waste reduction. Lean Software Development\n",
         "Duration": 3600,
         "Language": "English",
-        "Last Modified": "2023-08-08T06:52:24.000Z",
+        "Last Modified": "2025-01-19T21:55:01.000Z",
         "Less 15": 0,
         "Name": "Competing On The Basis Of Speed",
         "Published": true,
@@ -22510,15 +22552,16 @@
         "Url": "https://www.youtube.com/watch?v=ZSdsjpCcpFw",
         "airtable_createdTime": "2020-01-19T20:36:16.000Z",
         "airtable_id": "reciUkxVDCZbYLk2E",
+        "core_topic": "Lean",
         "registered_at": "2020-01-19T20:36:16.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2016/01/interesting-talks-from-craft-conf-2015.html",
         "Created": "2020-01-19T20:35:00.000Z",
-        "Description": "Dan North and Jessica Kerr make a journey through complexity. At the other side we may find simplicity, or we may find the light at the end of the tunnel is just another oncoming ESB.\n",
+        "Description": "The presentation discusses the complexity of modern software development, moving beyond simple \"box arrow cylinder\" architectures to a landscape of diverse services and technologies1.... It emphasizes the importance of minimizing lead time to business impact rather than focusing solely on code, and suggests that teams should embrace con\ttinuous learning, research and experimentation to manage uncertainty and deliver value\n",
         "Duration": 2400,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:37:17.000Z",
+        "Last Modified": "2025-01-19T23:17:26.000Z",
         "Less 15": 0,
         "Name": "Complexity is Outside the Code",
         "Published": true,
@@ -22722,7 +22765,7 @@
         "Description": "Talk about joy and humanity in software development. The talk was primarily concerned with the effects of software craft on our emotional states and working relationships. Along the way, Amitai touched on Theory of Constraints, stable and unstable equilibria in work environments, a significant and deliberate omission from Scrum, my take on \u201clegacy code\u201d, applied empathy (never mentioned explicitly, merely woven in), and what agility looks and feels like when you\u2019ve got it.\n\n",
         "Duration": 3600,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:30:16.000Z",
         "Less 15": 0,
         "Name": "Inside-Out TDDDD",
         "Published": true,
@@ -22753,6 +22796,7 @@
         "Url": "https://www.youtube.com/watch?v=HqjrvJbuf3g",
         "airtable_createdTime": "2021-04-24T18:31:21.000Z",
         "airtable_id": "recirj5AuNw3fWErr",
+        "core_topic": "Agile-XP",
         "registered_at": "2021-04-24T18:31:21.000Z"
     },
     {
@@ -22821,10 +22865,10 @@
     {
         "Blog Url": "https://www.eferro.net/2022/03/good-talkspodcasts-march-2022-i.html",
         "Created": "2022-03-02T10:01:43.000Z",
-        "Description": "During this episode, Mik and Manuel discuss some of the key issues in Team Topologies with great insights into different types of collaboration, treating platforms as products, and how to improve team flow by aligning teams with value streams. This was a very interesting episode.\n",
+        "Description": "The Nordstrom Innovation Lab team uses a flash build to develop an iPad app for sunglass selection, incorporating real-time customer feedback. The team's agile process allows for rapid adaptation and feature implementation throughout the week, resulting in a functional app.\n",
         "Duration": 360,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:50:55.000Z",
         "Less 15": 1,
         "Name": "Nordstrom Innovation Lab",
         "Published": true,
@@ -22902,7 +22946,7 @@
         "Description": "Joshua Kerievsky discusses the need to reduce \u201cred\u201d periods of time while developing software. One is in the red when he spends too much time designing, or having compilation errors or the tests do not pass. Kerievsky demonstrates a method (Parallel Change) of reducing the red while refactoring code, and discusses another approach called Narrowed Change, and answers refactoring related questions.\n",
         "Duration": 3480,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:43:32.000Z",
+        "Last Modified": "2025-01-19T22:58:49.000Z",
         "Less 15": 0,
         "Name": "The Limited Red Society",
         "Published": true,
@@ -22933,6 +22977,7 @@
         "Url": "https://www.infoq.com/presentations/The-Limited-Red-Society/",
         "airtable_createdTime": "2021-03-07T08:21:37.000Z",
         "airtable_id": "recjEJNWZaeZVjneQ",
+        "core_topic": "Agile-XP",
         "registered_at": "2021-03-07T08:21:37.000Z"
     },
     {
@@ -23162,7 +23207,7 @@
         "Description": "A very interesting session about eBay's strategy to improve delivery performance. A great example of engineering leadership.\n",
         "Duration": 1980,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:00:39.000Z",
         "Less 15": 0,
         "Name": "Driving a Tech-led Reimagination of eBay Through DevOps (US 2021)",
         "Published": true,
@@ -23192,6 +23237,7 @@
         "Url": "https://videos.itrevolution.com/watch/624410229/",
         "airtable_createdTime": "2022-01-22T19:08:56.000Z",
         "airtable_id": "recjbpDvIdAU6xkFw",
+        "core_topic": "Engineering Culture",
         "registered_at": "2022-01-22T19:08:56.000Z"
     },
     {
@@ -23338,7 +23384,7 @@
         "Description": "Good conversation about GeePaw Hill's software development approach based on taking continuous small safe steps (Many More Much Smaller Steps).\n",
         "Duration": 2340,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:34:33.000Z",
         "Less 15": 0,
         "Name": "Many More Much Smaller Steps with GeePaw Hill",
         "Published": true,
@@ -23377,6 +23423,7 @@
         "Url": "https://www.youtube.com/watch?v=lHoOUylvfxQ",
         "airtable_createdTime": "2023-05-06T20:21:25.000Z",
         "airtable_id": "reck60FOvatP5hPnd",
+        "core_topic": "Agile-XP",
         "registered_at": "2023-05-06T20:21:25.000Z"
     },
     {
@@ -23705,7 +23752,7 @@
         "Description": "Some good points about the easy evolution of a system when the services are small enough to be understandables and to be rewritten without fear.\n",
         "Duration": 2520,
         "Language": "English",
-        "Last Modified": "2023-11-18T15:36:56.000Z",
+        "Last Modified": "2025-01-19T22:57:39.000Z",
         "Less 15": 0,
         "Name": "The art of destroying software",
         "Published": true,
@@ -23734,6 +23781,7 @@
         "Url": "https://www.youtube.com/watch?v=Ed94CfxgsCA",
         "airtable_createdTime": "2020-01-19T20:37:55.000Z",
         "airtable_id": "reckjL9O859XqGTqO",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:37:55.000Z"
     },
     {
@@ -24316,7 +24364,7 @@
         "Description": "Diana Hu shares her advice for being a technical founder at the earliest stages - including topics like how to ship an MVP fast, how to deal with technology choices and technical debt, and how and when to hire an engineering team.\n",
         "Duration": 1680,
         "Language": "English",
-        "Last Modified": "2023-08-26T22:03:37.000Z",
+        "Last Modified": "2025-01-19T23:02:59.000Z",
         "Less 15": 0,
         "Name": "Tips For Technical Startup Founders | Startup School",
         "Published": true,
@@ -24347,6 +24395,7 @@
         "Url": "https://www.youtube.com/watch?v=rP7bpYsfa6Q",
         "airtable_createdTime": "2023-08-26T18:46:07.000Z",
         "airtable_id": "reclsxslEsaXTMpfo",
+        "core_topic": "Startup",
         "registered_at": "2023-08-26T18:46:07.000Z"
     },
     {
@@ -24561,7 +24610,7 @@
         "Description": "Jez Humble examines the common pitfalls of scaling Agile methodologies and presents alternative strategies for achieving organizational agility. He argues that simply implementing Agile practices without addressing underlying systemic issues, such as lengthy feedback loops and inefficient decision-making processes, will not lead to significant improvements. Instead, he proposes that organizations focus on creating rapid feedback loops, reducing batch sizes, and adopting an experimental approach to product development and process improvement, emphasizing value over cost and estimation.\n",
         "Duration": 3060,
         "Language": "English",
-        "Last Modified": "2024-11-30T17:03:12.000Z",
+        "Last Modified": "2025-01-19T23:07:46.000Z",
         "Less 15": 0,
         "Name": "Why Scaling Agile Doesn't Work - GOTO 2015",
         "Published": true,
@@ -24590,6 +24639,7 @@
         "Url": "https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg",
         "airtable_createdTime": "2024-11-24T19:22:59.000Z",
         "airtable_id": "recm5NyzuUShg6KDI",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2024-11-24T19:22:59.000Z"
     },
     {
@@ -24913,7 +24963,7 @@
         "Description": "Michael Bryzek explores what it\u2019s like to build quality software with no development, QA, or staging environments. He includes a deep dive into \u201cverification in production\u201d and what it really takes to build software that can safely be tested continuously in production.\n",
         "Duration": 3000,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:52:11.000Z",
         "Less 15": 0,
         "Name": "Production - Designing for Testability",
         "Published": true,
@@ -24946,6 +24996,7 @@
         "Url": "https://www.infoq.com/presentations/quality-production/",
         "airtable_createdTime": "2022-04-09T18:08:51.000Z",
         "airtable_id": "recmX18vmHRNPz3Jb",
+        "core_topic": "Testing",
         "registered_at": "2022-04-09T18:08:51.000Z"
     },
     {
@@ -25251,7 +25302,7 @@
         "Description": "Gojko Adzic describes why independent testing should be a thing of the past. He explains how testers engaging with developers and business users create opportunities to accomplish things they cannot do otherwise. \n",
         "Duration": 3120,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:51:22.000Z",
         "Less 15": 0,
         "Name": "Oredev 2011: Sleeping with the enemy",
         "Published": true,
@@ -25278,6 +25329,7 @@
         "Url": "https://www.youtube.com/watch?v=hIMwTzAAQ-w",
         "airtable_createdTime": "2023-01-08T17:47:32.000Z",
         "airtable_id": "recmxMzHk07eCaRVF",
+        "core_topic": "Testing",
         "registered_at": "2023-01-08T17:47:32.000Z"
     },
     {
@@ -26106,7 +26158,7 @@
         "Description": "Great talk about the human relationships generated during software development. Kent explains these relations and uses them to analyze the development flow, the need for small safe steps, and the tension generated between the people involved. For me, this talk is a must.\n",
         "Duration": 900,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:02:37.000Z",
         "Less 15": 1,
         "Name": "Tidy First?",
         "Published": true,
@@ -26139,6 +26191,7 @@
         "Url": "https://www.youtube.com/watch?v=BFFY9Zor6zw",
         "airtable_createdTime": "2020-08-31T21:09:25.000Z",
         "airtable_id": "recoFSbmY4hKAytju",
+        "core_topic": "Software Design",
         "registered_at": "2020-08-31T21:09:25.000Z"
     },
     {
@@ -26188,7 +26241,7 @@
         "Description": "This presentation is about identifying service boundaries in software architecture to avoid coupling and ending up with a \"big ball of mud\", even when using microservices. I recommend this talk because it provides practical advice on how to define services as technical authorities for specific business capabilities, leading to more maintainable and scalable systems.\n",
         "Duration": 2880,
         "Language": "English",
-        "Last Modified": "2024-12-15T17:41:48.000Z",
+        "Last Modified": "2025-01-19T21:38:33.000Z",
         "Less 15": 0,
         "Name": "Adam Ralph - Finding your service boundaries \u2014 a practical guide - SCBCN 24",
         "Published": true,
@@ -26217,6 +26270,7 @@
         "Url": "https://www.youtube.com/watch?v=cxLGc5YRFBs",
         "airtable_createdTime": "2024-12-08T20:35:47.000Z",
         "airtable_id": "recoRHsRlGCAsIFus",
+        "core_topic": "Architecture",
         "registered_at": "2024-12-08T20:35:47.000Z"
     },
     {
@@ -26486,7 +26540,7 @@
         "Description": "Great explanation about Lean concepts (Limit WIP, class of services, Root cause analysis...)\n",
         "Duration": 300,
         "Language": "English",
-        "Last Modified": "2023-11-09T21:40:03.000Z",
+        "Last Modified": "2025-01-19T22:56:37.000Z",
         "Less 15": 1,
         "Name": "Stop starting and start finishing",
         "Published": true,
@@ -26517,6 +26571,7 @@
         "Url": "https://www.youtube.com/watch?v=FOLDDe4ARRs",
         "airtable_createdTime": "2021-03-21T09:07:27.000Z",
         "airtable_id": "recomFIM8h16kGME1",
+        "core_topic": "Lean",
         "registered_at": "2021-03-21T09:07:27.000Z"
     },
     {
@@ -26567,7 +26622,7 @@
         "Description": "As usualy Henrik deliver a great talk that inspired me a lot.\n",
         "Duration": 2580,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:41:02.000Z",
         "Less 15": 0,
         "Name": "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)",
         "Published": true,
@@ -26594,6 +26649,7 @@
         "Url": "https://www.youtube.com/watch?v=n7wH2XdOWpM",
         "airtable_createdTime": "2020-01-19T20:34:05.000Z",
         "airtable_id": "recoqZIHQYaQMiCaE",
+        "core_topic": "Agile",
         "registered_at": "2020-01-19T20:34:05.000Z"
     },
     {
@@ -26667,7 +26723,7 @@
         "Description": "The best explanation I know about resource efficiency vs flow efficiency, the base of Lean.\n",
         "Duration": 1080,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:58:25.000Z",
         "Less 15": 0,
         "Name": "The Efficiency Paradox",
         "Published": true,
@@ -26702,6 +26758,7 @@
         "Url": "https://www.youtube.com/watch?v=hGJpez7rvc0",
         "airtable_createdTime": "2020-01-19T20:41:59.000Z",
         "airtable_id": "recp5VZGEHjnR5CHd",
+        "core_topic": "Lean",
         "registered_at": "2020-01-19T20:41:59.000Z"
     },
     {
@@ -26819,7 +26876,7 @@
         "Description": "Essential 5-minute video. In this video Dave Farley explains the difference and why the two are largely mutually exclusive, and then explains how to live in the CI world by describing three different approaches to keeping the software working as it evolves.\n",
         "Duration": 1020,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:57:48.000Z",
         "Less 15": 0,
         "Name": "Continuous Integration vs Feature Branch Workflow",
         "Published": true,
@@ -26850,6 +26907,7 @@
         "Url": "https://www.youtube.com/watch?v=v4Ijkq6Myfc",
         "airtable_createdTime": "2021-01-30T19:52:14.000Z",
         "airtable_id": "recpdRwvheycRamLE",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2021-01-30T19:52:14.000Z"
     },
     {
@@ -27399,7 +27457,7 @@
         "Description": "This talk describe the social and technical strategies that great teams all of the world are using to be happier, more productive and make their users happy too.\n",
         "Duration": 2460,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:00:31.000Z",
         "Less 15": 0,
         "Name": "The Sociotechnical Path to High-Performing Teams",
         "Published": true,
@@ -27432,6 +27490,7 @@
         "Url": "https://vimeo.com/723450508",
         "airtable_createdTime": "2022-09-18T21:52:23.000Z",
         "airtable_id": "recr9psXCCS4XmZA6",
+        "core_topic": "Engineering Culture",
         "registered_at": "2022-09-18T21:52:23.000Z"
     },
     {
@@ -27440,7 +27499,7 @@
         "Description": "Interesting talk about how to use the cloud and how it enables innovation.\n",
         "Duration": 2520,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:56:27.000Z",
         "Less 15": 0,
         "Name": "Speeding Up Innovation",
         "Published": true,
@@ -27473,6 +27532,7 @@
         "Url": "https://www.youtube.com/watch?v=rnygCAvVBj8",
         "airtable_createdTime": "2020-01-19T20:35:41.000Z",
         "airtable_id": "recrGcqVCRBZi01uH",
+        "core_topic": "Cloud",
         "registered_at": "2020-01-19T20:35:41.000Z"
     },
     {
@@ -27481,7 +27541,7 @@
         "Description": "A great talk on one of the fundamental techniques for making product discovery and continuous release. Excellent information about how to use them, define experiments, and interpret results.\n",
         "Duration": 960,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:07:08.000Z",
         "Less 15": 0,
         "Name": "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data",
         "Published": true,
@@ -27512,6 +27572,7 @@
         "Url": "https://www.youtube.com/watch?v=f8XDvtfKWQE",
         "airtable_createdTime": "2020-06-14T11:04:56.000Z",
         "airtable_id": "recrYATbAMaj4fxd7",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-06-14T11:04:56.000Z"
     },
     {
@@ -27553,7 +27614,7 @@
         "Description": "Why Product strategy is mostly about saying no. Funny, short, thought-provoking and actionable. Imprescindible.\n",
         "Duration": 420,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:51:49.000Z",
         "Less 15": 1,
         "Name": "Product Strategy is About Saying No",
         "Published": true,
@@ -27578,6 +27639,7 @@
         "Url": "https://www.youtube.com/watch?v=9AM6QQlgLSQ",
         "airtable_createdTime": "2020-05-17T19:54:35.000Z",
         "airtable_id": "recrZiu65sTc9GX7h",
+        "core_topic": "Product",
         "registered_at": "2020-05-17T19:54:35.000Z"
     },
     {
@@ -28262,7 +28324,7 @@
         "Description": "Simplicity--the art of maximizing the amount of work not done--is essential. Great talk on how to focus on the essentials and make simple solutions. \n",
         "Duration": 1320,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:06:07.000Z",
         "Less 15": 0,
         "Name": "From initial request to software in production in 3 weeks",
         "Published": true,
@@ -28289,6 +28351,7 @@
         "Url": "https://www.youtube.com/watch?v=RjAXEOIfkq8",
         "airtable_createdTime": "2022-06-26T16:01:01.000Z",
         "airtable_id": "recsmPxMNicKXDScZ",
+        "core_topic": "Lean",
         "registered_at": "2022-06-26T16:01:01.000Z"
     },
     {
@@ -28687,7 +28750,7 @@
         "Description": "The journey of a software developer is a climb through abstraction: algorithms, patterns, architecture.... How do we keep expanding scope, without losing focus on the real work? Join us for a journey into the fourth dimension, where we don't just change code; we design change.\n",
         "Duration": 2880,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:31:07.000Z",
         "Less 15": 0,
         "Name": "KEYNOTE Designing change",
         "Published": true,
@@ -28723,6 +28786,7 @@
         "Url": "https://www.youtube.com/watch?v=26KypYl5lXA",
         "airtable_createdTime": "2021-07-25T18:53:09.000Z",
         "airtable_id": "rectJPj8uG0MXkyLy",
+        "core_topic": "Architecture",
         "registered_at": "2021-07-25T18:53:09.000Z"
     },
     {
@@ -28831,7 +28895,7 @@
         "Description": "Whether it\u2019s distributing configurations and customer settings, launching instances, or responding to surges in load, having a great control plane is key to the success of any system or service. Come hear about the techniques we use to build stable and scalable control planes at Amazon. We dive deep into the designs that power the most reliable systems at AWS. We share hard-earned operational lessons and explain academic control theory in easy-to-apply patterns and principles that are immediately useful in your own designs.\nA must to learn how to design Control Panels.\n",
         "Duration": 3480,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:50:48.000Z",
         "Less 15": 0,
         "Name": "AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems, Big & Small ARC337",
         "Published": true,
@@ -28849,14 +28913,12 @@
         ],
         "Topics": [
             "recbWs6dTsdPwfWnm",
-            "recg6F5ajOhEkbrdW",
             "recgcJy2O48j2V5SW",
             "recm1G3xxDIQZ5dKc",
             "recm3GCPgEVSDmeVI"
         ],
         "Topics_Names": [
             "Platform",
-            "Product",
             "Scalability",
             "Architecture patterns",
             "Software Design"
@@ -28864,6 +28926,7 @@
         "Url": "https://www.youtube.com/watch?v=O8xLxNje30M",
         "airtable_createdTime": "2020-01-19T20:38:54.000Z",
         "airtable_id": "rectcpSR95TCD5yxR",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:38:54.000Z"
     },
     {
@@ -29256,7 +29319,7 @@
         "Description": "another version\u00a0 (NEWCRAFTS Conferences Paris). A very interesting for any developer, product manager o business person. Technics to understand the whole picture for a system and help to define the design from the outside. A good approach for domain modeling.\n",
         "Duration": 3060,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:10:03.000Z",
         "Less 15": 0,
         "Name": "A Case for Outside-In Design",
         "Published": true,
@@ -29287,6 +29350,7 @@
         "Url": "https://www.youtube.com/watch?v=QP6ltkj4Qik",
         "airtable_createdTime": "2020-01-19T20:32:40.000Z",
         "airtable_id": "recuJC0elQtyoMJIS",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:32:40.000Z"
     },
     {
@@ -29317,7 +29381,7 @@
         "Description": "A must. Essential for understanding high performance teams and modern agile development.\n",
         "Duration": 2940,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:06:27.000Z",
         "Less 15": 0,
         "Name": "What Will The Next 10 Years Of Continuous Delivery Look Like?",
         "Published": true,
@@ -29361,6 +29425,7 @@
         "Url": "https://www.youtube.com/watch?v=FVEWdatM8Uk",
         "airtable_createdTime": "2020-02-09T20:13:02.000Z",
         "airtable_id": "recuMrXQfbSdl8hR1",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-02-09T20:13:02.000Z"
     },
     {
@@ -29724,7 +29789,7 @@
         "Created": "2020-01-19T20:40:58.000Z",
         "Description": "This talk explores how attitude impacts success, focusing on growth mindset, trust, and confidence. It emphasizes the importance of continuous improvement, psychological safety, and overcoming the impostor phenomenon.\n",
         "Language": "English",
-        "Last Modified": "2025-01-06T22:00:43.000Z",
+        "Last Modified": "2025-01-19T21:44:23.000Z",
         "Less 15": 1,
         "Name": "Attitude Determines Altitude- Engineering Yourself",
         "Published": true,
@@ -29753,6 +29818,7 @@
         "Url": "https://www.infoq.com/presentations/improve-engineer-designer-leader",
         "airtable_createdTime": "2020-01-19T20:40:58.000Z",
         "airtable_id": "recv9A1iANh1bT52j",
+        "core_topic": "Engineering Culture",
         "registered_at": "2020-01-19T20:40:58.000Z"
     },
     {
@@ -29883,7 +29949,7 @@
         "Description": "This talk strips away the veil and offers simple, practical guidelines for choosing what to test and how to test it. Finding the right testing balance isn't magic, it's a magic trick; come and learn the secret of writing stable tests that protect your application at the lowest possible cost.\n",
         "Duration": 1920,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:53:07.000Z",
         "Less 15": 0,
         "Name": "Rails Conf 2013 The Magic Tricks of Testing",
         "Published": true,
@@ -29914,6 +29980,7 @@
         "Url": "https://www.youtube.com/watch?v=URSWYvyc42M",
         "airtable_createdTime": "2021-09-05T15:41:49.000Z",
         "airtable_id": "recvcszbn9MUJPKJA",
+        "core_topic": "Testing",
         "registered_at": "2021-09-05T15:41:49.000Z"
     },
     {
@@ -29998,7 +30065,7 @@
         "Description": "A must-see talk. Dave Farley describes 8 common mistakes that junior developers often make and offers his advice on how to avoid them. Whatever your approach to software engineering and software development, whether you are practicing Continuous Delivery, DevOps, or something else, we think that you may find some helpful ideas in this video.\n",
         "Duration": 1080,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:13:04.000Z",
         "Less 15": 0,
         "Name": "Avoid These Common Mistakes Junior Developers Make",
         "Published": true,
@@ -30027,6 +30094,7 @@
         "Url": "https://www.youtube.com/watch?v=JL1lMPxR7KQ",
         "airtable_createdTime": "2021-12-25T07:33:40.000Z",
         "airtable_id": "recw6EE8eDR1c0AiI",
+        "core_topic": "Engineering Culture",
         "registered_at": "2021-12-25T07:33:40.000Z"
     },
     {
@@ -30546,7 +30614,7 @@
         "Description": "In this talk Jez will describe how to implement devops principles and practices, how to overcome typical obstacles, and the outcomes DevOps enables. A must-see talk.\n",
         "Duration": 2880,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:09:27.000Z",
         "Less 15": 0,
         "Name": "Industry Keynote: The DevOps Transformation",
         "Published": true,
@@ -30579,6 +30647,7 @@
         "Url": "https://www.youtube.com/watch?v=Y4H8dW7Ium8",
         "airtable_createdTime": "2021-11-07T18:57:25.000Z",
         "airtable_id": "recwznqIb6ycqXb6u",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2021-11-07T18:57:25.000Z"
     },
     {
@@ -30752,7 +30821,7 @@
         "Description": "Fun and interesting talk about the context and process for making technical decisions. Very good ideas. The talk is a few years old, but the ideas are still very valid. Charity talks about how to decide to introduce new technologies, the cost of maintaining them, the importance of migrations, failure modes, etc.\n",
         "Duration": 2460,
         "Language": "English",
-        "Last Modified": "2024-01-14T21:11:10.000Z",
+        "Last Modified": "2025-01-19T21:37:36.000Z",
         "Less 15": 0,
         "Name": "A Young Lady's Illustrated Primer to Technical Decision-Making",
         "Published": true,
@@ -30779,6 +30848,7 @@
         "Url": "https://www.youtube.com/watch?v=PSIPhVjWBO0",
         "airtable_createdTime": "2024-01-14T10:43:16.000Z",
         "airtable_id": "recxOMnJ8i6GxhPbc",
+        "core_topic": "Engineering Culture",
         "registered_at": "2024-01-14T10:43:16.000Z"
     },
     {
@@ -31086,7 +31156,7 @@
         "Description": "A great and concise description of SLI/SLOs and how to use them to improve our lives.\n",
         "Duration": 600,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:52:36.000Z",
         "Less 15": 1,
         "Name": "Reduce Alerting Noise with One Weird Trick",
         "Published": true,
@@ -31113,6 +31183,7 @@
         "Url": "https://www.youtube.com/watch?v=DOXk2xoAUkw",
         "airtable_createdTime": "2021-08-14T10:10:46.000Z",
         "airtable_id": "recy1ap1dYgcQG19U",
+        "core_topic": "Operations",
         "registered_at": "2021-08-14T10:10:46.000Z"
     },
     {
@@ -31593,7 +31664,7 @@
         "Description": "What is technical debt? What is not technical debt? Why should we care? What is the cost of misunderstanding? What do we do about it? Doc discusses the origins of the metaphor, what it means today, and how we properly identify and manage technical debt.\n",
         "Duration": 3180,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T23:01:53.000Z",
         "Less 15": 0,
         "Name": "The Technical Debt Trap",
         "Published": true,
@@ -31620,6 +31691,7 @@
         "Url": "https://www.youtube.com/watch?v=SfWCRl75Kas",
         "airtable_createdTime": "2021-04-24T19:04:21.000Z",
         "airtable_id": "recz6vJxlvcALhp7D",
+        "core_topic": "Engineering Culture",
         "registered_at": "2021-04-24T19:04:21.000Z"
     },
     {
@@ -31683,7 +31755,7 @@
         "Description": "This presentation explains how Continuous Delivery is very beneficial for excellent product management and growing a customer-focus team. CD enables closing the loop for each product increment, getting feedback, making decisions, and punting the focus on the impact generated (and not creating more and more features).\n",
         "Duration": 2400,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T22:51:42.000Z",
         "Less 15": 0,
         "Name": "Product Management for Continuous Delivery",
         "Published": true,
@@ -31712,6 +31784,7 @@
         "Url": "https://www.youtube.com/watch?v=39u-WHz-9Cg",
         "airtable_createdTime": "2020-08-31T21:07:31.000Z",
         "airtable_id": "reczID4D56geuaClD",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2020-08-31T21:07:31.000Z"
     },
     {
@@ -31865,10 +31938,10 @@
     {
         "Blog Url": "https://www.eferro.net/2015/10/index.html",
         "Created": "2020-01-19T20:34:45.000Z",
-        "Description": "IMHO this is the more interesting talk I show this year. No spoilers :) \u00a0 I agree one hundred per cent with the talk.\u00a0Just show it.\n",
+        "Description": "Dan North describes a model for thinking about the age of code and argues for replaceability as a first class concern. He also discovers that by optimizing for both replaceability and consistency one can end up with something that looks a lot like microservices.\n",
         "Duration": 2880,
         "Language": "English",
-        "Last Modified": "2024-08-18T21:37:08.000Z",
+        "Last Modified": "2025-01-19T22:38:22.000Z",
         "Less 15": 0,
         "Name": "Microservices: Software that Fits in Your Head",
         "Published": true,
@@ -31895,6 +31968,7 @@
         "Url": "http://www.infoq.com/presentations/microservices-replaceability-consistency",
         "airtable_createdTime": "2020-01-19T20:34:45.000Z",
         "airtable_id": "reczX8K9qeisrKC5a",
+        "core_topic": "Architecture",
         "registered_at": "2020-01-19T20:34:45.000Z"
     },
     {
@@ -31903,7 +31977,7 @@
         "Description": "Classic presentation by Alan Kay talks about the nature of software, the design that systems should have, scalability, and how, to some extent, we could compare it to how biological systems work. Many of the ideas behind Smalltalk can be identified in the talk.. Inspirational.\n",
         "Duration": 3840,
         "Language": "English",
-        "Last Modified": "2024-08-18T09:00:28.000Z",
+        "Last Modified": "2025-01-19T23:12:39.000Z",
         "Less 15": 0,
         "Name": "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet",
         "Published": true,
@@ -31938,6 +32012,7 @@
         "Url": "https://www.youtube.com/watch?v=oKg1hTOQXoY",
         "airtable_createdTime": "2024-08-18T07:55:26.000Z",
         "airtable_id": "reczYEOBiA6KzE1Gv",
+        "core_topic": "Engineering Culture",
         "registered_at": "2024-08-18T07:55:26.000Z"
     },
     {
@@ -31946,7 +32021,7 @@
         "Description": "A good example of what Modern Agile looks like. Customer-focused team, with direct contact with the customer and without a proxy. Very interesting. It reminds me a lot of the way I used to work at [@AleaSolucionesS](https://twitter.com/AleaSolucionesS) and at TheMotion ([@HoneyBadgersDev](https://twitter.com/HoneyBadgersDev)).\n",
         "Duration": 3300,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:40:50.000Z",
         "Less 15": 0,
         "Name": "Agile as if you meant it",
         "Published": true,
@@ -31979,6 +32054,7 @@
         "Url": "https://www.youtube.com/watch?v=YibNG8xx15c",
         "airtable_createdTime": "2020-08-31T21:03:01.000Z",
         "airtable_id": "reczZxGtIAoCz9tsI",
+        "core_topic": "Agile-XP",
         "registered_at": "2020-08-31T21:03:01.000Z"
     },
     {
@@ -32106,7 +32182,7 @@
         "Description": "Since the Continuous Delivery book came out in 2010, it\u2019s gone from being a controversial idea to a commonplace\u2026 until you consider that many people who say they are doing it aren\u2019t really, and there are still plenty of places that consider it crazy talk. In this session Jez will present some of the highlights and lowlights of the past six years listening to people explain why continuous delivery won\u2019t work, and what he learned in the process.\n",
         "Duration": 2940,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-19T21:56:29.000Z",
         "Less 15": 0,
         "Name": "Continuous Delivery - Sounds Great But It Won't Work Here",
         "Published": true,
@@ -32133,6 +32209,7 @@
         "Url": "https://www.youtube.com/watch?v=IvWr29afDF8",
         "airtable_createdTime": "2022-07-25T18:02:56.000Z",
         "airtable_id": "reczwtffHNw0fqzfl",
+        "core_topic": "Continuous Delivery",
         "registered_at": "2022-07-25T18:02:56.000Z"
     },
     {
