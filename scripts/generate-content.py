@@ -105,6 +105,8 @@ def generate_html_from_repository_by_topic(repo):
         file.write(image_html)
         file.write(introduction_html)
 
+        file.write('    <p>Alternative index: <a href="./index.html">Talks by speakers</a></p>\n')
+
         file.write("    <h2>Talks by Topic</h2>\n")
         file.write(f"    <ul>\n")
         generate_html_for_topics(file, talks_by_core_topic, include_speakers=True)
@@ -130,6 +132,7 @@ def generate_html_from_repository(repo):
         file.write(image_html)
         file.write(introduction_html)
 
+        file.write('    <p>Alternative index: <a href="./index-by-topic.html">Talks by topics</a></p>\n')
 
         file.write("    <h2>Talks by speaker</h2>\n")
         file.write(f"    <ul>\n")
