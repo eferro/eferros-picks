@@ -12,7 +12,7 @@ class Talk:
     topics: List[str]
     speakers: List[str]
     description: Optional[str]
-
+    core_topic: Optional[str] = None
 
 introduction_html = """
 <p>These recommended talks represent my personal take on software delivery and product development, shaped by both my real-world experiences and my guiding principles around Agile, XP, Continuous Delivery, and Lean thinking. They aren’t meant to be a comprehensive or neutral collection—rather, they showcase how I’ve seen teams thrive when we embrace flow, high-quality code, and tight feedback loops. If you’d like to learn about the premises that form the backbone of my approach, please check out <a href="https://www.eferro.net/p/my-premises-about-software-development.html">My Premises About Software Development</a>.</p>
@@ -37,7 +37,7 @@ class TalkRepository:
         self.db_path = db_path
         self.talks = []
         self.talks_by_speaker = defaultdict(list)
-        self.talks_by_topic = defaultdict(list)
+        self.talks_by_core_topic = defaultdict(list)
         self.speaker_count = defaultdict(int)
         self.topic_count = defaultdict(int)
         self._cache_talks()
@@ -47,7 +47,7 @@ class TalkRepository:
 
     def _cache_talks(self):
         query = """
-        SELECT airtable_id, Name, Url, Duration, Topics_Names, Speakers_Names, Description 
+        SELECT airtable_id, Name, Url, Duration, Topics_Names, Speakers_Names, Description, Core_Topic 
         FROM Resources 
         WHERE Rating=5 AND "Resource type" == 'talk' AND "Language" == 'English'
         """
@@ -61,9 +61,9 @@ class TalkRepository:
                 for speaker in talk.speakers:
                     self.talks_by_speaker[speaker].append(talk)
                     self.speaker_count[speaker] += 1
-                for topic in talk.topics:
-                    self.talks_by_topic[topic].append(talk)
-                    self.topic_count[topic] += 1
+                if talk.core_topic:
+                    self.talks_by_core_topic[talk.core_topic].append(talk)
+                    self.topic_count[talk.core_topic] += 1
 
     def get_all_talks(self):
         return self.talks
@@ -71,8 +71,8 @@ class TalkRepository:
     def get_talks_by_speaker(self):
         return self.talks_by_speaker
 
-    def get_talks_by_topic(self):
-        return self.talks_by_topic
+    def get_talks_by_core_topic(self):
+        return self.talks_by_core_topic
 
     def _row_to_talk(self, row) -> Talk:
         return Talk(
@@ -82,7 +82,8 @@ class TalkRepository:
             duration=row[3],
             topics=self._extract_from_list(row[4]),
             speakers=self._extract_from_list(row[5]),
-            description=row[6]
+            description=row[6],
+            core_topic=row[7]
         )
 
     def _extract_from_list(self, data: str) -> List[str]:
@@ -91,7 +92,7 @@ class TalkRepository:
         return result
 
 def generate_html_from_repository_by_topic(repo):
-    talks_by_topic = repo.get_talks_by_topic()
+    talks_by_core_topic = repo.get_talks_by_core_topic()
 
     with open('index-by-topic.html', 'w') as file:
         file.write("<html>\n")
@@ -106,7 +107,7 @@ def generate_html_from_repository_by_topic(repo):
 
         file.write("    <h2>Talks by Topic</h2>\n")
         file.write(f"    <ul>\n")
-        generate_html_for_topics(file, talks_by_topic, include_speakers=True)
+        generate_html_for_topics(file, talks_by_core_topic, include_speakers=True)
         file.write(f"    </ul>\n")
 
         file.write(footer_html)
