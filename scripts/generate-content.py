@@ -90,6 +90,31 @@ class TalkRepository:
         result = [s.strip() for s in  data.split(',')] if data else []
         return result
 
+def generate_html_from_repository_by_topic(repo):
+    talks_by_topic = repo.get_talks_by_topic()
+
+    with open('index-by-topic.html', 'w') as file:
+        file.write("<html>\n")
+        file.write("  <head>\n")
+        file.write("    <title>eferro's picks by Topic</title>\n")
+        file.write("  </head>\n")
+        file.write("  <body>\n")
+        file.write("    <h1>Recomended Talks by Topic</h1>\n")
+
+        file.write(image_html)
+        file.write(introduction_html)
+
+        file.write("    <h2>Talks by Topic</h2>\n")
+        file.write(f"    <ul>\n")
+        generate_html_for_topics(file, talks_by_topic, include_speakers=True)
+        file.write(f"    </ul>\n")
+
+        file.write(footer_html)
+        file.write(librecounter_html)
+
+        file.write("  </body>\n")
+        file.write("</html>\n")
+
 def generate_html_from_repository(repo):
     talks_by_speaker = repo.get_talks_by_speaker()
 
@@ -125,6 +150,7 @@ def generate_html_from_repository(repo):
         file.write("  </body>\n")
         file.write("</html>\n")
 
+
 def generate_html_for_top_speakers(file, talks_by_speaker, include_speakers):
     sorted_speakers = sorted(talks_by_speaker.items(), key=lambda item: len(item[1]), reverse=True)
     for speaker, talks in sorted_speakers:
@@ -148,6 +174,21 @@ def generate_html_for_a_speaker(file, speaker, talks, include_speakers):
         generate_html_for_a_talk(file, talk, include_speakers)
     file.write(f"      </ul>\n")
 
+def generate_html_for_topics(file, talks_by_topic, include_speakers):
+    sorted_topics = sorted(talks_by_topic.items(), key=lambda item: len(item[1]), reverse=True)
+    for topic, talks in sorted_topics:
+        if len(talks) == 1:
+            continue
+        generate_html_for_a_topic(file, topic, talks, include_speakers)
+
+def generate_html_for_a_topic(file, topic, talks, include_speakers):
+    sanitized_topic = topic.replace(' ', '_').replace('.','_').lower()
+    file.write(f"    <li><a name=\"{sanitized_topic}\">{topic}</a></li>\n")
+    file.write(f"      <ul>\n")
+    for talk in talks:
+        generate_html_for_a_talk(file, talk, include_speakers)
+    file.write(f"      </ul>\n")
+
 def generate_html_for_a_talk(file, talk, include_speakers):
     speakers = generate_speakers_html(talk, include_speakers)
     topics = f"<strong>[{', '.join(talk.topics)}]</strong>"
@@ -162,12 +203,10 @@ def generate_speakers_html(talk, include_speakers):
         speakers = ""
     return speakers
 
-
-
-
 def main():
     repo = TalkRepository('database/picks.db')
     generate_html_from_repository(repo)
+    generate_html_from_repository_by_topic(repo)
 
 if __name__ == "__main__":
     main()
