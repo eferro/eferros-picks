@@ -169,7 +169,7 @@ def generate_html_for_other_speakers(file, talks_by_speaker, include_speakers):
 
 def generate_html_for_a_speaker(file, speaker, talks, include_speakers):
     sanitized_speaker = speaker.replace(' ', '_').replace('.','_').lower()
-    file.write(f"    <li><a name=\"{sanitized_speaker}\">{speaker}</a></li>\n")
+    file.write(f"    <li><a name=\"{sanitized_speaker}\"><b>{speaker}</b></a></li>\n")
     file.write(f"      <ul>\n")
     for talk in talks:
         generate_html_for_a_talk(file, talk, include_speakers)
@@ -184,7 +184,7 @@ def generate_html_for_topics(file, talks_by_topic, include_speakers):
 
 def generate_html_for_a_topic(file, topic, talks, include_speakers):
     sanitized_topic = topic.replace(' ', '_').replace('.','_').lower()
-    file.write(f"    <li><a name=\"{sanitized_topic}\">{topic}</a></li>\n")
+    file.write(f"    <li><a name=\"{sanitized_topic}\"><b>{topic}</b></a></li>\n")
     file.write(f"      <ul>\n")
     for talk in talks:
         generate_html_for_a_talk(file, talk, include_speakers)
