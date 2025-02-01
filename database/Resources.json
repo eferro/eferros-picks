@@ -2292,11 +2292,12 @@
         "Description": "Very good talk about the \"Agile\" mindset (aka experimentation or growth mindset)\n",
         "Duration": 3480,
         "Language": "English",
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-01-31T23:05:58.000Z",
         "Less 15": 0,
         "Name": "The Power of an Agile Mindset",
         "Published": true,
-        "Resource": "The Power of an Agile Mindset - https://vimeo.com/108288994",
+        "Rating": 5,
+        "Resource": "The Power of an Agile Mindset - https://www.youtube.com/watch?v=pQeohrdhvYU",
         "Resource type": "talk",
         "Speaker WomenInTech": [
             true
@@ -2307,9 +2308,10 @@
         "Speakers_Names": [
             "Linda Rising"
         ],
-        "Url": "https://vimeo.com/108288994",
+        "Url": "https://www.youtube.com/watch?v=pQeohrdhvYU",
         "airtable_createdTime": "2020-01-19T20:36:17.000Z",
         "airtable_id": "rec506jFKXhEUAGIr",
+        "core_topic": "Agile",
         "registered_at": "2020-01-19T20:36:17.000Z"
     },
     {
