@@ -83,7 +83,7 @@
   - 'The Logic of Flow: Some Indispensable Concepts - https://www.youtube.com/watch?v=rc1MqHsiiKo'
   airtable_createdTime: '2020-08-09T19:31:05.000Z'
   airtable_id: rec0PB37LN1Kz0Blh
-- Last Modified: '2023-04-23T18:22:39.000Z'
+- Last Modified: '2025-02-09T09:41:24.000Z'
   Name: Platform as a product
   Resources:
   - recB1sUzKv0w60CcT
@@ -121,7 +121,8 @@
   - rechbEi0S7vX0LS7D
   - recyQDYTRQVvgVB3Z
   - reckPa3VBTaIyyNNe
-  Resources number: 35
+  - recodpd6fHRlgKhp2
+  Resources number: 36
   Speakers:
   - How Stripe Invests in Technical Infrastructure - https://www.youtube.com/watch?v=rYzmXLhIaHQ
   - Minimum Viable Product for Platforms - https://www.youtube.com/watch?v=A9wx91rVTms
@@ -165,6 +166,7 @@
   - Tips For Building Successful Platform Teams - https://www.youtube.com/watch?v=_zH7TIXcjEs
   - How much to invest in platform work - https://getdx.com/podcast/27
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
+  - 'Beyond Engineering: The Future of Platforms - https://www.youtube.com/watch?v=cgI92zUFLuU'
   airtable_createdTime: '2020-09-06T08:38:30.000Z'
   airtable_id: rec1Q788ERcApi2h5
 - Last Modified: '2024-11-24T08:56:02.000Z'
@@ -197,7 +199,7 @@
     - https://www.youtube.com/watch?v=0reMVgn6kRo
   airtable_createdTime: '2020-05-23T08:41:56.000Z'
   airtable_id: rec1itjm3GvHRxFZu
-- Last Modified: '2024-11-24T19:12:49.000Z'
+- Last Modified: '2025-02-09T09:18:02.000Z'
   Name: Developer Productivity
   Resources:
   - rectoiZIRm9UTVPUO
@@ -212,7 +214,8 @@
   - recEbeDrLiZUegSaB
   - recUiAvLX6uU6gj42
   - recXdlYlg3hNMt3MA
-  Resources number: 12
+  - recqCFF4DrcJwvpnq
+  Resources number: 13
   Speakers:
   - "Developer Productivity Engineering \u2013 The Next Big Thing in Software Development\
     \ (US 2021) - https://videos.itrevolution.com/watch/621617677/"
@@ -228,6 +231,7 @@
   - Why we switched to serverless containers - https://changelog.com/shipit/87
   - Solomon Hykes Discusses Dagger, DevOps, and Docker - https://www.infoq.com/podcasts/dagger-devops-docker/
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
+  - R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
   airtable_createdTime: '2022-02-06T20:58:13.000Z'
   airtable_id: rec436FbBa6hFiWcj
 - Last Modified: '2024-08-18T08:17:10.000Z'
@@ -297,19 +301,21 @@
   - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
   airtable_createdTime: '2020-07-08T07:01:11.000Z'
   airtable_id: rec51AOvJVPEWfUVK
-- Last Modified: '2024-11-24T08:56:07.000Z'
+- Last Modified: '2025-02-09T09:34:35.000Z'
   Name: Quality
   Resources:
   - rec4m4wjMYy3jMqFZ
   - rec0wGILzKUBU6YKD
   - rec8kuyWkDjOJhQ9k
   - recZW8hH7yNsA3zo7
-  Resources number: 4
+  - recqeHR6KWslW9KNo
+  Resources number: 5
   Speakers:
   - DOES15 Its All About Feedback - https://www.youtube.com/watch?v=r2BFTXBundQ
   - DOES14 On the Care and Feeding of Feedback Cycles - https://www.youtube.com/watch?v=fMucUohYWI4
   - Critical Program Reading (1975) - 16mm Film - https://www.youtube.com/watch?v=7hdJQkn8rtA
   - If Russ Ackoff had given a TED Talk... (Beyond continuous improvement) - https://www.youtube.com/watch?v=OqEeIG8aPPk
+  - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   airtable_createdTime: '2022-02-12T21:37:35.000Z'
   airtable_id: rec5qcZLhWV3LGjsu
 - Last Modified: '2023-11-18T15:30:51.000Z'
@@ -327,7 +333,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2024-11-24T19:00:20.000Z'
+- Last Modified: '2025-02-09T09:34:40.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -456,7 +462,10 @@
   - recLu6ITwHRiiZwbF
   - recdLIMS2kPAda6MP
   - recaTxSRbgrtkff9X
-  Resources number: 126
+  - recqCFF4DrcJwvpnq
+  - reckOvXE3NZFY8kj3
+  - recqeHR6KWslW9KNo
+  Resources number: 129
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -592,6 +601,9 @@
   - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
   - 'Product Agility Podcast: 9 Million Users from a Full Stack Product Legend An
     Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI'
+  - R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
+  - Patterns of Effective Delivery - https://vimeo.com/24681032
+  - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -1087,7 +1099,7 @@
   - A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2024-11-24T08:35:34.000Z'
+- Last Modified: '2025-02-09T09:57:30.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -1198,7 +1210,8 @@
   - recmvoo351PsP313Q
   - recclNm0J3dDOzoHt
   - recf65jjPPURcp0jt
-  Resources number: 108
+  - rec42snEPpunYVroW
+  Resources number: 109
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1313,6 +1326,7 @@
   - Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   - 'Living Domain Model: Continuous Refactoring to Accelerate Delivery - https://www.youtube.com/watch?v=7c_kuuVBRoo'
+  - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
 - Last Modified: '2023-04-23T18:27:48.000Z'
@@ -1553,7 +1567,7 @@
   - Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPDGLhpXxkxbDoU
-- Last Modified: '2024-11-24T19:12:57.000Z'
+- Last Modified: '2025-02-09T09:34:32.000Z'
   Name: testing
   Resources:
   - recIFakmXTw6GmZlH
@@ -1590,7 +1604,8 @@
   - recnzNfCI9zPNOyT5
   - recSAamOq3VNnKbru
   - recXdlYlg3hNMt3MA
-  Resources number: 34
+  - recqeHR6KWslW9KNo
+  Resources number: 35
   Speakers:
   - How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU
   - 'Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/'
@@ -1628,6 +1643,7 @@
     \ \u2022 GOTO 2023 - https://www.youtube.com/watch?v=P_6eDL1aqtA"
   - 5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
+  - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
 - Last Modified: '2025-01-19T22:06:43.000Z'
@@ -2130,7 +2146,7 @@
   - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-05-17T13:51:26.000Z'
   airtable_id: recTPLZxKhIsbbwEW
-- Last Modified: '2023-11-19T19:45:33.000Z'
+- Last Modified: '2025-02-09T10:19:51.000Z'
   Name: leadership
   Resources:
   - rec9EZic34Ot174h3
@@ -2144,7 +2160,9 @@
   - recgMNfjEQbF98kc0
   - recbZzYh8iwAqHBJ3
   - rectARJKbtqXtcmOQ
-  Resources number: 11
+  - recodpd6fHRlgKhp2
+  - recU96MGQMQDsismv
+  Resources number: 13
   Speakers:
   - The Principles and Practices behind Team of Teams - https://itrevolution.com/the-idealcast-episode-11/
   - "GOTO 2020 \u2022 Talking With Tech Leads - https://www.youtube.com/watch?v=F81W-JcRgXM"
@@ -2157,6 +2175,8 @@
   - Improving Software Flow YOW! 2022 - https://www.youtube.com/watch?v=XMyt5S8limQ
   - Time to Focus on Your Goals - https://www.youtube.com/watch?v=4pa6G23ygp0%C2%A0
   - Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership
+  - 'Beyond Engineering: The Future of Platforms - https://www.youtube.com/watch?v=cgI92zUFLuU'
+  - How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
   airtable_createdTime: '2021-01-30T20:34:05.000Z'
   airtable_id: recUP8TZ3O1cNiioY
 - Last Modified: '2022-12-06T21:12:28.000Z'
@@ -2195,7 +2215,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2025-01-19T23:06:06.000Z'
+- Last Modified: '2025-02-09T10:19:30.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2368,7 +2388,11 @@
   - recCPjTZloWAjizKF
   - recMK9byb9akbMylA
   - recOtIG9sYrRR6tQr
-  Resources number: 170
+  - recqCFF4DrcJwvpnq
+  - reckOvXE3NZFY8kj3
+  - rec42snEPpunYVroW
+  - recU96MGQMQDsismv
+  Resources number: 174
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2559,6 +2583,10 @@
   - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
     \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   - What makes a good developer - https://vimeo.com/748032161
+  - R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
+  - Patterns of Effective Delivery - https://vimeo.com/24681032
+  - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
+  - How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -3240,7 +3268,7 @@
   - Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recgcJy2O48j2V5SW
-- Last Modified: '2024-11-24T19:26:27.000Z'
+- Last Modified: '2025-02-09T09:34:44.000Z'
   Name: Lean Software Development
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3291,7 +3319,8 @@
   - recVqfFEPSbb0wjql
   - recpkxs58fTTCeDvt
   - recm5NyzuUShg6KDI
-  Resources number: 48
+  - recqeHR6KWslW9KNo
+  Resources number: 49
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - The Economics of Software Design - https://www.youtube.com/watch?v=7HecgbghFTk
@@ -3343,6 +3372,7 @@
   - 'Small Batches podcast: The Mental Model - https://smallbatches.fm/95/'
   - 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
   - Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
+  - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rech2MAtQRy0Lvc2Y
 - Last Modified: '2024-02-05T21:45:37.000Z'
@@ -3422,7 +3452,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2024-12-08T21:16:17.000Z'
+- Last Modified: '2025-02-09T09:57:00.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3544,7 +3574,9 @@
   - recpkxs58fTTCeDvt
   - recm5NyzuUShg6KDI
   - recCPjTZloWAjizKF
-  Resources number: 119
+  - reckOvXE3NZFY8kj3
+  - rec42snEPpunYVroW
+  Resources number: 121
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3678,6 +3710,8 @@
   - 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
   - Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg
   - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
+  - Patterns of Effective Delivery - https://vimeo.com/24681032
+  - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2024-11-24T19:07:40.000Z'
@@ -3926,7 +3960,7 @@
     inc. | Craft, 2023 - https://www.youtube.com/watch?v=Gsgisj1Ns40
   airtable_createdTime: '2021-08-12T13:08:45.000Z'
   airtable_id: recivP78x0piISrFD
-- Last Modified: '2023-11-19T19:47:43.000Z'
+- Last Modified: '2025-02-09T09:41:29.000Z'
   Name: Flow
   Resources:
   - recROSkaWuMOkJEi3
@@ -3942,7 +3976,8 @@
   - recQXhKafE7CbtPIw
   - rec7NPbH4POd8KrJS
   - recF4RCRwyrmzfxXL
-  Resources number: 13
+  - recodpd6fHRlgKhp2
+  Resources number: 14
   Speakers:
   - The resource utilization trap - https://www.youtube.com/watch?v=CostXs2p6r0
   - Multiple WIP vs One Piece Flow Example - https://www.youtube.com/watch?v=Yqi9Gwt-OEA
@@ -3957,6 +3992,7 @@
   - The Journey to Continuous Delivery - https://www.infoq.com/presentations/cd-business-agility
   - The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU
   - How to Break the Rules - https://www.youtube.com/watch?v=hZFShSjAhlQ
+  - 'Beyond Engineering: The Future of Platforms - https://www.youtube.com/watch?v=cgI92zUFLuU'
   airtable_createdTime: '2021-03-14T07:15:17.000Z'
   airtable_id: reck50u1RzhJj6MIy
 - Last Modified: '2024-01-22T16:19:43.000Z'
@@ -4641,13 +4677,15 @@
     https://www.se-radio.net/2021/08/episode-473-mike-del-balso-on-feature-stores/'
   airtable_createdTime: '2021-09-05T16:12:26.000Z'
   airtable_id: recsaIUpZIWKoWlQ0
-- Last Modified: '2023-07-21T16:09:24.000Z'
+- Last Modified: '2025-02-09T10:19:42.000Z'
   Name: Product Engineer
   Resources:
   - reclTVcNeM3EWyoMd
-  Resources number: 1
+  - recU96MGQMQDsismv
+  Resources number: 2
   Speakers:
   - "Connectsai 2020: C\xF3mo entregar m\xE1s por menos - Marta Manso - https://www.youtube.com/watch?v=MtwyXiuW1OU"
+  - How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
   airtable_createdTime: '2023-07-21T16:09:24.000Z'
   airtable_id: recsle3aIFIsbZcRR
 - Last Modified: '2022-06-26T15:49:34.000Z'
@@ -4754,7 +4792,7 @@
   - Software Craftsmanship y profesionalismo - https://www.genbeta.com/desarrollo/software-craftsmanship-y-profesionalismo
   airtable_createdTime: '2021-08-12T13:49:32.000Z'
   airtable_id: recvUEp7q0TOLiXgf
-- Last Modified: '2024-11-24T19:21:58.000Z'
+- Last Modified: '2025-02-09T09:57:13.000Z'
   Name: Management
   Resources:
   - recFssGR3GcaytzUE
@@ -4795,7 +4833,8 @@
   - recVds4erYyaknLBa
   - rec8xahUBbtXXfZfV
   - recpkxs58fTTCeDvt
-  Resources number: 38
+  - rec42snEPpunYVroW
+  Resources number: 39
   Speakers:
   - The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo
   - The Power of Freedom at Work - https://www.youtube.com/watch?v=lHmRBgvmMpI
@@ -4838,6 +4877,7 @@
   - Autonomy, mastery, purpose (Drive summary) - https://www.youtube.com/watch?v=1SfmmuC9IWs
   - The secret to giving great feedback - https://www.youtube.com/watch?v=wtl5UrrgU8c
   - 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
+  - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recvlsvAt2LHjlKU2
 - Last Modified: '2022-01-22T19:42:30.000Z'
@@ -4884,7 +4924,7 @@
   - Be Quick But Don't Hurry  - https://www.youtube.com/watch?v=_pwSyzNwMHM
   airtable_createdTime: '2021-08-12T13:09:17.000Z'
   airtable_id: recwjZlYYZq3zj7TU
-- Last Modified: '2024-11-24T19:12:53.000Z'
+- Last Modified: '2025-02-09T09:17:58.000Z'
   Name: Devex
   Resources:
   - rechYABcryStzbIMe
@@ -4919,7 +4959,8 @@
   - recUiAvLX6uU6gj42
   - recUEgx9kn9Dgm3b1
   - recXdlYlg3hNMt3MA
-  Resources number: 32
+  - recqCFF4DrcJwvpnq
+  Resources number: 33
   Speakers:
   - 'Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually
     Follow - https://www.youtube.com/watch?v=xqT8e6_yzLg'
@@ -4959,6 +5000,7 @@
   - "Impulsando el crecimiento organizacional a trav\xE9s de la Developer Experience\
     \ - https://www.codurance.com/es/publications/como-impulsar-el-crecimiento-de-tu-organizacion-atraves-de-la-developer-experience"
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
+  - R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
   airtable_createdTime: '2021-06-13T22:14:58.000Z'
   airtable_id: recxJkIWVynhDpBOI
 - Last Modified: '2024-12-08T22:17:49.000Z'

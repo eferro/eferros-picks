@@ -1554,6 +1554,61 @@
   airtable_createdTime: '2020-01-19T20:41:14.000Z'
   airtable_id: rec3zyBT8lggt0Ld4
   registered_at: '2020-01-19T20:41:14.000Z'
+- Blog Url: https://www.eferro.net/2025/02/good-talkspodcasts-feb-i.html
+  Created: '2025-02-09T09:53:04.000Z'
+  Description: |
+    This presentation challenges the idea of blindly following software development practices like SOLID and Scrum, urging a re-evaluation of their continued relevance in light of changing contexts and technology, advocating for a more fluid, context-driven approach that prioritizes outcomes, learning, and continuous improvement
+  Duration: 2280
+  Language: English
+  Last Modified: '2025-02-09T18:51:43.000Z'
+  Less 15: 0
+  Name: 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques'
+  Notes: |
+    The presentation discusses why people and organizations cling to outdated practices, using SOLID principles and Scrum as examples, and how to evaluate whether a practice is still useful over time. Here are the most important points:
+    - **Habit and "We've Always Done it That Way":** The primary reason people and organizations continue with existing practices is habit. The phrase "we've always done it that way" is a dangerous one that prevents critical thinking and change.
+    - **The Problem with "Obvious" Practices:** Many practices are followed because they are considered obviously right, based on received wisdom or how people were taught, without considering whether they still make sense.
+    - **The Four Questions to Evaluate Technology**: Drawing on the work of Eli Goldratt, the presenter introduces four questions that should be asked when adopting new technology: what is the power of the technology, what limitation does it diminish, what rules enabled us to manage this limitation, and what new rules do we need to introduce to exploit it. These questions can be applied not only to technology but to practices.
+    - **The Need to Re-evaluate Practices Over Time:** Practices should be re-evaluated over time to see if they are still valid. The key questions here are: what has changed since we adopted it, how has the limitation changed over time, and what should we be doing instead.
+    - **Context is Crucial:** Understanding the context in which a practice was developed is crucial. This involves talking to "old people" who were there at the time to build up a profile of what was going on, and understanding that there are multiple perspectives.
+    - **SOLID Principles as an Example of Outdated Advice:** The presenter argues that the SOLID principles, which were relevant when development teams were more siloed, are less relevant now that teams are cross-functional. The single responsibility principle (SRP), for example, suggests separating code based on who is working on it (e.g., DBA vs. accountant), rather than keeping code that changes together in the same place. The presenter suggests that code should be kept together while it fits in a programmer's head, and separated only when it becomes too complex.
+    - **Separation of Concerns:** The idea of "separation of concerns" is often misunderstood as a way to arrange code (like layered architecture) but was originally conceived as separating concerns such as correctness and efficiency, and involves considering multiple concerns simultaneously.
+    - **Scrum's Origins and Limitations:** Scrum emerged in the early 90s to address the problem of slow, large projects, with the idea of shorter sprints and more frequent feedback. While it was revolutionary for its time, it is now optimized for problems that no longer exist, because of advancements in technology.
+    - **Technology Changes:** Since the introduction of Scrum, the technology landscape has changed dramatically, with faster languages, continuous delivery, and cloud-based provisioning, enabling much faster iteration and deployment cycles.
+    - **Scrum can Hinder Fast Flow:** Scrum is optimized for moving from years to months and weeks, but now, the pace of software development has moved to minutes. As a result, sticking to scrum can mean that competitors are able to move faster.
+    - **Alternative Planning Cadences:** The presenter suggests two planning cadences: quarterly planning with OKRs and immediate changes when needed. This includes doing a "big room planning" to let teams self-select into work.
+    - **Dynamic Teams:** Teams should be fluid, changing as needed based on demand, instead of being fixed and having to work around limitations. The focus should be on bringing people to the work, rather than making the work fit the team.
+    - **Separate Deployment from Release:** Deployment should be a technical decision, and releases a commercial one. Deployment can be done continuously, and releases can be timed to fit business needs.
+    - **Daily Steering:** Daily steering should be about what is left to do, not about what has already been done. It should be forward-looking, focusing on progress and new learnings.
+    - **Structural Inertia and Cognitive Biases:** The persistence of outdated practices is due to structural inertia and cognitive biases such as commitment bias and consistency bias.
+    - **Bounded vs. Centered Communities:** Bounded communities are defined by rigid rules (like certifications) and struggle to adapt, whereas centered communities are defined by values that are constantly being communicated. Centered communities are more resilient because people are either closer or further from a set of values, but never outside of the community.
+    - **Think For Yourself:** It's essential to think for yourself, look past dogma, challenge the status quo, and assess your own tools and practices. Talk to old people, but remember that they have different perspectives, and no single source should be believed without further investigation.
+    - **The Most Dangerous Phrase:** The most dangerous phrase is "we've always done it that way".
+    The talk argues for a critical approach to practices and encourages revisiting them in light of changing contexts and technology. The presenter advocates for a more fluid, context-driven approach to software development, and emphasizes the importance of focusing on outcomes, learning, and continuous improvement.
+  Published: true
+  Rating: 5
+  Resource: 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recFwCH6SfELfIX3t
+  Speakers_Names:
+  - Dan North
+  Topics:
+  - rechj5WeSQRH211np
+  - recWFKWrPEdeEYbzx
+  - recvlsvAt2LHjlKU2
+  - recFbzSbd07ttDIYJ
+  Topics_Names:
+  - Agile
+  - Engineering Culture
+  - Management
+  - Technical Practices
+  Url: https://www.youtube.com/watch?v=L2dh1bqrLC4
+  airtable_createdTime: '2025-02-09T09:53:04.000Z'
+  airtable_id: rec42snEPpunYVroW
+  core_topic: Engineering Culture
+  registered_at: '2025-02-09T09:53:04.000Z'
 - Blog Url: https://www.eferro.net/2018/03/interesting-talkspodcasts-2018-march-i.html
   Created: '2020-01-19T20:31:52.000Z'
   Description: |2+
@@ -12528,6 +12583,59 @@
   airtable_createdTime: '2024-03-30T16:25:21.000Z'
   airtable_id: recU8b3AkYHNEIkd7
   registered_at: '2024-03-30T16:25:21.000Z'
+- Blog Url: https://www.eferro.net/2025/02/good-talkspodcasts-feb-i.html
+  Created: '2025-02-09T10:02:59.000Z'
+  Description: |
+    This talk explores how Shopify builds a high-intensity culture through principles like choosing the hard path, prioritizing intensity over hours, and valuing pair programming, while also emphasizing continuous learning, code deletion, and a unique approach to hiring.
+  Duration: 6000
+  Language: English
+  Last Modified: '2025-02-09T18:51:45.000Z'
+  Less 15: 0
+  Name: How Shopify builds a high-intensity culture
+  Notes: |
+    Here are some of the most important points from the presentation, based on the provided sources:
+    - **Choosing the Hard Path:** When faced with multiple options, selecting the harder path can lead to greater learning and growth. Even if the hard path doesn't work out, valuable experience, skills, and connections with smart people are gained. This approach is favored over taking the easy path where little learning occurs if it does not work.
+    - **Intensity over Hours:** The focus should be on doing more per minute, rather than just working more hours. This involves maximizing productivity within the set work hours instead of expanding the workday.
+    - **Pair Programming:** This is a highly effective, yet underutilized management tool in engineering. It involves two people working together on one computer, leading to increased knowledge transfer, higher rates of learning, and less silos. While it might seem like it would reduce output, it often leads to faster progress and better solutions. At Shopify, pair programming is used more strategically, typically for four to eight hours per week, focusing on problem-solving and code development.
+    - **"Looking Stupid" as a Superpower:** Being comfortable with asking "dumb" questions and trying new things is important for learning and innovation. This also encourages others to ask questions they might have been afraid to.
+    - **Framework for Decision Making:** Having a written framework of personal values and priorities helps in making better decisions, especially when considering job opportunities. This framework can be used to evaluate whether a job aligns with what one actually cares about and helps avoid distractions.
+    - **Importance of a Learning Journey:** Focus on choosing paths that provide the best learning opportunities, which often involves working with smart people. Seeking out challenging situations can lead to intense working relationships and continued growth.
+    - **Meeting Cadence & "Meeting Armageddon":** Shopify uses a six-week review cycle where teams present their work, resources, and roadmaps to leadership. This regular cadence creates intensity and encourages progress. Additionally, Shopify does a "meeting armageddon" once a year, deleting all recurring meetings and forcing teams to rethink their meeting needs. This has resulted in a significant decrease in time spent in meetings for employees.
+    - **GSD (Get Shit Done):** This refers to weekly updates shared across the company to show progress. This weekly practice helps maintain a sense of forward movement and accountability.
+    - **Remote-First Approach:** Shopify is a remote-first company, aiming to hire the best people worldwide. They also incorporate intentional in-person experiences like summits and "bursts" to build trust and collaboration.
+    - **Platform Thinking:** Shopify prioritizes building infrastructure that allows others to easily create solutions rather than focusing solely on point solutions. They aim to create platforms with APIs so that anyone can build within the hour.
+    - **Code Deletion:** The company has a strong focus on deleting unnecessary code to simplify the codebase which leads to better maintainability, resiliency, and performance.
+    - **Hiring Practices:** Shopify focuses on hiring people that fit well within their culture and prefers job trials or internships over traditional interviews. They aim to assess skills by replicating the real job as much as possible.
+    - **Internship Programs:** The company views its internship program not just as community service, but as a crucial way to find and assess talent, and to bring fresh ideas and perspectives into the company.
+    - **Culture of Impatience & Intensity:** The leadership team emphasizes urgency and is comprised of high-energy people with a bias for action. They encourage taking risks and having some projects that are "on fire" to push the company's boundaries.
+    - **"Everything You Know is Wrong"**: This concept encourages one to always question assumptions and be open to new ways of thinking.
+    These points highlight Shopify's unique approach to building a high-intensity culture, focused on learning, speed, and continuous improvement. The listed topics from the second source provide a good overview of many areas that Shopify focuses on, including engineering culture, agile methods, and product development.
+  Published: true
+  Rating: 5
+  Resource: How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recYRyAgTWnbSB8wh
+  - reciiLOv2Qpm17yNt
+  Speakers_Names:
+  - Farhan Thawar
+  - Lenny Rachitsky
+  Topics:
+  - recWFKWrPEdeEYbzx
+  - recsle3aIFIsbZcRR
+  - recUP8TZ3O1cNiioY
+  Topics_Names:
+  - Engineering Culture
+  - Product Engineer
+  - leadership
+  Url: https://www.youtube.com/watch?v=C_lhMOjG7PE
+  airtable_createdTime: '2025-02-09T10:02:59.000Z'
+  airtable_id: recU96MGQMQDsismv
+  core_topic: Engineering Culture
+  registered_at: '2025-02-09T10:02:59.000Z'
 - Blog Url: https://www.eferro.net/2014/10/podcaststalks-2014-1-15-oct.html
   Created: '2020-01-19T20:38:02.000Z'
   Description: |2+
@@ -19983,6 +20091,53 @@
   airtable_createdTime: '2020-01-19T20:37:55.000Z'
   airtable_id: reckLawWsxbuzINB2
   registered_at: '2020-01-19T20:37:55.000Z'
+- Blog Url: https://www.eferro.net/2025/02/good-talkspodcasts-feb-i.html
+  Created: '2025-02-09T09:20:54.000Z'
+  Description: |
+    This talk explores patterns of effective software delivery, emphasizing that delivery means solving problems, not just writing code, and focusing on optimizing for the right outcomes rather than just process
+  Duration: 3540
+  Language: English
+  Last Modified: '2025-02-09T18:51:34.000Z'
+  Less 15: 0
+  Name: Patterns of Effective Delivery
+  Notes: |
+    The presentation, "Patterns of Effective Delivery," explores strategies for improving software delivery by focusing on solving business problems, optimizing for effectiveness, and understanding the context in which patterns are applied. Here are the most important points:
+    - **Delivery is about solving business problems, not just writing software**. The focus should be on the outcome of the software rather than the software itself. Software is a means to an end and should provide utility and enable discovery.
+    - **Effective delivery requires understanding what you are optimizing for**. The presenter highlights that effectiveness can mean optimizing for different things, such as speed, time to market, user experience, or the ability to quickly try new ideas.
+    - **Organizations often optimize for certainty, which can come at the expense of speed and discovery**. The agile community can become overly focused on predictability, using metrics like velocity and estimation to minimize uncertainty, which can reduce effectiveness.
+    - **Patterns are strategies that work in a specific context**. A pattern is not a universally applicable solution, and what works in one situation might be counterproductive in another. Applying a strategy without understanding the context can lead to a cargo cult mentality.
+    - **The presentation introduces the concept of "Spike and Stabilize" which is a different way to approach coding and testing**. Instead of rigidly defining code as either a "spike" for experimentation or "production code" with strict testing protocols, the approach is to initially use code to explore and then stabilize it later. This means initially writing tests to explore, deferring the commitment to the quality of the code, and writing tests after to make the code TDD-shaped.
+    - **Another pattern introduced is "Ginger Cake," which involves copying and pasting code that is intimately known to get a new application up and running quickly**. This is not about copying code from the internet or using code generators, but rather using code that you fully understand and then modifying it to fit a new need.
+    - **The idea of a "short software half-life" is introduced which suggests that code should have a short lifespan**. This encourages developers to think of code as temporary and to invest more in code that has proven to be valuable. This concept challenges the DRY (Don't Repeat Yourself) principle.
+    - **Code that is simple, understandable, readable, and obvious is important**. This means optimizing for simplicity and making code fit into the developer's head. Test-driven development (TDD) becomes a tool rather than a crutch when code is kept simple.
+    - **Creating urgency is a way to learn new technologies quickly**. Instead of tutorials, creating a real project with a tight deadline forces you to focus on what's essential.
+    - **Socratic testing involves using tests to explore code in a non-threatening way**. Rather than telling a team what to do, you work with them to write tests to understand the code, which can lead to organic discovery and improvements.
+    - **The agile manifesto is often misunderstood and the values have been inverted**. For example, the focus is often on process and tools rather than people and interactions. The presenter suggests we should consider what we are optimizing for and if the pursuit of certainty is hampering speed and discovery.
+    - **Effective delivery requires discipline, rigor, practice, and learning, and a willingness to sacrifice certainty to achieve greater effectiveness**.
+    The presentation challenges conventional agile practices, advocating for a more nuanced, context-driven approach to software delivery, and it emphasizes the importance of focusing on outcomes, learning, and continuous improvement.
+  Published: true
+  Rating: 5
+  Resource: Patterns of Effective Delivery - https://vimeo.com/24681032
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recFwCH6SfELfIX3t
+  Speakers_Names:
+  - Dan North
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recWFKWrPEdeEYbzx
+  - rechj5WeSQRH211np
+  Topics_Names:
+  - Inspirational
+  - Engineering Culture
+  - Agile
+  Url: https://vimeo.com/24681032
+  airtable_createdTime: '2025-02-09T09:20:54.000Z'
+  airtable_id: reckOvXE3NZFY8kj3
+  core_topic: Lean-Agile
+  registered_at: '2025-02-09T09:20:54.000Z'
 - Blog Url: https://www.eferro.net/2023/04/good-talkspodcasts-apr-2023-i.html
   Created: '2023-04-23T18:20:38.000Z'
   Description: |+
@@ -22264,6 +22419,55 @@
   airtable_createdTime: '2020-01-19T20:36:56.000Z'
   airtable_id: recoZ0s08wK1SBb4p
   registered_at: '2020-01-19T20:36:56.000Z'
+- Blog Url: https://www.eferro.net/2025/02/good-talkspodcasts-feb-i.html
+  Created: '2025-02-09T09:37:32.000Z'
+  Description: |
+    This talk explores applying the "platform as a product" approach beyond engineering, emphasizing how to improve flow and reduce friction across an organization by providing internal services in a self-service manner, and by focusing on the needs of the organization's internal users
+  Duration: 1260
+  Language: English
+  Last Modified: '2025-02-09T18:51:39.000Z'
+  Less 15: 0
+  Name: 'Beyond Engineering: The Future of Platforms'
+  Notes: |
+    This presentation discusses how to apply the "platform as a product" approach beyond engineering, focusing on how other parts of an organization can adopt a fast flow mindset. Here are the most important points:
+    - **The Problem:** There's often a disconnect between engineering and other departments (like HR, legal, procurement) because those other areas are typically optimized for efficiency and standardization rather than fast flow. This can lead to bottlenecks, frustration, and disengagement as teams struggle to get the resources or approvals they need.
+    - **The Solution: Platform as a Product:** The "platform as a product" approach, which involves providing internal services in a self-service manner, can be applied beyond engineering to other departments. This means providing the services, knowledge, and support necessary to enable other parts of the organization to work more efficiently. It's about understanding user needs within the organization. This doesn't always mean software-based services, it could also be things like a well-organized wiki with documentation.
+    - **Examples of Platforms:** The presentation provides several examples of applying the platform approach outside of engineering:
+        - **Compliance as a platform**: Providing services to help teams search for regulations and self-audit for compliance.
+        - **Legal as a platform**: Creating a catalog of common legal documents (like NDAs and statements of work) that teams can access and use independently.
+        - **Leadership as a platform**: Enabling teams to align their work with the organization's strategy and goals in a bottom-up way rather than top-down. This could include strategy mirror boards and metrics services to help teams understand the business impact of their work.
+    - **Evolving Platforms:** It's crucial to understand that platforms need to continuously evolve to remain useful. This requires collaboration between the platform team and the teams that use the platform. For example, a legal platform team should be open to expanding the platform when new legal situations arise, rather than forcing a standard process.
+    - **Key Principles for Platform Success:** The presentation outlines several principles for successful platform adoption:
+        - **Prioritize fast flow of value to end customers:** Prioritize delivering value to end customers over optimizing internal processes.
+        - **Unblock others through curated self-service patterns:** Provide the resources and tools that enable teams to solve problems themselves.
+        - **Open to Change**: Platforms must be open to change and adapt to new needs.
+        - **Optimize for adoption and discoverability:** Platforms should be easily discoverable and accessible to their intended users.
+        - **Enable users by meeting them where they are:** Understand that different teams have different levels of background knowledge and adjust support and onboarding accordingly.
+        - **Create a platform manifesto:** Consider developing a platform manifesto, that works across all departments, to align different parts of the organization.
+    - **The Need for Shared Understanding:** The presenter emphasizes the need to build bridges with other departments and explain why fast flow is important. Organizations that can achieve fast flow in engineering will benefit more when the rest of the organization is aligned to those principles.
+    - **Platform teams as enablers:** Platform teams often need to provide significant support and enabling, particularly with newer platform approaches in compliance and legal. Users won't always be experts, so they will need guidance on how to use the platform.
+    The presentation advocates for adopting the "platform as a product" approach as a way to improve flow and reduce friction in the organization as a whole, going beyond the typical application of this idea in software engineering. The principles discussed are relevant for different types of organizations who want to move faster.
+  Published: true
+  Resource: 'Beyond Engineering: The Future of Platforms - https://www.youtube.com/watch?v=cgI92zUFLuU'
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - reczBGqdwRSwTYDY6
+  Speakers_Names:
+  - Manuel Pais
+  Topics:
+  - rec1Q788ERcApi2h5
+  - reck50u1RzhJj6MIy
+  - recUP8TZ3O1cNiioY
+  Topics_Names:
+  - Platform as a product
+  - Flow
+  - leadership
+  Url: https://www.youtube.com/watch?v=cgI92zUFLuU
+  airtable_createdTime: '2025-02-09T09:37:32.000Z'
+  airtable_id: recodpd6fHRlgKhp2
+  registered_at: '2025-02-09T09:37:32.000Z'
 - Blog Url: https://www.eferro.net/2019/03/good-talkspodcasts-feb-2019-ii.html
   Created: '2020-01-19T20:38:30.000Z'
   Description: |
@@ -22917,6 +23121,43 @@
   airtable_createdTime: '2020-01-19T20:38:08.000Z'
   airtable_id: recqBPwWhGCxXDOK1
   registered_at: '2020-01-19T20:38:08.000Z'
+- Created: '2025-02-09T09:16:41.000Z'
+  Description: "La conversaci\xF3n enfatiza que medir la productividad debe ser un\
+    \ medio para mejorar, no el objetivo principal. Tambi\xE9n explora c\xF3mo centrarse\
+    \ en mejorar la experiencia del desarrollador y el entorno del equipo, en lugar\
+    \ de simplemente rastrear la producci\xF3n. Adem\xE1s de basarse en datos, se\
+    \ debe considerar el impacto de las m\xE9tricas en la cultura, evitando mediciones\
+    \ de rendimiento individuales y analizando c\xF3mo la IA afecta la productividad.\n"
+  Duration: 2820
+  Language: Spanish
+  Last Modified: '2025-02-09T09:19:20.000Z'
+  Less 15: 0
+  Name: R075 - Medir la productividad, con Toni Tassani
+  Resource: R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - recLCR1wA7MsxwOIm
+  - recBOQcmX8FTz7DTv
+  Speakers_Names:
+  - Toni Tassani
+  - Carlos Iglesias
+  Topics:
+  - rec6JMQpL2LSjoP2E
+  - recWFKWrPEdeEYbzx
+  - recxJkIWVynhDpBOI
+  - rec436FbBa6hFiWcj
+  Topics_Names:
+  - Inspirational
+  - Engineering Culture
+  - Devex
+  - Developer Productivity
+  Url: https://www.youtube.com/watch?v=O4-uIiXqNAY
+  airtable_createdTime: '2025-02-09T09:16:41.000Z'
+  airtable_id: recqCFF4DrcJwvpnq
+  registered_at: '2025-02-09T09:16:41.000Z'
 - Blog Url: https://www.eferro.net/2018/05/good-talkspodcasts-may-2018-i.html
   Created: '2020-01-19T20:33:05.000Z'
   Description: |
@@ -23012,6 +23253,62 @@
   airtable_createdTime: '2023-08-26T21:24:17.000Z'
   airtable_id: recqZwmfIMth4GnWj
   registered_at: '2023-08-26T21:24:17.000Z'
+- Blog Url: https://www.eferro.net/2025/02/good-talkspodcasts-feb-i.html
+  Created: '2025-02-09T09:28:31.000Z'
+  Description: "This presentation covers how to apply the Dantotsu method\u2014rooted\
+    \ in Toyota\u2019s manufacturing principles\u2014to optimize software development\
+    \ and delivery. By focusing on visual management, team leadership, and systemic\
+    \ solutions, the approach minimizes defects, boosts efficiency, and fosters continuous\
+    \ improvement. Very good ideas on how to improve post-mortems or how to classify\
+    \ problems to improve quality more quickly.\n"
+  Duration: 2220
+  Language: English
+  Last Modified: '2025-02-09T18:51:35.000Z'
+  Less 15: 0
+  Name: Dantotsu Radical Software Quality Improvement
+  Notes: |
+    The presentation discusses the "Dantotsu" approach to software quality improvement, drawing from Toyota's manufacturing principles to address the challenge of maintaining quality as software development scales. Here are the most important points:
+    - **The Quality at Scale Dilemma:** The presentation highlights the tension between the need for high-quality software in critical systems and the scalability of traditional quality assurance methods, such as extensive upfront specifications. The presenter contrasts the extreme spec-heavy approach of space shuttle software development (40,000 pages of specs for 400,000 lines of code) with the "move fast and break things" approach, noting that the former isn't scalable and the latter produces too many defects.
+    - **Dantotsu Radical Quality Improvement:** This is a method inspired by Toyota's approach to manufacturing, focusing on radical quality improvements by reducing defects. "Dantotsu" is Japanese slang meaning "radical," "unparalleled," or "over the top".
+        - **Key Principles of Dantotsu:Visual Management:** Tracking defects daily and monthly with ambitious reduction goals.
+        - **Defect Classification by Outflow Stage:** Categorizing defects by where they are detected in the process (A, B, C, and D), rather than by priority. A defects are detected in the same team, B defects are detected further down the line, C defects are found in final inspection and D defects are found by the customer. Defects are also classified by source of origin, such as production, engineering, or supplier.
+        - **Team Leader Involvement:** The team leader plays a crucial role in addressing each defect, following an eight-step process that includes immediate investigation, countermeasure implementation, and sharing learnings with the team. This process is designed to be completed within 24 hours of a defect discovery.
+        - **Systematic Defect Analysis:** Analyzing both the cause of occurrence and cause of outflow for each defect, settling a debate about whether to focus on prevention or testing.
+        - **Systemic Solutions:** Investing in systems to prevent defects from recurring after they appear more than two or three times.
+        - **Experimentation with Dantotsu in Software Development:Standardized Defect Definition:** Defining a defect as "any unexpected behavior for the user".
+        - **Visual Tracking:** Using tools to track defects at both project and company levels.
+        - **Outflow Classification:** Adapting the outflow classification to the software development process including a new category: "E" defects are those that trigger a complaint. Also, "A" defects are defined as when the code doesn't work on the first manual test by the coder.
+        - **Tech Lead Role:** Assigning the tech lead the responsibility to analyze each bug fix, identify similar defects, and suggest countermeasures. The tech lead does not necessarily fix the defect.
+        - **Bug Fix Analysis:** Analyzing one bug fix per day with the team during a "bug fix analysis coffee".
+        - **Countermeasures:** Implementing countermeasures ranging from adding linter rules and tests to rewriting code.
+        - **"Right the First Time" Gamification:** Gamifying the "A" defect process to encourage thinking before coding. This involves only allowing one refresh on the browser or simulator when testing, which promotes TDD (Test Driven Development).
+        - **Learnings and Results:Focus on the Big Picture:** The team learned that focusing solely on individual defects can lead to overlooking larger architectural issues. Mapping defects to architecture helps connect micro-learnings to the bigger picture.
+        - **Initial Positive Results:** A small project using this approach from the start showed significantly reduced defects compared to other projects. The team had fun implementing the new approach.
+        - **Potential Cost Reduction** The presenter asserts that doing things right the first time through this approach reduces the cost of rework.
+    The presentation concludes that the Dantotsu approach is a promising alternative for scaling quality in software development.
+  Published: true
+  Resource: Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
+  Resource type: talk
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recQgbHAtouevb9wE
+  Speakers_Names:
+  - Fabrice Bernhard
+  Topics:
+  - recPcLVyg0S4ORUkX
+  - rec5qcZLhWV3LGjsu
+  - rec6JMQpL2LSjoP2E
+  - rech2MAtQRy0Lvc2Y
+  Topics_Names:
+  - testing
+  - Quality
+  - Inspirational
+  - Lean Software Development
+  Url: https://www.youtube.com/watch?v=P_eGpP5y-vY
+  airtable_createdTime: '2025-02-09T09:28:31.000Z'
+  airtable_id: recqeHR6KWslW9KNo
+  registered_at: '2025-02-09T09:28:31.000Z'
 - Blog Url: https://www.eferro.net/2022/01/good-talkspodcasts-january-2022-ii.html
   Created: '2022-01-22T19:26:16.000Z'
   Description: |
@@ -25306,9 +25603,21 @@
     This talk strips away the veil and offers simple, practical guidelines for choosing what to test and how to test it. Finding the right testing balance isn't magic, it's a magic trick; come and learn the secret of writing stable tests that protect your application at the lowest possible cost.
   Duration: 1920
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-02-09T18:28:34.000Z'
   Less 15: 0
   Name: Rails Conf 2013 The Magic Tricks of Testing
+  Notes: |
+    The presentation focuses on strategies for writing effective unit tests, emphasizing that good tests are not magic, but rather a set of learnable "magic tricks". The core idea is to write tests that are **thorough, stable, fast, and few**. Here are the most important points:
+    - **Unit tests focus on a single object**: Unit tests should focus on testing one object in isolation, not the interactions between multiple objects, which is the focus of integration tests. The object should be treated like a "space capsule" with a clear separation between its inside and outside.
+    - **Messages are Key**: The approach to testing is centered around the messages that the object under test receives, sends, or sends to itself. These messages come in two flavors, **queries and commands**. Queries return a value and have no side effects, whereas commands have side effects and do not return a value.
+    - **Test incoming query messages by making assertions about what they return**. Focus on the interface not the implementation, so the implementation can be changed without breaking the tests.
+    - **Test incoming command messages by making assertions about direct public side effects**. Direct public side effects are the responsibility of the last Ruby class involved.
+    - **Do not test messages sent to self (private methods)**. These are implementation details and should not be tested directly. If they need to be tested for development purposes, segregate them and be prepared to delete them.
+    - **Do not test outgoing query messages**. These messages have no side effects and are therefore invisible to the rest of the app. Testing them is redundant.
+    - **Test outgoing command messages by setting expectations using mocks**. This ensures that the message is sent without depending on all the objects and messages between the object and the distant side effect.
+    - **Mocks are essential but must be kept in sync with the real objects**. Mocks are test doubles that play the role of some object in your real app. It is the programmer's job to ensure that the doubles keep the promise that they're going to implement a common API.
+    - **Minimalism in Testing**: Write the fewest tests possible to achieve thorough coverage. Every unnecessary test adds cost, and the goal is to find the simplicity that lives at the heart of complexity.
+    The presenter also notes that while these rules are useful, they can be broken when it will save money. The important thing is to understand the rules and then break them consciously, not through ignorance.
   Published: true
   Rating: 5
   Resource: Rails Conf 2013 The Magic Tricks of Testing - https://www.youtube.com/watch?v=URSWYvyc42M

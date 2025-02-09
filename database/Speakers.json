@@ -921,11 +921,12 @@
         "airtable_id": "recB2YChxUgc8NFt7"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-02-09T09:19:10.000Z",
         "Name": "Carlos Iglesias",
         "Resources": [
             "recRJkj52FQDwkEHg",
-            "recitaMrj8QyQAvHD"
+            "recitaMrj8QyQAvHD",
+            "recqCFF4DrcJwvpnq"
         ],
         "airtable_createdTime": "2021-08-12T13:15:04.000Z",
         "airtable_id": "recBOQcmX8FTz7DTv"
@@ -1210,7 +1211,7 @@
         "airtable_id": "recFotXMclQcwGhzA"
     },
     {
-        "Last Modified": "2024-12-08T21:22:26.000Z",
+        "Last Modified": "2025-02-09T09:53:23.000Z",
         "Name": "Dan North",
         "Resources": [
             "recQXhKafE7CbtPIw",
@@ -1234,7 +1235,9 @@
             "recY69LspKzif5oKz",
             "recVFSquUdCuGrS16",
             "recpkxs58fTTCeDvt",
-            "recCPjTZloWAjizKF"
+            "recCPjTZloWAjizKF",
+            "reckOvXE3NZFY8kj3",
+            "rec42snEPpunYVroW"
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recFwCH6SfELfIX3t"
@@ -1697,6 +1700,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recLBhvDpPexnaRXw"
+    },
+    {
+        "Last Modified": "2025-02-09T09:19:01.000Z",
+        "Name": "Toni Tassani",
+        "Resources": [
+            "recqCFF4DrcJwvpnq"
+        ],
+        "airtable_createdTime": "2025-02-09T09:19:01.000Z",
+        "airtable_id": "recLCR1wA7MsxwOIm"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -2190,6 +2202,15 @@
         ],
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recQaABkJvcwJb726"
+    },
+    {
+        "Last Modified": "2025-02-09T09:28:59.000Z",
+        "Name": "Fabrice Bernhard",
+        "Resources": [
+            "recqeHR6KWslW9KNo"
+        ],
+        "airtable_createdTime": "2025-02-09T09:28:59.000Z",
+        "airtable_id": "recQgbHAtouevb9wE"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -2981,6 +3002,15 @@
         "WomenInTech": true,
         "airtable_createdTime": "2020-01-20T22:41:12.000Z",
         "airtable_id": "recYQN9pKsOknN5ZU"
+    },
+    {
+        "Last Modified": "2025-02-09T10:03:25.000Z",
+        "Name": "Farhan Thawar",
+        "Resources": [
+            "recU96MGQMQDsismv"
+        ],
+        "airtable_createdTime": "2025-02-09T10:03:25.000Z",
+        "airtable_id": "recYRyAgTWnbSB8wh"
     },
     {
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -4090,10 +4120,11 @@
         "airtable_id": "recihORm2df6ry6f4"
     },
     {
-        "Last Modified": "2024-11-24T08:41:45.000Z",
+        "Last Modified": "2025-02-09T10:03:44.000Z",
         "Name": "Lenny Rachitsky",
         "Resources": [
-            "recr5tjxMaxeZDCww"
+            "recr5tjxMaxeZDCww",
+            "recU96MGQMQDsismv"
         ],
         "airtable_createdTime": "2024-11-24T08:41:45.000Z",
         "airtable_id": "reciiLOv2Qpm17yNt"
@@ -5423,13 +5454,14 @@
         "airtable_id": "recz7YBBz2r3Nf3Ua"
     },
     {
-        "Last Modified": "2023-06-18T06:28:48.000Z",
+        "Last Modified": "2025-02-09T09:39:19.000Z",
         "Name": "Manuel Pais",
         "Resources": [
             "reconKr3HfuOKZqkE",
             "recYzwGK7rq9HmLTU",
             "recfodpkUIp7GFrQP",
-            "recnJc1iEwa5YWeha"
+            "recnJc1iEwa5YWeha",
+            "recodpd6fHRlgKhp2"
         ],
         "airtable_createdTime": "2021-02-06T22:57:43.000Z",
         "airtable_id": "reczBGqdwRSwTYDY6"
