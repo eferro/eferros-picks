@@ -15839,6 +15839,42 @@
         "registered_at": "2024-11-24T08:59:08.000Z"
     },
     {
+        "Created": "2025-02-13T14:10:26.000Z",
+        "Description": "This talk explores a radical idea that acceptance testing, rather than being just a way to verify software, may be the next step in the evolution of how we program computers, using AI to generate code from detailed specifications\n",
+        "Duration": 960,
+        "Language": "English",
+        "Last Modified": "2025-02-13T14:12:29.000Z",
+        "Less 15": 0,
+        "Name": "Acceptance Testing Is the FUTURE of Programming",
+        "Rating": 5,
+        "Resource": "Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recmuONwokRtPS6Tp",
+            "recbJb6M6X8AZPTRc",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Topics_Names": [
+            "AI",
+            "Generative AI",
+            "testing"
+        ],
+        "Url": "https://www.youtube.com/watch?v=NsOUKfzyZiU",
+        "airtable_createdTime": "2025-02-13T14:10:26.000Z",
+        "airtable_id": "recW3gn0SujnXIbwQ",
+        "core_topic": "AI",
+        "registered_at": "2025-02-13T14:10:26.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:31.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",

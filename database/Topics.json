@@ -1677,7 +1677,7 @@
         "airtable_id": "recPDGLhpXxkxbDoU"
     },
     {
-        "Last Modified": "2025-02-09T09:34:32.000Z",
+        "Last Modified": "2025-02-13T14:11:26.000Z",
         "Name": "testing",
         "Resources": [
             "recIFakmXTw6GmZlH",
@@ -1714,9 +1714,10 @@
             "recnzNfCI9zPNOyT5",
             "recSAamOq3VNnKbru",
             "recXdlYlg3hNMt3MA",
-            "recqeHR6KWslW9KNo"
+            "recqeHR6KWslW9KNo",
+            "recW3gn0SujnXIbwQ"
         ],
-        "Resources number": 35,
+        "Resources number": 36,
         "Speakers": [
             "How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU",
             "Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/",
@@ -1752,7 +1753,8 @@
             "Working Effectively with Legacy Code \u2022 Michael Feathers & Christian Clausen \u2022 GOTO 2023 - https://www.youtube.com/watch?v=P_6eDL1aqtA",
             "5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0",
             "Developer Productivity Engineering: What's in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc",
-            "Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY"
+            "Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY",
+            "Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU"
         ],
         "airtable_createdTime": "2020-09-06T08:22:07.000Z",
         "airtable_id": "recPcLVyg0S4ORUkX"
@@ -2983,14 +2985,16 @@
         "airtable_id": "reca0FiaHsqUjIHYb"
     },
     {
-        "Last Modified": "2024-08-18T08:22:11.000Z",
+        "Last Modified": "2025-02-13T14:11:23.000Z",
         "Name": "Generative AI",
         "Resources": [
-            "recgKG33Jjit6WvBS"
+            "recgKG33Jjit6WvBS",
+            "recW3gn0SujnXIbwQ"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw"
+            "Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw",
+            "Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU"
         ],
         "airtable_createdTime": "2024-08-18T08:22:11.000Z",
         "airtable_id": "recbJb6M6X8AZPTRc"
@@ -4473,7 +4477,7 @@
         "airtable_id": "recmPbBNpUB7Q5XyX"
     },
     {
-        "Last Modified": "2024-11-24T08:29:01.000Z",
+        "Last Modified": "2025-02-13T14:11:18.000Z",
         "Name": "AI",
         "Resources": [
             "recfwzidrRnl6Ut5j",
@@ -4485,9 +4489,10 @@
             "recNNvX8TAghfBXqp",
             "recgKG33Jjit6WvBS",
             "recHORJ4ydowbim4n",
-            "recnzNfCI9zPNOyT5"
+            "recnzNfCI9zPNOyT5",
+            "recW3gn0SujnXIbwQ"
         ],
-        "Resources number": 10,
+        "Resources number": 11,
         "Speakers": [
             "The reality of testing in an artificial world - https://www.youtube.com/watch?v=ouLawtQ87Dw",
             "Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4",
@@ -4498,7 +4503,8 @@
             "The next grand challenge for AI - https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai",
             "Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw",
             "The future of software engineering - https://www.youtube.com/watch?v=-hnguwVg-iE",
-            "Working Effectively with Legacy Code \u2022 Michael Feathers & Christian Clausen \u2022 GOTO 2023 - https://www.youtube.com/watch?v=P_6eDL1aqtA"
+            "Working Effectively with Legacy Code \u2022 Michael Feathers & Christian Clausen \u2022 GOTO 2023 - https://www.youtube.com/watch?v=P_6eDL1aqtA",
+            "Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU"
         ],
         "airtable_createdTime": "2021-08-14T07:25:39.000Z",
         "airtable_id": "recmuONwokRtPS6Tp"
