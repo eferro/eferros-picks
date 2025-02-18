@@ -333,7 +333,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2025-02-09T09:34:40.000Z'
+- Last Modified: '2025-02-17T22:55:40.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -465,7 +465,8 @@
   - recqCFF4DrcJwvpnq
   - reckOvXE3NZFY8kj3
   - recqeHR6KWslW9KNo
-  Resources number: 129
+  - recg92HRx4f6nSgZc
+  Resources number: 130
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -604,6 +605,8 @@
   - R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY
   - Patterns of Effective Delivery - https://vimeo.com/24681032
   - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
+  - "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en el equipo\
+    \ y qu\xE9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2022-02-12T21:43:01.000Z'
@@ -1099,7 +1102,7 @@
   - A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2025-02-09T09:57:30.000Z'
+- Last Modified: '2025-02-17T22:55:31.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -1211,7 +1214,8 @@
   - recclNm0J3dDOzoHt
   - recf65jjPPURcp0jt
   - rec42snEPpunYVroW
-  Resources number: 109
+  - recg92HRx4f6nSgZc
+  Resources number: 110
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1327,6 +1331,8 @@
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   - 'Living Domain Model: Continuous Refactoring to Accelerate Delivery - https://www.youtube.com/watch?v=7c_kuuVBRoo'
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
+  - "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en el equipo\
+    \ y qu\xE9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
 - Last Modified: '2023-04-23T18:27:48.000Z'

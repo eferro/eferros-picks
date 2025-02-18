@@ -18100,6 +18100,38 @@
   airtable_createdTime: '2021-06-19T11:36:19.000Z'
   airtable_id: recfzY4ti4zEcJtjh
   registered_at: '2021-06-19T11:36:19.000Z'
+- Created: '2025-02-17T22:54:37.000Z'
+  Description: "Genial charla sobre el rol del technical coach, su impacto en el crecimiento\
+    \ t\xE9cnico y metodol\xF3gico de los equipos, y c\xF3mo implementar esta figura\
+    \ en las organizaciones\n"
+  Duration: 3780
+  Language: Spanish
+  Last Modified: '2025-02-17T22:57:47.000Z'
+  Less 15: 0
+  Name: "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en el\
+    \ equipo y qu\xE9 aporta?"
+  Resource: "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en\
+    \ el equipo y qu\xE9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  - null
+  Speakers:
+  - rec0W6nT9RaJf8hJj
+  - recWKmntJfLoINAFo
+  Speakers_Names:
+  - Xavi Ametller
+  - Adria Batlle
+  Topics:
+  - recFbzSbd07ttDIYJ
+  - rec6JMQpL2LSjoP2E
+  Topics_Names:
+  - Technical Practices
+  - Inspirational
+  Url: https://www.youtube.com/watch?v=pXQr4UK1lfo
+  airtable_createdTime: '2025-02-17T22:54:37.000Z'
+  airtable_id: recg92HRx4f6nSgZc
+  registered_at: '2025-02-17T22:54:37.000Z'
 - Blog Url: https://www.eferro.net/2022/10/good-talkspodcasts-oct-2022-ii.html
   Created: '2022-10-16T16:57:53.000Z'
   Description: "Michael and Dave talk broadly about automated testing, software architecture\
