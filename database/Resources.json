@@ -7932,6 +7932,45 @@
         "registered_at": "2020-01-19T20:40:55.000Z"
     },
     {
+        "Created": "2025-03-02T18:10:24.000Z",
+        "Description": "A discussion between two experts on incremental design and architecture, including data mesh solutions, managing complexity, platform engineering, and the challenges of balancing innovation with stability\n",
+        "Duration": 2640,
+        "Language": "English",
+        "Last Modified": "2025-03-02T18:19:50.000Z",
+        "Less 15": 0,
+        "Name": "The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale | Michael Nygard In The Engineering Room Ep. 35",
+        "Resource": "The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "recGU5VYzZ0w1AvWC",
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Michael T. Nygard",
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recbWs6dTsdPwfWnm",
+            "recuR2w480ko3dSKR",
+            "recUnYzKrJyW20xWO"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Platform",
+            "Platform engineering",
+            "Data Engineering"
+        ],
+        "Url": "https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe",
+        "airtable_createdTime": "2025-03-02T18:10:24.000Z",
+        "airtable_id": "recG5OJBNIEhM8uU8",
+        "registered_at": "2025-03-02T18:10:24.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2019/03/good-talkspodcasts-march-2019-i.html",
         "Created": "2020-01-19T20:38:37.000Z",
         "Description": "\n",
@@ -10162,6 +10201,46 @@
         "registered_at": "2020-01-19T20:36:42.000Z"
     },
     {
+        "Created": "2025-03-02T17:32:50.000Z",
+        "Description": "Kent Beck discusses how software development is fundamentally an exercise in human relationships, and how creating a safe, supportive environment (a \"forest\") leads to better results than a resource-scarce, high-pressure one (a \"desert\"). He also touches on remote work, generational teaching, and test-driven development. An interview full of interesting insights.\n",
+        "Duration": 3000,
+        "Language": "English",
+        "Last Modified": "2025-03-02T17:52:07.000Z",
+        "Less 15": 0,
+        "Name": "Kent Beck on why software development is an exercise in human relationships",
+        "Notes": "Here are some of the most important points from Kent Beck's discussion on software development:\n- **Software design is fundamentally an exercise in human relationships**. Beck argues that technical problems in software design often stem from relationship problems between developers.\n- **Creating a psychologically safe environment is crucial**.\n    - A supportive environment allows developers to feel safe, which encourages trust and enables conflict resolution.\n    - Feelings of safety can be created through patterns, Test Driven Development (TDD), JUnit, and Extreme Programming.\n- **The \"Forest\" vs. the \"Desert\"**:\n    - Beck introduces the concepts of the \"Forest\" and the \"Desert\" to describe different work environments.\n    - The \"Forest\" is a collegial environment with enough resources where programmers can feel safe, supported, and significant. In the forest, developers have enough time to refactor, write tests and help others.\n    - The \"Desert\" is a resource-constrained environment marked by a lack of time, skills, purpose, management, and support.\n    - Operating in the \"forest\" allows for creative leverage, where desire and capability meet to create significant advancements at a small cost. The \"desert\" focuses on delivering small increments (crumbs) at high risk and cost.\n- **Remote work requires deliberate rituals to maintain team connection**.\n    - Daily team time, weekly prioritization, and quarterly in-person meetings can help to build and maintain teamwork.\n    - Remote work needs a \"teaching-learning attitude,\" especially from senior engineers to junior engineers.\n- **Generational teaching is important for passing down crucial lessons**.\n    - Pairing more experienced engineers with junior engineers, and creating a learning environment are key.\n    - This approach facilitates the teaching of ethics and promotes a sense of community and long-term health within the profession.\n- **The next generation of programmers should be taught that programming can be a place where they can feel collegial, belong, and do significant work**.\n- **To transition from the \"desert\" to the \"forest\", start with small steps like writing tests and addressing design issues, and focus on building relationships and opening communication**.\n- **Leaders should cultivate a clear purpose to help their teams thrive and avoid the \"desert\" mentality**.\n\n",
+        "Rating": 5,
+        "Resource": "Kent Beck on why software development is an exercise in human relationships - https://www.youtube.com/watch?v=MSkRccUksZs",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "rechBhL1vENLzvUi6",
+            "recOs9jtyN4wQ4T7P"
+        ],
+        "Speakers_Names": [
+            "Kent Beck",
+            "Jack Hannah"
+        ],
+        "Topics": [
+            "recWFKWrPEdeEYbzx",
+            "recs3XV2rYhyC6qe8",
+            "recUP8TZ3O1cNiioY"
+        ],
+        "Topics_Names": [
+            "Engineering Culture",
+            "Teams",
+            "leadership"
+        ],
+        "Url": "https://www.youtube.com/watch?v=MSkRccUksZs",
+        "airtable_createdTime": "2025-03-02T17:32:50.000Z",
+        "airtable_id": "recKVdulRpgPVbaLK",
+        "core_topic": "Engineering Culture",
+        "registered_at": "2025-03-02T17:32:50.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-i.html",
         "Created": "2021-08-14T20:34:40.000Z",
         "Description": "There\u2019s often lots of talk about how companies can make their developers more productive. But it may be more useful to think about developer effectiveness: how to ensure they\u2019re building the most useful products for their customers. This is about providing an environment that allows developers to be effective. Our special guests from Spotify and Etsy give us their unique perspectives.\n",
@@ -12188,6 +12267,43 @@
         "airtable_createdTime": "2020-01-19T20:36:19.000Z",
         "airtable_id": "recOSSup0187Z8SP3",
         "registered_at": "2020-01-19T20:36:19.000Z"
+    },
+    {
+        "Created": "2025-03-02T17:32:09.000Z",
+        "Description": "This interesting video identifies common pitfalls in software development, such as not building what users want, using big teams, delaying feedback, chasing features over quality, and relying on manual regression testing, and advises optimizing for learning, fast feedback, and automated testing to improve productivity and reduce waste\n",
+        "Duration": 900,
+        "Language": "English",
+        "Last Modified": "2025-03-02T17:42:39.000Z",
+        "Less 15": 1,
+        "Name": "5 Things That Waste Time & Money On A Software Project",
+        "Notes": "The most important points from the presentation \"5 Things That Waste Time & Money On A Software Project\" are:\n- **Building what users don't want is a waste of time and money**. It is difficult to know what the right things to build are because even when customers are asked what they want, they may not really know. Optimizing the development process to allow for many ideas and early identification of bad ones is key. Getting ideas into the hands of real users early provides fast feedback to determine if they are good or bad.\n- **Large teams are not as effective as small teams**. Smaller teams are dramatically more productive.\n- **Delaying feedback is costly and risky**. Working in smaller steps provides more opportunities to learn and reduces risk. Continuous integration and validation after each small step provides clarity and keeps the software in a working state.\n- **Chasing features over quality is a common mistake that reduces production speed**. Prioritizing feature production over everything else keeps the work queue full, but leaves no room for urgent work and applies pressure to cut corners. Allowing space for work that isn't directly related to features helps maintain or increase the pace at which new things can be done.\n- **Manual regression testing is slow, inefficient, low quality, and a misuse of human skills**. Regression testing should be done by machines via automated tests. This encourages design choices that result in more testable and better design systems.\n\n",
+        "Rating": 5,
+        "Resource": "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Topics": [
+            "rechj5WeSQRH211np",
+            "recs3XV2rYhyC6qe8",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Topics_Names": [
+            "Agile",
+            "Teams",
+            "testing"
+        ],
+        "Url": "https://www.youtube.com/watch?v=PlN2UWOnzW0",
+        "airtable_createdTime": "2025-03-02T17:32:09.000Z",
+        "airtable_id": "recOXHMXndyUrCsgY",
+        "core_topic": "Agile",
+        "registered_at": "2025-03-02T17:32:09.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/01/interesting-talkspodcasts-2018-jan.html",
@@ -22477,6 +22593,40 @@
         "registered_at": "2020-01-19T20:42:20.000Z"
     },
     {
+        "Created": "2025-03-02T18:20:24.000Z",
+        "Description": "This Talk Python episode explores DuckDB, a fast, in-process analytical database, and its cloud companion MotherDuck, highlighting their capabilities and use cases in Python and data science workflows.\n",
+        "Duration": 3720,
+        "Language": "English",
+        "Last Modified": "2025-03-02T18:22:45.000Z",
+        "Less 15": 0,
+        "Name": "DuckDB and Python: Ducks and Snakes living together",
+        "Resource": "DuckDB and Python: Ducks and Snakes living together - https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "rec2pahfhuSbg2W6R"
+        ],
+        "Speakers_Names": [
+            "Alex Monahan"
+        ],
+        "Topics": [
+            "recUnYzKrJyW20xWO",
+            "recu0ogH2eAbuoS2q",
+            "recRy2nXD9Dh7GMhI"
+        ],
+        "Topics_Names": [
+            "Data Engineering",
+            "Data Science",
+            "Python"
+        ],
+        "Url": "https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together",
+        "airtable_createdTime": "2025-03-02T18:20:24.000Z",
+        "airtable_id": "rechvKrmyRPTNdODp",
+        "registered_at": "2025-03-02T18:20:24.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2018/05/good-talkspodcasts-may-2018-i.html",
         "Created": "2020-01-19T20:33:03.000Z",
         "Description": "Good talk about simplicity and how you can use \"Requests For Comments\" to discuss design ideas.\n",
@@ -29399,6 +29549,40 @@
         "airtable_createdTime": "2021-06-19T11:36:15.000Z",
         "airtable_id": "rectm269flYOjbCSy",
         "registered_at": "2021-06-19T11:36:15.000Z"
+    },
+    {
+        "Created": "2025-03-02T17:32:50.000Z",
+        "Description": "This presentation  explains the product operating model with its three dimensions (how to build, how to solve problems, and how to decide which problems to solve), four competencies, five product concepts, and underlying principles to help companies transform and work like the best product companies\n",
+        "Duration": 3900,
+        "Language": "English",
+        "Last Modified": "2025-03-02T17:42:30.000Z",
+        "Less 15": 0,
+        "Name": "Marty Cagan - Transformed: Moving to the Product Operating Model at just product 2023",
+        "Resource": "Marty Cagan - Transformed: Moving to the Product Operating Model at just product 2023 - https://www.youtube.com/watch?v=Zvr-F44Fzkw",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "reczrumy9DkB51MFk"
+        ],
+        "Speakers_Names": [
+            "Marty Cagan"
+        ],
+        "Topics": [
+            "rec51AOvJVPEWfUVK",
+            "recqe6nJcnKjqXdps",
+            "recbJb6M6X8AZPTRc"
+        ],
+        "Topics_Names": [
+            "Product Strategy",
+            "Product Team",
+            "Generative AI"
+        ],
+        "Url": "https://www.youtube.com/watch?v=Zvr-F44Fzkw",
+        "airtable_createdTime": "2025-03-02T17:32:50.000Z",
+        "airtable_id": "recto6iI1EFGz7UMO",
+        "registered_at": "2025-03-02T17:32:50.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2022/02/good-talkspodcasts-february-2022-i.html",

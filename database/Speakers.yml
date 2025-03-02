@@ -171,6 +171,12 @@
   - recbHb9Z2j3NTfOeU
   airtable_createdTime: '2024-01-14T10:33:38.000Z'
   airtable_id: rec2iV9gXwKUKTtlC
+- Last Modified: '2025-03-02T18:21:43.000Z'
+  Name: Alex Monahan
+  Resources:
+  - rechvKrmyRPTNdODp
+  airtable_createdTime: '2025-03-02T18:21:43.000Z'
+  airtable_id: rec2pahfhuSbg2W6R
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Sean Cribbs
   Resources:
@@ -934,11 +940,12 @@
   - rec949WLw6JyPk1S3
   airtable_createdTime: '2021-08-12T13:13:28.000Z'
   airtable_id: recGSWXy8idm6MBGP
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2025-03-02T18:18:01.000Z'
   Name: Michael T. Nygard
   Resources:
   - recFDjTMre1IS3zjg
   - recq4A17TPnFudBcF
+  - recG5OJBNIEhM8uU8
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recGU5VYzZ0w1AvWC
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1414,6 +1421,12 @@
   - recIX7zDpJBt6n5Jl
   airtable_createdTime: '2021-06-19T11:48:37.000Z'
   airtable_id: recOp9mHBiewQvKnU
+- Last Modified: '2025-03-02T17:50:24.000Z'
+  Name: Jack Hannah
+  Resources:
+  - recKVdulRpgPVbaLK
+  airtable_createdTime: '2025-03-02T17:50:24.000Z'
+  airtable_id: recOs9jtyN4wQ4T7P
 - Last Modified: '2023-06-18T06:28:48.000Z'
   Name: Martin Kleppmann
   Resources:
@@ -1664,7 +1677,7 @@
   - recQoliDLWpkzZGwz
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSzQRG8VGQNBqIQ
-- Last Modified: '2025-02-13T14:11:04.000Z'
+- Last Modified: '2025-03-02T18:18:05.000Z'
   Name: Dave Farley
   Resources:
   - recdZt5nq1JImaUDu
@@ -1728,6 +1741,8 @@
   - reckLLBX9RVTL7oFm
   - recSAamOq3VNnKbru
   - recW3gn0SujnXIbwQ
+  - recOXHMXndyUrCsgY
+  - recG5OJBNIEhM8uU8
   Twitter: https://twitter.com/davefarley77
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recTA39Jo1ozZG61R
@@ -2755,7 +2770,7 @@
   - recAMPx4U1nMXBIiM
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rech2bt9qtqStowwC
-- Last Modified: '2024-09-02T21:41:14.000Z'
+- Last Modified: '2025-03-02T17:49:56.000Z'
   Name: Kent Beck
   Resources:
   - recr8YgSEnZaZTYLJ
@@ -2784,6 +2799,7 @@
   - recYiENUKo6bXuUaI
   - recFtAOKr4s4dauLP
   - recMKaRM5scFVWgij
+  - recKVdulRpgPVbaLK
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rechBhL1vENLzvUi6
 - Last Modified: '2024-09-15T07:23:27.000Z'
@@ -3907,7 +3923,7 @@
   WomenInTech: true
   airtable_createdTime: '2020-05-17T19:54:56.000Z'
   airtable_id: reczijcDpu4sMjnlA
-- Last Modified: '2024-11-24T08:39:43.000Z'
+- Last Modified: '2025-03-02T17:36:28.000Z'
   Name: Marty Cagan
   Resources:
   - recLoYdYP5G0UM8GT
@@ -3926,5 +3942,6 @@
   - recBervSRt0ntmH2V
   - recKLS8QeOawn7JwY
   - recr5tjxMaxeZDCww
+  - recto6iI1EFGz7UMO
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: reczrumy9DkB51MFk

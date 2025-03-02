@@ -249,7 +249,7 @@
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   airtable_createdTime: '2022-02-06T21:19:54.000Z'
   airtable_id: rec4gRjrYk5XVT03n
-- Last Modified: '2024-09-15T07:38:03.000Z'
+- Last Modified: '2025-03-02T17:42:19.000Z'
   Name: Product Strategy
   Resources:
   - rec9OjoMhRCiQQxH4
@@ -274,7 +274,8 @@
   - recNTlpS9USi3zTOs
   - recLoYdYP5G0UM8GT
   - recdLIMS2kPAda6MP
-  Resources number: 22
+  - recto6iI1EFGz7UMO
+  Resources number: 23
   Speakers:
   - Habits, Practices & Strategy For Building Viral Products - https://www.youtube.com/watch?v=5Qt5gjzKtZc
   - Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
@@ -299,6 +300,8 @@
   - Escaping the Build Trap - https://vimeo.com/224453335
   - Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc
   - Lean Agile Brighton 2019 - Crossing the River by Feeling the Stones - https://www.youtube.com/watch?v=KdR8_kqcpPQ
+  - 'Marty Cagan - Transformed: Moving to the Product Operating Model at just product
+    2023 - https://www.youtube.com/watch?v=Zvr-F44Fzkw'
   airtable_createdTime: '2020-07-08T07:01:11.000Z'
   airtable_id: rec51AOvJVPEWfUVK
 - Last Modified: '2025-02-09T09:34:35.000Z'
@@ -1573,7 +1576,7 @@
   - Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPDGLhpXxkxbDoU
-- Last Modified: '2025-02-13T14:11:26.000Z'
+- Last Modified: '2025-03-02T17:34:59.000Z'
   Name: testing
   Resources:
   - recIFakmXTw6GmZlH
@@ -1612,7 +1615,8 @@
   - recXdlYlg3hNMt3MA
   - recqeHR6KWslW9KNo
   - recW3gn0SujnXIbwQ
-  Resources number: 36
+  - recOXHMXndyUrCsgY
+  Resources number: 37
   Speakers:
   - How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU
   - 'Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/'
@@ -1652,6 +1656,7 @@
   - 'Developer Productivity Engineering: What''s in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc'
   - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   - Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU
+  - 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
   airtable_createdTime: '2020-09-06T08:22:07.000Z'
   airtable_id: recPcLVyg0S4ORUkX
 - Last Modified: '2025-01-19T22:06:43.000Z'
@@ -1802,7 +1807,7 @@
   - T1 and T2 Signals - https://smallbatches.fm/109
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recPoM7t8neA7gkZ5
-- Last Modified: '2025-01-19T22:06:43.000Z'
+- Last Modified: '2025-03-02T18:19:41.000Z'
   Name: Architecture
   Resources:
   - recrqYZesvsKRzx1p
@@ -1908,7 +1913,8 @@
   - recc0PZAq20p3ZJuT
   - recnSM0Hjvic4XhFx
   - recMK9byb9akbMylA
-  Resources number: 103
+  - recG5OJBNIEhM8uU8
+  Resources number: 104
   Speakers:
   - Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/
   - A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik
@@ -2027,6 +2033,8 @@
     \ Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0"
   - "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022\
     \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
+  - The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale
+    | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQ4hio93eTgzFTS
 - Last Modified: '2023-10-15T18:45:08.000Z'
@@ -2057,16 +2065,18 @@
   - Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recQK48F4h9OLCkYG
-- Last Modified: '2020-04-13T08:32:12.000Z'
+- Last Modified: '2025-03-02T18:22:45.000Z'
   Name: Python
   Resources:
   - rec5sTtEScULwo7f1
   - recRZgkSTGWgjAoxG
-  Resources number: 2
+  - rechvKrmyRPTNdODp
+  Resources number: 3
   Speakers:
   - Ep 100. Talk Python to Me. Python past, present and future with Guido Van Rossum
     - https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
   - Keynote PyCon 2017 - https://www.youtube.com/watch?v=66XoCk79kjM
+  - 'DuckDB and Python: Ducks and Snakes living together - https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recRy2nXD9Dh7GMhI
 - Last Modified: '2025-01-19T22:06:43.000Z'
@@ -2154,7 +2164,7 @@
   - "Infrastructure as actual Code \u2022 YOW! 2022 - https://www.youtube.com/watch?v=uzc6p3qvH_k"
   airtable_createdTime: '2020-05-17T13:51:26.000Z'
   airtable_id: recTPLZxKhIsbbwEW
-- Last Modified: '2025-02-09T10:19:51.000Z'
+- Last Modified: '2025-03-02T17:52:01.000Z'
   Name: leadership
   Resources:
   - rec9EZic34Ot174h3
@@ -2170,7 +2180,8 @@
   - rectARJKbtqXtcmOQ
   - recodpd6fHRlgKhp2
   - recU96MGQMQDsismv
-  Resources number: 13
+  - recKVdulRpgPVbaLK
+  Resources number: 14
   Speakers:
   - The Principles and Practices behind Team of Teams - https://itrevolution.com/the-idealcast-episode-11/
   - "GOTO 2020 \u2022 Talking With Tech Leads - https://www.youtube.com/watch?v=F81W-JcRgXM"
@@ -2185,9 +2196,11 @@
   - Patrick Kua on Growing Technical Leadership and Evolutionary Architecture - https://www.infoq.com/podcasts/patrick-kua-technical-leadership
   - 'Beyond Engineering: The Future of Platforms - https://www.youtube.com/watch?v=cgI92zUFLuU'
   - How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
+  - Kent Beck on why software development is an exercise in human relationships -
+    https://www.youtube.com/watch?v=MSkRccUksZs
   airtable_createdTime: '2021-01-30T20:34:05.000Z'
   airtable_id: recUP8TZ3O1cNiioY
-- Last Modified: '2022-12-06T21:12:28.000Z'
+- Last Modified: '2025-03-02T18:22:38.000Z'
   Name: Data Engineering
   Resources:
   - rechQzQWRIds2FQDl
@@ -2195,7 +2208,9 @@
   - recO0DG5oqYcZ55lA
   - recqf4P0lQVFsvjcV
   - reca2iEa1F1UDJOX4
-  Resources number: 5
+  - recG5OJBNIEhM8uU8
+  - rechvKrmyRPTNdODp
+  Resources number: 7
   Speakers:
   - Practical Change Data Streaming Use Cases with Apache Kafka & Debezium - https://www.infoq.com/presentations/data-streaming-kafka-debezium/
   - 'Software Engineering podcast: Episode 473: Mike Del Balso on Feature Stores -
@@ -2203,6 +2218,9 @@
   - 'Software at Scale 13 - Emma Tang: ex Data Infrastructure Lead, Stripe - https://www.softwareatscale.dev/p/software-at-scale-13-emma-tang-ex'
   - Common Mistakes Data Scientists Make With BIG DATA - https://www.youtube.com/watch?v=jeMQld-6BtQ
   - 'SEDaily: Serverless Clickhouse for Developers with Jorge Sancha - https://softwareengineeringdaily.com/2022/09/12/serverless-clickhouse-for-developers/'
+  - The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale
+    | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe
+  - 'DuckDB and Python: Ducks and Snakes living together - https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recUnYzKrJyW20xWO
 - Last Modified: '2024-08-18T08:16:38.000Z'
@@ -2223,7 +2241,7 @@
   - Compliance standards should be modern development practices - https://www.youtube.com/watch?v=tuunGZ-4wPQ
   airtable_createdTime: '2024-01-14T10:16:12.000Z'
   airtable_id: recVjcUEBKByq8k7M
-- Last Modified: '2025-02-09T10:19:30.000Z'
+- Last Modified: '2025-03-02T17:51:51.000Z'
   Name: Engineering Culture
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2400,7 +2418,8 @@
   - reckOvXE3NZFY8kj3
   - rec42snEPpunYVroW
   - recU96MGQMQDsismv
-  Resources number: 174
+  - recKVdulRpgPVbaLK
+  Resources number: 175
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - 'AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ'
@@ -2595,6 +2614,8 @@
   - Patterns of Effective Delivery - https://vimeo.com/24681032
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   - How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE
+  - Kent Beck on why software development is an exercise in human relationships -
+    https://www.youtube.com/watch?v=MSkRccUksZs
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recWFKWrPEdeEYbzx
 - Last Modified: '2023-11-19T19:43:29.000Z'
@@ -2873,15 +2894,18 @@
   - 'Living Domain Model: Continuous Refactoring to Accelerate Delivery - https://www.youtube.com/watch?v=7c_kuuVBRoo'
   airtable_createdTime: '2022-02-06T22:06:06.000Z'
   airtable_id: reca0FiaHsqUjIHYb
-- Last Modified: '2025-02-13T14:11:23.000Z'
+- Last Modified: '2025-03-02T17:42:30.000Z'
   Name: Generative AI
   Resources:
   - recgKG33Jjit6WvBS
   - recW3gn0SujnXIbwQ
-  Resources number: 2
+  - recto6iI1EFGz7UMO
+  Resources number: 3
   Speakers:
   - Generative AI in a Nutshell - how to survive and thrive in the age of AI - https://www.youtube.com/watch?v=2IK3DFHRFfw
   - Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU
+  - 'Marty Cagan - Transformed: Moving to the Product Operating Model at just product
+    2023 - https://www.youtube.com/watch?v=Zvr-F44Fzkw'
   airtable_createdTime: '2024-08-18T08:22:11.000Z'
   airtable_id: recbJb6M6X8AZPTRc
 - Last Modified: '2021-08-12T13:09:11.000Z'
@@ -2893,7 +2917,7 @@
   - Consultoria Honesta - https://www.youtube.com/watch?v=cey1PowGQDM
   airtable_createdTime: '2021-08-12T13:09:11.000Z'
   airtable_id: recbOKFMKAE1vKVqj
-- Last Modified: '2024-09-15T07:47:08.000Z'
+- Last Modified: '2025-03-02T18:19:44.000Z'
   Name: Platform
   Resources:
   - rec01w77iA2Rv594l
@@ -2936,7 +2960,8 @@
   - reckPa3VBTaIyyNNe
   - recIrMS6QNWvtkTzW
   - recuryjF7KHysdtUl
-  Resources number: 40
+  - recG5OJBNIEhM8uU8
+  Resources number: 41
   Speakers:
   - 'Platforms at Twilio: Unlocking Developer Effectiveness - https://www.infoq.com/presentations/twilio-devops/'
   - 'AWS re:Invent 2018: Close Loops & Opening Minds: How to Take Control of Systems,
@@ -2986,6 +3011,8 @@
   - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
   - 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms? -
     https://www.youtube.com/watch?v=t4IOnciAzbE'
+  - The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale
+    | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe
   airtable_createdTime: '2020-05-17T13:51:15.000Z'
   airtable_id: recbWs6dTsdPwfWnm
 - Last Modified: '2021-08-12T13:50:39.000Z'
@@ -3462,7 +3489,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2025-02-09T09:57:00.000Z'
+- Last Modified: '2025-03-02T17:34:52.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3586,7 +3613,8 @@
   - recCPjTZloWAjizKF
   - reckOvXE3NZFY8kj3
   - rec42snEPpunYVroW
-  Resources number: 121
+  - recOXHMXndyUrCsgY
+  Resources number: 122
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3722,6 +3750,7 @@
   - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
   - Patterns of Effective Delivery - https://vimeo.com/24681032
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
+  - 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2024-11-24T19:07:40.000Z'
@@ -4483,7 +4512,7 @@
   - Immutability Changes Everything - https://vimeo.com/52831373
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recqVF0vISal0hi8E
-- Last Modified: '2023-04-23T18:11:57.000Z'
+- Last Modified: '2025-03-02T17:42:24.000Z'
   Name: Product Team
   Resources:
   - recNuR7PNPTKDGUJb
@@ -4500,7 +4529,8 @@
   - recafrPZUnygCGxiz
   - recBervSRt0ntmH2V
   - recKLS8QeOawn7JwY
-  Resources number: 14
+  - recto6iI1EFGz7UMO
+  Resources number: 15
   Speakers:
   - Reboot Your Team - https://www.mindtheproduct.com/reboot-your-team-by-christina-wodtke/
   - How To Build Big Software With Small Agile Teams - https://www.youtube.com/watch?v=cpVLzcjCB-s
@@ -4517,6 +4547,8 @@
   - The Root Causes of Product Failure - https://www.youtube.com/watch?v=9dccd8lihpQ
   - The nature of product - https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan
   - Master Class with Marty Cagan - https://www.youtube.com/watch?v=mcnxxdzC2fY
+  - 'Marty Cagan - Transformed: Moving to the Product Operating Model at just product
+    2023 - https://www.youtube.com/watch?v=Zvr-F44Fzkw'
   airtable_createdTime: '2020-11-09T09:07:28.000Z'
   airtable_id: recqe6nJcnKjqXdps
 - Last Modified: '2024-11-24T19:00:27.000Z'
@@ -4586,7 +4618,7 @@
   - Immutability Changes Everything - https://vimeo.com/52831373
   airtable_createdTime: '2023-11-19T19:39:51.000Z'
   airtable_id: recru8bU8Y6KzIF2C
-- Last Modified: '2024-11-24T19:21:42.000Z'
+- Last Modified: '2025-03-02T17:51:55.000Z'
   Name: Teams
   Resources:
   - recWJ9a4t7jffG5DR
@@ -4612,7 +4644,9 @@
   - recPimGXOeaAHSQ3S
   - recr9psXCCS4XmZA6
   - recpkxs58fTTCeDvt
-  Resources number: 23
+  - recOXHMXndyUrCsgY
+  - recKVdulRpgPVbaLK
+  Resources number: 25
   Speakers:
   - Passion, Grace, & Fire - The Elements of High Performance - https://www.infoq.com/presentations/high-performance-passion-grace-fire/
   - The Origins of Opera and the Future of Programming - https://www.youtube.com/watch?v=pPKemLH5y5c
@@ -4640,6 +4674,9 @@
   - "Why Your Software Team CAN\u2019T Scale - https://www.youtube.com/watch?v=pw686Oyeqmw"
   - The Sociotechnical Path to High-Performing Teams - https://vimeo.com/723450508
   - 'Shaped by demand: the power of fluid teams  - https://www.youtube.com/watch?v=w6T78XMxbuY'
+  - 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
+  - Kent Beck on why software development is an exercise in human relationships -
+    https://www.youtube.com/watch?v=MSkRccUksZs
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recs3XV2rYhyC6qe8
 - Last Modified: '2024-09-15T07:24:29.000Z'
@@ -4746,7 +4783,7 @@
   - 'Keynote: Why web tech is like this - https://www.youtube.com/watch?v=3QEoJRjxnxQ'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rectyNDCe63RLpwI6
-- Last Modified: '2023-11-19T19:18:24.000Z'
+- Last Modified: '2025-03-02T18:22:41.000Z'
   Name: Data Science
   Resources:
   - recnxIHCyhvx74jhP
@@ -4754,7 +4791,8 @@
   - recqf4P0lQVFsvjcV
   - rec1OjPEfpTWlaDDP
   - recuEim2tG3QCBz1d
-  Resources number: 5
+  - rechvKrmyRPTNdODp
+  Resources number: 6
   Speakers:
   - Agile data science - https://soundcloud.com/thoughtworks/agile_data_science
   - 'Software Engineering podcast: Episode 473: Mike Del Balso on Feature Stores -
@@ -4762,20 +4800,24 @@
   - Common Mistakes Data Scientists Make With BIG DATA - https://www.youtube.com/watch?v=jeMQld-6BtQ
   - Should Computers Run the World? - https://www.youtube.com/watch?v=Rzhpf1Ai7Z4
   - 'SE-Radio Episode 315: Jeroen Janssens on Tools for Data Science - http://www.se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/'
+  - 'DuckDB and Python: Ducks and Snakes living together - https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together'
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recu0ogH2eAbuoS2q
-- Last Modified: '2024-09-15T07:47:16.000Z'
+- Last Modified: '2025-03-02T18:19:47.000Z'
   Name: Platform engineering
   Resources:
   - reckPa3VBTaIyyNNe
   - recIrMS6QNWvtkTzW
   - recuryjF7KHysdtUl
-  Resources number: 3
+  - recG5OJBNIEhM8uU8
+  Resources number: 4
   Speakers:
   - The Future of Platform Engineering - https://pulling-the-strings.simplecast.com/episodes/the-future-of-platform-engineering
   - Designing for Habitability - https://www.youtube.com/watch?v=lDSMDJXmOps
   - 'Platform Orchestrators: The Missing Middle of Internal Developer Platforms? -
     https://www.youtube.com/watch?v=t4IOnciAzbE'
+  - The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale
+    | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe
   airtable_createdTime: '2023-04-23T18:22:56.000Z'
   airtable_id: recuR2w480ko3dSKR
 - Last Modified: '2024-01-14T10:16:17.000Z'
