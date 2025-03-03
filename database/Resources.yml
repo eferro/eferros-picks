@@ -6716,15 +6716,17 @@
   airtable_createdTime: '2020-01-19T20:40:55.000Z'
   airtable_id: recG2ivMQduOM2RD3
   registered_at: '2020-01-19T20:40:55.000Z'
-- Created: '2025-03-02T18:10:24.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-03-02T18:10:24.000Z'
   Description: |
     A discussion between two experts on incremental design and architecture, including data mesh solutions, managing complexity, platform engineering, and the challenges of balancing innovation with stability
   Duration: 2640
   Language: English
-  Last Modified: '2025-03-02T18:19:50.000Z'
+  Last Modified: '2025-03-02T23:31:43.000Z'
   Less 15: 0
   Name: The Software Industry's Evolution, Complex Architecture & Problem-Solving
     At Scale | Michael Nygard In The Engineering Room Ep. 35
+  Published: true
   Resource: The Software Industry's Evolution, Complex Architecture & Problem-Solving
     At Scale | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe
   Resource type: podcast
@@ -8639,12 +8641,13 @@
   airtable_createdTime: '2020-01-19T20:36:42.000Z'
   airtable_id: recKUQEJqlhqnXO9X
   registered_at: '2020-01-19T20:36:42.000Z'
-- Created: '2025-03-02T17:32:50.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-03-02T17:32:50.000Z'
   Description: |
     Kent Beck discusses how software development is fundamentally an exercise in human relationships, and how creating a safe, supportive environment (a "forest") leads to better results than a resource-scarce, high-pressure one (a "desert"). He also touches on remote work, generational teaching, and test-driven development. An interview full of interesting insights.
   Duration: 3000
   Language: English
-  Last Modified: '2025-03-02T17:52:07.000Z'
+  Last Modified: '2025-03-02T23:31:44.000Z'
   Less 15: 0
   Name: Kent Beck on why software development is an exercise in human relationships
   Notes: |+
@@ -8668,6 +8671,7 @@
     - **To transition from the "desert" to the "forest", start with small steps like writing tests and addressing design issues, and focus on building relationships and opening communication**.
     - **Leaders should cultivate a clear purpose to help their teams thrive and avoid the "desert" mentality**.
 
+  Published: true
   Rating: 5
   Resource: Kent Beck on why software development is an exercise in human relationships
     - https://www.youtube.com/watch?v=MSkRccUksZs
@@ -10414,12 +10418,13 @@
   airtable_createdTime: '2020-01-19T20:36:19.000Z'
   airtable_id: recOSSup0187Z8SP3
   registered_at: '2020-01-19T20:36:19.000Z'
-- Created: '2025-03-02T17:32:09.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-03-02T17:32:09.000Z'
   Description: |
     This interesting video identifies common pitfalls in software development, such as not building what users want, using big teams, delaying feedback, chasing features over quality, and relying on manual regression testing, and advises optimizing for learning, fast feedback, and automated testing to improve productivity and reduce waste
   Duration: 900
   Language: English
-  Last Modified: '2025-03-02T17:42:39.000Z'
+  Last Modified: '2025-03-02T23:31:45.000Z'
   Less 15: 1
   Name: 5 Things That Waste Time & Money On A Software Project
   Notes: |+
@@ -10430,6 +10435,7 @@
     - **Chasing features over quality is a common mistake that reduces production speed**. Prioritizing feature production over everything else keeps the work queue full, but leaves no room for urgent work and applies pressure to cut corners. Allowing space for work that isn't directly related to features helps maintain or increase the pace at which new things can be done.
     - **Manual regression testing is slow, inefficient, low quality, and a misuse of human skills**. Regression testing should be done by machines via automated tests. This encourages design choices that result in more testable and better design systems.
 
+  Published: true
   Rating: 5
   Resource: 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
   Resource type: videopodcast
@@ -13551,14 +13557,16 @@
   airtable_createdTime: '2024-11-24T08:59:08.000Z'
   airtable_id: recVqfFEPSbb0wjql
   registered_at: '2024-11-24T08:59:08.000Z'
-- Created: '2025-02-13T14:10:26.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-02-13T14:10:26.000Z'
   Description: |
     This talk explores a radical idea that acceptance testing, rather than being just a way to verify software, may be the next step in the evolution of how we program computers, using AI to generate code from detailed specifications
   Duration: 960
   Language: English
-  Last Modified: '2025-02-13T14:12:29.000Z'
+  Last Modified: '2025-03-02T23:31:46.000Z'
   Less 15: 0
   Name: Acceptance Testing Is the FUTURE of Programming
+  Published: true
   Rating: 5
   Resource: Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU
   Resource type: videopodcast
@@ -19154,14 +19162,16 @@
   airtable_createdTime: '2020-01-19T20:42:20.000Z'
   airtable_id: rechuXJH45Jer1tqq
   registered_at: '2020-01-19T20:42:20.000Z'
-- Created: '2025-03-02T18:20:24.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-03-02T18:20:24.000Z'
   Description: |
     This Talk Python episode explores DuckDB, a fast, in-process analytical database, and its cloud companion MotherDuck, highlighting their capabilities and use cases in Python and data science workflows.
   Duration: 3720
   Language: English
-  Last Modified: '2025-03-02T18:22:45.000Z'
+  Last Modified: '2025-03-02T23:31:42.000Z'
   Less 15: 0
   Name: 'DuckDB and Python: Ducks and Snakes living together'
+  Published: true
   Resource: 'DuckDB and Python: Ducks and Snakes living together - https://talkpython.fm/episodes/show/491/duckdb-and-python-ducks-and-snakes-living-together'
   Resource type: podcast
   Speaker WomenInTech:
@@ -25093,15 +25103,17 @@
   airtable_createdTime: '2021-06-19T11:36:15.000Z'
   airtable_id: rectm269flYOjbCSy
   registered_at: '2021-06-19T11:36:15.000Z'
-- Created: '2025-03-02T17:32:50.000Z'
+- Blog Url: https://www.eferro.net/2025/03/good-talkspodcasts-march-i.html
+  Created: '2025-03-02T17:32:50.000Z'
   Description: |
     This presentation  explains the product operating model with its three dimensions (how to build, how to solve problems, and how to decide which problems to solve), four competencies, five product concepts, and underlying principles to help companies transform and work like the best product companies
   Duration: 3900
   Language: English
-  Last Modified: '2025-03-02T17:42:30.000Z'
+  Last Modified: '2025-03-02T23:31:45.000Z'
   Less 15: 0
   Name: 'Marty Cagan - Transformed: Moving to the Product Operating Model at just
     product 2023'
+  Published: true
   Resource: 'Marty Cagan - Transformed: Moving to the Product Operating Model at just
     product 2023 - https://www.youtube.com/watch?v=Zvr-F44Fzkw'
   Resource type: talk
