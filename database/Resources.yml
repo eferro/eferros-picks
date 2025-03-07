@@ -698,9 +698,11 @@
   registered_at: '2020-01-19T20:42:29.000Z'
 - Created: '2020-08-17T16:21:47.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Product for Internal Platforms
+  Notes: |2+
+
   Resource: Product for Internal Platforms - https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142
   Resource type: article/paper
   Speaker WomenInTech:
@@ -1895,9 +1897,11 @@
     \ constraints - and ourselves - out of the way.\n"
   Duration: 1560
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: "Ask for the unreasonable\u2026 and then get out of the way"
+  Notes: |2+
+
   Published: true
   Resource: "Ask for the unreasonable\u2026 and then get out of the way - https://www.youtube.com/watch?v=FORmnESyWIM"
   Resource type: talk
@@ -2144,9 +2148,11 @@
     \ Constraints, and more.\n"
   Duration: 2880
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: 'Strategic Autonomous Design: Patterns & Heuristics'
+  Notes: |2+
+
   Published: true
   Resource: 'Strategic Autonomous Design: Patterns & Heuristics - https://www.youtube.com/watch?v=mEFbjt_87TU'
   Resource type: talk
@@ -2189,9 +2195,11 @@
     An exploration of the boundaries between pieces of code, including: isolated testing, behavior vs. data, mutation vs. immutability, how data shape affords parallelism, transforming interface dependencies into data dependencies,  and what a system optimizing each of these for natural isolation might look like.
   Duration: 1800
   Language: English
-  Last Modified: '2025-01-20T11:36:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Boundaries
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: Boundaries - https://www.youtube.com/watch?v=eOYal8elnZk
@@ -2531,9 +2539,11 @@
     In this talk, Sandro Mancuso, Software Craftsman and Co-Founder at Codurance will cover the key aspects of Software Modernisation initiatives and why they are neede
   Duration: 4800
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Software Modernisation
+  Notes: |2+
+
   Published: true
   Resource: Software Modernisation - https://www.youtube.com/watch?v=ODEFcgqiGpY
   Resource type: talk
@@ -3090,9 +3100,11 @@
     \ teams interact and what kind of relationships they create, sustain, and evolve.\n"
   Duration: 1260
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Podcast with Deloitte - Building Great Software Takes Great Teams and Communication
+  Notes: |2+
+
   Published: true
   Resource: Podcast with Deloitte - Building Great Software Takes Great Teams and
     Communication - https://teamtopologies.com/news/2019/07/10/podcast-with-deloitte-building-great-software-takes-great-teams-and-communication
@@ -3620,9 +3632,11 @@
     A discussion on the habits, practices and strategy for building products that are extremely viral and able to catch the attention of your target market, so you can grow your business faster.
   Duration: 1620
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Habits, Practices & Strategy For Building Viral Products
+  Notes: |2+
+
   Published: true
   Resource: Habits, Practices & Strategy For Building Viral Products - https://www.youtube.com/watch?v=5Qt5gjzKtZc
   Resource type: talk
@@ -3675,9 +3689,11 @@
     Slides: <https://speakerdeck.com/devopslx/2020-dot-07-meetup-talk-may-poppendieck-six-decades-of-software-engineering>
   Duration: 4980
   Language: English
-  Last Modified: '2025-01-20T11:43:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Six Decades of Software Engineering
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: Six Decades of Software Engineering - https://www.youtube.com/watch?v=PzI07SBqaPA
@@ -7364,9 +7380,70 @@
     \ to use evolutionary design for your own projects. Part 2: https://www.youtube.com/watch?v=wDZCF8jfeMc\n"
   Duration: 1440
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:37.000Z'
   Less 15: 0
   Name: YOW! 2019 Evolutionary Design Animated (Part1)
+  Notes: "The presentation by James Shore is about evolutionary design, which is a\
+    \ way to achieve the enabling practice principle of modern software development.\
+    \ Here are the key points:\n- **Evolutionary design starts with the simplest possible\
+    \ design and grows it alongside the application\u2019s needs**. It comes out of\
+    \ extreme programming (XP), which was the first popular agile method and set the\
+    \ tone for a lot of what is taken for granted in agile today. XP brought ideas\
+    \ like test-driven development, user stories, and continuous integration.\n- **XP\
+    \ is unique because it provides the technical practices to make agile possible,\
+    \ such as test-driven development and continuous integration**.\n- A core premise\
+    \ of XP is inverting the cost of change so that changes are not more expensive\
+    \ later in the development process.\n- **Evolutionary design depends on refactoring,\
+    \ which is changing the design of code without changing its behavior**. It is\
+    \ not appropriate when refactoring is not possible or very expensive.\n- Evolutionary\
+    \ design may not be appropriate when publishing interfaces to other teams or when\
+    \ multiple teams own the same code base, as a high level of coordination is required.\n\
+    - Evolutionary design has three pillars:\n    - **Simple Design:** Only build\
+    \ what is needed right now. Start with a walking skeleton and do the simplest\
+    \ thing that could possibly work. Add one feature at a time, only adding things\
+    \ when there is a proven need.\n    - **Continuous Design:** Constantly review\
+    \ and improve the design. Practices from extreme programming, such as merciless\
+    \ refactoring, collective ownership, pair programming, mob programming, and continuous\
+    \ integration, help make this work.\n    - **Reflective Design:** Make design\
+    \ decisions based on the code that exists, not on speculation about what might\
+    \ be useful in the future. Identify flaws, reverse engineer the design if necessary,\
+    \ imagine how to improve the design, and refactor the code to incrementally reach\
+    \ the new design idea.\n- **Breakthroughs are interesting things that happen with\
+    \ continuous, merciless refactoring**. Eric Evans calls it a breakthrough whenever\
+    \ a little refactoring makes progress in the design.\n    - **Small Scale**: If\
+    \ this is done long enough, new ideas will become visible, resulting in a breakthrough\
+    \ where there is an idea for a dramatic way to improve the design. This can happen\
+    \ at a really small scale or a large scale. Inside of a single module, this kind\
+    \ of breakthrough can happen every hour or two.\n    - **Larger Scale**: Larger\
+    \ scale breakthroughs can also occur across multiple classes or modules, typically\
+    \ multiple times per week. Breakthroughs that are more substantial and involve\
+    \ the larger application architecture can happen a few times a year.\n    - An\
+    \ example of a small-scale breakthrough occurred in the test-driven development\
+    \ exercise, where the common parsing method was factored out. A larger scale breakthrough\
+    \ example can be found in the presenter's content management engine when he was\
+    \ implementing support for Jade and realized that he needed a better way of handling\
+    \ static files and Jade files without spaghetti code, so it was extracted out\
+    \ into new modules.\n- **Simple design is not sloppy design**. For any design\
+    \ decision, ask how hard it will be to change that decision.\n- **The presenter\
+    \ offers seven rules for simple design, all of which are derived from other sources**:\n\
+    \    - Every concept should be represented in the application once.\n    - Make\
+    \ sure the design intent is clear and obvious.\n    - Make the code concrete,\
+    \ not speculative.\n    - The code should be cohesive.\n    - If a piece of code\
+    \ cannot be seen, it should not be affected by the work being done.\n    - Anything\
+    \ that is used in a lot of places should have some sort of abstraction that can\
+    \ be used to change the implementation without changing the way it is used.\n\
+    \    - Isolate changes, especially from third-party libraries.\n- When deciding\
+    \ whether to buy or build, consider the cost of maintaining the software that\
+    \ is bought. The presenter's personal rule of thumb is that if something will\
+    \ take less than a week to build, they will seriously consider building it themselves.\
+    \ If it will take less than a day, they will generally build it themselves.\n\
+    - **With reflective design, focus efforts on where they will do the most good**.\
+    \ It is okay to stop because the issues will be caught the next time.\n- With\
+    \ evolutionary design, everything is possible as long as the design is kept clean.\n\
+    - **Be patient because the best design is rarely known when first working on something**.\
+    \ Take a best shot and let it go, knowing that it can be improved next time.\n\
+    - **Reducing the cost of change is critical. If doing Agile development where\
+    \ requirements are taken late, evolutionary design is needed**.\n\n"
   Published: true
   Rating: 5
   Resource: YOW! 2019 Evolutionary Design Animated (Part1) - https://www.youtube.com/watch?v=LtBRvsez8DI
@@ -8926,9 +9003,11 @@
     Interesting presentation about how to transform the engineering culture of a company to reach Continuous Delivery. He talked about Improvement Kata, Value Stream Mapping, and the Theory Of Constraints to choose which changes to apply first, and kickstart the organisational changes we needed to improve quality and drive down lead times.
   Duration: 2400
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: 15 teams and 4 months to achieve Continuous Delivery
+  Notes: |2+
+
   Published: true
   Resource: 15 teams and 4 months to achieve Continuous Delivery - https://www.youtube.com/watch?v=KQSLXgp-aP0
   Resource type: talk
@@ -9103,9 +9182,11 @@
     Gregor Hohpe will share insights from his life as a Chief Architect.
   Duration: 2100
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Life as a Chief Architect
+  Notes: |2+
+
   Published: true
   Resource: Life as a Chief Architect - https://www.youtube.com/watch?v=kJRudbvW6qE
   Resource type: talk
@@ -9386,9 +9467,11 @@
     Excellent 3-minute video explains the subtle difference between a constraint and a bottleneck in the Theory of Constraints (and, therefore, where to put the focus.)
   Duration: 180
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: The subtle difference between a constraint and a bottleneck (Theory of Constraints)
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: The subtle difference between a constraint and a bottleneck (Theory of
@@ -10297,9 +10380,11 @@
     A quick video about continuous improvement, and visualizing the work that makes the work work with Popcorn Flow c/o  @agilesensei
   Duration: 180
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: The Work That Makes the Work Work
+  Notes: |2+
+
   Published: true
   Resource: The Work That Makes the Work Work - https://www.youtube.com/watch?v=Bv2Jx8z9xv8
   Resource type: talk
@@ -12401,9 +12486,11 @@
     Sam Newman shares some key principles and a number of patterns to use to incrementally decompose an existing system into microservices. He covers patterns that can work to migrate functionality out of systems hard to change, and looks at the use of strangler patterns, change data capture, database decomposition and more.
   Duration: 2940
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Monolith Decomposition Patterns
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: Monolith Decomposition Patterns - https://www.infoq.com/presentations/microservices-principles-patterns/
@@ -13321,9 +13408,11 @@
   registered_at: '2020-01-19T20:42:00.000Z'
 - Created: '2020-07-27T15:44:36.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Crack The WIP (Work In Progress)
+  Notes: |2+
+
   Rating: 5
   Resource: Crack The WIP (Work In Progress) - https://medium.com/@johnpcutler/crack-the-wip-work-in-progress-7b0c646a7cf8
   Resource type: article/paper
@@ -13446,9 +13535,11 @@
   registered_at: '2021-06-19T11:36:20.000Z'
 - Created: '2020-06-30T07:01:31.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Automating safe, hands-off deployments
+  Notes: |2+
+
   Rating: 5
   Resource: Automating safe, hands-off deployments - https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/
   Resource type: article/paper
@@ -15591,10 +15682,12 @@
     A ton of useful insights and ideas in this excellent Charity presentation. Great description of observability and its need in modern systems.
   Duration: 6900
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: 'What got you here won''t get you there: How your team can become a high-performing
     team by embracing observability'
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: 'What got you here won''t get you there: How your team can become a high-performing
@@ -15827,9 +15920,11 @@
     \ the scope of work and handoffs can increase flow and value. \n"
   Duration: 420
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Creating Value and Flow in Product Development
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: Creating Value and Flow in Product Development - https://www.youtube.com/watch?v=NGdx-f-aGXs
@@ -16326,9 +16421,11 @@
     Interesting talk about some OO concepts using elixir.
   Duration: 3300
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: YOW! Singapore/Hong Kong 2017 The Best OO Language is a Functional One
+  Notes: |2+
+
   Published: true
   Resource: YOW! Singapore/Hong Kong 2017 The Best OO Language is a Functional One
     - https://www.youtube.com/watch?v=lSBGX7twkB0
@@ -16636,9 +16733,11 @@
   Description: |
     The article version of <https://www.youtube.com/watch?v=NGdx-f-aGXs>
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Creating Value and Flow in Product Development
+  Notes: |2+
+
   Rating: 5
   Resource: Creating Value and Flow in Product Development - https://amplitude.com/blog/creating-flow-value-in-product-development
   Resource type: article/paper
@@ -18067,9 +18166,11 @@
     Great description of a Continuous Delivery process.
   Duration: 1140
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: "GOTO 2020 \u2022 Modern Continuous Delivery"
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: "GOTO 2020 \u2022 Modern Continuous Delivery - https://www.youtube.com/watch?v=lBi85lNmKFw"
@@ -18135,9 +18236,11 @@
     Interesting intro about modern product management. Interesting to understand concepts as product market fit and the Product-Market Fit Pyramid.
   Duration: 2400
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Cross-functional Leadership for High-Performance Product Teams
+  Notes: |2+
+
   Published: true
   Resource: Cross-functional Leadership for High-Performance Product Teams - https://www.youtube.com/watch?v=GJc9xoMxGK0
   Resource type: talk
@@ -18624,9 +18727,11 @@
     Short excellent talk (7:26') that distilled the essence of software development and agile development. Essential. A must.
   Duration: 420
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development
@@ -20195,9 +20300,11 @@
   registered_at: '2020-01-19T20:41:12.000Z'
 - Created: '2020-07-29T07:11:30.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: Speed in Software Development
+  Notes: |2+
+
   Resource: Speed in Software Development - https://www.targetprocess.com/blog/speed-in-software-development/
   Resource type: article/paper
   Speaker WomenInTech:
@@ -22037,9 +22144,11 @@
   registered_at: '2024-12-08T22:11:19.000Z'
 - Created: '2020-07-08T06:39:29.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: 'Questionable Advice: Can Engineering Productivity Be Measured?'
+  Notes: |2+
+
   Rating: 5
   Resource: 'Questionable Advice: Can Engineering Productivity Be Measured? - https://charity.wtf/2020/07/07/questionable-advice-can-engineering-productivity-be-measured/'
   Resource type: article/paper
@@ -22069,9 +22178,11 @@
     Good explanations about modern Product Management concepts (Product market fit, Problem Space vs Solutions Space, Lean product management, etc).
   Duration: 1920
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Mastering the Problem Space to Achieve Product-Market Fit
+  Notes: |2+
+
   Published: true
   Resource: Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4
   Resource type: talk
@@ -25435,9 +25546,11 @@
   registered_at: '2020-02-09T20:13:02.000Z'
 - Created: '2020-07-02T19:15:40.000Z'
   Language: English
-  Last Modified: '2023-06-18T06:28:48.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 1
   Name: How to start focusing on value
+  Notes: |2+
+
   Rating: 4
   Resource: How to start focusing on value - https://stanete.com/focus-on-value
   Resource type: article/paper
@@ -27649,9 +27762,11 @@
     A good example of what Modern Agile looks like. Customer-focused team, with direct contact with the customer and without a proxy. Very interesting. It reminds me a lot of the way I used to work at [@AleaSolucionesS](https://twitter.com/AleaSolucionesS) and at TheMotion ([@HoneyBadgersDev](https://twitter.com/HoneyBadgersDev)).
   Duration: 3300
   Language: English
-  Last Modified: '2025-01-20T11:30:08.000Z'
+  Last Modified: '2025-03-06T08:42:29.000Z'
   Less 15: 0
   Name: Agile as if you meant it
+  Notes: |2+
+
   Published: true
   Rating: 5
   Resource: Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c
