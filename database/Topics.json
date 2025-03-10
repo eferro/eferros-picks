@@ -1178,7 +1178,7 @@
         "airtable_id": "recF9sEGaOJ0hiQgV"
     },
     {
-        "Last Modified": "2025-02-17T22:55:31.000Z",
+        "Last Modified": "2025-03-09T10:03:15.000Z",
         "Name": "Technical Practices",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -1290,9 +1290,10 @@
             "recclNm0J3dDOzoHt",
             "recf65jjPPURcp0jt",
             "rec42snEPpunYVroW",
-            "recg92HRx4f6nSgZc"
+            "recg92HRx4f6nSgZc",
+            "recvZcH5MM0KPtCKZ"
         ],
-        "Resources number": 110,
+        "Resources number": 111,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
@@ -1403,7 +1404,8 @@
             "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY",
             "Living Domain Model: Continuous Refactoring to Accelerate Delivery - https://www.youtube.com/watch?v=7c_kuuVBRoo",
             "The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4",
-            "LambdaCast #17. Technical Coach, \u00bfc\u00f3mo introducir esta figura en el equipo y qu\u00e9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
+            "LambdaCast #17. Technical Coach, \u00bfc\u00f3mo introducir esta figura en el equipo y qu\u00e9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo",
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recFbzSbd07ttDIYJ"
@@ -2829,7 +2831,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2024-12-08T21:16:20.000Z",
+        "Last Modified": "2025-03-09T10:03:11.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2904,9 +2906,10 @@
             "recRyKUpTpRQJdke4",
             "recclNm0J3dDOzoHt",
             "recMKaRM5scFVWgij",
-            "recCPjTZloWAjizKF"
+            "recCPjTZloWAjizKF",
+            "recvZcH5MM0KPtCKZ"
         ],
-        "Resources number": 73,
+        "Resources number": 74,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2980,7 +2983,8 @@
             "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
             "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY",
             "A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU",
-            "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM"
+            "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3614,7 +3618,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2025-03-02T17:34:52.000Z",
+        "Last Modified": "2025-03-09T10:03:08.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3738,9 +3742,10 @@
             "recCPjTZloWAjizKF",
             "reckOvXE3NZFY8kj3",
             "rec42snEPpunYVroW",
-            "recOXHMXndyUrCsgY"
+            "recOXHMXndyUrCsgY",
+            "recvZcH5MM0KPtCKZ"
         ],
-        "Resources number": 122,
+        "Resources number": 123,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3863,7 +3868,8 @@
             "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
             "Patterns of Effective Delivery - https://vimeo.com/24681032",
             "The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4",
-            "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0"
+            "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0",
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"

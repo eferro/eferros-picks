@@ -1105,7 +1105,7 @@
   - A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.youtube.com/watch?v=PSIPhVjWBO0
   airtable_createdTime: '2020-05-17T19:55:46.000Z'
   airtable_id: recF9sEGaOJ0hiQgV
-- Last Modified: '2025-02-17T22:55:31.000Z'
+- Last Modified: '2025-03-09T10:03:15.000Z'
   Name: Technical Practices
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -1218,7 +1218,8 @@
   - recf65jjPPURcp0jt
   - rec42snEPpunYVroW
   - recg92HRx4f6nSgZc
-  Resources number: 110
+  - recvZcH5MM0KPtCKZ
+  Resources number: 111
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE
@@ -1336,6 +1337,7 @@
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   - "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en el equipo\
     \ y qu\xE9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
+  - The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recFbzSbd07ttDIYJ
 - Last Modified: '2023-04-23T18:27:48.000Z'
@@ -2717,7 +2719,7 @@
     \ GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4"
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYUfHSzJzot7zSJ
-- Last Modified: '2024-12-08T21:16:20.000Z'
+- Last Modified: '2025-03-09T10:03:11.000Z'
   Name: XP
   Resources:
   - recAqmzu1BqJCJVxS
@@ -2793,7 +2795,8 @@
   - recclNm0J3dDOzoHt
   - recMKaRM5scFVWgij
   - recCPjTZloWAjizKF
-  Resources number: 73
+  - recvZcH5MM0KPtCKZ
+  Resources number: 74
   Speakers:
   - Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
@@ -2876,6 +2879,7 @@
   - "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY"
   - A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU
   - How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM
+  - The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: recYkFYw6BSRfA0Ce
 - Last Modified: '2024-11-24T08:35:28.000Z'
@@ -3489,7 +3493,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2025-03-02T17:34:52.000Z'
+- Last Modified: '2025-03-09T10:03:08.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3614,7 +3618,8 @@
   - reckOvXE3NZFY8kj3
   - rec42snEPpunYVroW
   - recOXHMXndyUrCsgY
-  Resources number: 122
+  - recvZcH5MM0KPtCKZ
+  Resources number: 123
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3751,6 +3756,7 @@
   - Patterns of Effective Delivery - https://vimeo.com/24681032
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   - 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
+  - The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2024-11-24T19:07:40.000Z'

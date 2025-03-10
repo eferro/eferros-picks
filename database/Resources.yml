@@ -25970,6 +25970,57 @@
   airtable_createdTime: '2024-05-31T07:24:46.000Z'
   airtable_id: recvNC33kmVVPxIv3
   registered_at: '2024-05-31T07:24:46.000Z'
+- Created: '2025-03-09T09:59:37.000Z'
+  Description: |
+    This YouTube video outlines the 10 essential rules for continuous integration (CI), emphasizing its role as the foundation of a modern deployment pipeline and continuous delivery
+  Duration: 540
+  Language: English
+  Last Modified: '2025-03-09T10:03:29.000Z'
+  Less 15: 1
+  Name: The 10 COMMANDMENTS Of Continuous Integration (CI)
+  Notes: |+
+    The most important points of the presentation "The 10 COMMANDMENTS Of Continuous Integration (CI)" are:
+    - **Continuous integration is the first stage of a modern deployment pipeline and is central to continuous delivery**.
+    - Continuous integration is a discipline focused on making changes visible and integrating frequently to avoid "integration hell".
+    - **When done right, continuous integration leads to faster, safer, and more collaborative software development**.
+    - The foundational idea of continuous integration is that **there is only one version of the truth**, which is the current version of the software.
+
+    The 10 commandments of continuous integration are:
+    1. **Always run commit tests locally before committing**. This aligns with test-driven development.
+    2. **Wait for the results of the commit build**. If something breaks, the committer should be the first to know and fix it. Aim to keep continuous integration build times under five minutes.
+    3. **Fix or revert failures within 10 minutes**. If a fix isn't possible in that time, revert the change to avoid blocking the pipeline.
+    4. **Revert changes when necessary**. If a teammate breaks the build and is unavailable, revert their change.
+    5. **Monitor your changes through the pipeline**. Ensure changes pass acceptance, performance, and security tests.
+    6. **Treat a broken build as a build scene**. The person who caused the break is responsible for fixing it.
+    7. **Commit small, commit often**. Ideally, commit multiple times a day. Small changes are easier to test, debug, and integrate.
+    8. **Maintain a fast commit feedback loop**. Aim for feedback on commits within 5 minutes and full pipeline transit within an hour to catch problems early.
+    9. **Automate everything**. Automate testing, configuration management, deployment, and build creation to remove manual errors and ensure consistency.
+    10. **Take ownership of failures**. The person who introduces a failure is responsible for fixing it, even if it breaks something unexpected.
+
+    **Continuous integration requires discipline and accountability**.
+
+  Rating: 5
+  Resource: The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y
+  Resource type: videopodcast
+  Speaker WomenInTech:
+  - null
+  Speakers:
+  - recTA39Jo1ozZG61R
+  Speakers_Names:
+  - Dave Farley
+  Topics:
+  - rechj5WeSQRH211np
+  - recYkFYw6BSRfA0Ce
+  - recFbzSbd07ttDIYJ
+  Topics_Names:
+  - Agile
+  - XP
+  - Technical Practices
+  Url: https://www.youtube.com/watch?v=NcU0oEk6z8Y
+  airtable_createdTime: '2025-03-09T09:59:37.000Z'
+  airtable_id: recvZcH5MM0KPtCKZ
+  core_topic: Continuous Delivery
+  registered_at: '2025-03-09T09:59:37.000Z'
 - Blog Url: https://www.eferro.net/2021/09/good-talkspodcasts-september-2021-ii.html
   Created: '2021-09-05T15:41:49.000Z'
   Description: |
