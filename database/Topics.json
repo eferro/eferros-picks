@@ -1,6 +1,6 @@
 [
     {
-        "Last Modified": "2024-11-24T08:50:32.000Z",
+        "Last Modified": "2025-03-23T09:53:27.000Z",
         "Name": "Lean Product Management",
         "Resources": [
             "recnXWD90uga820WV",
@@ -40,9 +40,11 @@
             "rec7NPbH4POd8KrJS",
             "rec4yxbXm5lq421Ui",
             "recRCthMkTETb5Etf",
-            "rec0cTDqEx18P2i1q"
+            "rec0cTDqEx18P2i1q",
+            "recl9OfyDqV7Tr6DL",
+            "rectx2RpxiZAERpZ9"
         ],
-        "Resources number": 38,
+        "Resources number": 40,
         "Speakers": [
             "Mastering the Problem Space to Achieve Product-Market Fit - https://www.youtube.com/watch?v=bDUrQlmwox4",
             "Agile as if you meant it - https://www.youtube.com/watch?v=YibNG8xx15c",
@@ -81,7 +83,9 @@
             "The science of batch size - https://www.youtube.com/watch?v=QsGL1RkmnyU",
             "Product minded software crafter - https://www.youtube.com/watch?v=JzWZkqem5-8",
             "Aprender a distinguir el problema de las soluciones - https://www.youtube.com/watch?v=IqUo9kCWQrw",
-            "The Logic of Flow: Some Indispensable Concepts - https://www.youtube.com/watch?v=rc1MqHsiiKo"
+            "The Logic of Flow: Some Indispensable Concepts - https://www.youtube.com/watch?v=rc1MqHsiiKo",
+            "Mastering Observability: Unlocking Customer Insights with Gojko Adzic - https://www.infoq.com/podcasts/mastering-observability-customer-insights/",
+            "Webinar #23 - Gojko Adzic on designing product development experiments with Lizard Optimization - https://www.architecture-weekly.com/p/webinar-23-gojko-adzic-on-designing"
         ],
         "airtable_createdTime": "2020-08-09T19:31:05.000Z",
         "airtable_id": "rec0PB37LN1Kz0Blh"
@@ -630,14 +634,16 @@
         "airtable_id": "rec6JMQpL2LSjoP2E"
     },
     {
-        "Last Modified": "2022-02-12T21:43:01.000Z",
+        "Last Modified": "2025-03-23T09:45:12.000Z",
         "Name": "Feedback cycles",
         "Resources": [
-            "rec0wGILzKUBU6YKD"
+            "rec0wGILzKUBU6YKD",
+            "recl9OfyDqV7Tr6DL"
         ],
-        "Resources number": 1,
+        "Resources number": 2,
         "Speakers": [
-            "DOES14 On the Care and Feeding of Feedback Cycles - https://www.youtube.com/watch?v=fMucUohYWI4"
+            "DOES14 On the Care and Feeding of Feedback Cycles - https://www.youtube.com/watch?v=fMucUohYWI4",
+            "Mastering Observability: Unlocking Customer Insights with Gojko Adzic - https://www.infoq.com/podcasts/mastering-observability-customer-insights/"
         ],
         "airtable_createdTime": "2022-02-12T21:43:01.000Z",
         "airtable_id": "rec7SonT1KaTGquvb"
@@ -1084,7 +1090,7 @@
         "airtable_id": "recDnzAEazkBJFFZh"
     },
     {
-        "Last Modified": "2024-11-24T19:07:35.000Z",
+        "Last Modified": "2025-03-23T09:37:13.000Z",
         "Name": "Observability",
         "Resources": [
             "recazeVUxHdijBZU2",
@@ -1098,9 +1104,10 @@
             "rectAVSdivwGCjDqC",
             "recygOU0wpBFb14gZ",
             "recELoGuryNrKrASv",
-            "recwcdWSq15iUEKwj"
+            "recwcdWSq15iUEKwj",
+            "recicia289vkyUb3K"
         ],
-        "Resources number": 12,
+        "Resources number": 13,
         "Speakers": [
             "What got you here won't get you there: How your team can become a high-performing team by embracing observability - https://www.youtube.com/watch?v=QK6zEFdvXYw",
             "SLO TheoryWhy the Business needs SLOs - https://www.honeycomb.io/why-the-business-needs-slos-on-demand/",
@@ -1113,7 +1120,8 @@
             "o11ycast podcast Ep7 Observability at Asana and honeycomb - https://www.heavybit.com/library/podcasts/o11ycast/ep-7-observability-at-asana-and-honeycomb/",
             "What is Happening: Attempting to Understand Our Systems - https://www.youtube.com/watch?v=xy3w2hGijhE",
             "Altitude NYC 2018: Observability workshop - https://vimeo.com/267641392",
-            "Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0"
+            "Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0",
+            "Charity Majors on Observability, OTEL, AI ops, DevOps and Friday deploys - https://www.youtube.com/watch?v=RXDkf2XTC0w"
         ],
         "airtable_createdTime": "2020-08-09T19:43:06.000Z",
         "airtable_id": "recDqEOIt9vzNQfTZ"
@@ -1178,7 +1186,7 @@
         "airtable_id": "recF9sEGaOJ0hiQgV"
     },
     {
-        "Last Modified": "2025-03-09T10:03:15.000Z",
+        "Last Modified": "2025-03-23T09:33:29.000Z",
         "Name": "Technical Practices",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -1291,9 +1299,12 @@
             "recf65jjPPURcp0jt",
             "rec42snEPpunYVroW",
             "recg92HRx4f6nSgZc",
-            "recvZcH5MM0KPtCKZ"
+            "recvZcH5MM0KPtCKZ",
+            "rec51dDzTblHDqyN1",
+            "reckjjc9gpAuwJR9c",
+            "recNmOkWAzhRiHGaY"
         ],
-        "Resources number": 111,
+        "Resources number": 114,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
@@ -1405,7 +1416,10 @@
             "Living Domain Model: Continuous Refactoring to Accelerate Delivery - https://www.youtube.com/watch?v=7c_kuuVBRoo",
             "The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4",
             "LambdaCast #17. Technical Coach, \u00bfc\u00f3mo introducir esta figura en el equipo y qu\u00e9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo",
-            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y",
+            "Add APPROVAL TESTING To Your Bag Of Tricks - https://www.youtube.com/watch?v=jAMVtMesHqk",
+            "TDD Revisited - Ian Cooper - NDC Porto 2023 - https://www.youtube.com/watch?v=IN9lftH0cJc",
+            "Become A GREAT Programmer VOL. 1: How To Be GREAT, Why Do You Suck & Why Your Hobby Won't Cut It - https://www.youtube.com/watch?v=7wV7LzEv8LQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recFbzSbd07ttDIYJ"
@@ -1685,7 +1699,7 @@
         "airtable_id": "recPDGLhpXxkxbDoU"
     },
     {
-        "Last Modified": "2025-03-02T17:34:59.000Z",
+        "Last Modified": "2025-03-23T09:45:05.000Z",
         "Name": "testing",
         "Resources": [
             "recIFakmXTw6GmZlH",
@@ -1724,9 +1738,12 @@
             "recXdlYlg3hNMt3MA",
             "recqeHR6KWslW9KNo",
             "recW3gn0SujnXIbwQ",
-            "recOXHMXndyUrCsgY"
+            "recOXHMXndyUrCsgY",
+            "rec51dDzTblHDqyN1",
+            "reckjjc9gpAuwJR9c",
+            "recl9OfyDqV7Tr6DL"
         ],
-        "Resources number": 37,
+        "Resources number": 40,
         "Speakers": [
             "How to Write Acceptance Tests - https://www.youtube.com/watch?v=JDD5EEJgpHU",
             "Ep. #29, Testing in Production with Glen Mailer of CircleCI - https://www.honeycomb.io/resources/ep-29-testing-in-production-with-glen-mailer-of-circleci/",
@@ -1764,13 +1781,16 @@
             "Developer Productivity Engineering: What's in it for me? - https://www.youtube.com/watch?v=w9u7cIiVelc",
             "Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY",
             "Acceptance Testing Is the FUTURE of Programming - https://www.youtube.com/watch?v=NsOUKfzyZiU",
-            "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0"
+            "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0",
+            "Add APPROVAL TESTING To Your Bag Of Tricks - https://www.youtube.com/watch?v=jAMVtMesHqk",
+            "TDD Revisited - Ian Cooper - NDC Porto 2023 - https://www.youtube.com/watch?v=IN9lftH0cJc",
+            "Mastering Observability: Unlocking Customer Insights with Gojko Adzic - https://www.infoq.com/podcasts/mastering-observability-customer-insights/"
         ],
         "airtable_createdTime": "2020-09-06T08:22:07.000Z",
         "airtable_id": "recPcLVyg0S4ORUkX"
     },
     {
-        "Last Modified": "2025-01-19T22:06:43.000Z",
+        "Last Modified": "2025-03-23T09:37:16.000Z",
         "Name": "Devops",
         "Resources": [
             "recOeXIOfuU3plaew",
@@ -1838,9 +1858,10 @@
             "recsO8sRpVmxeUmNM",
             "recSi9cTXikmWOquX",
             "recU3ahWWaBZfihRf",
-            "recceiIXetqPomvUx"
+            "recceiIXetqPomvUx",
+            "recicia289vkyUb3K"
         ],
-        "Resources number": 66,
+        "Resources number": 67,
         "Speakers": [
             "Fail Better: Radical Ideas from the Practice of Cloud Computing - https://www.youtube.com/watch?v=nsrzWEHEWDw",
             "Anatomy of a Production Kubernetes Outage - https://www.youtube.com/watch?v=OUYTNywPk-s",
@@ -1907,13 +1928,14 @@
             "a16z Podcast: Feedback Loops - https://a16z.com/2018/03/28/devops-org-change-software-performance/",
             "Scaling Your Architecture with Events and Services - https://www.youtube.com/watch?v=CNLNwOFUlqg",
             "Devops and Dr Deming\u2019s 14 Points - https://www.youtube.com/watch?v=7g3uqSzWVZs",
-            "T1 and T2 Signals - https://smallbatches.fm/109"
+            "T1 and T2 Signals - https://smallbatches.fm/109",
+            "Charity Majors on Observability, OTEL, AI ops, DevOps and Friday deploys - https://www.youtube.com/watch?v=RXDkf2XTC0w"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recPoM7t8neA7gkZ5"
     },
     {
-        "Last Modified": "2025-03-02T18:19:41.000Z",
+        "Last Modified": "2025-03-23T09:30:45.000Z",
         "Name": "Architecture",
         "Resources": [
             "recrqYZesvsKRzx1p",
@@ -2019,9 +2041,10 @@
             "recc0PZAq20p3ZJuT",
             "recnSM0Hjvic4XhFx",
             "recMK9byb9akbMylA",
-            "recG5OJBNIEhM8uU8"
+            "recG5OJBNIEhM8uU8",
+            "recJ7GCqUhhqbjagD"
         ],
-        "Resources number": 104,
+        "Resources number": 105,
         "Speakers": [
             "Serverless Design Patterns - https://theburningmonk.com/2018/03/serverless-design-patterns-slides-and-video/",
             "A Case for Outside-In Design - https://www.youtube.com/watch?v=QP6ltkj4Qik",
@@ -2126,7 +2149,8 @@
             "AWS re:Invent 2024 - Dr. Werner Vogels Keynote - https://www.youtube.com/watch?v=aim5x73crbM",
             "Microservices Retrospective \u2013 What We Learned (and Didn\u2019t Learn) from Netflix - https://www.youtube.com/watch?v=TOM6UhCetQ0",
             "Team Topologies, Software Architecture & Complexity \u2022 James Lewis \u2022 GOTO 2022 - https://www.youtube.com/watch?v=izLg4NkJQO4",
-            "The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe"
+            "The Software Industry's Evolution, Complex Architecture & Problem-Solving At Scale | Michael Nygard In The Engineering Room Ep. 35 - https://open.spotify.com/episode/1OQkqwv30ScqG6f1MZLFHe",
+            "Leading Teams For Silicon Valley Tech Giants | Randy Shoup In The Engineering Room Ep. 7 - https://www.youtube.com/watch?v=Wg-_5wbYuZQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recQ4hio93eTgzFTS"
@@ -2363,7 +2387,7 @@
         "airtable_id": "recVjcUEBKByq8k7M"
     },
     {
-        "Last Modified": "2025-03-02T17:51:51.000Z",
+        "Last Modified": "2025-03-23T09:37:21.000Z",
         "Name": "Engineering Culture",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2540,9 +2564,11 @@
             "reckOvXE3NZFY8kj3",
             "rec42snEPpunYVroW",
             "recU96MGQMQDsismv",
-            "recKVdulRpgPVbaLK"
+            "recKVdulRpgPVbaLK",
+            "recNmOkWAzhRiHGaY",
+            "recicia289vkyUb3K"
         ],
-        "Resources number": 175,
+        "Resources number": 177,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "AWS re:Invent 2014: AWS Innovation at Scale - https://www.youtube.com/watch?v=JIQETrFC_SQ",
@@ -2718,7 +2744,9 @@
             "Patterns of Effective Delivery - https://vimeo.com/24681032",
             "The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4",
             "How Shopify builds a high-intensity culture - https://www.youtube.com/watch?v=C_lhMOjG7PE",
-            "Kent Beck on why software development is an exercise in human relationships - https://www.youtube.com/watch?v=MSkRccUksZs"
+            "Kent Beck on why software development is an exercise in human relationships - https://www.youtube.com/watch?v=MSkRccUksZs",
+            "Become A GREAT Programmer VOL. 1: How To Be GREAT, Why Do You Suck & Why Your Hobby Won't Cut It - https://www.youtube.com/watch?v=7wV7LzEv8LQ",
+            "Charity Majors on Observability, OTEL, AI ops, DevOps and Friday deploys - https://www.youtube.com/watch?v=RXDkf2XTC0w"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recWFKWrPEdeEYbzx"
@@ -2831,7 +2859,7 @@
         "airtable_id": "recYUfHSzJzot7zSJ"
     },
     {
-        "Last Modified": "2025-03-09T10:03:11.000Z",
+        "Last Modified": "2025-03-23T09:27:30.000Z",
         "Name": "XP",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -2907,9 +2935,11 @@
             "recclNm0J3dDOzoHt",
             "recMKaRM5scFVWgij",
             "recCPjTZloWAjizKF",
-            "recvZcH5MM0KPtCKZ"
+            "recvZcH5MM0KPtCKZ",
+            "rec51dDzTblHDqyN1",
+            "reckjjc9gpAuwJR9c"
         ],
-        "Resources number": 74,
+        "Resources number": 76,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
@@ -2984,7 +3014,9 @@
             "Continuous Integration: That\u2019s Not What They Meant - https://www.youtube.com/watch?v=97qyNQz7fxY",
             "A Conversation with Kent Beck and Eric Ries - https://www.youtube.com/watch?v=dHvfUssSWZU",
             "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
-            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y",
+            "Add APPROVAL TESTING To Your Bag Of Tricks - https://www.youtube.com/watch?v=jAMVtMesHqk",
+            "TDD Revisited - Ian Cooper - NDC Porto 2023 - https://www.youtube.com/watch?v=IN9lftH0cJc"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recYkFYw6BSRfA0Ce"
@@ -3179,7 +3211,7 @@
         "airtable_id": "recfCstv3TFsotZ9q"
     },
     {
-        "Last Modified": "2025-01-19T21:50:34.000Z",
+        "Last Modified": "2025-03-23T09:53:14.000Z",
         "Name": "Product",
         "Resources": [
             "recAqmzu1BqJCJVxS",
@@ -3258,9 +3290,11 @@
             "recMtH696LP1LMtlW",
             "recr5tjxMaxeZDCww",
             "rec0cTDqEx18P2i1q",
-            "recaTxSRbgrtkff9X"
+            "recaTxSRbgrtkff9X",
+            "recl9OfyDqV7Tr6DL",
+            "rectx2RpxiZAERpZ9"
         ],
-        "Resources number": 77,
+        "Resources number": 79,
         "Speakers": [
             "Rights and Responsibilities of a delivery team - https://www.youtube.com/watch?v=cmh9aR_LxcA",
             "An Introduction to Modern Product Discovery - https://www.youtube.com/watch?v=l7-5x0ra2tc",
@@ -3338,7 +3372,9 @@
             "Fighting User Requirements That CONSTANTLY Change - https://www.youtube.com/watch?v=kKbQ2-dXsmE",
             "Product management theater - https://www.youtube.com/watch?v=9N4ZgNaWvI0",
             "The Logic of Flow: Some Indispensable Concepts - https://www.youtube.com/watch?v=rc1MqHsiiKo",
-            "Product Agility Podcast: 9 Million Users from a Full Stack Product Legend An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI"
+            "Product Agility Podcast: 9 Million Users from a Full Stack Product Legend An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI",
+            "Mastering Observability: Unlocking Customer Insights with Gojko Adzic - https://www.infoq.com/podcasts/mastering-observability-customer-insights/",
+            "Webinar #23 - Gojko Adzic on designing product development experiments with Lizard Optimization - https://www.architecture-weekly.com/p/webinar-23-gojko-adzic-on-designing"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recg6F5ajOhEkbrdW"
@@ -3359,7 +3395,7 @@
         "airtable_id": "recgEKQV2Gwxxtdf2"
     },
     {
-        "Last Modified": "2024-08-18T08:09:45.000Z",
+        "Last Modified": "2025-03-23T09:30:54.000Z",
         "Name": "Scalability",
         "Resources": [
             "recSuNxI6AZPoqJYa",
@@ -3391,9 +3427,10 @@
             "rec0Zn0xNpLa4HaZn",
             "recDPS7fNMOi7VkSD",
             "recCTj8eJ0Za6tae4",
-            "recN5kKqqCeEjWegT"
+            "recN5kKqqCeEjWegT",
+            "recJ7GCqUhhqbjagD"
         ],
-        "Resources number": 30,
+        "Resources number": 31,
         "Speakers": [
             "Architecting a Modern Financial Institution with Vitor Olivier, Thoughts on Immutability, CI/CD, FP - https://www.infoq.com/podcasts/Vitor-Olivier",
             "Command-Query Responsibility Segregation - https://www.infoq.com/presentations/Command-Query-Responsibility-Segregation",
@@ -3424,7 +3461,8 @@
             "\"Simple Made Easy\" (12-minute redux) by Rich Hickey (2011) - https://www.youtube.com/watch?v=F87PtAoJNtg",
             "Simple Made Easy - http://www.infoq.com/presentations/Simple-Made-Easy",
             "The Joy of Building Large Scale Systems - https://www.youtube.com/watch?v=lLbcvGgxCPg",
-            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA"
+            "Concurrency Oriented Programming in a Modern World - https://www.youtube.com/watch?v=AvA97AB8cAA",
+            "Leading Teams For Silicon Valley Tech Giants | Randy Shoup In The Engineering Room Ep. 7 - https://www.youtube.com/watch?v=Wg-_5wbYuZQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recgcJy2O48j2V5SW"
@@ -3618,7 +3656,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2025-03-09T10:03:08.000Z",
+        "Last Modified": "2025-03-23T09:27:36.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3946,7 +3984,7 @@
         "airtable_id": "recilc2YTQjWvGOWf"
     },
     {
-        "Last Modified": "2024-12-08T21:16:26.000Z",
+        "Last Modified": "2025-03-23T09:30:48.000Z",
         "Name": "Continuous Delivery",
         "Resources": [
             "recYRRdQNqoJfTD4f",
@@ -4028,9 +4066,10 @@
             "recSAamOq3VNnKbru",
             "recwcdWSq15iUEKwj",
             "recm5NyzuUShg6KDI",
-            "recCPjTZloWAjizKF"
+            "recCPjTZloWAjizKF",
+            "recJ7GCqUhhqbjagD"
         ],
-        "Resources number": 80,
+        "Resources number": 81,
         "Speakers": [
             "Feature branching considered evil - http://videos.ncrafts.io/video/275529985",
             "Feature Branching considered Evil - https://vimeo.com/275529985",
@@ -4111,7 +4150,8 @@
             "5 Reasons Your Automated Tests Fail - https://www.youtube.com/watch?v=vHBzZHE4tJ0",
             "Observability & Testing in Production - with Charity Majors - https://www.youtube.com/watch?v=97YRxrKNLP0",
             "Why Scaling Agile Doesn't Work - GOTO 2015 - https://www.youtube.com/watch?app=desktop&v=2zYxWEZ0gYg",
-            "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM"
+            "How to Deliver Quality Software Against All Odds GOTO 2024 - https://www.youtube.com/watch?v=klqo1oPdbpM",
+            "Leading Teams For Silicon Valley Tech Giants | Randy Shoup In The Engineering Room Ep. 7 - https://www.youtube.com/watch?v=Wg-_5wbYuZQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recin3Ync8iZldW0q"
@@ -4327,7 +4367,7 @@
         "airtable_id": "recm1G3xxDIQZ5dKc"
     },
     {
-        "Last Modified": "2024-08-18T07:57:57.000Z",
+        "Last Modified": "2025-03-23T09:33:26.000Z",
         "Name": "Software Design",
         "Resources": [
             "reczOXoBpcxfVfN2x",
@@ -4394,9 +4434,10 @@
             "recmvoo351PsP313Q",
             "recvNC33kmVVPxIv3",
             "recRyKUpTpRQJdke4",
-            "reczYEOBiA6KzE1Gv"
+            "reczYEOBiA6KzE1Gv",
+            "recNmOkWAzhRiHGaY"
         ],
-        "Resources number": 65,
+        "Resources number": 66,
         "Speakers": [
             "RailsConf 2015 - Nothing is Something - https://www.youtube.com/watch?v=OMPfEXIlTVE",
             "Functional programming design patterns - https://www.youtube.com/watch?v=E8I19uA-wGY",
@@ -4462,7 +4503,8 @@
             "Scaling Organizations and Design with James Shore - https://www.youtube.com/watch?v=duF4e3CwW9k",
             "Software Engineering F&*K Up Behind The Passport E-gate Failure\" - https://youtu.be/baUBln86YO8?si=p3X77JdFKBtY254R",
             "YOW! 2019 Evolutionary Design Animated (Part2) - https://www.youtube.com/watch?v=wDZCF8jfeMc",
-            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY"
+            "Alan Kay at OOPSLA 1997 - The computer revolution hasnt happened yet - https://www.youtube.com/watch?v=oKg1hTOQXoY",
+            "Become A GREAT Programmer VOL. 1: How To Be GREAT, Why Do You Suck & Why Your Hobby Won't Cut It - https://www.youtube.com/watch?v=7wV7LzEv8LQ"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "recm3GCPgEVSDmeVI"
@@ -4715,7 +4757,7 @@
         "airtable_id": "recqe6nJcnKjqXdps"
     },
     {
-        "Last Modified": "2024-11-24T19:00:27.000Z",
+        "Last Modified": "2025-03-23T09:53:21.000Z",
         "Name": "Product Discovery",
         "Resources": [
             "recBfVsYe3o327PKD",
@@ -4741,9 +4783,10 @@
             "recLoYdYP5G0UM8GT",
             "recohp2EMx3gJ4R14",
             "recr5tjxMaxeZDCww",
-            "recaTxSRbgrtkff9X"
+            "recaTxSRbgrtkff9X",
+            "rectx2RpxiZAERpZ9"
         ],
-        "Resources number": 24,
+        "Resources number": 25,
         "Speakers": [
             "The Marty Cagan special - ProductTank #27 Singapore - https://www.youtube.com/watch?v=idMN-YwiYOs",
             "GOTO 2020 \u2022 Advanced Feature Flagging: It's All About The Data - https://www.youtube.com/watch?v=f8XDvtfKWQE",
@@ -4768,7 +4811,8 @@
             "Beyond Lean and Agile - https://www.youtube.com/watch?v=7LYLhxb8Vwc",
             "lean customer development with Cindy Alvarez - https://hanselminutes.com/572/lean-customer-development-with-cindy-alvarez",
             "Product management theater - https://www.youtube.com/watch?v=9N4ZgNaWvI0",
-            "Product Agility Podcast: 9 Million Users from a Full Stack Product Legend An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI"
+            "Product Agility Podcast: 9 Million Users from a Full Stack Product Legend An Interview with Gojko Adzic - https://www.youtube.com/watch?v=fC-AKpO83DI",
+            "Webinar #23 - Gojko Adzic on designing product development experiments with Lizard Optimization - https://www.architecture-weekly.com/p/webinar-23-gojko-adzic-on-designing"
         ],
         "airtable_createdTime": "2020-06-14T11:13:46.000Z",
         "airtable_id": "recrNBL2FKBzgsQTs"

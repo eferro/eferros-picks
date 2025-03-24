@@ -2358,6 +2358,43 @@
         "registered_at": "2020-01-19T20:36:17.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:23:05.000Z",
+        "Description": "Learn about approval testing as a technique, particularly its effectiveness in safely refactoring legacy code by verifying that changes preserve existing behavior, and its utility for comparing complex outputs like graphical data\n",
+        "Duration": 1140,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:12.000Z",
+        "Less 15": 0,
+        "Name": "Add APPROVAL TESTING To Your Bag Of Tricks",
+        "Published": true,
+        "Rating": 4,
+        "Resource": "Add APPROVAL TESTING To Your Bag Of Tricks - https://www.youtube.com/watch?v=jAMVtMesHqk",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recYkFYw6BSRfA0Ce",
+            "recFbzSbd07ttDIYJ",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Topics_Names": [
+            "XP",
+            "Technical Practices",
+            "testing"
+        ],
+        "Url": "https://www.youtube.com/watch?v=jAMVtMesHqk",
+        "airtable_createdTime": "2025-03-23T09:23:05.000Z",
+        "airtable_id": "rec51dDzTblHDqyN1",
+        "registered_at": "2025-03-23T09:23:05.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2017/01/interesting-talks-i-saw-these-days-work.html",
         "Created": "2020-01-19T20:42:27.000Z",
         "Duration": 3060,
@@ -9796,6 +9833,45 @@
         "registered_at": "2021-12-25T08:00:25.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:28:26.000Z",
+        "Description": "This conversation explores the architectural evolution of Silicon Valley tech giants from monoliths to microservices, highlighting the importance of customer focus, asynchronous communication, and continuous delivery for achieving scale and velocity.\n",
+        "Duration": 5640,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:11.000Z",
+        "Less 15": 0,
+        "Name": "Leading Teams For Silicon Valley Tech Giants | Randy Shoup In The Engineering Room Ep. 7",
+        "Published": true,
+        "Resource": "Leading Teams For Silicon Valley Tech Giants | Randy Shoup In The Engineering Room Ep. 7 - https://www.youtube.com/watch?v=Wg-_5wbYuZQ",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null,
+            null
+        ],
+        "Speakers": [
+            "recA5JlOnMovEEbtt",
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Randy Shoup",
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recQ4hio93eTgzFTS",
+            "recin3Ync8iZldW0q",
+            "recgcJy2O48j2V5SW"
+        ],
+        "Topics_Names": [
+            "Architecture",
+            "Continuous Delivery",
+            "Scalability"
+        ],
+        "Url": "https://www.youtube.com/watch?v=Wg-_5wbYuZQ",
+        "airtable_createdTime": "2025-03-23T09:28:26.000Z",
+        "airtable_id": "recJ7GCqUhhqbjagD",
+        "registered_at": "2025-03-23T09:28:26.000Z"
+    },
+    {
         "Created": "2021-08-28T07:08:07.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -11842,6 +11918,42 @@
         "airtable_createdTime": "2020-01-19T20:29:01.000Z",
         "airtable_id": "recNlVd0tH5YnKGwN",
         "registered_at": "2020-01-19T20:29:01.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:31:40.000Z",
+        "Description": "This talk by Dave Farley outlines essential principles and mindsets for becoming a great programmer, distinguishing professional practices from hobbyist approaches and emphasizing communication, design, quality, collaboration, and continuous improvement\n",
+        "Duration": 3180,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:11.000Z",
+        "Less 15": 0,
+        "Name": "Become A GREAT Programmer VOL. 1: How To Be GREAT, Why Do You Suck & Why Your Hobby Won't Cut It",
+        "Published": true,
+        "Resource": "Become A GREAT Programmer VOL. 1: How To Be GREAT, Why Do You Suck & Why Your Hobby Won't Cut It - https://www.youtube.com/watch?v=7wV7LzEv8LQ",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recTA39Jo1ozZG61R"
+        ],
+        "Speakers_Names": [
+            "Dave Farley"
+        ],
+        "Topics": [
+            "recm3GCPgEVSDmeVI",
+            "recFbzSbd07ttDIYJ",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Software Design",
+            "Technical Practices",
+            "Engineering Culture"
+        ],
+        "Url": "https://www.youtube.com/watch?v=7wV7LzEv8LQ",
+        "airtable_createdTime": "2025-03-23T09:31:40.000Z",
+        "airtable_id": "recNmOkWAzhRiHGaY",
+        "registered_at": "2025-03-23T09:31:40.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2019/07/index.html",
@@ -22909,6 +23021,48 @@
         "registered_at": "2020-01-19T20:36:16.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:34:09.000Z",
+        "Description": "This podcast episode features Charity Majors discussing the evolution of observability from her experiences at Parse and Facebook to co-founding Honeycomb, emphasizing its event-based approach for understanding complex systems and contrasting it with traditional metrics and logging, while also covering topics like Open Telemetry, DevOps, and engineering culture.\n",
+        "Duration": 3060,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:10.000Z",
+        "Less 15": 0,
+        "Name": "Charity Majors on Observability, OTEL, AI ops, DevOps and Friday deploys",
+        "Notes": "Here are the most important points of the presentation by Charity Majors:\n- **The Limitations of Traditional Metrics and Logging:** Charity emphasizes that relying solely on metrics and aggregates makes it difficult to understand complex, high-cardinality systems, especially multi-tenant platforms. She recounts how at Parse, they often struggled to pinpoint root causes, spending significant time trying to correlate metrics and logs.\n- **The Power of Event-Based Observability:** The introduction of Facebook's \"Scuba\" tool, which allowed slicing and dicing on high-cardinality dimensions and wide events in real time, was a game-changer for understanding system behavior at Parse. This experience led to the realization that being able to treat every request as an event and analyze it with arbitrary dimensions was crucial for effective debugging and problem-solving. This was the foundational idea behind Honeycomb, which Charity co-founded.\n- **Observability as \"Business Intelligence for Systems\":** Charity describes observability as a way for engineers to ask and answer questions about their systems that they didn't know to ask beforehand, similar to how business analysts use BI tools. This contrasts with traditional monitoring, which focuses on pre-defined metrics and known failure modes.\n- **The Evolution and Broad Applicability of Observability:** Initially thought to be a niche solution for platforms with high cardinality, Honeycomb discovered that the need for observability is widespread and increasing due to the growing complexity of modern systems, including microservices, containers, and polyglot persistence.\n- **Open Telemetry as a Positive Industry Standard:** Despite initial cynicism, Charity is now enthusiastic about the success of Open Telemetry (OTEL) as a vendor-neutral standard for instrumenting code and collecting telemetry data. The goal of OTEL is to allow engineers to instrument their code once and then use various backend observability providers without re-instrumentation, reducing vendor lock-in. While noting that not all vendors have been equally cooperative (specifically mentioning Datadog's reluctance to fully embrace OTEL), she sees it as a significant step forward for the industry.\n- **Rethinking DevOps and Ownership:** Charity believes the traditional Dev/Ops divide was a temporary solution to increasing system complexity and advocates for engineers owning their code in production to ensure a tight feedback loop. The ability to deploy frequently, ideally as soon as code is merged, is crucial for this ownership and for quickly identifying and resolving issues. Deploying on Fridays, when done with proper engineering judgment (having time to monitor and verify), is presented as a \"smell test\" for the health of a team's deployment practices.\n- **The Second Half of an Engineering Career:** Charity advises engineers in their 30s and 40s to focus on self-awareness and fulfillment, emphasizing that career progression beyond senior developer doesn't necessarily mean management. She encourages exploring different technologies, industries, and roles while prioritizing autonomy, mastery, and purpose in their work.\n- **AI and Observability for LLMs:** Honeycomb is applying observability principles to the realm of Large Language Models (LLMs), recognizing that traditional testing methods are insufficient for these systems. Their \"Query Assistant\" uses LLMs to help users build Honeycomb queries. Charity highlights that developing with LLMs reinforces good software engineering practices like testing in production, frequent deployments, and the need for robust observability. She sees observability for LLMs as a potential \"Trojan horse\" for wider adoption of modern development practices.\n- **The Importance of Engineering Culture and Teamwork:** Charity emphasizes that building a strong engineering culture that encourages learning from failures through blameless retrospectives and prioritizes psychological safety is crucial for team success. She believes in hiring good teammates who can improve together, rather than solely focusing on brilliant individual engineers.\n\n",
+        "Published": true,
+        "Rating": 5,
+        "Resource": "Charity Majors on Observability, OTEL, AI ops, DevOps and Friday deploys - https://www.youtube.com/watch?v=RXDkf2XTC0w",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            true,
+            null
+        ],
+        "Speakers": [
+            "rec0j5idwhBV3RQry",
+            "recpKolcZElFkPEsc"
+        ],
+        "Speakers_Names": [
+            "Charity Majors",
+            "Yan Cuim"
+        ],
+        "Topics": [
+            "recDqEOIt9vzNQfTZ",
+            "recPoM7t8neA7gkZ5",
+            "recWFKWrPEdeEYbzx"
+        ],
+        "Topics_Names": [
+            "Observability",
+            "Devops",
+            "Engineering Culture"
+        ],
+        "Url": "https://www.youtube.com/watch?v=RXDkf2XTC0w",
+        "airtable_createdTime": "2025-03-23T09:34:09.000Z",
+        "airtable_id": "recicia289vkyUb3K",
+        "core_topic": "Engineering Culture",
+        "registered_at": "2025-03-23T09:34:09.000Z"
+    },
+    {
         "Blog Url": "https://www.eferro.net/2016/01/interesting-talks-from-craft-conf-2015.html",
         "Created": "2020-01-19T20:35:00.000Z",
         "Description": "The presentation discusses the complexity of modern software development, moving beyond simple \"box arrow cylinder\" architectures to a landscape of diverse services and technologies1.... It emphasizes the importance of minimizing lead time to business impact rather than focusing solely on code, and suggests that teams should embrace con\ttinuous learning, research and experimentation to manage uncertainty and deliver value\n",
@@ -24180,6 +24334,43 @@
         "registered_at": "2020-01-19T20:37:55.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:26:39.000Z",
+        "Description": "This talk re-examines TDD, emphasizing that it's about writing developer tests focused on behavior and contracts, not isolated unit tests with mocks, to guide development and enable safe refactoring\n",
+        "Duration": 4380,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:12.000Z",
+        "Less 15": 0,
+        "Name": "TDD Revisited - Ian Cooper - NDC Porto 2023",
+        "Published": true,
+        "Rating": 4,
+        "Resource": "TDD Revisited - Ian Cooper - NDC Porto 2023 - https://www.youtube.com/watch?v=IN9lftH0cJc",
+        "Resource type": "talk",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recKRgubPSZxvB8Pv"
+        ],
+        "Speakers_Names": [
+            "Ian Cooper"
+        ],
+        "Topics": [
+            "recYkFYw6BSRfA0Ce",
+            "recFbzSbd07ttDIYJ",
+            "recPcLVyg0S4ORUkX"
+        ],
+        "Topics_Names": [
+            "XP",
+            "Technical Practices",
+            "testing"
+        ],
+        "Url": "https://www.youtube.com/watch?v=IN9lftH0cJc",
+        "airtable_createdTime": "2025-03-23T09:26:39.000Z",
+        "airtable_id": "reckjjc9gpAuwJR9c",
+        "registered_at": "2025-03-23T09:26:39.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:14.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -24416,6 +24607,44 @@
         "airtable_createdTime": "2020-01-19T20:41:14.000Z",
         "airtable_id": "recl9Jy0XsS9QZUQd",
         "registered_at": "2020-01-19T20:41:14.000Z"
+    },
+    {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:42:38.000Z",
+        "Description": "This podcast episode with Gojko Adzic explores the principles behind specification by example (driven by TDD/BDD), the challenges of its widespread adoption due to a focus on effort over value, and introduces the concept of lizard optimization based on observing unexpected user behaviors to uncover product opportunities, all within the context of measuring value through user behavior change and understanding the five stages of product growth.\n",
+        "Duration": 2040,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:09.000Z",
+        "Less 15": 0,
+        "Name": "Mastering Observability: Unlocking Customer Insights with Gojko Adzic",
+        "Published": true,
+        "Resource": "Mastering Observability: Unlocking Customer Insights with Gojko Adzic - https://www.infoq.com/podcasts/mastering-observability-customer-insights/",
+        "Resource type": "podcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recXocGAFyWC8rgfL"
+        ],
+        "Speakers_Names": [
+            "Gojko Adzic"
+        ],
+        "Topics": [
+            "recPcLVyg0S4ORUkX",
+            "recg6F5ajOhEkbrdW",
+            "rec7SonT1KaTGquvb",
+            "rec0PB37LN1Kz0Blh"
+        ],
+        "Topics_Names": [
+            "testing",
+            "Product",
+            "Feedback cycles",
+            "Lean Product Management"
+        ],
+        "Url": "https://www.infoq.com/podcasts/mastering-observability-customer-insights/",
+        "airtable_createdTime": "2025-03-23T09:42:38.000Z",
+        "airtable_id": "recl9OfyDqV7Tr6DL",
+        "registered_at": "2025-03-23T09:42:38.000Z"
     },
     {
         "Blog Url": "https://www.eferro.net/2018/05/good-talkspodcasts-may-2018-i.html",
@@ -29661,6 +29890,42 @@
         "registered_at": "2022-02-06T20:55:21.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
+        "Created": "2025-03-23T09:47:02.000Z",
+        "Description": "This talk with Gojko Adzic introduces lizard optimization, a method for uncovering unexpected product opportunities by observing unusual user behaviors and focusing on delivering real user value beyond initial assumptions. It emphasizes using technical observability tools to inform product decisions and understanding the stages of product growth.\n",
+        "Duration": 3420,
+        "Language": "English",
+        "Last Modified": "2025-03-23T11:01:09.000Z",
+        "Less 15": 0,
+        "Name": "Webinar #23 - Gojko Adzic on designing product development experiments with Lizard Optimization",
+        "Published": true,
+        "Resource": "Webinar #23 - Gojko Adzic on designing product development experiments with Lizard Optimization - https://www.architecture-weekly.com/p/webinar-23-gojko-adzic-on-designing",
+        "Resource type": "videopodcast",
+        "Speaker WomenInTech": [
+            null
+        ],
+        "Speakers": [
+            "recXocGAFyWC8rgfL"
+        ],
+        "Speakers_Names": [
+            "Gojko Adzic"
+        ],
+        "Topics": [
+            "recg6F5ajOhEkbrdW",
+            "recrNBL2FKBzgsQTs",
+            "rec0PB37LN1Kz0Blh"
+        ],
+        "Topics_Names": [
+            "Product",
+            "Product Discovery",
+            "Lean Product Management"
+        ],
+        "Url": "https://www.architecture-weekly.com/p/webinar-23-gojko-adzic-on-designing",
+        "airtable_createdTime": "2025-03-23T09:47:02.000Z",
+        "airtable_id": "rectx2RpxiZAERpZ9",
+        "registered_at": "2025-03-23T09:47:02.000Z"
+    },
+    {
         "Created": "2021-06-19T11:36:27.000Z",
         "Language": "English",
         "Last Modified": "2023-06-18T06:28:48.000Z",
@@ -30496,14 +30761,16 @@
         "registered_at": "2024-05-31T07:24:46.000Z"
     },
     {
+        "Blog Url": "https://www.eferro.net/2025/03/good-talkspodcasts-march-ii.html",
         "Created": "2025-03-09T09:59:37.000Z",
         "Description": "This YouTube video outlines the 10 essential rules for continuous integration (CI), emphasizing its role as the foundation of a modern deployment pipeline and continuous delivery\n",
         "Duration": 540,
         "Language": "English",
-        "Last Modified": "2025-03-09T10:03:29.000Z",
+        "Last Modified": "2025-03-23T11:01:13.000Z",
         "Less 15": 1,
         "Name": "The 10 COMMANDMENTS Of Continuous Integration (CI)",
         "Notes": "The most important points of the presentation \"The 10 COMMANDMENTS Of Continuous Integration (CI)\" are:\n- **Continuous integration is the first stage of a modern deployment pipeline and is central to continuous delivery**.\n- Continuous integration is a discipline focused on making changes visible and integrating frequently to avoid \"integration hell\".\n- **When done right, continuous integration leads to faster, safer, and more collaborative software development**.\n- The foundational idea of continuous integration is that **there is only one version of the truth**, which is the current version of the software.\n\nThe 10 commandments of continuous integration are:\n1. **Always run commit tests locally before committing**. This aligns with test-driven development.\n2. **Wait for the results of the commit build**. If something breaks, the committer should be the first to know and fix it. Aim to keep continuous integration build times under five minutes.\n3. **Fix or revert failures within 10 minutes**. If a fix isn't possible in that time, revert the change to avoid blocking the pipeline.\n4. **Revert changes when necessary**. If a teammate breaks the build and is unavailable, revert their change.\n5. **Monitor your changes through the pipeline**. Ensure changes pass acceptance, performance, and security tests.\n6. **Treat a broken build as a build scene**. The person who caused the break is responsible for fixing it.\n7. **Commit small, commit often**. Ideally, commit multiple times a day. Small changes are easier to test, debug, and integrate.\n8. **Maintain a fast commit feedback loop**. Aim for feedback on commits within 5 minutes and full pipeline transit within an hour to catch problems early.\n9. **Automate everything**. Automate testing, configuration management, deployment, and build creation to remove manual errors and ensure consistency.\n10. **Take ownership of failures**. The person who introduces a failure is responsible for fixing it, even if it breaks something unexpected.\n\n**Continuous integration requires discipline and accountability**.\n\n",
+        "Published": true,
         "Rating": 5,
         "Resource": "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y",
         "Resource type": "videopodcast",

@@ -28,7 +28,7 @@
   - recc0PZAq20p3ZJuT
   airtable_createdTime: '2024-12-08T21:02:04.000Z'
   airtable_id: rec0dCr6WRyP2wR05
-- Last Modified: '2024-11-24T19:06:35.000Z'
+- Last Modified: '2025-03-23T09:35:26.000Z'
   Name: Charity Majors
   Resources:
   - rec7vBKiI5GRQsNab
@@ -52,6 +52,7 @@
   - recu7UClKsYuB9WMX
   - recxOMnJ8i6GxhPbc
   - recwcdWSq15iUEKwj
+  - recicia289vkyUb3K
   WomenInTech: true
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rec0j5idwhBV3RQry
@@ -602,7 +603,7 @@
   - recifV0MU7kTj0hsl
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: rec9iPYCBiPVbgvxT
-- Last Modified: '2023-08-26T21:26:19.000Z'
+- Last Modified: '2025-03-23T09:28:47.000Z'
   Name: Randy Shoup
   Resources:
   - reckGLUtBVVPUSvzh
@@ -624,6 +625,7 @@
   - recZsVeNr2HHHpRLG
   - recgMNfjEQbF98kc0
   - recDuMsSeSzfLLbsV
+  - recJ7GCqUhhqbjagD
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recA5JlOnMovEEbtt
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1146,11 +1148,12 @@
   - reclgVWShZIfpoTG8
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recKJ88letPzYyyJ4
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2025-03-23T09:27:24.000Z'
   Name: Ian Cooper
   Resources:
   - recFkAzwdKRkRggjn
   - recTB7wNYxiDwtMeG
+  - reckjjc9gpAuwJR9c
   airtable_createdTime: '2022-01-22T18:33:22.000Z'
   airtable_id: recKRgubPSZxvB8Pv
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -1677,7 +1680,7 @@
   - recQoliDLWpkzZGwz
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recSzQRG8VGQNBqIQ
-- Last Modified: '2025-03-09T09:59:58.000Z'
+- Last Modified: '2025-03-23T09:32:03.000Z'
   Name: Dave Farley
   Resources:
   - recdZt5nq1JImaUDu
@@ -1744,6 +1747,9 @@
   - recOXHMXndyUrCsgY
   - recG5OJBNIEhM8uU8
   - recvZcH5MM0KPtCKZ
+  - rec51dDzTblHDqyN1
+  - recJ7GCqUhhqbjagD
+  - recNmOkWAzhRiHGaY
   Twitter: https://twitter.com/davefarley77
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recTA39Jo1ozZG61R
@@ -2091,7 +2097,7 @@
   - recv1UebmXtbfr5Dp
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recXhRJFUgXsHp0A4
-- Last Modified: '2024-11-24T18:55:59.000Z'
+- Last Modified: '2025-03-23T09:47:15.000Z'
   Name: Gojko Adzic
   Resources:
   - recDh53A78GLSgFoT
@@ -2108,6 +2114,8 @@
   - recmxMzHk07eCaRVF
   - recuhSHXcIgo9xJHc
   - recaTxSRbgrtkff9X
+  - recl9OfyDqV7Tr6DL
+  - rectx2RpxiZAERpZ9
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recXocGAFyWC8rgfL
 - Last Modified: '2023-06-18T06:28:48.000Z'
@@ -3339,10 +3347,11 @@
   WomenInTech: true
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recpG6136hPO6ZJam
-- Last Modified: '2023-06-18T06:28:48.000Z'
+- Last Modified: '2025-03-23T09:35:34.000Z'
   Name: Yan Cuim
   Resources:
   - recrqYZesvsKRzx1p
+  - recicia289vkyUb3K
   airtable_createdTime: '2020-01-20T22:41:12.000Z'
   airtable_id: recpKolcZElFkPEsc
 - Last Modified: '2023-06-18T06:28:48.000Z'
