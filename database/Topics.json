@@ -363,7 +363,7 @@
         "airtable_id": "rec69oGivla9zlivw"
     },
     {
-        "Last Modified": "2025-02-17T22:55:40.000Z",
+        "Last Modified": "2025-03-30T22:15:39.000Z",
         "Name": "Inspirational",
         "Resources": [
             "recoqZIHQYaQMiCaE",
@@ -495,9 +495,10 @@
             "recqCFF4DrcJwvpnq",
             "reckOvXE3NZFY8kj3",
             "recqeHR6KWslW9KNo",
-            "recg92HRx4f6nSgZc"
+            "recg92HRx4f6nSgZc",
+            "rec506jFKXhEUAGIr"
         ],
-        "Resources number": 130,
+        "Resources number": 131,
         "Speakers": [
             "AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM",
             "The Power Question - https://www.youtube.com/watch?v=yj4Q1KXnfHo",
@@ -628,7 +629,8 @@
             "R075 - Medir la productividad, con Toni Tassani - https://www.youtube.com/watch?v=O4-uIiXqNAY",
             "Patterns of Effective Delivery - https://vimeo.com/24681032",
             "Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY",
-            "LambdaCast #17. Technical Coach, \u00bfc\u00f3mo introducir esta figura en el equipo y qu\u00e9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
+            "LambdaCast #17. Technical Coach, \u00bfc\u00f3mo introducir esta figura en el equipo y qu\u00e9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo",
+            "The Power of an Agile Mindset - https://www.youtube.com/watch?v=pQeohrdhvYU"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rec6JMQpL2LSjoP2E"
@@ -3656,7 +3658,7 @@
         "airtable_id": "rechSTvKX9sm9HHMA"
     },
     {
-        "Last Modified": "2025-03-23T09:27:36.000Z",
+        "Last Modified": "2025-03-30T22:15:31.000Z",
         "Name": "Agile",
         "Resources": [
             "recuvxcKrrbzGeLnZ",
@@ -3781,9 +3783,10 @@
             "reckOvXE3NZFY8kj3",
             "rec42snEPpunYVroW",
             "recOXHMXndyUrCsgY",
-            "recvZcH5MM0KPtCKZ"
+            "recvZcH5MM0KPtCKZ",
+            "rec506jFKXhEUAGIr"
         ],
-        "Resources number": 123,
+        "Resources number": 124,
         "Speakers": [
             "Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk",
             "Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest",
@@ -3907,7 +3910,8 @@
             "Patterns of Effective Delivery - https://vimeo.com/24681032",
             "The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4",
             "5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0",
-            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y"
+            "The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y",
+            "The Power of an Agile Mindset - https://www.youtube.com/watch?v=pQeohrdhvYU"
         ],
         "airtable_createdTime": "2020-03-26T08:35:00.000Z",
         "airtable_id": "rechj5WeSQRH211np"

@@ -341,7 +341,7 @@
   - DOES17 London - The Key to High Performance What the Data Says - https://www.youtube.com/watch?v=cabzxfM_vWE
   airtable_createdTime: '2021-12-25T08:43:50.000Z'
   airtable_id: rec69oGivla9zlivw
-- Last Modified: '2025-02-17T22:55:40.000Z'
+- Last Modified: '2025-03-30T22:15:39.000Z'
   Name: Inspirational
   Resources:
   - recoqZIHQYaQMiCaE
@@ -474,7 +474,8 @@
   - reckOvXE3NZFY8kj3
   - recqeHR6KWslW9KNo
   - recg92HRx4f6nSgZc
-  Resources number: 130
+  - rec506jFKXhEUAGIr
+  Resources number: 131
   Speakers:
   - 'AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start
     Finishing) - https://www.youtube.com/watch?v=n7wH2XdOWpM'
@@ -615,6 +616,7 @@
   - Dantotsu Radical Software Quality Improvement - https://www.youtube.com/watch?v=P_eGpP5y-vY
   - "LambdaCast #17. Technical Coach, \xBFc\xF3mo introducir esta figura en el equipo\
     \ y qu\xE9 aporta? - https://www.youtube.com/watch?v=pXQr4UK1lfo"
+  - The Power of an Agile Mindset - https://www.youtube.com/watch?v=pQeohrdhvYU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rec6JMQpL2LSjoP2E
 - Last Modified: '2025-03-23T09:45:12.000Z'
@@ -3537,7 +3539,7 @@
   - What Google Learned about Creating Effective Teams - https://www.infoq.com/presentations/google-effective-teams
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechSTvKX9sm9HHMA
-- Last Modified: '2025-03-23T09:27:36.000Z'
+- Last Modified: '2025-03-30T22:15:31.000Z'
   Name: Agile
   Resources:
   - recuvxcKrrbzGeLnZ
@@ -3663,7 +3665,8 @@
   - rec42snEPpunYVroW
   - recOXHMXndyUrCsgY
   - recvZcH5MM0KPtCKZ
-  Resources number: 123
+  - rec506jFKXhEUAGIr
+  Resources number: 124
   Speakers:
   - Surviving Your Inevitable Agile Transition - https://www.youtube.com/watch?v=UQOmGiv7rUk
   - Make Your User Stories Riveting - https://www.infoq.com/presentations/user-stories-invest
@@ -3801,6 +3804,7 @@
   - 'The Most Dangerous Phrase: SOLID, Scrum And Other Antiques - https://www.youtube.com/watch?v=L2dh1bqrLC4'
   - 5 Things That Waste Time & Money On A Software Project - https://www.youtube.com/watch?v=PlN2UWOnzW0
   - The 10 COMMANDMENTS Of Continuous Integration (CI) - https://www.youtube.com/watch?v=NcU0oEk6z8Y
+  - The Power of an Agile Mindset - https://www.youtube.com/watch?v=pQeohrdhvYU
   airtable_createdTime: '2020-03-26T08:35:00.000Z'
   airtable_id: rechj5WeSQRH211np
 - Last Modified: '2024-11-24T19:07:40.000Z'

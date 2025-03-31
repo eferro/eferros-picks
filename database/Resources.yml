@@ -1982,7 +1982,7 @@
     Very good talk about the "Agile" mindset (aka experimentation or growth mindset)
   Duration: 3480
   Language: English
-  Last Modified: '2025-01-31T23:05:58.000Z'
+  Last Modified: '2025-03-30T22:15:39.000Z'
   Less 15: 0
   Name: The Power of an Agile Mindset
   Published: true
@@ -1995,6 +1995,12 @@
   - recpG6136hPO6ZJam
   Speakers_Names:
   - Linda Rising
+  Topics:
+  - rechj5WeSQRH211np
+  - rec6JMQpL2LSjoP2E
+  Topics_Names:
+  - Agile
+  - Inspirational
   Url: https://www.youtube.com/watch?v=pQeohrdhvYU
   airtable_createdTime: '2020-01-19T20:36:17.000Z'
   airtable_id: rec506jFKXhEUAGIr
@@ -9784,7 +9790,7 @@
     Great description of the true nature of software development as an adaptive learning process of customer needs. A must.
   Duration: 780
   Language: English
-  Last Modified: '2024-07-24T22:33:40.000Z'
+  Last Modified: '2025-03-30T22:12:55.000Z'
   Less 15: 1
   Name: Fighting User Requirements That CONSTANTLY Change
   Published: true
@@ -9810,6 +9816,7 @@
   Url: https://www.youtube.com/watch?v=kKbQ2-dXsmE
   airtable_createdTime: '2024-06-23T07:54:14.000Z'
   airtable_id: recMtH696LP1LMtlW
+  core_topic: Agile-XP
   registered_at: '2024-06-23T07:54:14.000Z'
 - Created: '2021-08-12T13:07:59.000Z'
   Duration: 4380
